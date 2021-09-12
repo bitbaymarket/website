@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Wallet.dat corrupt, salvage failed</title>
-    <link>..../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802</link>
+    <link>../../../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802</link>
     <description>My system has the following specifications 
 
 QT Wallet, Client Wallet (and version) or Web wallet: v2.0.0.0-g32a928e nad latest
@@ -28,12 +28,12 @@ Matej</description>
     
     <lastBuildDate>Mon, 16 Mar 2020 10:35:52 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Wallet.dat corrupt, salvage failed</title>
         <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
           <blockquote>
               <p>Matej,</p>
 <p>The Client does not use the wallet.dat to load up private keys.<br>
@@ -42,18 +42,18 @@ Only the QT wallet uses wallet.dat to store private key.</p>
 <p>Do a search for files with .private   extension</p>
 <p>Let me know if this helps</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802/2</link>
+        <link>../../../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802/2</link>
         <pubDate>Mon, 16 Mar 2020 10:35:52 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1802-2</guid>
-        <source url="..../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802.rss">Wallet.dat corrupt, salvage failed</source>
+        <source url="../../../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802.rss">Wallet.dat corrupt, salvage failed</source>
       </item>
       <item>
         <title>Wallet.dat corrupt, salvage failed</title>
         <dc:creator><![CDATA[@matej.ursej Matej]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/matej.ursej">@matej.ursej</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/matej.ursej">@matej.ursej</a> wrote:</p>
           <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet, Client Wallet (and version) or Web wallet: v2.0.0.0-g32a928e nad latest<br>
@@ -63,19 +63,19 @@ If desktop wallet (Qt or Client) block # of your client and # of connections:</p
 <p>My problem is that i can not load wallet with my wallet.dat file from end of 2017. In meantime i upgraded PC and got new windows, but i didnt do anything to bitbay folder/wallet on secondary hard drive where it was used last on Oct 2017. I am not sure</p>
 <p>When i replace my wallet.dat backup file from 2017 i get error in latest bitbay wallet and the one i installed in 2017.</p>
 <p>Error is:  Wallet.dat corrupt,  salvage failed</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/8b0f5009a9a0c8a65cf8b89b789325bdcb4152a3.png" data-download-href="..../forum-archive/uploads/default/8b0f5009a9a0c8a65cf8b89b789325bdcb4152a3" title="market.png"><img src="..../forum-archive/uploads/default/original/1X/8b0f5009a9a0c8a65cf8b89b789325bdcb4152a3.png" alt="market" width="626" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../../forum-archive/uploads/default/original/1X/8b0f5009a9a0c8a65cf8b89b789325bdcb4152a3.png" data-download-href="../../../forum-archive/uploads/default/8b0f5009a9a0c8a65cf8b89b789325bdcb4152a3" title="market.png"><img src="../../../forum-archive/uploads/default/original/1X/8b0f5009a9a0c8a65cf8b89b789325bdcb4152a3.png" alt="market" width="626" height="500"><div class="meta">
 <span class="filename">market.png</span><span class="informations">989x789 98.2 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>Please help</p>
 <p>Thanks a lot<br>
 Matej</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802/1</link>
+        <link>../../../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802/1</link>
         <pubDate>Thu, 11 Apr 2019 17:33:52 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1802-1</guid>
-        <source url="..../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802.rss">Wallet.dat corrupt, salvage failed</source>
+        <source url="../../../forum-archive/t/wallet-dat-corrupt-salvage-failed/1802.rss">Wallet.dat corrupt, salvage failed</source>
       </item>
   </channel>
 </rss>

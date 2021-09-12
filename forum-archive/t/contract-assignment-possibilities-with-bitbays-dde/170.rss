@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Contract assignment possibilities with BitBay&#39;s DDE</title>
-    <link>..../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170</link>
+    <link>../../../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170</link>
     <description>Have been curious about the possibilities of contract assignments with BitBay&#39;s DDE? 
 
 For example: a merchant goes into contract with a potential seller, if merchant cannot purchase outright or come to terms with seller, the merchant then assigns that contract to someone in their pool of other contacts/buyers who actually can meet the terms. 
@@ -11,38 +11,38 @@ I know it&#39;s used mostly in real estate, and maybe some other industries, but
     
     <lastBuildDate>Wed, 06 Dec 2017 23:32:04 +0000</lastBuildDate>
     <category>The Lounge</category>
-    <atom:link href="..../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Contract assignment possibilities with BitBay&#39;s DDE</title>
         <dc:creator><![CDATA[@Munti Bjorn Alsos]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/munti">@Munti</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/munti">@Munti</a> wrote:</p>
           <blockquote>
               <p>Our contracts are based on 2/2 multisig, so this would have to be solved by making several contracts. It would be a little complicated right now, but when we get python contracts you could program a sequence of contracts to solve it.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170/2</link>
+        <link>../../../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170/2</link>
         <pubDate>Wed, 06 Dec 2017 23:32:04 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-170-2</guid>
-        <source url="..../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170.rss">Contract assignment possibilities with BitBay&#39;s DDE</source>
+        <source url="../../../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170.rss">Contract assignment possibilities with BitBay&#39;s DDE</source>
       </item>
       <item>
         <title>Contract assignment possibilities with BitBay&#39;s DDE</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>Have been curious about the possibilities of contract assignments with BitBay’s DDE?</p>
 <p>For example: a merchant goes into contract with a potential seller, if merchant cannot purchase outright or come to terms with seller, the merchant then assigns that contract to someone in their pool of other contacts/buyers who actually can meet the terms.</p>
 <p>I know it’s used mostly in real estate, and maybe some other industries, but never (to my knowledge) been done with smart contracts or for other smaller personal items. How could the deposits be set up in a situation like this?</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170/1</link>
+        <link>../../../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170/1</link>
         <pubDate>Wed, 06 Dec 2017 17:36:24 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-170-1</guid>
-        <source url="..../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170.rss">Contract assignment possibilities with BitBay&#39;s DDE</source>
+        <source url="../../../forum-archive/t/contract-assignment-possibilities-with-bitbays-dde/170.rss">Contract assignment possibilities with BitBay&#39;s DDE</source>
       </item>
   </channel>
 </rss>

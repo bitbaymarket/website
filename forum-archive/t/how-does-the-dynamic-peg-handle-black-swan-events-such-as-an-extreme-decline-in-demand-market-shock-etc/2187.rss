@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>How does the Dynamic Peg handle “black swan events” such as an extreme decline in demand, market shock, etc.?</title>
-    <link>..../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187</link>
+    <link>../../../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187</link>
     <description>**How does the Dynamic Peg handle “black swan events” such as an extreme decline in demand, market shock, etc.?**
 
 Throughout its entire design, the Dynamic Peg excels at adaptability. No matter how extreme of an event occurs, the supply of Liquid BAY will adjust to meet demand.
@@ -15,12 +15,12 @@ In theory, if the demand for liquidity were to continue its decline past the poi
     
     <lastBuildDate>Wed, 29 Jan 2020 14:23:08 +0000</lastBuildDate>
     <category>Dynamic Peg - FAQ</category>
-    <atom:link href="..../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>How does the Dynamic Peg handle “black swan events” such as an extreme decline in demand, market shock, etc.?</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p><strong>How does the Dynamic Peg handle “black swan events” such as an extreme decline in demand, market shock, etc.?</strong></p>
 <p>Throughout its entire design, the Dynamic Peg excels at adaptability. No matter how extreme of an event occurs, the supply of Liquid BAY will adjust to meet demand.</p>
@@ -28,12 +28,12 @@ In theory, if the demand for liquidity were to continue its decline past the poi
 <p>In theory, if the demand for liquidity were to continue its decline past the point of maximum deflation, there is always the temporary option of decentralized asset backing. This would allow an investor (or pool of investors) to put up a specific amount of collateral (or a buy wall on an exchange) and have the community select an algorithm which deflates to that amount on a 1:1 ratio.</p>
 <p>***<em>Note: The probability of an event like this is extremely low, as the Dynamic Peg is designed to prevent this from happening in the first place.</em></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187/1</link>
+        <link>../../../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187/1</link>
         <pubDate>Wed, 29 Jan 2020 14:23:08 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2187-1</guid>
-        <source url="..../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187.rss">How does the Dynamic Peg handle “black swan events” such as an extreme decline in demand, market shock, etc.?</source>
+        <source url="../../../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187.rss">How does the Dynamic Peg handle “black swan events” such as an extreme decline in demand, market shock, etc.?</source>
       </item>
   </channel>
 </rss>

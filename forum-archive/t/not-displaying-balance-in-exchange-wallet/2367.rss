@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Not displaying balance in exchange wallet.</title>
-    <link>..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367</link>
+    <link>../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367</link>
     <description>The problem I am having is 
 I traded your tokens on the Latoke exchange. I had a good deal, I bought 1444 BitBay tokens. After a while, I stopped seeing the amount of tokens data in my exchange wallet, and the trading of this asset stopped. I wrote to the exchange support service, where they answered that the problems arose directly with your project. How can I get my tokens back because I&#39;m losing profits.</description>
     
     <lastBuildDate>Thu, 21 May 2020 22:19:06 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Not displaying balance in exchange wallet.</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>That is correct, all of the voting and peg index information is shown in on the QT and Client Wallets, and can only change through the collective voting of users. Hopefully LA Token can update their UI to show this info eventually as well.</p>
 <p>Here is bit more info on how the peg works:<br>
-<a href="..../forum-archive/c/dynamic-peg-faq">..../forum-archive/c/dynamic-peg-faq</a></p>
+<a href="../../../forum-archive/c/dynamic-peg-faq">../../../forum-archive/c/dynamic-peg-faq</a></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/6">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/6">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/6</link>
+        <link>../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/6</link>
         <pubDate>Thu, 21 May 2020 22:19:06 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2367-6</guid>
-        <source url="..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367.rss">Not displaying balance in exchange wallet.</source>
+        <source url="../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367.rss">Not displaying balance in exchange wallet.</source>
       </item>
       <item>
         <title>Not displaying balance in exchange wallet.</title>
         <dc:creator><![CDATA[@proteanman Protean Man]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
           <blockquote>
               <p>I have tokens sitting in LATOKEN and they are listed as Reserve. I asked them about moving them to Liquid but they said I could not until Bitbay inflates. How will I know when Bitbay inflates if they are sitting in LATOKEN and I can’t vote using my tokens in the Bitbay Wallet?</p>
 <p>Here is LATOKEN’s reply to me:</p>
@@ -38,35 +38,35 @@ I traded your tokens on the Latoke exchange. I had a good deal, I bought 1444 Bi
 Please contact Bitbay team to get more information about how BAY works.”</p>
 <p>Thanks</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/5">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/5">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/5</link>
+        <link>../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/5</link>
         <pubDate>Sat, 16 May 2020 17:40:35 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2367-5</guid>
-        <source url="..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367.rss">Not displaying balance in exchange wallet.</source>
+        <source url="../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367.rss">Not displaying balance in exchange wallet.</source>
       </item>
       <item>
         <title>Not displaying balance in exchange wallet.</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>Due to the exchanges “IOU” style accounting system, we cannot look up the actual tx on the BitBay blockchain to determine the peg ratio.</p>
 <p>That said, looking at the BitBay blockchain around the time of your transaction, the peg ratio was roughly at an index of 757 (99.94645486% deflated).</p>
 <p>Hope that helps!</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/4">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/4">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/4</link>
+        <link>../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/4</link>
         <pubDate>Wed, 29 Apr 2020 13:26:56 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2367-4</guid>
-        <source url="..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367.rss">Not displaying balance in exchange wallet.</source>
+        <source url="../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367.rss">Not displaying balance in exchange wallet.</source>
       </item>
       <item>
         <title>Not displaying balance in exchange wallet.</title>
         <dc:creator><![CDATA[@kriptojon]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/kriptojon">@kriptojon</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/kriptojon">@kriptojon</a> wrote:</p>
           <blockquote>
               <p>Hello,<br>
 I wrote to Latoken exchange support service about the fact that I do not have BAY coins that I bought there. Instead, I have BAYR coins on my balance. And here is what they answered me:<br>
@@ -82,44 +82,44 @@ LATOKEN Team" .</p>
 The transaction was completed on 08 Apr 2020, 23:22. Purchase Price 0.00001632BTC or<br>
 $ 0.13173. In the amount of 1444 BAY coins.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/3</link>
+        <link>../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/3</link>
         <pubDate>Wed, 29 Apr 2020 10:40:31 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2367-3</guid>
-        <source url="..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367.rss">Not displaying balance in exchange wallet.</source>
+        <source url="../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367.rss">Not displaying balance in exchange wallet.</source>
       </item>
       <item>
         <title>Not displaying balance in exchange wallet.</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>Hi,</p>
 <p>Apologies for the inconvenience. LA Token has discovered a bug in the BitBay trading pairs and had to pause trading in order to fix it. It is expected that this will be complete within the next day or two. If your account balance is still missing after LA Token reopens trading, please send them a support request, as they are the only ones that can resolve the balance issue.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/2</link>
+        <link>../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/2</link>
         <pubDate>Sat, 11 Apr 2020 18:19:17 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2367-2</guid>
-        <source url="..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367.rss">Not displaying balance in exchange wallet.</source>
+        <source url="../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367.rss">Not displaying balance in exchange wallet.</source>
       </item>
       <item>
         <title>Not displaying balance in exchange wallet.</title>
         <dc:creator><![CDATA[@kriptojon]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/kriptojon">@kriptojon</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/kriptojon">@kriptojon</a> wrote:</p>
           <blockquote>
               <p>The problem I am having is<br>
 I traded your tokens on the Latoke exchange. I had a good deal, I bought 1444 BitBay tokens. After a while, I stopped seeing the amount of tokens data in my exchange wallet, and the trading of this asset stopped. I wrote to the exchange support service, where they answered that the problems arose directly with your project. How can I get my tokens back because I’m losing profits.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/1</link>
+        <link>../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367/1</link>
         <pubDate>Sat, 11 Apr 2020 18:15:39 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2367-1</guid>
-        <source url="..../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367.rss">Not displaying balance in exchange wallet.</source>
+        <source url="../../../forum-archive/t/not-displaying-balance-in-exchange-wallet/2367.rss">Not displaying balance in exchange wallet.</source>
       </item>
   </channel>
 </rss>

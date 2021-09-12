@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Video Tutorials</title>
-    <link>..../forum-archive/t/video-tutorials/38</link>
+    <link>../../../forum-archive/t/video-tutorials/38</link>
     <description>[](#toc)
 
 ## 1 - How to Install the BitBay Market Client
@@ -44,12 +44,12 @@ https://youtu.be/Xuep90XsHBE
     
     <lastBuildDate>Wed, 13 Dec 2017 05:09:03 +0000</lastBuildDate>
     <category>Get Started Guides</category>
-    <atom:link href="..../forum-archive/t/video-tutorials/38.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/video-tutorials/38.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Video Tutorials</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               <p><a href="#toc"></a></p>
 <h2>1 - How to Install the BitBay Market Client</h2>
@@ -89,12 +89,12 @@ https://youtu.be/Xuep90XsHBE
 <p><div class="lazyYT" data-youtube-id="Xuep90XsHBE" data-youtube-title="12 Accepting Faucet" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
 <br></p><hr>
           </blockquote>
-          <p><a href="..../forum-archive/t/video-tutorials/38/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/video-tutorials/38/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/video-tutorials/38/1</link>
+        <link>../../../forum-archive/t/video-tutorials/38/1</link>
         <pubDate>Wed, 29 Nov 2017 12:18:59 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-38-1</guid>
-        <source url="..../forum-archive/t/video-tutorials/38.rss">Video Tutorials</source>
+        <source url="../../../forum-archive/t/video-tutorials/38.rss">Video Tutorials</source>
       </item>
   </channel>
 </rss>

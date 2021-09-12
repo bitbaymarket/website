@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>I didn&#39;t receive any coins in my wallet</title>
-    <link>..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354</link>
+    <link>../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354</link>
     <description>Hello,
 
 I downloaded the bitbay qt wallet in the beginning of the year and transferred some BAY to the receiving address that is shown. I was in a hurry, because the exchange, where i bought the coins, said i had to move those, otherwise they would get lost. So i didn&#39;t waste time and sent the coins to the qt wallet, while the blockchain was still downloading. After i downloaded it completely, the balance was 0. I read something about private keys, but didn&#39;t have to create something like this in the beginning. So i just downloaded the wallet and the blockchain and sent coins to the receiving address. Can you help me finding my coins?
@@ -10,43 +10,43 @@ Thanks in advance!</description>
     
     <lastBuildDate>Sat, 02 May 2020 00:15:07 +0000</lastBuildDate>
     <category>Ask the Developer</category>
-    <atom:link href="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>I didn&#39;t receive any coins in my wallet</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>Right now, LA Token is the only exchange that is offering BAY trading. They had to temporarily pause trading to fix a bug.</p>
 <p>Keep an eye out on Telegram and Discord for announcements and updates on the trading, as we hope it will open back up soon.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/9">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/9">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/9</link>
+        <link>../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/9</link>
         <pubDate>Sat, 02 May 2020 00:15:07 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2354-9</guid>
-        <source url="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
+        <source url="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
       </item>
       <item>
         <title>I didn&#39;t receive any coins in my wallet</title>
         <dc:creator><![CDATA[@scuzzle Robin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/scuzzle">@scuzzle</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/scuzzle">@scuzzle</a> wrote:</p>
           <blockquote>
               <p>Ah, I undersant. Do you know an exchange, where I can trade BAY?</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/8">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/8">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/8</link>
+        <link>../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/8</link>
         <pubDate>Fri, 01 May 2020 08:12:12 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2354-8</guid>
-        <source url="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
+        <source url="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
       </item>
       <item>
         <title>I didn&#39;t receive any coins in my wallet</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>Glad they are now showing up!<br>
 ‘Spendable’ and ‘Reserve’ are the two different tradable assets that make up BitBays blockchain.</p>
@@ -55,7 +55,7 @@ Thanks in advance!</description>
   <div class="title">
     <div class="quote-controls"></div>
     <img alt="" width="20" height="20" src="/user_avatar/forum.bitbay.market/tradersnow/40/523_1.png" class="avatar">
-    <a href="..../forum-archive/t/why-are-my-wallet-balances-always-changing/2242">Why are my wallet balances always changing?</a> <a class="badge-wrapper  bullet" href="/c/dynamic-peg-faq"><span class="badge-category-bg" style="background-color: #0088CC;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="All of your Dynamic Peg related questions answered here.">Dynamic Peg - FAQ</span></a>
+    <a href="../../../forum-archive/t/why-are-my-wallet-balances-always-changing/2242">Why are my wallet balances always changing?</a> <a class="badge-wrapper  bullet" href="/c/dynamic-peg-faq"><span class="badge-category-bg" style="background-color: #0088CC;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="All of your Dynamic Peg related questions answered here.">Dynamic Peg - FAQ</span></a>
   </div>
   <blockquote>
     Have no fear, this is exactly what the Dynamic Peg is design to do. 
@@ -67,36 +67,36 @@ When the voting consensus “inflate” the suppl…
   </blockquote>
 </aside>
 </p>
-<p>And no need for payment, the pleasure is all mine. <img src="..../forum-archive/images/emoji/twitter/slightly_smiling_face.png?v=6" title=":slightly_smiling_face:" class="emoji" alt=":slightly_smiling_face:"></p>
+<p>And no need for payment, the pleasure is all mine. <img src="../../../forum-archive/images/emoji/twitter/slightly_smiling_face.png?v=6" title=":slightly_smiling_face:" class="emoji" alt=":slightly_smiling_face:"></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/7">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/7">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/7</link>
+        <link>../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/7</link>
         <pubDate>Thu, 30 Apr 2020 23:44:45 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2354-7</guid>
-        <source url="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
+        <source url="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
       </item>
       <item>
         <title>I didn&#39;t receive any coins in my wallet</title>
         <dc:creator><![CDATA[@scuzzle Robin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/scuzzle">@scuzzle</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/scuzzle">@scuzzle</a> wrote:</p>
           <blockquote>
               <p>I dont know, where my mistake was in the past, but now i can see my coins. Thanks a lot sir! Now i got the next question. What does “Spendable” and “Reserve” mean? Nearly all of my coins are on Reserve. Can i still send those? If no, why and when will I be able?</p>
 <p>Can you give me your BAY address, so that I can send you some coins for your invested time? Thank you very much!</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/6">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/6">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/6</link>
+        <link>../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/6</link>
         <pubDate>Thu, 30 Apr 2020 20:51:44 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2354-6</guid>
-        <source url="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
+        <source url="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
       </item>
       <item>
         <title>I didn&#39;t receive any coins in my wallet</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>Okay, so your coins are safe at that address, as long as you have the wallet.dat file associated with them.</p>
 <p>Are these the instructions you followed when trying to update?<br>
@@ -104,7 +104,7 @@ When the voting consensus “inflate” the suppl…
   <div class="title">
     <div class="quote-controls"></div>
     <img alt="" width="20" height="20" src="/user_avatar/forum.bitbay.market/tradersnow/40/523_1.png" class="avatar">
-    <a href="..../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2236">How to update the Client and/or QT wallet to the latest version</a> <a class="badge-wrapper  bullet" href="/c/get-started-guides"><span class="badge-category-bg" style="background-color: #95d540;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">Get Started Guides</span></a>
+    <a href="../../../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2236">How to update the Client and/or QT wallet to the latest version</a> <a class="badge-wrapper  bullet" href="/c/get-started-guides"><span class="badge-category-bg" style="background-color: #95d540;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">Get Started Guides</span></a>
   </div>
   <blockquote>
     How to update the Client and/or QT wallet to the latest version
@@ -119,37 +119,37 @@ Once the update has been downloaded and installed, simply replace the previous Q
 </aside>
 </p>
           </blockquote>
-          <p><a href="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/5">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/5">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/5</link>
+        <link>../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/5</link>
         <pubDate>Wed, 29 Apr 2020 20:10:21 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2354-5</guid>
-        <source url="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
+        <source url="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
       </item>
       <item>
         <title>I didn&#39;t receive any coins in my wallet</title>
         <dc:creator><![CDATA[@scuzzle Robin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/scuzzle">@scuzzle</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/scuzzle">@scuzzle</a> wrote:</p>
           <blockquote>
               <p>Thank you for your help. The coins are showing there.<br>
 I use QT version 5.11.1.<br>
-Strangely it shows a different receiving address now <img src="..../forum-archive/images/emoji/twitter/confused.png?v=6" title=":confused:" class="emoji" alt=":confused:"><br>
+Strangely it shows a different receiving address now <img src="../../../forum-archive/images/emoji/twitter/confused.png?v=6" title=":confused:" class="emoji" alt=":confused:"><br>
 I tried to update the wallet like in the forum described, but it didnt work. I had a new wallet, new receiving address, but no coins.<br>
 I never did have private keys and that makes me think, that my coins could be gone.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/4">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/4">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/4</link>
+        <link>../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/4</link>
         <pubDate>Wed, 29 Apr 2020 16:55:21 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2354-4</guid>
-        <source url="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
+        <source url="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
       </item>
       <item>
         <title>I didn&#39;t receive any coins in my wallet</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>What version of the QT wallet are you running?</p>
 <p>You can check the receiving address here on chainz:<br>
@@ -157,29 +157,29 @@ I never did have private keys and that makes me think, that my coins could be go
 <p>If the coins show up here, then you still have them and it’s simply an issue of updating your wallet.</p>
 <p>If you need any help with updating to the latest version, let us know.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/3</link>
+        <link>../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/3</link>
         <pubDate>Mon, 27 Apr 2020 20:55:17 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2354-3</guid>
-        <source url="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
+        <source url="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
       </item>
       <item>
         <title>I didn&#39;t receive any coins in my wallet</title>
         <dc:creator><![CDATA[@scuzzle Robin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/scuzzle">@scuzzle</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/scuzzle">@scuzzle</a> wrote:</p>
           <blockquote>
               <p>Hello,</p>
 <p>I downloaded the bitbay qt wallet in the beginning of the year and transferred some BAY to the receiving address that is shown. I was in a hurry, because the exchange, where i bought the coins, said i had to move those, otherwise they would get lost. So i didn’t waste time and sent the coins to the qt wallet, while the blockchain was still downloading. After i downloaded it completely, the balance was 0. I read something about private keys, but didn’t have to create something like this in the beginning. So i just downloaded the wallet and the blockchain and sent coins to the receiving address. Can you help me finding my coins?<br>
 Thanks in advance!</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/1</link>
+        <link>../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354/1</link>
         <pubDate>Wed, 08 Apr 2020 18:50:29 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2354-1</guid>
-        <source url="..../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
+        <source url="../../../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
       </item>
   </channel>
 </rss>

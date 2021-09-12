@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>How to get $BAY</title>
-    <link>..../forum-archive/t/how-to-get-bay/47</link>
+    <link>../../../forum-archive/t/how-to-get-bay/47</link>
     <description>### 1. Buy BitBay on the Exchanges
 
 You can currently buy $BAY on the following exchanges:
@@ -27,42 +27,42 @@ In the markets wallet, simply have your coins in your unlocked wallet and make s
     
     <lastBuildDate>Thu, 30 Nov 2017 09:43:47 +0000</lastBuildDate>
     <category>Get Started Guides</category>
-    <atom:link href="..../forum-archive/t/how-to-get-bay/47.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/how-to-get-bay/47.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>How to get $BAY</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               
           </blockquote>
-          <p><a href="..../forum-archive/t/how-to-get-bay/47/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-to-get-bay/47/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-to-get-bay/47/3</link>
+        <link>../../../forum-archive/t/how-to-get-bay/47/3</link>
         <pubDate>Mon, 04 Dec 2017 08:37:02 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-47-3</guid>
-        <source url="..../forum-archive/t/how-to-get-bay/47.rss">How to get $BAY</source>
+        <source url="../../../forum-archive/t/how-to-get-bay/47.rss">How to get $BAY</source>
       </item>
       <item>
         <title>How to get $BAY</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               
           </blockquote>
-          <p><a href="..../forum-archive/t/how-to-get-bay/47/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-to-get-bay/47/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-to-get-bay/47/2</link>
+        <link>../../../forum-archive/t/how-to-get-bay/47/2</link>
         <pubDate>Thu, 30 Nov 2017 09:44:01 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-47-2</guid>
-        <source url="..../forum-archive/t/how-to-get-bay/47.rss">How to get $BAY</source>
+        <source url="../../../forum-archive/t/how-to-get-bay/47.rss">How to get $BAY</source>
       </item>
       <item>
         <title>How to get $BAY</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               <h3>1. Buy BitBay on the Exchanges</h3>
 <p>You can currently buy $BAY on the following exchanges:</p>
@@ -77,12 +77,12 @@ In the markets wallet, simply have your coins in your unlocked wallet and make s
 <p>You can earn BitBay by finding blocks and helping secure out network. Both our QT wallet and Markets wallet supports this. The Markets wallet also supports cold staking which is a much higher security staking system similar to two-factor authentication.</p>
 <p>In the markets wallet, simply have your coins in your unlocked wallet and make sure staking is enabled in the program settings. Once coins are sent to the wallet, you should break for change so you can stake consecutive blocks. Two hours after your coins mature, they will become eligible for staking and finding blocks. The time it takes to find a block depends on the amount of coins you are staking. You can estimate this by assuming you will receive 1% per year. So 700,000 coins should receive 7000 coins per year securing you a block every day. However, this reward can be much greater if less people are connected. Statistically, usually less than half the network is staking so a user may receive up to 5% interest per year.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/how-to-get-bay/47/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-to-get-bay/47/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-to-get-bay/47/1</link>
+        <link>../../../forum-archive/t/how-to-get-bay/47/1</link>
         <pubDate>Thu, 30 Nov 2017 09:43:47 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-47-1</guid>
-        <source url="..../forum-archive/t/how-to-get-bay/47.rss">How to get $BAY</source>
+        <source url="../../../forum-archive/t/how-to-get-bay/47.rss">How to get $BAY</source>
       </item>
   </channel>
 </rss>

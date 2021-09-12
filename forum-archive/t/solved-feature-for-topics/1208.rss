@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>&quot;Solved&quot; feature for topics</title>
-    <link>..../forum-archive/t/solved-feature-for-topics/1208</link>
+    <link>../../../forum-archive/t/solved-feature-for-topics/1208</link>
     <description>Just wanted to throw it out there. Is there a way to mark topics as solved? Would be nice especially for the support section. So much easier to look for a problem you&#39;re experiencing and see if it&#39;s already been solved elsewhere.</description>
     
     <lastBuildDate>Thu, 15 Mar 2018 15:24:51 +0000</lastBuildDate>
     <category>Forum Feedback</category>
-    <atom:link href="..../forum-archive/t/solved-feature-for-topics/1208.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/solved-feature-for-topics/1208.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>&quot;Solved&quot; feature for topics</title>
         <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
           <blockquote>
               <p><a class="mention" href="/u/mufasa">@Mufasa</a><br>
 Great idea<br>
 The easy solution was and I already did create tag <strong>resolved</strong> so moderators at least can tag issues as resolved</p>
 <p>So far there is only 1 request that we were not able to resolve for luck of response from user<br>
 so I marked all support requests as resolved.</p>
-<p>One can go to <a href="..../forum-archive/tags">tags</a> from their profile menu (next to the avatar) and choose “resolved”  or even use it in search like this <a href="..../forum-archive/search?q=tag%3Aresolved">tag:resolved</a></p>
+<p>One can go to <a href="../../../forum-archive/tags">tags</a> from their profile menu (next to the avatar) and choose “resolved”  or even use it in search like this <a href="../../../forum-archive/search?q=tag%3Aresolved">tag:resolved</a></p>
 <p>If a need comes for anything more sophisticated than this will consider it.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/solved-feature-for-topics/1208/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/solved-feature-for-topics/1208/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/solved-feature-for-topics/1208/2</link>
+        <link>../../../forum-archive/t/solved-feature-for-topics/1208/2</link>
         <pubDate>Thu, 15 Mar 2018 15:24:51 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1208-2</guid>
-        <source url="..../forum-archive/t/solved-feature-for-topics/1208.rss">&quot;Solved&quot; feature for topics</source>
+        <source url="../../../forum-archive/t/solved-feature-for-topics/1208.rss">&quot;Solved&quot; feature for topics</source>
       </item>
       <item>
         <title>&quot;Solved&quot; feature for topics</title>
         <dc:creator><![CDATA[@Mufasa]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/mufasa">@Mufasa</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/mufasa">@Mufasa</a> wrote:</p>
           <blockquote>
               <p>Just wanted to throw it out there. Is there a way to mark topics as solved? Would be nice especially for the support section. So much easier to look for a problem you’re experiencing and see if it’s already been solved elsewhere.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/solved-feature-for-topics/1208/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/solved-feature-for-topics/1208/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/solved-feature-for-topics/1208/1</link>
+        <link>../../../forum-archive/t/solved-feature-for-topics/1208/1</link>
         <pubDate>Thu, 15 Mar 2018 12:12:10 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1208-1</guid>
-        <source url="..../forum-archive/t/solved-feature-for-topics/1208.rss">&quot;Solved&quot; feature for topics</source>
+        <source url="../../../forum-archive/t/solved-feature-for-topics/1208.rss">&quot;Solved&quot; feature for topics</source>
       </item>
   </channel>
 </rss>

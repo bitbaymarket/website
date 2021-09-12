@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Stablecoins Chart</title>
-    <link>..../forum-archive/t/stablecoins-chart/1562</link>
+    <link>../../../forum-archive/t/stablecoins-chart/1562</link>
     <description>https://twitter.com/bitbayofficial/status/1050077239218491397?s=21</description>
     
     <lastBuildDate>Wed, 06 Mar 2019 13:28:19 +0000</lastBuildDate>
     <category>Uncategorized</category>
-    <atom:link href="..../forum-archive/t/stablecoins-chart/1562.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/stablecoins-chart/1562.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Stablecoins Chart</title>
         <dc:creator><![CDATA[@Mantrack]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
           <blockquote>
               <aside class="onebox twitterstatus">
   <header class="source">
@@ -44,12 +44,12 @@
 </aside>
 
           </blockquote>
-          <p><a href="..../forum-archive/t/stablecoins-chart/1562/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/stablecoins-chart/1562/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/stablecoins-chart/1562/1</link>
+        <link>../../../forum-archive/t/stablecoins-chart/1562/1</link>
         <pubDate>Thu, 11 Oct 2018 19:37:48 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1562-1</guid>
-        <source url="..../forum-archive/t/stablecoins-chart/1562.rss">Stablecoins Chart</source>
+        <source url="../../../forum-archive/t/stablecoins-chart/1562.rss">Stablecoins Chart</source>
       </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Missing transaction</title>
-    <link>..../forum-archive/t/missing-transaction/2476</link>
+    <link>../../../forum-archive/t/missing-transaction/2476</link>
     <description>My system has the following specifications 
 
 QT Wallet v2.0.0.1-g32a928e
@@ -20,12 +20,12 @@ Many thanks</description>
     
     <lastBuildDate>Fri, 12 Jun 2020 08:36:33 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/missing-transaction/2476.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/missing-transaction/2476.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Missing transaction</title>
         <dc:creator><![CDATA[@dentawise Michael]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/dentawise">@dentawise</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/dentawise">@dentawise</a> wrote:</p>
           <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet v2.0.0.1-g32a928e<br>
@@ -36,12 +36,12 @@ If web wallet browser name and version: Chrome</p>
 <p>Please advise.</p>
 <p>Many thanks</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/missing-transaction/2476/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/missing-transaction/2476/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/missing-transaction/2476/1</link>
+        <link>../../../forum-archive/t/missing-transaction/2476/1</link>
         <pubDate>Fri, 12 Jun 2020 08:36:33 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2476-1</guid>
-        <source url="..../forum-archive/t/missing-transaction/2476.rss">Missing transaction</source>
+        <source url="../../../forum-archive/t/missing-transaction/2476.rss">Missing transaction</source>
       </item>
   </channel>
 </rss>

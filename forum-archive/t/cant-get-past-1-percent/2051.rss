@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Cant Get Past 1 Percent</title>
-    <link>..../forum-archive/t/cant-get-past-1-percent/2051</link>
+    <link>../../../forum-archive/t/cant-get-past-1-percent/2051</link>
     <description>My system has the following specifications 
 
 Halo 1.37
@@ -14,12 +14,12 @@ Thanks!</description>
     
     <lastBuildDate>Sun, 13 Oct 2019 13:09:02 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/cant-get-past-1-percent/2051.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/cant-get-past-1-percent/2051.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Cant Get Past 1 Percent</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>Hmm… it could possibly be corrupted files.</p>
 <p>Try this:</p>
@@ -48,18 +48,18 @@ Thanks!</description>
 <p>If that doesn’t work then for some reason the blockchain data was corrupted, and you will just need to delete your blk0001.dat file and txleveldb file in the bitbaydata folder, then resync from scratch.</p>
 <p>Let me know if that works.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/cant-get-past-1-percent/2051/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/cant-get-past-1-percent/2051/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/cant-get-past-1-percent/2051/2</link>
+        <link>../../../forum-archive/t/cant-get-past-1-percent/2051/2</link>
         <pubDate>Sun, 13 Oct 2019 13:09:02 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2051-2</guid>
-        <source url="..../forum-archive/t/cant-get-past-1-percent/2051.rss">Cant Get Past 1 Percent</source>
+        <source url="../../../forum-archive/t/cant-get-past-1-percent/2051.rss">Cant Get Past 1 Percent</source>
       </item>
       <item>
         <title>Cant Get Past 1 Percent</title>
         <dc:creator><![CDATA[@blakethehand Blakely Berger]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/blakethehand">@blakethehand</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/blakethehand">@blakethehand</a> wrote:</p>
           <blockquote>
               <p>My system has the following specifications</p>
 <p>Halo 1.37<br>
@@ -67,12 +67,12 @@ Windows 7 Professional Service Pack 1</p>
 <p>The problem I am having is when I first downloaded Halo I sent all my BAY to the bitbay address shown on my wallet. It never showed up there, I think because I am unable to synchronize. I can only get to 1%, and I’ve tried leaving it running all night. The sync number is 29920.</p>
 <p>Thanks!</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/cant-get-past-1-percent/2051/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/cant-get-past-1-percent/2051/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/cant-get-past-1-percent/2051/1</link>
+        <link>../../../forum-archive/t/cant-get-past-1-percent/2051/1</link>
         <pubDate>Fri, 11 Oct 2019 22:48:00 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2051-1</guid>
-        <source url="..../forum-archive/t/cant-get-past-1-percent/2051.rss">Cant Get Past 1 Percent</source>
+        <source url="../../../forum-archive/t/cant-get-past-1-percent/2051.rss">Cant Get Past 1 Percent</source>
       </item>
   </channel>
 </rss>

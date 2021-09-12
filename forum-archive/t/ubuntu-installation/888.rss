@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Ubuntu Installation?</title>
-    <link>..../forum-archive/t/ubuntu-installation/888</link>
+    <link>../../../forum-archive/t/ubuntu-installation/888</link>
     <description>Hello there I am stuck and would like some help installing on Ubuntu 64 bit.
 
 I downloaded Archive Manager. Unzipped it. 
@@ -13,27 +13,27 @@ Can you please help? Thank you!</description>
     
     <lastBuildDate>Sat, 26 Oct 2019 06:39:44 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/ubuntu-installation/888.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/ubuntu-installation/888.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Ubuntu Installation?</title>
         <dc:creator><![CDATA[@dzimbeck David Zimbeck]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/dzimbeck">@dzimbeck</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/dzimbeck">@dzimbeck</a> wrote:</p>
           <blockquote>
               <p>We will update pyelliptic soon and test on some of the newer Linux platforms. SSL was updated and maybe some Linux requires newer versions.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/ubuntu-installation/888/9">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/ubuntu-installation/888/9">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/ubuntu-installation/888/9</link>
+        <link>../../../forum-archive/t/ubuntu-installation/888/9</link>
         <pubDate>Sat, 26 Oct 2019 06:39:44 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-888-9</guid>
-        <source url="..../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
+        <source url="../../../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
       </item>
       <item>
         <title>Ubuntu Installation?</title>
         <dc:creator><![CDATA[@eisyeisy]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/eisyeisy">@eisyeisy</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/eisyeisy">@eisyeisy</a> wrote:</p>
           <blockquote>
               <p>The installation on Ubuntu does not work for me. I have already tried everything. Unfortunately I can’t get any further. Does anyone understand that?</p>
 <p>veda@veda:~/Downloads/bitbayclient-linux-64/BitBay$ bash BitBay.sh<br>
@@ -132,63 +132,63 @@ Halo: Fatal IO error: client killed<br>
 BitBay.sh: Zeile 1: 16437 Speicherzugriffsfehler  (Speicherabzug geschrieben) ${pwd}./Halo<br>
 veda@veda:~/Downloads/bitbayclient-linux-64/BitBay$</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/ubuntu-installation/888/8">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/ubuntu-installation/888/8">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/ubuntu-installation/888/8</link>
+        <link>../../../forum-archive/t/ubuntu-installation/888/8</link>
         <pubDate>Wed, 18 Sep 2019 21:30:34 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-888-8</guid>
-        <source url="..../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
+        <source url="../../../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
       </item>
       <item>
         <title>Ubuntu Installation?</title>
         <dc:creator><![CDATA[@XxOtakuXx]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/xxotakuxx">@XxOtakuXx</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/xxotakuxx">@XxOtakuXx</a> wrote:</p>
           <blockquote>
               <p>Open a Terminal in BitBay folder directory and use ‘‘bash <a href="http://BitBay.sh">BitBay.sh</a>’’</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/ubuntu-installation/888/7">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/ubuntu-installation/888/7">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/ubuntu-installation/888/7</link>
+        <link>../../../forum-archive/t/ubuntu-installation/888/7</link>
         <pubDate>Thu, 04 Jan 2018 16:42:54 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-888-7</guid>
-        <source url="..../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
+        <source url="../../../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
       </item>
       <item>
         <title>Ubuntu Installation?</title>
         <dc:creator><![CDATA[@Craig Craig]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/craig">@Craig</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/craig">@Craig</a> wrote:</p>
           <blockquote>
               <p>Toknormal did verify that the build from source guide did work fine with his Ubuntu</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/ubuntu-installation/888/6">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/ubuntu-installation/888/6">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/ubuntu-installation/888/6</link>
+        <link>../../../forum-archive/t/ubuntu-installation/888/6</link>
         <pubDate>Thu, 04 Jan 2018 16:37:30 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-888-6</guid>
-        <source url="..../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
+        <source url="../../../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
       </item>
       <item>
         <title>Ubuntu Installation?</title>
         <dc:creator><![CDATA[@dzimbeck David Zimbeck]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/dzimbeck">@dzimbeck</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/dzimbeck">@dzimbeck</a> wrote:</p>
           <blockquote>
               <p>It’s worth pointing out that there is a 32 and 64 bit build packaged. Double check you are running the right one. And like GiorgosK pointed out please run it from command line.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/ubuntu-installation/888/5">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/ubuntu-installation/888/5">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/ubuntu-installation/888/5</link>
+        <link>../../../forum-archive/t/ubuntu-installation/888/5</link>
         <pubDate>Thu, 04 Jan 2018 11:46:15 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-888-5</guid>
-        <source url="..../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
+        <source url="../../../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
       </item>
       <item>
         <title>Ubuntu Installation?</title>
         <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
           <blockquote>
               <p>Your system probably missing libraries<br>
 try to run it from command line to see error message</p>
@@ -196,13 +196,13 @@ try to run it from command line to see error message</p>
 <p>if you are good with command line you can alternatively build QT wallet from source<br>
 <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src="..../forum-archive/uploads/default/original/1X/d06511d7ad17e341031cb6f75d121f5e34e89215.png" class="site-icon" width="16" height="16">
-      <a href="..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57" target="_blank" rel="nofollow noopener">BitBay Community</a>
+      <img src="../../../forum-archive/uploads/default/original/1X/d06511d7ad17e341031cb6f75d121f5e34e89215.png" class="site-icon" width="16" height="16">
+      <a href="../../../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57" target="_blank" rel="nofollow noopener">BitBay Community</a>
   </header>
   <article class="onebox-body">
     <img src="https://www.privateinternetaccess.com/favicon.ico" class="thumbnail onebox-avatar" width="60" height="60">
 
-<h3><a href="..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57" target="_blank" rel="nofollow noopener">How to build the BitBay QT from Source</a></h3>
+<h3><a href="../../../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57" target="_blank" rel="nofollow noopener">How to build the BitBay QT from Source</a></h3>
 
 <p>Linux QT wallet install for Debian Jessie  n.b. this does not work for Stretch at the moment and hasn’t been tried in ubuntu.  To start:  Go here to set up your super user     Then here for referrence     Then follow these commands in terminal  sudo...</p>
 
@@ -216,61 +216,61 @@ try to run it from command line to see error message</p>
 </aside>
 </p>
           </blockquote>
-          <p><a href="..../forum-archive/t/ubuntu-installation/888/4">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/ubuntu-installation/888/4">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/ubuntu-installation/888/4</link>
+        <link>../../../forum-archive/t/ubuntu-installation/888/4</link>
         <pubDate>Thu, 04 Jan 2018 10:25:52 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-888-4</guid>
-        <source url="..../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
+        <source url="../../../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
       </item>
       <item>
         <title>Ubuntu Installation?</title>
         <dc:creator><![CDATA[@ZimbecksSlave]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/zimbecksslave">@ZimbecksSlave</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/zimbecksslave">@ZimbecksSlave</a> wrote:</p>
           <blockquote>
               <p>Anyway to have a video guide of installation? Thanks</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/ubuntu-installation/888/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/ubuntu-installation/888/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/ubuntu-installation/888/3</link>
+        <link>../../../forum-archive/t/ubuntu-installation/888/3</link>
         <pubDate>Thu, 04 Jan 2018 06:51:08 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-888-3</guid>
-        <source url="..../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
+        <source url="../../../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
       </item>
       <item>
         <title>Ubuntu Installation?</title>
         <dc:creator><![CDATA[@ZimbecksSlave]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/zimbecksslave">@ZimbecksSlave</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/zimbecksslave">@ZimbecksSlave</a> wrote:</p>
           <blockquote>
               <p><a class="mention" href="/u/dzimbeck">@dzimbeck</a><br>
 Please, thank you</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/ubuntu-installation/888/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/ubuntu-installation/888/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/ubuntu-installation/888/2</link>
+        <link>../../../forum-archive/t/ubuntu-installation/888/2</link>
         <pubDate>Thu, 04 Jan 2018 06:27:11 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-888-2</guid>
-        <source url="..../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
+        <source url="../../../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
       </item>
       <item>
         <title>Ubuntu Installation?</title>
         <dc:creator><![CDATA[@ZimbecksSlave]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/zimbecksslave">@ZimbecksSlave</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/zimbecksslave">@ZimbecksSlave</a> wrote:</p>
           <blockquote>
               <p>Hello there I am stuck and would like some help installing on Ubuntu 64 bit.</p>
 <p>I downloaded Archive Manager. Unzipped it.</p>
 <p>I try to click on <a href="http://Bitbay.sh" rel="nofollow noopener">Bitbay.sh</a> nothing happens, I try to run it on terminal nothing happens.</p>
 <p>Can you please help? Thank you!</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/ubuntu-installation/888/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/ubuntu-installation/888/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/ubuntu-installation/888/1</link>
+        <link>../../../forum-archive/t/ubuntu-installation/888/1</link>
         <pubDate>Thu, 04 Jan 2018 06:13:33 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-888-1</guid>
-        <source url="..../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
+        <source url="../../../forum-archive/t/ubuntu-installation/888.rss">Ubuntu Installation?</source>
       </item>
   </channel>
 </rss>

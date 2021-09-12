@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Issues in Latoken deposit</title>
-    <link>..../forum-archive/t/issues-in-latoken-deposit/2349</link>
+    <link>../../../forum-archive/t/issues-in-latoken-deposit/2349</link>
     <description>
 hello Craig,
 yesterday I sent 6 transactions of BayR from my Q Wallet to my Bay account of Latoken.
@@ -23,48 +23,48 @@ thanks</description>
     
     <lastBuildDate>Sat, 25 Jul 2020 15:20:11 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/issues-in-latoken-deposit/2349.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/issues-in-latoken-deposit/2349.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Issues in Latoken deposit</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>Hi,</p>
 <p>Thanks for reaching out to support. LA Token has temporarily paused all deposits while they fix a small wallet issue today. It is expected that they will reopen deposits again shortly.</p>
 <p>Also, since you sent Reserve coins (BAYR), they will be timelocked for 1-month (from the time of sending) before being available on the exchange.  I just looked up your transaction details and everything looks normal.</p>
 <p>Please note: It is best practice to only send <strong>BAYR</strong> to a <strong>BAYR</strong> address and <strong>BAY</strong> to a <strong>BAY</strong> address on LA Token.</p>
 <p><strong>Here is a little more info on how the Dynamic Peg works:</strong><br>
-<a href="..../forum-archive/c/dynamic-peg-faq">..../forum-archive/c/dynamic-peg-faq</a></p>
+<a href="../../../forum-archive/c/dynamic-peg-faq">../../../forum-archive/c/dynamic-peg-faq</a></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/issues-in-latoken-deposit/2349/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/issues-in-latoken-deposit/2349/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/issues-in-latoken-deposit/2349/3</link>
+        <link>../../../forum-archive/t/issues-in-latoken-deposit/2349/3</link>
         <pubDate>Tue, 07 Apr 2020 12:45:17 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2349-3</guid>
-        <source url="..../forum-archive/t/issues-in-latoken-deposit/2349.rss">Issues in Latoken deposit</source>
+        <source url="../../../forum-archive/t/issues-in-latoken-deposit/2349.rss">Issues in Latoken deposit</source>
       </item>
       <item>
         <title>Issues in Latoken deposit</title>
         <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
           <blockquote>
               <p>Thanks!<br>
 Sorry about the issue. We will look into this</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/issues-in-latoken-deposit/2349/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/issues-in-latoken-deposit/2349/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/issues-in-latoken-deposit/2349/2</link>
+        <link>../../../forum-archive/t/issues-in-latoken-deposit/2349/2</link>
         <pubDate>Tue, 07 Apr 2020 11:45:13 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2349-2</guid>
-        <source url="..../forum-archive/t/issues-in-latoken-deposit/2349.rss">Issues in Latoken deposit</source>
+        <source url="../../../forum-archive/t/issues-in-latoken-deposit/2349.rss">Issues in Latoken deposit</source>
       </item>
       <item>
         <title>Issues in Latoken deposit</title>
         <dc:creator><![CDATA[@Yakuyaku13767 enzo]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/yakuyaku13767">@Yakuyaku13767</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/yakuyaku13767">@Yakuyaku13767</a> wrote:</p>
           <blockquote>
               <p>hello Craig,<br>
 yesterday I sent 6 transactions of BayR from my Q Wallet to my Bay account of Latoken.<br>
@@ -81,12 +81,12 @@ Importo netto: -140,000.0002559 BAY<br>
 ID della transazione: 62c1f66da5ac89c8a6207c0b1f21efb01062fd586e5c85f3b1989a75b9f76142<br>
 thanks</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/issues-in-latoken-deposit/2349/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/issues-in-latoken-deposit/2349/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/issues-in-latoken-deposit/2349/1</link>
+        <link>../../../forum-archive/t/issues-in-latoken-deposit/2349/1</link>
         <pubDate>Tue, 07 Apr 2020 11:01:59 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2349-1</guid>
-        <source url="..../forum-archive/t/issues-in-latoken-deposit/2349.rss">Issues in Latoken deposit</source>
+        <source url="../../../forum-archive/t/issues-in-latoken-deposit/2349.rss">Issues in Latoken deposit</source>
       </item>
   </channel>
 </rss>

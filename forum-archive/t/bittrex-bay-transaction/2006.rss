@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>BITTREX BAY Transaction</title>
-    <link>..../forum-archive/t/bittrex-bay-transaction/2006</link>
+    <link>../../../forum-archive/t/bittrex-bay-transaction/2006</link>
     <description>My system has the following specifications 
 
 QT Wallet, Client Wallet (and version) or Web wallet: QT Wallet
@@ -14,12 +14,12 @@ The problem I have: I created an address,  send the bittrex BAY&#39;s on this ad
     
     <lastBuildDate>Sun, 13 Oct 2019 13:10:10 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/bittrex-bay-transaction/2006.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/bittrex-bay-transaction/2006.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>BITTREX BAY Transaction</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>hmmm okay, try this:</p>
 <ol>
@@ -41,134 +41,134 @@ The problem I have: I created an address,  send the bittrex BAY&#39;s on this ad
 <p>If that doesn’t work then for some reason the blockchain data was corrupted, and you will just need to delete your blk0001.dat file and txleveldb file in the bitbaydata folder, then resync from scratch.</p>
 <p>Let me know if that works.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/bittrex-bay-transaction/2006/9">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/bittrex-bay-transaction/2006/9">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/bittrex-bay-transaction/2006/9</link>
+        <link>../../../forum-archive/t/bittrex-bay-transaction/2006/9</link>
         <pubDate>Sun, 13 Oct 2019 13:10:10 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2006-9</guid>
-        <source url="..../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
+        <source url="../../../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
       </item>
       <item>
         <title>BITTREX BAY Transaction</title>
         <dc:creator><![CDATA[@lessing]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/lessing">@lessing</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/lessing">@lessing</a> wrote:</p>
           <blockquote>
-              <p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/16ba46beb3edbfb0764809eebad6dcf4b2be2dc6.jpeg" data-download-href="..../forum-archive/uploads/default/16ba46beb3edbfb0764809eebad6dcf4b2be2dc6" title="4years.jpg"><img src="..../forum-archive/uploads/default/original/1X/16ba46beb3edbfb0764809eebad6dcf4b2be2dc6.jpeg" alt="4years" width="690" height="423"><div class="meta">
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="../../../forum-archive/uploads/default/original/1X/16ba46beb3edbfb0764809eebad6dcf4b2be2dc6.jpeg" data-download-href="../../../forum-archive/uploads/default/16ba46beb3edbfb0764809eebad6dcf4b2be2dc6" title="4years.jpg"><img src="../../../forum-archive/uploads/default/original/1X/16ba46beb3edbfb0764809eebad6dcf4b2be2dc6.jpeg" alt="4years" width="690" height="423"><div class="meta">
 <span class="filename">4years.jpg</span><span class="informations">936x574 32.9 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>it seems broken…<br>
 4 years and 25 weeks xd</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/bittrex-bay-transaction/2006/8">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/bittrex-bay-transaction/2006/8">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/bittrex-bay-transaction/2006/8</link>
+        <link>../../../forum-archive/t/bittrex-bay-transaction/2006/8</link>
         <pubDate>Mon, 07 Oct 2019 08:46:06 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2006-8</guid>
-        <source url="..../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
+        <source url="../../../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
       </item>
       <item>
         <title>BITTREX BAY Transaction</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>What percentage does the sync bar show? Is it moving at all?<br>
 It could take a couple days (at most) depending on your internet connection.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/bittrex-bay-transaction/2006/7">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/bittrex-bay-transaction/2006/7">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/bittrex-bay-transaction/2006/7</link>
+        <link>../../../forum-archive/t/bittrex-bay-transaction/2006/7</link>
         <pubDate>Sat, 05 Oct 2019 11:10:17 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2006-7</guid>
-        <source url="..../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
+        <source url="../../../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
       </item>
       <item>
         <title>BITTREX BAY Transaction</title>
         <dc:creator><![CDATA[@lessing]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/lessing">@lessing</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/lessing">@lessing</a> wrote:</p>
           <blockquote>
               <p>Okay, thx for the hint! Everything seems good, matching, but my wallet is still not sync?</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/bittrex-bay-transaction/2006/6">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/bittrex-bay-transaction/2006/6">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/bittrex-bay-transaction/2006/6</link>
+        <link>../../../forum-archive/t/bittrex-bay-transaction/2006/6</link>
         <pubDate>Fri, 04 Oct 2019 10:57:20 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2006-6</guid>
-        <source url="..../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
+        <source url="../../../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
       </item>
       <item>
         <title>BITTREX BAY Transaction</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>Apologies for the late response.</p>
 <p>It looks like your TX went through. You could also compare the TXID (hash) showing on Chainz with the withdrawal ID that you see in your Bittrex account. If they match, then you are good to go.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/bittrex-bay-transaction/2006/5">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/bittrex-bay-transaction/2006/5">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/bittrex-bay-transaction/2006/5</link>
+        <link>../../../forum-archive/t/bittrex-bay-transaction/2006/5</link>
         <pubDate>Sun, 29 Sep 2019 18:21:47 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2006-5</guid>
-        <source url="..../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
+        <source url="../../../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
       </item>
       <item>
         <title>BITTREX BAY Transaction</title>
         <dc:creator><![CDATA[@lessing]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/lessing">@lessing</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/lessing">@lessing</a> wrote:</p>
           <blockquote>
               <p>hellu???-__-</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/bittrex-bay-transaction/2006/4">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/bittrex-bay-transaction/2006/4">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/bittrex-bay-transaction/2006/4</link>
+        <link>../../../forum-archive/t/bittrex-bay-transaction/2006/4</link>
         <pubDate>Sun, 15 Sep 2019 10:46:48 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2006-4</guid>
-        <source url="..../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
+        <source url="../../../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
       </item>
       <item>
         <title>BITTREX BAY Transaction</title>
         <dc:creator><![CDATA[@lessing]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/lessing">@lessing</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/lessing">@lessing</a> wrote:</p>
           <blockquote>
-              <p>im a noob, what do u mean with “the tx wen through the blockchain”?<div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/b77a9f584617ae6b468368c6b54dfadc3fd2a518.jpeg" data-download-href="..../forum-archive/uploads/default/b77a9f584617ae6b468368c6b54dfadc3fd2a518" title="lol.jpg"><img src="..../forum-archive/uploads/default/optimized/1X/b77a9f584617ae6b468368c6b54dfadc3fd2a518_1_690x367.jpeg" alt="lol" width="690" height="367" srcset="..../forum-archive/uploads/default/optimized/1X/b77a9f584617ae6b468368c6b54dfadc3fd2a518_1_690x367.jpeg, ..../forum-archive/uploads/default/optimized/1X/b77a9f584617ae6b468368c6b54dfadc3fd2a518_1_1035x550.jpeg 1.5x, ..../forum-archive/uploads/default/original/1X/b77a9f584617ae6b468368c6b54dfadc3fd2a518.jpeg 2x"><div class="meta">
+              <p>im a noob, what do u mean with “the tx wen through the blockchain”?<div class="lightbox-wrapper"><a class="lightbox" href="../../../forum-archive/uploads/default/original/1X/b77a9f584617ae6b468368c6b54dfadc3fd2a518.jpeg" data-download-href="../../../forum-archive/uploads/default/b77a9f584617ae6b468368c6b54dfadc3fd2a518" title="lol.jpg"><img src="../../../forum-archive/uploads/default/optimized/1X/b77a9f584617ae6b468368c6b54dfadc3fd2a518_1_690x367.jpeg" alt="lol" width="690" height="367" srcset="../../../forum-archive/uploads/default/optimized/1X/b77a9f584617ae6b468368c6b54dfadc3fd2a518_1_690x367.jpeg, ../../../forum-archive/uploads/default/optimized/1X/b77a9f584617ae6b468368c6b54dfadc3fd2a518_1_1035x550.jpeg 1.5x, ../../../forum-archive/uploads/default/original/1X/b77a9f584617ae6b468368c6b54dfadc3fd2a518.jpeg 2x"><div class="meta">
 <span class="filename">lol.jpg</span><span class="informations">1356x723 125 KB</span><span class="expand"></span>
 </div></a></div><br>
 i just see this, cant interpret it</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/bittrex-bay-transaction/2006/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/bittrex-bay-transaction/2006/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/bittrex-bay-transaction/2006/3</link>
+        <link>../../../forum-archive/t/bittrex-bay-transaction/2006/3</link>
         <pubDate>Sun, 08 Sep 2019 12:09:23 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2006-3</guid>
-        <source url="..../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
+        <source url="../../../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
       </item>
       <item>
         <title>BITTREX BAY Transaction</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>Hi,</p>
 <p>Can you please copy and paste the address here: <a href="https://chainz.cryptoid.info/bay/">https://chainz.cryptoid.info/bay/</a>, to confirm that the tx went through on the blockchain?</p>
 <p>If it did, then that eliminates any issues on Bittrex’s end, and you probably just have to let the wallet sync 100% before seeing your updated balance.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/bittrex-bay-transaction/2006/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/bittrex-bay-transaction/2006/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/bittrex-bay-transaction/2006/2</link>
+        <link>../../../forum-archive/t/bittrex-bay-transaction/2006/2</link>
         <pubDate>Sat, 07 Sep 2019 13:42:23 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2006-2</guid>
-        <source url="..../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
+        <source url="../../../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
       </item>
       <item>
         <title>BITTREX BAY Transaction</title>
         <dc:creator><![CDATA[@lessing]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/lessing">@lessing</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/lessing">@lessing</a> wrote:</p>
           <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet, Client Wallet (and version) or Web wallet: QT Wallet<br>
@@ -177,12 +177,12 @@ If web wallet browser name and version: -<br>
 If desktop wallet (Qt or Client) block # of your client and # of connections:  wat´?</p>
 <p>The problem I have: I created an address,  send the bittrex BAY’s on this address, but never received anything. It says my Wallet is not synchronized and needs 3 years and 38 weeks to synchronize? Whats going on</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/bittrex-bay-transaction/2006/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/bittrex-bay-transaction/2006/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/bittrex-bay-transaction/2006/1</link>
+        <link>../../../forum-archive/t/bittrex-bay-transaction/2006/1</link>
         <pubDate>Fri, 06 Sep 2019 14:56:40 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2006-1</guid>
-        <source url="..../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
+        <source url="../../../forum-archive/t/bittrex-bay-transaction/2006.rss">BITTREX BAY Transaction</source>
       </item>
   </channel>
 </rss>

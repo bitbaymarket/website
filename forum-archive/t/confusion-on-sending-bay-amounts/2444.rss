@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Confusion on sending BAY amounts</title>
-    <link>..../forum-archive/t/confusion-on-sending-bay-amounts/2444</link>
+    <link>../../../forum-archive/t/confusion-on-sending-bay-amounts/2444</link>
     <description>Hi all, tried sending some BAY tokens and noticed a difference in the sending amount and a change amount from the change address (see below). Could someone please explain why the charge amount is different from the sending amount with fees?
 
 ![image|381x326](upload://hRznPPBylotV0w35566QL7IfjeP.png)</description>
     
     <lastBuildDate>Wed, 27 May 2020 21:09:09 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/confusion-on-sending-bay-amounts/2444.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/confusion-on-sending-bay-amounts/2444.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Confusion on sending BAY amounts</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>Hi,</p>
 <p>Thanks for reaching out. “Change” occurs when you send a small amount of coins that are located within a larger input. The change amount is different from the send amount because it is the “leftover” change from the input that you used to send the 100 BAY. This is similar to using a $20 bill to pay for a $4 item. If you look at your total balance, you will see that only the 100.02 amount has been deducted.</p>
 <p>The .02 fee is the transaction fee, which is fixed and goes to validators on the network who are staking.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/confusion-on-sending-bay-amounts/2444/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/confusion-on-sending-bay-amounts/2444/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/confusion-on-sending-bay-amounts/2444/2</link>
+        <link>../../../forum-archive/t/confusion-on-sending-bay-amounts/2444/2</link>
         <pubDate>Wed, 27 May 2020 21:09:09 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2444-2</guid>
-        <source url="..../forum-archive/t/confusion-on-sending-bay-amounts/2444.rss">Confusion on sending BAY amounts</source>
+        <source url="../../../forum-archive/t/confusion-on-sending-bay-amounts/2444.rss">Confusion on sending BAY amounts</source>
       </item>
       <item>
         <title>Confusion on sending BAY amounts</title>
         <dc:creator><![CDATA[@Snoopy]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/snoopy">@Snoopy</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/snoopy">@Snoopy</a> wrote:</p>
           <blockquote>
               <p>Hi all, tried sending some BAY tokens and noticed a difference in the sending amount and a change amount from the change address (see below). Could someone please explain why the charge amount is different from the sending amount with fees?</p>
-<p><img src="..../forum-archive/uploads/default/original/1X/7d3333d0c6f599748b5261be146c9c0fbe1ad30b.png" alt="image" width="381" height="326"></p>
+<p><img src="../../../forum-archive/uploads/default/original/1X/7d3333d0c6f599748b5261be146c9c0fbe1ad30b.png" alt="image" width="381" height="326"></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/confusion-on-sending-bay-amounts/2444/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/confusion-on-sending-bay-amounts/2444/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/confusion-on-sending-bay-amounts/2444/1</link>
+        <link>../../../forum-archive/t/confusion-on-sending-bay-amounts/2444/1</link>
         <pubDate>Wed, 27 May 2020 03:52:52 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2444-1</guid>
-        <source url="..../forum-archive/t/confusion-on-sending-bay-amounts/2444.rss">Confusion on sending BAY amounts</source>
+        <source url="../../../forum-archive/t/confusion-on-sending-bay-amounts/2444.rss">Confusion on sending BAY amounts</source>
       </item>
   </channel>
 </rss>

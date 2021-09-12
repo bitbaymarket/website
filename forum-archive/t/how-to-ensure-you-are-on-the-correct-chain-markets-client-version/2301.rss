@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>How to ensure you are on the correct chain (Markets Client version)</title>
-    <link>..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301</link>
+    <link>../../../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301</link>
     <description>## First, please follow these steps to identify which chain you are on:
 
 ### 1. Open the Markets Client, and click on &quot;Settings&quot; -&gt; &quot;Debug Console&quot;.
@@ -21,7 +21,7 @@ text=str(BLK.getblock(&amp;quot;e89164a165df952a3bc4b80d9ea33c3be47baa2406bbd7c9
 
 
 ### If your results are &quot;block not found&quot;, then you are on the wrong chain, please follow the instructions in this article to update your client:
-..../forum-archive/t/how-to-fix-the-chain-split-issue-on-market-client-mandatory-for-all-markets-client-users/2318
+../../../forum-archive/t/how-to-fix-the-chain-split-issue-on-market-client-mandatory-for-all-markets-client-users/2318
 
 **_If your results are different from the two options above, please try the test again as the network was likely busy._**
 
@@ -29,54 +29,54 @@ For any further support issues please ask in the community support channel on Di
     
     <lastBuildDate>Tue, 24 Mar 2020 12:10:00 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>How to ensure you are on the correct chain (Markets Client version)</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               
           </blockquote>
-          <p><a href="..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301/3</link>
+        <link>../../../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301/3</link>
         <pubDate>Tue, 31 Mar 2020 19:15:36 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2301-3</guid>
-        <source url="..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301.rss">How to ensure you are on the correct chain (Markets Client version)</source>
+        <source url="../../../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301.rss">How to ensure you are on the correct chain (Markets Client version)</source>
       </item>
       <item>
         <title>How to ensure you are on the correct chain (Markets Client version)</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               
           </blockquote>
-          <p><a href="..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301/2</link>
+        <link>../../../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301/2</link>
         <pubDate>Tue, 24 Mar 2020 15:07:14 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2301-2</guid>
-        <source url="..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301.rss">How to ensure you are on the correct chain (Markets Client version)</source>
+        <source url="../../../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301.rss">How to ensure you are on the correct chain (Markets Client version)</source>
       </item>
       <item>
         <title>How to ensure you are on the correct chain (Markets Client version)</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <h2>First, please follow these steps to identify which chain you are on:</h2>
 <h3>1. Open the Markets Client, and click on “Settings” -&gt; “Debug Console”.</h3>
-<p><img src="..../forum-archive/uploads/default/original/1X/d236421da7b36f70a71549150316269d15d8716e.png" alt="1" width="279" height="274"></p>
+<p><img src="../../../forum-archive/uploads/default/original/1X/d236421da7b36f70a71549150316269d15d8716e.png" alt="1" width="279" height="274"></p>
 <h3>2. Then, within the console, type:</h3>
 <p>text=str(BLK.getblock("e89164a165df952a3bc4b80d9ea33c3be47baa2406bbd7c9bd04eb91bd11e23a"))</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/66ab58097f0f94e658a62e91dd8113dd4d787022.png" data-download-href="..../forum-archive/uploads/default/66ab58097f0f94e658a62e91dd8113dd4d787022" title="6.png"><img src="..../forum-archive/uploads/default/original/1X/66ab58097f0f94e658a62e91dd8113dd4d787022.png" alt="6" width="475" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../../forum-archive/uploads/default/original/1X/66ab58097f0f94e658a62e91dd8113dd4d787022.png" data-download-href="../../../forum-archive/uploads/default/66ab58097f0f94e658a62e91dd8113dd4d787022" title="6.png"><img src="../../../forum-archive/uploads/default/original/1X/66ab58097f0f94e658a62e91dd8113dd4d787022.png" alt="6" width="475" height="500"><div class="meta">
 <span class="filename">6.png</span><span class="informations">500x526 11.4 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h3>3. <strong>Then click “Execute code”. If you see the block information, then you are on the correct chain:</strong>
 </h3>
-<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/21ba6055a01b46f2edc1a35a649c422d18493696.png" data-download-href="..../forum-archive/uploads/default/21ba6055a01b46f2edc1a35a649c422d18493696" title="7.png"><img src="..../forum-archive/uploads/default/original/1X/21ba6055a01b46f2edc1a35a649c422d18493696.png" alt="7" width="469" height="499"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../../forum-archive/uploads/default/original/1X/21ba6055a01b46f2edc1a35a649c422d18493696.png" data-download-href="../../../forum-archive/uploads/default/21ba6055a01b46f2edc1a35a649c422d18493696" title="7.png"><img src="../../../forum-archive/uploads/default/original/1X/21ba6055a01b46f2edc1a35a649c422d18493696.png" alt="7" width="469" height="499"><div class="meta">
 <span class="filename">7.png</span><span class="informations">499x531 22.4 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h3>If your results are “block not found”, then you are on the wrong chain, please follow the instructions in this article to update your client:</h3>
@@ -84,7 +84,7 @@ For any further support issues please ask in the community support channel on Di
   <div class="title">
     <div class="quote-controls"></div>
     <img alt="" width="20" height="20" src="/user_avatar/forum.bitbay.market/sh_rn/40/27_1.png" class="avatar">
-    <a href="..../forum-archive/t/how-to-fix-the-chain-split-issue-on-market-client-mandatory-for-all-markets-client-users/2318">How to fix the chain split issue on Market Client (**MANDATORY FOR ALL MARKETS CLIENT USERS**)</a> <a class="badge-wrapper  bullet" href="/c/support"><span class="badge-category-bg" style="background-color: #3AB54A;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="The support section is here to help you solve any issues you encounter while using Bitbay’s wallets.
+    <a href="../../../forum-archive/t/how-to-fix-the-chain-split-issue-on-market-client-mandatory-for-all-markets-client-users/2318">How to fix the chain split issue on Market Client (**MANDATORY FOR ALL MARKETS CLIENT USERS**)</a> <a class="badge-wrapper  bullet" href="/c/support"><span class="badge-category-bg" style="background-color: #3AB54A;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="The support section is here to help you solve any issues you encounter while using Bitbay’s wallets.
 To ensure efficient communication when you describe your problem, please provide the following informations:">Support</span></a>
   </div>
   <blockquote>
@@ -104,12 +104,12 @@ Mac Users:** ~/Library &gt; Applica…
 <p><strong><em>If your results are different from the two options above, please try the test again as the network was likely busy.</em></strong></p>
 <p>For any further support issues please ask in the community support channel on Discord:  <strong><a href="https://discordapp.com/invite/jRkjCxf">https://discordapp.com/invite/jRkjCxf</a></strong></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301/1</link>
+        <link>../../../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301/1</link>
         <pubDate>Tue, 24 Mar 2020 01:53:34 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2301-1</guid>
-        <source url="..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301.rss">How to ensure you are on the correct chain (Markets Client version)</source>
+        <source url="../../../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-markets-client-version/2301.rss">How to ensure you are on the correct chain (Markets Client version)</source>
       </item>
   </channel>
 </rss>

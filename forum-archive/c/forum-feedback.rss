@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Forum Feedback - BitBay Community</title>
-    <link>.../forum-archive/c/forum-feedback</link>
+    <link>../../forum-archive/c/forum-feedback</link>
     <description>Topics in the &#39;Forum Feedback&#39; category Discussion about this site, its organization, how it works, and how we can improve it.</description>
     
       <lastBuildDate>Thu, 15 Mar 2018 12:12:10 +0000</lastBuildDate>
-      <atom:link href=".../forum-archive/c/forum-feedback.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="../../forum-archive/c/forum-feedback.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>&quot;Solved&quot; feature for topics</title>
           <dc:creator><![CDATA[@Mufasa]]></dc:creator>
           <category>Forum Feedback</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mufasa">@Mufasa</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mufasa">@Mufasa</a> wrote:</p>
             <blockquote>
               <p>Just wanted to throw it out there. Is there a way to mark topics as solved? Would be nice especially for the support section. So much easier to look for a problem you’re experiencing and see if it’s already been solved elsewhere.</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/solved-feature-for-topics/1208">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/solved-feature-for-topics/1208">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/solved-feature-for-topics/1208</link>
+          <link>../../forum-archive/t/solved-feature-for-topics/1208</link>
           <pubDate>Thu, 15 Mar 2018 12:12:10 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1208</guid>
-          <source url=".../forum-archive/t/solved-feature-for-topics/1208.rss">&quot;Solved&quot; feature for topics</source>
+          <source url="../../forum-archive/t/solved-feature-for-topics/1208.rss">&quot;Solved&quot; feature for topics</source>
         </item>
         <item>
           <title>How to add tags on a forum post</title>
           <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
           <category>Forum Feedback</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <p><a href="../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
             <blockquote>
               <p>We have added recently the ability to add tags on a forum post</p>
 <p>The topic starter or editing the topic you get a chance to search and add tags or create new ones</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/37b2a76bd5f97a39723928759203e708403f5f67.png" data-download-href=".../forum-archive/uploads/default/37b2a76bd5f97a39723928759203e708403f5f67" title="add.tags.png"><img src=".../forum-archive/uploads/default/optimized/1X/37b2a76bd5f97a39723928759203e708403f5f67_1_690x129.png" alt="tags" width="690" height="129"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/37b2a76bd5f97a39723928759203e708403f5f67.png" data-download-href="../../forum-archive/uploads/default/37b2a76bd5f97a39723928759203e708403f5f67" title="add.tags.png"><img src="../../forum-archive/uploads/default/optimized/1X/37b2a76bd5f97a39723928759203e708403f5f67_1_690x129.png" alt="tags" width="690" height="129"><div class="meta">
 <span class="filename">add.tags.png</span><span class="informations">752x141 11.8 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>Tags are available for all users</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-to-add-tags-on-a-forum-post/1044">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-add-tags-on-a-forum-post/1044">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-add-tags-on-a-forum-post/1044</link>
+          <link>../../forum-archive/t/how-to-add-tags-on-a-forum-post/1044</link>
           <pubDate>Mon, 29 Jan 2018 16:10:50 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1044</guid>
-          <source url=".../forum-archive/t/how-to-add-tags-on-a-forum-post/1044.rss">How to add tags on a forum post</source>
+          <source url="../../forum-archive/t/how-to-add-tags-on-a-forum-post/1044.rss">How to add tags on a forum post</source>
         </item>
         <item>
           <title>How to write and display for RTL languages (Arabic, Hebrew etc) on the Forum</title>
           <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
           <category>Forum Feedback</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <p><a href="../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
             <blockquote>
               <h2>1. input</h2>
 <p>For input to be properly seen as you type (meaning RTL)<br>
 for <strong>chrome</strong> right click and on the context menu choose <strong>Writing direction</strong><br>
-<img src=".../forum-archive/uploads/default/original/1X/f189cb8e0755c13118c213bb6bf7a2f90377c925.png" alt="input" width="442" height="318"></p>
+<img src="../../forum-archive/uploads/default/original/1X/f189cb8e0755c13118c213bb6bf7a2f90377c925.png" alt="input" width="442" height="318"></p>
 <p>for <strong>firefox</strong> just press <code>Ctrl-Shift-x</code> to toggle between LTR and RTL</p>
 <h2>2. output</h2>
 <p>For output you need to add <code>&lt;div dir="rtl"&gt;</code> before and <code>&lt;div&gt;</code> at the end of you RTL input<br>
@@ -79,22 +79,22 @@ sort of like this<br>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017</link>
+          <link>../../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017</link>
           <pubDate>Wed, 24 Jan 2018 15:56:30 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1017</guid>
-          <source url=".../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017.rss">How to write and display for RTL languages (Arabic, Hebrew etc) on the Forum</source>
+          <source url="../../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017.rss">How to write and display for RTL languages (Arabic, Hebrew etc) on the Forum</source>
         </item>
         <item>
           <title>Thoughts on rebranding and website</title>
           <dc:creator><![CDATA[@pickletheplacid Pickletheplacid]]></dc:creator>
           <category>Forum Feedback</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/pickletheplacid">@pickletheplacid</a> wrote:</p>
+            <p><a href="../../forum-archive/u/pickletheplacid">@pickletheplacid</a> wrote:</p>
             <blockquote>
               <p>I’m new to Bitbay and have just invested significantly for the long term…<br>
 Having reviewed all the content, whitepaper, media across the web and great community I really like what Bitbay has to offer and think there is huge potental…<br>
@@ -110,57 +110,57 @@ Image of the houses and $Bay coin thingy again is very basic, = just houses, whe
             </blockquote>
             <p>Posts: 5</p>
             <p>Participants: 5</p>
-            <p><a href=".../forum-archive/t/thoughts-on-rebranding-and-website/918">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/thoughts-on-rebranding-and-website/918">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/thoughts-on-rebranding-and-website/918</link>
+          <link>../../forum-archive/t/thoughts-on-rebranding-and-website/918</link>
           <pubDate>Sun, 07 Jan 2018 02:08:30 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-918</guid>
-          <source url=".../forum-archive/t/thoughts-on-rebranding-and-website/918.rss">Thoughts on rebranding and website</source>
+          <source url="../../forum-archive/t/thoughts-on-rebranding-and-website/918.rss">Thoughts on rebranding and website</source>
         </item>
         <item>
           <title>Suggestions on improving the forum are welcome</title>
           <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
           <category>Forum Feedback</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <p><a href="../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
             <blockquote>
               <p>Please create a new topic for each suggestion so it can be discussed seperately</p>
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/suggestions-on-improving-the-forum-are-welcome/24">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/suggestions-on-improving-the-forum-are-welcome/24">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/suggestions-on-improving-the-forum-are-welcome/24</link>
+          <link>../../forum-archive/t/suggestions-on-improving-the-forum-are-welcome/24</link>
           <pubDate>Wed, 08 Nov 2017 18:01:11 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-24</guid>
-          <source url=".../forum-archive/t/suggestions-on-improving-the-forum-are-welcome/24.rss">Suggestions on improving the forum are welcome</source>
+          <source url="../../forum-archive/t/suggestions-on-improving-the-forum-are-welcome/24.rss">Suggestions on improving the forum are welcome</source>
         </item>
         <item>
           <title>About the Forum Feedback category</title>
           <dc:creator><![CDATA[@system system]]></dc:creator>
           <category>Forum Feedback</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/system">@system</a> wrote:</p>
+            <p><a href="../../forum-archive/u/system">@system</a> wrote:</p>
             <blockquote>
               <p>Discussion about this site, its organization, how it works, and how we can improve it.</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/about-the-forum-feedback-category/2">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/about-the-forum-feedback-category/2">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/about-the-forum-feedback-category/2</link>
+          <link>../../forum-archive/t/about-the-forum-feedback-category/2</link>
           <pubDate>Tue, 07 Nov 2017 16:42:30 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2</guid>
-          <source url=".../forum-archive/t/about-the-forum-feedback-category/2.rss">About the Forum Feedback category</source>
+          <source url="../../forum-archive/t/about-the-forum-feedback-category/2.rss">About the Forum Feedback category</source>
         </item>
   </channel>
 </rss>

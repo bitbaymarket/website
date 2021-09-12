@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Can I convert my Reserve coins (BAYR) to Spendable (BAY)?</title>
-    <link>..../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333</link>
+    <link>../../../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333</link>
     <description>The core function of this system is to split BitBay’s total supply into two (2) different tradeable assets:
 
 **Spendable (BAY)**  and  **Reserve (BAYR)** .
@@ -21,20 +21,20 @@ Please note: This &quot;peg index rate&quot; or ratio change is **_not_** relate
 
 ### Find more information here:
 
-[Intro to the Dynamic Peg](..../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207)
+[Intro to the Dynamic Peg](../../../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207)
 
-[What is the Dynamic Peg?](..../forum-archive/t/what-is-the-dynamic-peg/2177)
+[What is the Dynamic Peg?](../../../forum-archive/t/what-is-the-dynamic-peg/2177)
 
-[Dynamic Peg FAQ ](..../forum-archive/c/dynamic-peg-faq)</description>
+[Dynamic Peg FAQ ](../../../forum-archive/c/dynamic-peg-faq)</description>
     
     <lastBuildDate>Sun, 05 Apr 2020 19:01:30 +0000</lastBuildDate>
     <category>Dynamic Peg - FAQ</category>
-    <atom:link href="..../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Can I convert my Reserve coins (BAYR) to Spendable (BAY)?</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>The core function of this system is to split BitBay’s total supply into two (2) different tradeable assets:</p>
 <p><strong>Spendable (BAY)</strong>  and  <strong>Reserve (BAYR)</strong> .</p>
@@ -45,16 +45,16 @@ Please note: This &quot;peg index rate&quot; or ratio change is **_not_** relate
 <p>This is the core concept of how the Dynamic Peg works. As the ratio of the total changes, it is reflected in each and every user’s wallet. It is a brand new form of decentralized form of governance and monetary policy.</p>
 <p>Please note: This “peg index rate” or ratio change is <strong><em>not</em></strong> related to the mandatory 1-month timelock related to sending Reserve coins (BAYR).</p>
 <h3>Find more information here:</h3>
-<p><a href="..../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207">Intro to the Dynamic Peg</a></p>
-<p><a href="..../forum-archive/t/what-is-the-dynamic-peg/2177">What is the Dynamic Peg?</a></p>
-<p><a href="..../forum-archive/c/dynamic-peg-faq">Dynamic Peg FAQ </a></p>
+<p><a href="../../../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207">Intro to the Dynamic Peg</a></p>
+<p><a href="../../../forum-archive/t/what-is-the-dynamic-peg/2177">What is the Dynamic Peg?</a></p>
+<p><a href="../../../forum-archive/c/dynamic-peg-faq">Dynamic Peg FAQ </a></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333/1</link>
+        <link>../../../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333/1</link>
         <pubDate>Thu, 02 Apr 2020 22:55:20 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2333-1</guid>
-        <source url="..../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333.rss">Can I convert my Reserve coins (BAYR) to Spendable (BAY)?</source>
+        <source url="../../../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333.rss">Can I convert my Reserve coins (BAYR) to Spendable (BAY)?</source>
       </item>
   </channel>
 </rss>

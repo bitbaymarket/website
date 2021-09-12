@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Dynamic Peg - FAQ - BitBay Community</title>
-    <link>.../forum-archive/c/dynamic-peg-faq</link>
+    <link>../../forum-archive/c/dynamic-peg-faq</link>
     <description>Topics in the &#39;Dynamic Peg - FAQ&#39; category All of your Dynamic Peg related questions answered here.</description>
     
       <lastBuildDate>Tue, 18 Feb 2020 12:56:09 +0000</lastBuildDate>
-      <atom:link href=".../forum-archive/c/dynamic-peg-faq.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="../../forum-archive/c/dynamic-peg-faq.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>Why are my wallet balances always changing?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p>Have no fear, this is exactly what the Dynamic Peg is design to do.</p>
 <p>The core function of this system is to split BitBay’s total supply into two (2) different tradeable assets:</p>
@@ -22,29 +22,29 @@
 <p>When the voting consensus <strong>“inflate”</strong> the supply of <strong>Liquid BAY <em>increases</em></strong> and the total supply of <strong>BAYR <em>decreases</em></strong>.</p>
 <p>This is the core concept of how the Dynamic Peg works. As the ratio of the total changes, it is reflected in each and every user’s wallet.</p>
 <h3>Find more information here:</h3>
-<p><a href=".../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207">Intro to the Dynamic Peg</a></p>
-<p><a href=".../forum-archive/t/what-is-the-dynamic-peg/2177">What is the Dynamic Peg?</a></p>
-<p><a href=".../forum-archive/c/dynamic-peg-faq">Dynamic Peg FAQ</a></p>
+<p><a href="../../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207">Intro to the Dynamic Peg</a></p>
+<p><a href="../../forum-archive/t/what-is-the-dynamic-peg/2177">What is the Dynamic Peg?</a></p>
+<p><a href="../../forum-archive/c/dynamic-peg-faq">Dynamic Peg FAQ</a></p>
 <p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/why-are-my-wallet-balances-always-changing/2242">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/why-are-my-wallet-balances-always-changing/2242">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/why-are-my-wallet-balances-always-changing/2242</link>
+          <link>../../forum-archive/t/why-are-my-wallet-balances-always-changing/2242</link>
           <pubDate>Tue, 18 Feb 2020 12:56:09 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2242</guid>
-          <source url=".../forum-archive/t/why-are-my-wallet-balances-always-changing/2242.rss">Why are my wallet balances always changing?</source>
+          <source url="../../forum-archive/t/why-are-my-wallet-balances-always-changing/2242.rss">Why are my wallet balances always changing?</source>
         </item>
         <item>
           <title>Can I convert my Reserve coins (BAYR) to Spendable (BAY)?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p>The core function of this system is to split BitBay’s total supply into two (2) different tradeable assets:</p>
 <p><strong>Spendable (BAY)</strong>  and  <strong>Reserve (BAYR)</strong> .</p>
@@ -55,97 +55,97 @@
 <p>This is the core concept of how the Dynamic Peg works. As the ratio of the total changes, it is reflected in each and every user’s wallet. It is a brand new form of decentralized form of governance and monetary policy.</p>
 <p>Please note: This “peg index rate” or ratio change is <strong><em>not</em></strong> related to the mandatory 1-month timelock related to sending Reserve coins (BAYR).</p>
 <h3>Find more information here:</h3>
-<p><a href=".../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207">Intro to the Dynamic Peg</a></p>
-<p><a href=".../forum-archive/t/what-is-the-dynamic-peg/2177">What is the Dynamic Peg?</a></p>
-<p><a href=".../forum-archive/c/dynamic-peg-faq">Dynamic Peg FAQ </a></p>
+<p><a href="../../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207">Intro to the Dynamic Peg</a></p>
+<p><a href="../../forum-archive/t/what-is-the-dynamic-peg/2177">What is the Dynamic Peg?</a></p>
+<p><a href="../../forum-archive/c/dynamic-peg-faq">Dynamic Peg FAQ </a></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333</link>
+          <link>../../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333</link>
           <pubDate>Thu, 02 Apr 2020 22:55:20 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2333</guid>
-          <source url=".../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333.rss">Can I convert my Reserve coins (BAYR) to Spendable (BAY)?</source>
+          <source url="../../forum-archive/t/can-i-convert-my-reserve-coins-bayr-to-spendable-bay/2333.rss">Can I convert my Reserve coins (BAYR) to Spendable (BAY)?</source>
         </item>
         <item>
           <title>Dynamic Peg - A Visual Technical Reference</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
-              <p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/77a88a9444b28fad0e98fba6a24d5ae33f5654ee.jpeg" data-download-href=".../forum-archive/uploads/default/77a88a9444b28fad0e98fba6a24d5ae33f5654ee" title="Dynamic Peg - Visual Technical Reference-20190528-page-001.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/77a88a9444b28fad0e98fba6a24d5ae33f5654ee_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-001" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/77a88a9444b28fad0e98fba6a24d5ae33f5654ee_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/77a88a9444b28fad0e98fba6a24d5ae33f5654ee_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/77a88a9444b28fad0e98fba6a24d5ae33f5654ee_1_1380x776.jpeg 2x"><div class="meta">
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/77a88a9444b28fad0e98fba6a24d5ae33f5654ee.jpeg" data-download-href="../../forum-archive/uploads/default/77a88a9444b28fad0e98fba6a24d5ae33f5654ee" title="Dynamic Peg - Visual Technical Reference-20190528-page-001.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/77a88a9444b28fad0e98fba6a24d5ae33f5654ee_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-001" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/77a88a9444b28fad0e98fba6a24d5ae33f5654ee_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/77a88a9444b28fad0e98fba6a24d5ae33f5654ee_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/77a88a9444b28fad0e98fba6a24d5ae33f5654ee_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-001.jpg</span><span class="informations">3000x1688 146 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/bd9d8799bacad970625593b66b68a32d8e2d2706.jpeg" data-download-href=".../forum-archive/uploads/default/bd9d8799bacad970625593b66b68a32d8e2d2706" title="Dynamic Peg - Visual Technical Reference-20190528-page-002.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/bd9d8799bacad970625593b66b68a32d8e2d2706_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-002" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/bd9d8799bacad970625593b66b68a32d8e2d2706_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/bd9d8799bacad970625593b66b68a32d8e2d2706_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/bd9d8799bacad970625593b66b68a32d8e2d2706_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/bd9d8799bacad970625593b66b68a32d8e2d2706.jpeg" data-download-href="../../forum-archive/uploads/default/bd9d8799bacad970625593b66b68a32d8e2d2706" title="Dynamic Peg - Visual Technical Reference-20190528-page-002.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/bd9d8799bacad970625593b66b68a32d8e2d2706_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-002" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/bd9d8799bacad970625593b66b68a32d8e2d2706_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/bd9d8799bacad970625593b66b68a32d8e2d2706_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/bd9d8799bacad970625593b66b68a32d8e2d2706_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-002.jpg</span><span class="informations">3000x1688 166 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/a6e28d89087827c270f65c20fc6dc818529fb795.jpeg" data-download-href=".../forum-archive/uploads/default/a6e28d89087827c270f65c20fc6dc818529fb795" title="Dynamic Peg - Visual Technical Reference-20190528-page-003.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/a6e28d89087827c270f65c20fc6dc818529fb795_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-003" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/a6e28d89087827c270f65c20fc6dc818529fb795_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/a6e28d89087827c270f65c20fc6dc818529fb795_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/a6e28d89087827c270f65c20fc6dc818529fb795_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/a6e28d89087827c270f65c20fc6dc818529fb795.jpeg" data-download-href="../../forum-archive/uploads/default/a6e28d89087827c270f65c20fc6dc818529fb795" title="Dynamic Peg - Visual Technical Reference-20190528-page-003.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/a6e28d89087827c270f65c20fc6dc818529fb795_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-003" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/a6e28d89087827c270f65c20fc6dc818529fb795_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/a6e28d89087827c270f65c20fc6dc818529fb795_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/a6e28d89087827c270f65c20fc6dc818529fb795_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-003.jpg</span><span class="informations">3000x1688 275 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/40ce62b4d27dfcd31c8ace941fc641569d022f69.jpeg" data-download-href=".../forum-archive/uploads/default/40ce62b4d27dfcd31c8ace941fc641569d022f69" title="Dynamic Peg - Visual Technical Reference-20190528-page-004.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/40ce62b4d27dfcd31c8ace941fc641569d022f69_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-004" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/40ce62b4d27dfcd31c8ace941fc641569d022f69_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/40ce62b4d27dfcd31c8ace941fc641569d022f69_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/40ce62b4d27dfcd31c8ace941fc641569d022f69_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/40ce62b4d27dfcd31c8ace941fc641569d022f69.jpeg" data-download-href="../../forum-archive/uploads/default/40ce62b4d27dfcd31c8ace941fc641569d022f69" title="Dynamic Peg - Visual Technical Reference-20190528-page-004.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/40ce62b4d27dfcd31c8ace941fc641569d022f69_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-004" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/40ce62b4d27dfcd31c8ace941fc641569d022f69_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/40ce62b4d27dfcd31c8ace941fc641569d022f69_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/40ce62b4d27dfcd31c8ace941fc641569d022f69_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-004.jpg</span><span class="informations">3000x1688 304 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/149faef9d08cd49c81d85348d66ba46447e21fb1.jpeg" data-download-href=".../forum-archive/uploads/default/149faef9d08cd49c81d85348d66ba46447e21fb1" title="Dynamic Peg - Visual Technical Reference-20190528-page-006.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/149faef9d08cd49c81d85348d66ba46447e21fb1_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-006" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/149faef9d08cd49c81d85348d66ba46447e21fb1_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/149faef9d08cd49c81d85348d66ba46447e21fb1_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/149faef9d08cd49c81d85348d66ba46447e21fb1_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/149faef9d08cd49c81d85348d66ba46447e21fb1.jpeg" data-download-href="../../forum-archive/uploads/default/149faef9d08cd49c81d85348d66ba46447e21fb1" title="Dynamic Peg - Visual Technical Reference-20190528-page-006.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/149faef9d08cd49c81d85348d66ba46447e21fb1_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-006" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/149faef9d08cd49c81d85348d66ba46447e21fb1_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/149faef9d08cd49c81d85348d66ba46447e21fb1_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/149faef9d08cd49c81d85348d66ba46447e21fb1_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-006.jpg</span><span class="informations">3000x1688 148 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/80ef769f1e19847a6ac2cb4839919f09dab27f8a.jpeg" data-download-href=".../forum-archive/uploads/default/80ef769f1e19847a6ac2cb4839919f09dab27f8a" title="Dynamic Peg - Visual Technical Reference-20190528-page-007.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/80ef769f1e19847a6ac2cb4839919f09dab27f8a_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-007" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/80ef769f1e19847a6ac2cb4839919f09dab27f8a_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/80ef769f1e19847a6ac2cb4839919f09dab27f8a_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/80ef769f1e19847a6ac2cb4839919f09dab27f8a_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/80ef769f1e19847a6ac2cb4839919f09dab27f8a.jpeg" data-download-href="../../forum-archive/uploads/default/80ef769f1e19847a6ac2cb4839919f09dab27f8a" title="Dynamic Peg - Visual Technical Reference-20190528-page-007.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/80ef769f1e19847a6ac2cb4839919f09dab27f8a_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-007" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/80ef769f1e19847a6ac2cb4839919f09dab27f8a_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/80ef769f1e19847a6ac2cb4839919f09dab27f8a_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/80ef769f1e19847a6ac2cb4839919f09dab27f8a_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-007.jpg</span><span class="informations">3000x1688 157 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/66b3bf799feb4dc58fd1b6ec45fa94b19188d0bb.jpeg" data-download-href=".../forum-archive/uploads/default/66b3bf799feb4dc58fd1b6ec45fa94b19188d0bb" title="Dynamic Peg - Visual Technical Reference-20190528-page-008.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/66b3bf799feb4dc58fd1b6ec45fa94b19188d0bb_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-008" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/66b3bf799feb4dc58fd1b6ec45fa94b19188d0bb_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/66b3bf799feb4dc58fd1b6ec45fa94b19188d0bb_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/66b3bf799feb4dc58fd1b6ec45fa94b19188d0bb_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/66b3bf799feb4dc58fd1b6ec45fa94b19188d0bb.jpeg" data-download-href="../../forum-archive/uploads/default/66b3bf799feb4dc58fd1b6ec45fa94b19188d0bb" title="Dynamic Peg - Visual Technical Reference-20190528-page-008.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/66b3bf799feb4dc58fd1b6ec45fa94b19188d0bb_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-008" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/66b3bf799feb4dc58fd1b6ec45fa94b19188d0bb_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/66b3bf799feb4dc58fd1b6ec45fa94b19188d0bb_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/66b3bf799feb4dc58fd1b6ec45fa94b19188d0bb_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-008.jpg</span><span class="informations">3000x1688 109 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/f021360345e43c808d5d6771a42e5f7ec0a83d86.jpeg" data-download-href=".../forum-archive/uploads/default/f021360345e43c808d5d6771a42e5f7ec0a83d86" title="Dynamic Peg - Visual Technical Reference-20190528-page-009.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/f021360345e43c808d5d6771a42e5f7ec0a83d86_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-009" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/f021360345e43c808d5d6771a42e5f7ec0a83d86_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/f021360345e43c808d5d6771a42e5f7ec0a83d86_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/f021360345e43c808d5d6771a42e5f7ec0a83d86_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/f021360345e43c808d5d6771a42e5f7ec0a83d86.jpeg" data-download-href="../../forum-archive/uploads/default/f021360345e43c808d5d6771a42e5f7ec0a83d86" title="Dynamic Peg - Visual Technical Reference-20190528-page-009.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/f021360345e43c808d5d6771a42e5f7ec0a83d86_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-009" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/f021360345e43c808d5d6771a42e5f7ec0a83d86_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/f021360345e43c808d5d6771a42e5f7ec0a83d86_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/f021360345e43c808d5d6771a42e5f7ec0a83d86_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-009.jpg</span><span class="informations">3000x1688 176 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/fbe11517b3691852f6e7dd05db96714f1b56e8a5.jpeg" data-download-href=".../forum-archive/uploads/default/fbe11517b3691852f6e7dd05db96714f1b56e8a5" title="Dynamic Peg - Visual Technical Reference-20190528-page-010.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/fbe11517b3691852f6e7dd05db96714f1b56e8a5_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-010" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/fbe11517b3691852f6e7dd05db96714f1b56e8a5_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/fbe11517b3691852f6e7dd05db96714f1b56e8a5_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/fbe11517b3691852f6e7dd05db96714f1b56e8a5_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/fbe11517b3691852f6e7dd05db96714f1b56e8a5.jpeg" data-download-href="../../forum-archive/uploads/default/fbe11517b3691852f6e7dd05db96714f1b56e8a5" title="Dynamic Peg - Visual Technical Reference-20190528-page-010.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/fbe11517b3691852f6e7dd05db96714f1b56e8a5_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-010" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/fbe11517b3691852f6e7dd05db96714f1b56e8a5_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/fbe11517b3691852f6e7dd05db96714f1b56e8a5_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/fbe11517b3691852f6e7dd05db96714f1b56e8a5_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-010.jpg</span><span class="informations">3000x1688 186 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/dc019c26737d1c4eb3c748d25bc0dadaca4bc2dc.jpeg" data-download-href=".../forum-archive/uploads/default/dc019c26737d1c4eb3c748d25bc0dadaca4bc2dc" title="Dynamic Peg - Visual Technical Reference-20190528-page-011.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/dc019c26737d1c4eb3c748d25bc0dadaca4bc2dc_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-011" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/dc019c26737d1c4eb3c748d25bc0dadaca4bc2dc_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/dc019c26737d1c4eb3c748d25bc0dadaca4bc2dc_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/dc019c26737d1c4eb3c748d25bc0dadaca4bc2dc_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/dc019c26737d1c4eb3c748d25bc0dadaca4bc2dc.jpeg" data-download-href="../../forum-archive/uploads/default/dc019c26737d1c4eb3c748d25bc0dadaca4bc2dc" title="Dynamic Peg - Visual Technical Reference-20190528-page-011.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/dc019c26737d1c4eb3c748d25bc0dadaca4bc2dc_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-011" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/dc019c26737d1c4eb3c748d25bc0dadaca4bc2dc_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/dc019c26737d1c4eb3c748d25bc0dadaca4bc2dc_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/dc019c26737d1c4eb3c748d25bc0dadaca4bc2dc_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-011.jpg</span><span class="informations">3000x1688 200 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/2ee27dc569e210de5df798b41980cb909d81c0e8.jpeg" data-download-href=".../forum-archive/uploads/default/2ee27dc569e210de5df798b41980cb909d81c0e8" title="Dynamic Peg - Visual Technical Reference-20190528-page-012.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/2ee27dc569e210de5df798b41980cb909d81c0e8_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-012" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/2ee27dc569e210de5df798b41980cb909d81c0e8_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/2ee27dc569e210de5df798b41980cb909d81c0e8_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/2ee27dc569e210de5df798b41980cb909d81c0e8_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/2ee27dc569e210de5df798b41980cb909d81c0e8.jpeg" data-download-href="../../forum-archive/uploads/default/2ee27dc569e210de5df798b41980cb909d81c0e8" title="Dynamic Peg - Visual Technical Reference-20190528-page-012.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/2ee27dc569e210de5df798b41980cb909d81c0e8_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-012" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/2ee27dc569e210de5df798b41980cb909d81c0e8_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/2ee27dc569e210de5df798b41980cb909d81c0e8_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/2ee27dc569e210de5df798b41980cb909d81c0e8_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-012.jpg</span><span class="informations">3000x1688 191 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/a14d900d0ec14a026ce0665304414b7308e5acd9.jpeg" data-download-href=".../forum-archive/uploads/default/a14d900d0ec14a026ce0665304414b7308e5acd9" title="Dynamic Peg - Visual Technical Reference-20190528-page-013.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/a14d900d0ec14a026ce0665304414b7308e5acd9_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-013" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/a14d900d0ec14a026ce0665304414b7308e5acd9_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/a14d900d0ec14a026ce0665304414b7308e5acd9_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/a14d900d0ec14a026ce0665304414b7308e5acd9_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/a14d900d0ec14a026ce0665304414b7308e5acd9.jpeg" data-download-href="../../forum-archive/uploads/default/a14d900d0ec14a026ce0665304414b7308e5acd9" title="Dynamic Peg - Visual Technical Reference-20190528-page-013.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/a14d900d0ec14a026ce0665304414b7308e5acd9_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-013" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/a14d900d0ec14a026ce0665304414b7308e5acd9_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/a14d900d0ec14a026ce0665304414b7308e5acd9_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/a14d900d0ec14a026ce0665304414b7308e5acd9_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-013.jpg</span><span class="informations">3000x1688 120 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/1f9cced25f57955e69f60c99a23c522e9abd6f25.jpeg" data-download-href=".../forum-archive/uploads/default/1f9cced25f57955e69f60c99a23c522e9abd6f25" title="Dynamic Peg - Visual Technical Reference-20190528-page-014.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/1f9cced25f57955e69f60c99a23c522e9abd6f25_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-014" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/1f9cced25f57955e69f60c99a23c522e9abd6f25_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/1f9cced25f57955e69f60c99a23c522e9abd6f25_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/1f9cced25f57955e69f60c99a23c522e9abd6f25_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/1f9cced25f57955e69f60c99a23c522e9abd6f25.jpeg" data-download-href="../../forum-archive/uploads/default/1f9cced25f57955e69f60c99a23c522e9abd6f25" title="Dynamic Peg - Visual Technical Reference-20190528-page-014.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/1f9cced25f57955e69f60c99a23c522e9abd6f25_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-014" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/1f9cced25f57955e69f60c99a23c522e9abd6f25_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/1f9cced25f57955e69f60c99a23c522e9abd6f25_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/1f9cced25f57955e69f60c99a23c522e9abd6f25_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-014.jpg</span><span class="informations">3000x1688 136 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/5de4a42dde92aa6578cf6032b440257705272f30.jpeg" data-download-href=".../forum-archive/uploads/default/5de4a42dde92aa6578cf6032b440257705272f30" title="Dynamic Peg - Visual Technical Reference-20190528-page-015.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/5de4a42dde92aa6578cf6032b440257705272f30_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-015" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/5de4a42dde92aa6578cf6032b440257705272f30_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/5de4a42dde92aa6578cf6032b440257705272f30_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/5de4a42dde92aa6578cf6032b440257705272f30_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/5de4a42dde92aa6578cf6032b440257705272f30.jpeg" data-download-href="../../forum-archive/uploads/default/5de4a42dde92aa6578cf6032b440257705272f30" title="Dynamic Peg - Visual Technical Reference-20190528-page-015.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/5de4a42dde92aa6578cf6032b440257705272f30_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-015" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/5de4a42dde92aa6578cf6032b440257705272f30_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/5de4a42dde92aa6578cf6032b440257705272f30_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/5de4a42dde92aa6578cf6032b440257705272f30_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-015.jpg</span><span class="informations">3000x1688 182 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/9db03d0e093b0fca16052405e9d00e2a01a909fc.jpeg" data-download-href=".../forum-archive/uploads/default/9db03d0e093b0fca16052405e9d00e2a01a909fc" title="Dynamic Peg - Visual Technical Reference-20190528-page-016.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/9db03d0e093b0fca16052405e9d00e2a01a909fc_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-016" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/9db03d0e093b0fca16052405e9d00e2a01a909fc_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/9db03d0e093b0fca16052405e9d00e2a01a909fc_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/9db03d0e093b0fca16052405e9d00e2a01a909fc_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/9db03d0e093b0fca16052405e9d00e2a01a909fc.jpeg" data-download-href="../../forum-archive/uploads/default/9db03d0e093b0fca16052405e9d00e2a01a909fc" title="Dynamic Peg - Visual Technical Reference-20190528-page-016.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/9db03d0e093b0fca16052405e9d00e2a01a909fc_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-016" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/9db03d0e093b0fca16052405e9d00e2a01a909fc_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/9db03d0e093b0fca16052405e9d00e2a01a909fc_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/9db03d0e093b0fca16052405e9d00e2a01a909fc_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-016.jpg</span><span class="informations">3000x1688 208 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/4a73dcc3134b7216b737f5664d32995db36370a6.jpeg" data-download-href=".../forum-archive/uploads/default/4a73dcc3134b7216b737f5664d32995db36370a6" title="Dynamic Peg - Visual Technical Reference-20190528-page-017.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/4a73dcc3134b7216b737f5664d32995db36370a6_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-017" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/4a73dcc3134b7216b737f5664d32995db36370a6_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/4a73dcc3134b7216b737f5664d32995db36370a6_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/4a73dcc3134b7216b737f5664d32995db36370a6_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/4a73dcc3134b7216b737f5664d32995db36370a6.jpeg" data-download-href="../../forum-archive/uploads/default/4a73dcc3134b7216b737f5664d32995db36370a6" title="Dynamic Peg - Visual Technical Reference-20190528-page-017.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/4a73dcc3134b7216b737f5664d32995db36370a6_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-017" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/4a73dcc3134b7216b737f5664d32995db36370a6_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/4a73dcc3134b7216b737f5664d32995db36370a6_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/4a73dcc3134b7216b737f5664d32995db36370a6_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-017.jpg</span><span class="informations">3000x1688 205 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/53fae46aeb6e6240418e1f62efac17f1a0ee59d2.jpeg" data-download-href=".../forum-archive/uploads/default/53fae46aeb6e6240418e1f62efac17f1a0ee59d2" title="Dynamic Peg - Visual Technical Reference-20190528-page-018.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/53fae46aeb6e6240418e1f62efac17f1a0ee59d2_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-018" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/53fae46aeb6e6240418e1f62efac17f1a0ee59d2_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/53fae46aeb6e6240418e1f62efac17f1a0ee59d2_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/53fae46aeb6e6240418e1f62efac17f1a0ee59d2_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/53fae46aeb6e6240418e1f62efac17f1a0ee59d2.jpeg" data-download-href="../../forum-archive/uploads/default/53fae46aeb6e6240418e1f62efac17f1a0ee59d2" title="Dynamic Peg - Visual Technical Reference-20190528-page-018.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/53fae46aeb6e6240418e1f62efac17f1a0ee59d2_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-018" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/53fae46aeb6e6240418e1f62efac17f1a0ee59d2_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/53fae46aeb6e6240418e1f62efac17f1a0ee59d2_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/53fae46aeb6e6240418e1f62efac17f1a0ee59d2_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-018.jpg</span><span class="informations">3000x1688 202 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/86dce8ed5f2b8cd9aa49795fec59a367c933a49f.jpeg" data-download-href=".../forum-archive/uploads/default/86dce8ed5f2b8cd9aa49795fec59a367c933a49f" title="Dynamic Peg - Visual Technical Reference-20190528-page-019.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/86dce8ed5f2b8cd9aa49795fec59a367c933a49f_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-019" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/86dce8ed5f2b8cd9aa49795fec59a367c933a49f_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/86dce8ed5f2b8cd9aa49795fec59a367c933a49f_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/86dce8ed5f2b8cd9aa49795fec59a367c933a49f_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/86dce8ed5f2b8cd9aa49795fec59a367c933a49f.jpeg" data-download-href="../../forum-archive/uploads/default/86dce8ed5f2b8cd9aa49795fec59a367c933a49f" title="Dynamic Peg - Visual Technical Reference-20190528-page-019.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/86dce8ed5f2b8cd9aa49795fec59a367c933a49f_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-019" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/86dce8ed5f2b8cd9aa49795fec59a367c933a49f_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/86dce8ed5f2b8cd9aa49795fec59a367c933a49f_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/86dce8ed5f2b8cd9aa49795fec59a367c933a49f_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-019.jpg</span><span class="informations">3000x1688 123 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/c1c3ea048455cdd30fc0c5cf33895cac81830c68.jpeg" data-download-href=".../forum-archive/uploads/default/c1c3ea048455cdd30fc0c5cf33895cac81830c68" title="Dynamic Peg - Visual Technical Reference-20190528-page-020.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/c1c3ea048455cdd30fc0c5cf33895cac81830c68_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-020" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/c1c3ea048455cdd30fc0c5cf33895cac81830c68_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/c1c3ea048455cdd30fc0c5cf33895cac81830c68_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/c1c3ea048455cdd30fc0c5cf33895cac81830c68_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/c1c3ea048455cdd30fc0c5cf33895cac81830c68.jpeg" data-download-href="../../forum-archive/uploads/default/c1c3ea048455cdd30fc0c5cf33895cac81830c68" title="Dynamic Peg - Visual Technical Reference-20190528-page-020.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/c1c3ea048455cdd30fc0c5cf33895cac81830c68_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-020" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/c1c3ea048455cdd30fc0c5cf33895cac81830c68_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/c1c3ea048455cdd30fc0c5cf33895cac81830c68_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/c1c3ea048455cdd30fc0c5cf33895cac81830c68_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-020.jpg</span><span class="informations">3000x1688 164 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/dae9306e5dfa04b96185bc2223cd5043a03b4896.jpeg" data-download-href=".../forum-archive/uploads/default/dae9306e5dfa04b96185bc2223cd5043a03b4896" title="Dynamic Peg - Visual Technical Reference-20190528-page-021.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/dae9306e5dfa04b96185bc2223cd5043a03b4896_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-021" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/dae9306e5dfa04b96185bc2223cd5043a03b4896_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/dae9306e5dfa04b96185bc2223cd5043a03b4896_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/dae9306e5dfa04b96185bc2223cd5043a03b4896_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/dae9306e5dfa04b96185bc2223cd5043a03b4896.jpeg" data-download-href="../../forum-archive/uploads/default/dae9306e5dfa04b96185bc2223cd5043a03b4896" title="Dynamic Peg - Visual Technical Reference-20190528-page-021.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/dae9306e5dfa04b96185bc2223cd5043a03b4896_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-021" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/dae9306e5dfa04b96185bc2223cd5043a03b4896_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/dae9306e5dfa04b96185bc2223cd5043a03b4896_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/dae9306e5dfa04b96185bc2223cd5043a03b4896_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-021.jpg</span><span class="informations">3000x1688 101 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/24c8bdc66cac8c127904292f135cca440c439a56.jpeg" data-download-href=".../forum-archive/uploads/default/24c8bdc66cac8c127904292f135cca440c439a56" title="Dynamic Peg - Visual Technical Reference-20190528-page-022.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/24c8bdc66cac8c127904292f135cca440c439a56_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-022" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/24c8bdc66cac8c127904292f135cca440c439a56_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/24c8bdc66cac8c127904292f135cca440c439a56_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/24c8bdc66cac8c127904292f135cca440c439a56_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/24c8bdc66cac8c127904292f135cca440c439a56.jpeg" data-download-href="../../forum-archive/uploads/default/24c8bdc66cac8c127904292f135cca440c439a56" title="Dynamic Peg - Visual Technical Reference-20190528-page-022.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/24c8bdc66cac8c127904292f135cca440c439a56_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-022" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/24c8bdc66cac8c127904292f135cca440c439a56_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/24c8bdc66cac8c127904292f135cca440c439a56_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/24c8bdc66cac8c127904292f135cca440c439a56_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-022.jpg</span><span class="informations">3000x1688 145 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/90921c46fc156aab2ce986f2f32408a9d5e3b717.jpeg" data-download-href=".../forum-archive/uploads/default/90921c46fc156aab2ce986f2f32408a9d5e3b717" title="Dynamic Peg - Visual Technical Reference-20190528-page-023.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/90921c46fc156aab2ce986f2f32408a9d5e3b717_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-023" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/90921c46fc156aab2ce986f2f32408a9d5e3b717_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/90921c46fc156aab2ce986f2f32408a9d5e3b717_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/90921c46fc156aab2ce986f2f32408a9d5e3b717_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/90921c46fc156aab2ce986f2f32408a9d5e3b717.jpeg" data-download-href="../../forum-archive/uploads/default/90921c46fc156aab2ce986f2f32408a9d5e3b717" title="Dynamic Peg - Visual Technical Reference-20190528-page-023.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/90921c46fc156aab2ce986f2f32408a9d5e3b717_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-023" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/90921c46fc156aab2ce986f2f32408a9d5e3b717_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/90921c46fc156aab2ce986f2f32408a9d5e3b717_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/90921c46fc156aab2ce986f2f32408a9d5e3b717_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-023.jpg</span><span class="informations">3000x1688 125 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/bfca58b10b06ff0998970403b6cfa9f7b55ac6f3.jpeg" data-download-href=".../forum-archive/uploads/default/bfca58b10b06ff0998970403b6cfa9f7b55ac6f3" title="Dynamic Peg - Visual Technical Reference-20190528-page-024.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/bfca58b10b06ff0998970403b6cfa9f7b55ac6f3_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-024" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/bfca58b10b06ff0998970403b6cfa9f7b55ac6f3_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/bfca58b10b06ff0998970403b6cfa9f7b55ac6f3_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/bfca58b10b06ff0998970403b6cfa9f7b55ac6f3_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/bfca58b10b06ff0998970403b6cfa9f7b55ac6f3.jpeg" data-download-href="../../forum-archive/uploads/default/bfca58b10b06ff0998970403b6cfa9f7b55ac6f3" title="Dynamic Peg - Visual Technical Reference-20190528-page-024.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/bfca58b10b06ff0998970403b6cfa9f7b55ac6f3_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-024" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/bfca58b10b06ff0998970403b6cfa9f7b55ac6f3_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/bfca58b10b06ff0998970403b6cfa9f7b55ac6f3_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/bfca58b10b06ff0998970403b6cfa9f7b55ac6f3_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-024.jpg</span><span class="informations">3000x1688 165 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/e4072ddc57be7c280e08bd28af23fd8d572ab191.jpeg" data-download-href=".../forum-archive/uploads/default/e4072ddc57be7c280e08bd28af23fd8d572ab191" title="Dynamic Peg - Visual Technical Reference-20190528-page-025.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/e4072ddc57be7c280e08bd28af23fd8d572ab191_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-025" width="690" height="388" srcset=".../forum-archive/uploads/default/optimized/1X/e4072ddc57be7c280e08bd28af23fd8d572ab191_1_690x388.jpeg, .../forum-archive/uploads/default/optimized/1X/e4072ddc57be7c280e08bd28af23fd8d572ab191_1_1035x582.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/e4072ddc57be7c280e08bd28af23fd8d572ab191_1_1380x776.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/e4072ddc57be7c280e08bd28af23fd8d572ab191.jpeg" data-download-href="../../forum-archive/uploads/default/e4072ddc57be7c280e08bd28af23fd8d572ab191" title="Dynamic Peg - Visual Technical Reference-20190528-page-025.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/e4072ddc57be7c280e08bd28af23fd8d572ab191_1_690x388.jpeg" alt="Dynamic%20Peg%20-%20Visual%20Technical%20Reference-20190528-page-025" width="690" height="388" srcset="../../forum-archive/uploads/default/optimized/1X/e4072ddc57be7c280e08bd28af23fd8d572ab191_1_690x388.jpeg, ../../forum-archive/uploads/default/optimized/1X/e4072ddc57be7c280e08bd28af23fd8d572ab191_1_1035x582.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/e4072ddc57be7c280e08bd28af23fd8d572ab191_1_1380x776.jpeg 2x"><div class="meta">
 <span class="filename">Dynamic Peg - Visual Technical Reference-20190528-page-025.jpg</span><span class="informations">3000x1688 69.2 KB</span><span class="expand"></span>
 </div></a></div></p>
             </blockquote>
             <p>Posts: 7</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/dynamic-peg-a-visual-technical-reference/2206">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/dynamic-peg-a-visual-technical-reference/2206">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/dynamic-peg-a-visual-technical-reference/2206</link>
+          <link>../../forum-archive/t/dynamic-peg-a-visual-technical-reference/2206</link>
           <pubDate>Thu, 30 Jan 2020 04:04:46 +0000</pubDate>
           <discourse:topicPinned>Yes</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2206</guid>
-          <source url=".../forum-archive/t/dynamic-peg-a-visual-technical-reference/2206.rss">Dynamic Peg - A Visual Technical Reference</source>
+          <source url="../../forum-archive/t/dynamic-peg-a-visual-technical-reference/2206.rss">Dynamic Peg - A Visual Technical Reference</source>
         </item>
         <item>
           <title>Why do Reserve and voluntarily frozen coins have value? Are there any benefits to holding them?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <h3>Why do Reserve and voluntarily frozen coins have value? Are there any benefits to holding them?</h3>
 <p>Reserve (BAYR) and Frozen coins are valuable in several ways:</p>
@@ -176,31 +176,31 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/why-do-reserve-and-voluntarily-frozen-coins-have-value-are-there-any-benefits-to-holding-them/2186">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/why-do-reserve-and-voluntarily-frozen-coins-have-value-are-there-any-benefits-to-holding-them/2186">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/why-do-reserve-and-voluntarily-frozen-coins-have-value-are-there-any-benefits-to-holding-them/2186</link>
+          <link>../../forum-archive/t/why-do-reserve-and-voluntarily-frozen-coins-have-value-are-there-any-benefits-to-holding-them/2186</link>
           <pubDate>Wed, 29 Jan 2020 14:22:19 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2186</guid>
-          <source url=".../forum-archive/t/why-do-reserve-and-voluntarily-frozen-coins-have-value-are-there-any-benefits-to-holding-them/2186.rss">Why do Reserve and voluntarily frozen coins have value? Are there any benefits to holding them?</source>
+          <source url="../../forum-archive/t/why-do-reserve-and-voluntarily-frozen-coins-have-value-are-there-any-benefits-to-holding-them/2186.rss">Why do Reserve and voluntarily frozen coins have value? Are there any benefits to holding them?</source>
         </item>
         <item>
           <title>What is the voting algorithm, and how does it work?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <h1><strong>What is the voting algorithm, and how does it work?</strong></h1>
 <p>The voting algorithm is the easiest way to participate in the Dynamic Peg’s voting/consensus. It will vote for a healthy price based on current market conditions, without the user having to vote manually.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/001594fa31207bfdfa6ff6fcd56f9ffe4add7e75.png" data-download-href=".../forum-archive/uploads/default/001594fa31207bfdfa6ff6fcd56f9ffe4add7e75" title="Screen Shot 2020-03-21 at 5.23.03 AM.png"><img src=".../forum-archive/uploads/default/original/1X/001594fa31207bfdfa6ff6fcd56f9ffe4add7e75.png" alt="03%20AM" width="690" height="311"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/001594fa31207bfdfa6ff6fcd56f9ffe4add7e75.png" data-download-href="../../forum-archive/uploads/default/001594fa31207bfdfa6ff6fcd56f9ffe4add7e75" title="Screen Shot 2020-03-21 at 5.23.03 AM.png"><img src="../../forum-archive/uploads/default/original/1X/001594fa31207bfdfa6ff6fcd56f9ffe4add7e75.png" alt="03%20AM" width="690" height="311"><div class="meta">
 <span class="filename">Screen Shot 2020-03-21 at 5.23.03 AM.png</span><span class="informations">954x430 25.6 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h3><strong><em>Note: This algorithm is one of several voting options. It will ONLY have an effect on the supply/price if the majority of users choose to select it as a voting option. The algorithm’s initial target price 1/100,000 of Bitcoin’s All Time High (0.20) solely exists to activate its functions, and is NOT a fixed or guaranteed price target.</em></strong></h3>
 <h1>Below is a visual example of how the Dynamic Peg algorithm works:</h1>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/d2e63d01962afc2d147276d4c1c74999eb12ffa5.gif" data-download-href=".../forum-archive/uploads/default/d2e63d01962afc2d147276d4c1c74999eb12ffa5" title="Dynamic Peg Algo.gif"><img src=".../forum-archive/uploads/default/optimized/1X/d2e63d01962afc2d147276d4c1c74999eb12ffa5_1_690x271.gif" alt="Dynamic%20Peg%20Algo" width="690" height="271" srcset=".../forum-archive/uploads/default/optimized/1X/d2e63d01962afc2d147276d4c1c74999eb12ffa5_1_690x271.gif, .../forum-archive/uploads/default/optimized/1X/d2e63d01962afc2d147276d4c1c74999eb12ffa5_1_1035x406.gif 1.5x, .../forum-archive/uploads/default/optimized/1X/d2e63d01962afc2d147276d4c1c74999eb12ffa5_1_1380x542.gif 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/d2e63d01962afc2d147276d4c1c74999eb12ffa5.gif" data-download-href="../../forum-archive/uploads/default/d2e63d01962afc2d147276d4c1c74999eb12ffa5" title="Dynamic Peg Algo.gif"><img src="../../forum-archive/uploads/default/optimized/1X/d2e63d01962afc2d147276d4c1c74999eb12ffa5_1_690x271.gif" alt="Dynamic%20Peg%20Algo" width="690" height="271" srcset="../../forum-archive/uploads/default/optimized/1X/d2e63d01962afc2d147276d4c1c74999eb12ffa5_1_690x271.gif, ../../forum-archive/uploads/default/optimized/1X/d2e63d01962afc2d147276d4c1c74999eb12ffa5_1_1035x406.gif 1.5x, ../../forum-archive/uploads/default/optimized/1X/d2e63d01962afc2d147276d4c1c74999eb12ffa5_1_1380x542.gif 2x"><div class="meta">
 <span class="filename">Dynamic Peg Algo.gif</span><span class="informations">2000x788 704 KB</span><span class="expand"></span>
 </div></a></div></p>
 <ul>
@@ -225,22 +225,22 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/what-is-the-voting-algorithm-and-how-does-it-work/2193">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/what-is-the-voting-algorithm-and-how-does-it-work/2193">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/what-is-the-voting-algorithm-and-how-does-it-work/2193</link>
+          <link>../../forum-archive/t/what-is-the-voting-algorithm-and-how-does-it-work/2193</link>
           <pubDate>Wed, 29 Jan 2020 14:30:01 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2193</guid>
-          <source url=".../forum-archive/t/what-is-the-voting-algorithm-and-how-does-it-work/2193.rss">What is the voting algorithm, and how does it work?</source>
+          <source url="../../forum-archive/t/what-is-the-voting-algorithm-and-how-does-it-work/2193.rss">What is the voting algorithm, and how does it work?</source>
         </item>
         <item>
           <title>When and how can I spend the different liquidities of BAY?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p><strong>When and how can I spend the different liquidities of BAY?</strong></p>
 <p><em>(Liquid, Reserve, Frozen Reserve, and Frozen Liquid)</em></p>
@@ -256,43 +256,43 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181</link>
+          <link>../../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181</link>
           <pubDate>Wed, 29 Jan 2020 14:19:17 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2181</guid>
-          <source url=".../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181.rss">When and how can I spend the different liquidities of BAY?</source>
+          <source url="../../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181.rss">When and how can I spend the different liquidities of BAY?</source>
         </item>
         <item>
           <title>How to import your BitBay Web Wallet private key into the peg-enabled QT wallet</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <h1>How to import your BitBay Web Wallet private key into the BitBay QT wallet:</h1>
 <p>***Note: The web wallet is currently on an old fork of BitBay. To spend any funds from your web wallet address, you must FIRST import your web wallet private key into the BitBay QT wallet application.</p>
 <p><strong>This is MANDATORY until the web wallet is updated to work with the Dynamic Peg.</strong></p>
 <p>If you have any questions, please leave a comment below.</p>
 <h3>1. Enter your wallet log-in information, and click <strong>“Load/Create Wallet”</strong> to gain access to your BitBay Web Wallet.</h3>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf.png" data-download-href=".../forum-archive/uploads/default/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf" title="Screen Shot 2020-02-10 at 6.40.49 AM.png"><img src=".../forum-archive/uploads/default/optimized/1X/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf_1_690x393.png" alt="49%20AM" width="690" height="393" srcset=".../forum-archive/uploads/default/optimized/1X/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf_1_690x393.png, .../forum-archive/uploads/default/optimized/1X/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf_1_1035x589.png 1.5x, .../forum-archive/uploads/default/optimized/1X/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf_1_1380x786.png 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf.png" data-download-href="../../forum-archive/uploads/default/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf" title="Screen Shot 2020-02-10 at 6.40.49 AM.png"><img src="../../forum-archive/uploads/default/optimized/1X/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf_1_690x393.png" alt="49%20AM" width="690" height="393" srcset="../../forum-archive/uploads/default/optimized/1X/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf_1_690x393.png, ../../forum-archive/uploads/default/optimized/1X/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf_1_1035x589.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf_1_1380x786.png 2x"><div class="meta">
 <span class="filename">Screen Shot 2020-02-10 at 6.40.49 AM.png</span><span class="informations">2410x1374 202 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h3>2. Click on the “<strong>Wallet Backup</strong>” tab, then click on “<strong>Show</strong>” next to your private key. Then copy the private key.</h3>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/c6cbb871a511275622bb7cf41e0b256000d81942.png" data-download-href=".../forum-archive/uploads/default/c6cbb871a511275622bb7cf41e0b256000d81942" title="Screen Shot 2020-02-10 at 6.44.24 AM.png"><img src=".../forum-archive/uploads/default/optimized/1X/c6cbb871a511275622bb7cf41e0b256000d81942_1_690x449.png" alt="24%20AM" width="690" height="449" srcset=".../forum-archive/uploads/default/optimized/1X/c6cbb871a511275622bb7cf41e0b256000d81942_1_690x449.png, .../forum-archive/uploads/default/optimized/1X/c6cbb871a511275622bb7cf41e0b256000d81942_1_1035x673.png 1.5x, .../forum-archive/uploads/default/optimized/1X/c6cbb871a511275622bb7cf41e0b256000d81942_1_1380x898.png 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/c6cbb871a511275622bb7cf41e0b256000d81942.png" data-download-href="../../forum-archive/uploads/default/c6cbb871a511275622bb7cf41e0b256000d81942" title="Screen Shot 2020-02-10 at 6.44.24 AM.png"><img src="../../forum-archive/uploads/default/optimized/1X/c6cbb871a511275622bb7cf41e0b256000d81942_1_690x449.png" alt="24%20AM" width="690" height="449" srcset="../../forum-archive/uploads/default/optimized/1X/c6cbb871a511275622bb7cf41e0b256000d81942_1_690x449.png, ../../forum-archive/uploads/default/optimized/1X/c6cbb871a511275622bb7cf41e0b256000d81942_1_1035x673.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/c6cbb871a511275622bb7cf41e0b256000d81942_1_1380x898.png 2x"><div class="meta">
 <span class="filename">Screen Shot 2020-02-10 at 6.44.24 AM.png</span><span class="informations">1572x1024 132 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h3>3. Open the BitBay QT Wallet. If your wallet is encrypted with a password, go to Settings &gt; Unlock wallet. Enter your password to unlock the wallet, and make sure the “for staking only” box is unchecked.</h3>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/95ea2bb8bd60da81d890ac1d8e296f48e2830f74.png" data-download-href=".../forum-archive/uploads/default/95ea2bb8bd60da81d890ac1d8e296f48e2830f74" title="Screen Shot 2020-02-10 at 6.54.05 AM.png"><img src=".../forum-archive/uploads/default/original/1X/95ea2bb8bd60da81d890ac1d8e296f48e2830f74.png" alt="05%20AM" width="690" height="251"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/95ea2bb8bd60da81d890ac1d8e296f48e2830f74.png" data-download-href="../../forum-archive/uploads/default/95ea2bb8bd60da81d890ac1d8e296f48e2830f74" title="Screen Shot 2020-02-10 at 6.54.05 AM.png"><img src="../../forum-archive/uploads/default/original/1X/95ea2bb8bd60da81d890ac1d8e296f48e2830f74.png" alt="05%20AM" width="690" height="251"><div class="meta">
 <span class="filename">Screen Shot 2020-02-10 at 6.54.05 AM.png</span><span class="informations">1190x434 43.4 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h3>4. Within the application, go to Help &gt; Debug Window, and click on the “Console” tab. Then paste your copied private key into the following command prompt:</h3>
 <p>importprivkey &lt; copied private key &gt;</p>
 <p>If successful, you will see the command above in blue, without any errors.<br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/3540d002a08e5906f4c3b7eaaff4dbacc166709d.png" data-download-href=".../forum-archive/uploads/default/3540d002a08e5906f4c3b7eaaff4dbacc166709d" title="Screen Shot 2020-02-10 at 6.59.55 AM.png"><img src=".../forum-archive/uploads/default/optimized/1X/3540d002a08e5906f4c3b7eaaff4dbacc166709d_1_685x500.png" alt="55%20AM" width="685" height="500" srcset=".../forum-archive/uploads/default/optimized/1X/3540d002a08e5906f4c3b7eaaff4dbacc166709d_1_685x500.png, .../forum-archive/uploads/default/optimized/1X/3540d002a08e5906f4c3b7eaaff4dbacc166709d_1_1027x750.png 1.5x, .../forum-archive/uploads/default/optimized/1X/3540d002a08e5906f4c3b7eaaff4dbacc166709d_1_1370x1000.png 2x"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/3540d002a08e5906f4c3b7eaaff4dbacc166709d.png" data-download-href="../../forum-archive/uploads/default/3540d002a08e5906f4c3b7eaaff4dbacc166709d" title="Screen Shot 2020-02-10 at 6.59.55 AM.png"><img src="../../forum-archive/uploads/default/optimized/1X/3540d002a08e5906f4c3b7eaaff4dbacc166709d_1_685x500.png" alt="55%20AM" width="685" height="500" srcset="../../forum-archive/uploads/default/optimized/1X/3540d002a08e5906f4c3b7eaaff4dbacc166709d_1_685x500.png, ../../forum-archive/uploads/default/optimized/1X/3540d002a08e5906f4c3b7eaaff4dbacc166709d_1_1027x750.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/3540d002a08e5906f4c3b7eaaff4dbacc166709d_1_1370x1000.png 2x"><div class="meta">
 <span class="filename">Screen Shot 2020-02-10 at 6.59.55 AM.png</span><span class="informations">1466x1070 128 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h3>5. To confirm that the private key importation was a success, click on the "<strong>Receive</strong> tab in the QT Wallet. You will see the associated receive address from your imported private key there.</h3>
@@ -300,22 +300,22 @@
             </blockquote>
             <p>Posts: 4</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-peg-enabled-qt-wallet/2249">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-peg-enabled-qt-wallet/2249">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-peg-enabled-qt-wallet/2249</link>
+          <link>../../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-peg-enabled-qt-wallet/2249</link>
           <pubDate>Mon, 24 Feb 2020 13:07:23 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2249</guid>
-          <source url=".../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-peg-enabled-qt-wallet/2249.rss">How to import your BitBay Web Wallet private key into the peg-enabled QT wallet</source>
+          <source url="../../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-peg-enabled-qt-wallet/2249.rss">How to import your BitBay Web Wallet private key into the peg-enabled QT wallet</source>
         </item>
         <item>
           <title>How much can the liquid supply and price of BAY fluctuate in one day?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <h3>How much can the liquid supply/price of BAY fluctuate in one day?</h3>
 <p>The liquid supply ratio (peg index) can change anywhere between 1–3% per voting session. Since there are approximately 7 voting sessions per day, <strong>in total the supply can fluctuate roughly 19% per day</strong> (1% compounded, 21 times daily).</p>
@@ -326,57 +326,57 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-much-can-the-liquid-supply-and-price-of-bay-fluctuate-in-one-day/2196">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-much-can-the-liquid-supply-and-price-of-bay-fluctuate-in-one-day/2196">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-much-can-the-liquid-supply-and-price-of-bay-fluctuate-in-one-day/2196</link>
+          <link>../../forum-archive/t/how-much-can-the-liquid-supply-and-price-of-bay-fluctuate-in-one-day/2196</link>
           <pubDate>Wed, 29 Jan 2020 14:31:31 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2196</guid>
-          <source url=".../forum-archive/t/how-much-can-the-liquid-supply-and-price-of-bay-fluctuate-in-one-day/2196.rss">How much can the liquid supply and price of BAY fluctuate in one day?</source>
+          <source url="../../forum-archive/t/how-much-can-the-liquid-supply-and-price-of-bay-fluctuate-in-one-day/2196.rss">How much can the liquid supply and price of BAY fluctuate in one day?</source>
         </item>
         <item>
           <title>A quick guide to the Dynamic Peg</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
-              <p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/c2edaef4794cbb06e37de58c38366e54c5c04065.jpeg" data-download-href=".../forum-archive/uploads/default/c2edaef4794cbb06e37de58c38366e54c5c04065" title="bitbay-dynamic-peg-intro-page-001.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/c2edaef4794cbb06e37de58c38366e54c5c04065_1_353x500.jpeg" alt="bitbay-dynamic-peg-intro-page-001" width="353" height="500" srcset=".../forum-archive/uploads/default/optimized/1X/c2edaef4794cbb06e37de58c38366e54c5c04065_1_353x500.jpeg, .../forum-archive/uploads/default/optimized/1X/c2edaef4794cbb06e37de58c38366e54c5c04065_1_529x750.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/c2edaef4794cbb06e37de58c38366e54c5c04065_1_706x1000.jpeg 2x"><div class="meta">
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/c2edaef4794cbb06e37de58c38366e54c5c04065.jpeg" data-download-href="../../forum-archive/uploads/default/c2edaef4794cbb06e37de58c38366e54c5c04065" title="bitbay-dynamic-peg-intro-page-001.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/c2edaef4794cbb06e37de58c38366e54c5c04065_1_353x500.jpeg" alt="bitbay-dynamic-peg-intro-page-001" width="353" height="500" srcset="../../forum-archive/uploads/default/optimized/1X/c2edaef4794cbb06e37de58c38366e54c5c04065_1_353x500.jpeg, ../../forum-archive/uploads/default/optimized/1X/c2edaef4794cbb06e37de58c38366e54c5c04065_1_529x750.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/c2edaef4794cbb06e37de58c38366e54c5c04065_1_706x1000.jpeg 2x"><div class="meta">
 <span class="filename">bitbay-dynamic-peg-intro-page-001.jpg</span><span class="informations">2480x3508 232 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/6394b786db4b2941bd8aa83d12d5b4163c579724.jpeg" data-download-href=".../forum-archive/uploads/default/6394b786db4b2941bd8aa83d12d5b4163c579724" title="bitbay-dynamic-peg-intro-page-002.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/6394b786db4b2941bd8aa83d12d5b4163c579724_1_353x500.jpeg" alt="bitbay-dynamic-peg-intro-page-002" width="353" height="500" srcset=".../forum-archive/uploads/default/optimized/1X/6394b786db4b2941bd8aa83d12d5b4163c579724_1_353x500.jpeg, .../forum-archive/uploads/default/optimized/1X/6394b786db4b2941bd8aa83d12d5b4163c579724_1_529x750.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/6394b786db4b2941bd8aa83d12d5b4163c579724_1_706x1000.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/6394b786db4b2941bd8aa83d12d5b4163c579724.jpeg" data-download-href="../../forum-archive/uploads/default/6394b786db4b2941bd8aa83d12d5b4163c579724" title="bitbay-dynamic-peg-intro-page-002.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/6394b786db4b2941bd8aa83d12d5b4163c579724_1_353x500.jpeg" alt="bitbay-dynamic-peg-intro-page-002" width="353" height="500" srcset="../../forum-archive/uploads/default/optimized/1X/6394b786db4b2941bd8aa83d12d5b4163c579724_1_353x500.jpeg, ../../forum-archive/uploads/default/optimized/1X/6394b786db4b2941bd8aa83d12d5b4163c579724_1_529x750.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/6394b786db4b2941bd8aa83d12d5b4163c579724_1_706x1000.jpeg 2x"><div class="meta">
 <span class="filename">bitbay-dynamic-peg-intro-page-002.jpg</span><span class="informations">2480x3508 95.4 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/1672c0502af939b38191872ac1be84749794aa80.jpeg" data-download-href=".../forum-archive/uploads/default/1672c0502af939b38191872ac1be84749794aa80" title="bitbay-dynamic-peg-intro-page-003.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/1672c0502af939b38191872ac1be84749794aa80_1_353x500.jpeg" alt="bitbay-dynamic-peg-intro-page-003" width="353" height="500" srcset=".../forum-archive/uploads/default/optimized/1X/1672c0502af939b38191872ac1be84749794aa80_1_353x500.jpeg, .../forum-archive/uploads/default/optimized/1X/1672c0502af939b38191872ac1be84749794aa80_1_529x750.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/1672c0502af939b38191872ac1be84749794aa80_1_706x1000.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/1672c0502af939b38191872ac1be84749794aa80.jpeg" data-download-href="../../forum-archive/uploads/default/1672c0502af939b38191872ac1be84749794aa80" title="bitbay-dynamic-peg-intro-page-003.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/1672c0502af939b38191872ac1be84749794aa80_1_353x500.jpeg" alt="bitbay-dynamic-peg-intro-page-003" width="353" height="500" srcset="../../forum-archive/uploads/default/optimized/1X/1672c0502af939b38191872ac1be84749794aa80_1_353x500.jpeg, ../../forum-archive/uploads/default/optimized/1X/1672c0502af939b38191872ac1be84749794aa80_1_529x750.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/1672c0502af939b38191872ac1be84749794aa80_1_706x1000.jpeg 2x"><div class="meta">
 <span class="filename">bitbay-dynamic-peg-intro-page-003.jpg</span><span class="informations">2480x3508 223 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/7110f73583312186be1981673446beda6d804753.jpeg" data-download-href=".../forum-archive/uploads/default/7110f73583312186be1981673446beda6d804753" title="bitbay-dynamic-peg-intro-page-004.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/7110f73583312186be1981673446beda6d804753_1_353x500.jpeg" alt="bitbay-dynamic-peg-intro-page-004" width="353" height="500" srcset=".../forum-archive/uploads/default/optimized/1X/7110f73583312186be1981673446beda6d804753_1_353x500.jpeg, .../forum-archive/uploads/default/optimized/1X/7110f73583312186be1981673446beda6d804753_1_529x750.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/7110f73583312186be1981673446beda6d804753_1_706x1000.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/7110f73583312186be1981673446beda6d804753.jpeg" data-download-href="../../forum-archive/uploads/default/7110f73583312186be1981673446beda6d804753" title="bitbay-dynamic-peg-intro-page-004.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/7110f73583312186be1981673446beda6d804753_1_353x500.jpeg" alt="bitbay-dynamic-peg-intro-page-004" width="353" height="500" srcset="../../forum-archive/uploads/default/optimized/1X/7110f73583312186be1981673446beda6d804753_1_353x500.jpeg, ../../forum-archive/uploads/default/optimized/1X/7110f73583312186be1981673446beda6d804753_1_529x750.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/7110f73583312186be1981673446beda6d804753_1_706x1000.jpeg 2x"><div class="meta">
 <span class="filename">bitbay-dynamic-peg-intro-page-004.jpg</span><span class="informations">2480x3508 466 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/170377d346b1f1666aacb93b42f1ef926f7626c0.jpeg" data-download-href=".../forum-archive/uploads/default/170377d346b1f1666aacb93b42f1ef926f7626c0" title="bitbay-dynamic-peg-intro-page-006.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/170377d346b1f1666aacb93b42f1ef926f7626c0_1_353x500.jpeg" alt="bitbay-dynamic-peg-intro-page-006" width="353" height="500" srcset=".../forum-archive/uploads/default/optimized/1X/170377d346b1f1666aacb93b42f1ef926f7626c0_1_353x500.jpeg, .../forum-archive/uploads/default/optimized/1X/170377d346b1f1666aacb93b42f1ef926f7626c0_1_529x750.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/170377d346b1f1666aacb93b42f1ef926f7626c0_1_706x1000.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/170377d346b1f1666aacb93b42f1ef926f7626c0.jpeg" data-download-href="../../forum-archive/uploads/default/170377d346b1f1666aacb93b42f1ef926f7626c0" title="bitbay-dynamic-peg-intro-page-006.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/170377d346b1f1666aacb93b42f1ef926f7626c0_1_353x500.jpeg" alt="bitbay-dynamic-peg-intro-page-006" width="353" height="500" srcset="../../forum-archive/uploads/default/optimized/1X/170377d346b1f1666aacb93b42f1ef926f7626c0_1_353x500.jpeg, ../../forum-archive/uploads/default/optimized/1X/170377d346b1f1666aacb93b42f1ef926f7626c0_1_529x750.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/170377d346b1f1666aacb93b42f1ef926f7626c0_1_706x1000.jpeg 2x"><div class="meta">
 <span class="filename">bitbay-dynamic-peg-intro-page-006.jpg</span><span class="informations">2480x3508 276 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/709eb7e75f131c1c9b3a6ce73b65a4bddd3d8a57.jpeg" data-download-href=".../forum-archive/uploads/default/709eb7e75f131c1c9b3a6ce73b65a4bddd3d8a57" title="bitbay-dynamic-peg-intro-page-007.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/709eb7e75f131c1c9b3a6ce73b65a4bddd3d8a57_1_353x500.jpeg" alt="bitbay-dynamic-peg-intro-page-007" width="353" height="500" srcset=".../forum-archive/uploads/default/optimized/1X/709eb7e75f131c1c9b3a6ce73b65a4bddd3d8a57_1_353x500.jpeg, .../forum-archive/uploads/default/optimized/1X/709eb7e75f131c1c9b3a6ce73b65a4bddd3d8a57_1_529x750.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/709eb7e75f131c1c9b3a6ce73b65a4bddd3d8a57_1_706x1000.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/709eb7e75f131c1c9b3a6ce73b65a4bddd3d8a57.jpeg" data-download-href="../../forum-archive/uploads/default/709eb7e75f131c1c9b3a6ce73b65a4bddd3d8a57" title="bitbay-dynamic-peg-intro-page-007.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/709eb7e75f131c1c9b3a6ce73b65a4bddd3d8a57_1_353x500.jpeg" alt="bitbay-dynamic-peg-intro-page-007" width="353" height="500" srcset="../../forum-archive/uploads/default/optimized/1X/709eb7e75f131c1c9b3a6ce73b65a4bddd3d8a57_1_353x500.jpeg, ../../forum-archive/uploads/default/optimized/1X/709eb7e75f131c1c9b3a6ce73b65a4bddd3d8a57_1_529x750.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/709eb7e75f131c1c9b3a6ce73b65a4bddd3d8a57_1_706x1000.jpeg 2x"><div class="meta">
 <span class="filename">bitbay-dynamic-peg-intro-page-007.jpg</span><span class="informations">2480x3508 349 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/88ff082b325b1b2336effa529fa48204dc0f2c98.jpeg" data-download-href=".../forum-archive/uploads/default/88ff082b325b1b2336effa529fa48204dc0f2c98" title="bitbay-dynamic-peg-intro-page-008.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/88ff082b325b1b2336effa529fa48204dc0f2c98_1_353x500.jpeg" alt="bitbay-dynamic-peg-intro-page-008" width="353" height="500" srcset=".../forum-archive/uploads/default/optimized/1X/88ff082b325b1b2336effa529fa48204dc0f2c98_1_353x500.jpeg, .../forum-archive/uploads/default/optimized/1X/88ff082b325b1b2336effa529fa48204dc0f2c98_1_529x750.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/88ff082b325b1b2336effa529fa48204dc0f2c98_1_706x1000.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/88ff082b325b1b2336effa529fa48204dc0f2c98.jpeg" data-download-href="../../forum-archive/uploads/default/88ff082b325b1b2336effa529fa48204dc0f2c98" title="bitbay-dynamic-peg-intro-page-008.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/88ff082b325b1b2336effa529fa48204dc0f2c98_1_353x500.jpeg" alt="bitbay-dynamic-peg-intro-page-008" width="353" height="500" srcset="../../forum-archive/uploads/default/optimized/1X/88ff082b325b1b2336effa529fa48204dc0f2c98_1_353x500.jpeg, ../../forum-archive/uploads/default/optimized/1X/88ff082b325b1b2336effa529fa48204dc0f2c98_1_529x750.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/88ff082b325b1b2336effa529fa48204dc0f2c98_1_706x1000.jpeg 2x"><div class="meta">
 <span class="filename">bitbay-dynamic-peg-intro-page-008.jpg</span><span class="informations">2480x3508 87.1 KB</span><span class="expand"></span>
 </div></a></div></p>
             </blockquote>
             <p>Posts: 7</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207</link>
+          <link>../../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207</link>
           <pubDate>Thu, 30 Jan 2020 14:39:41 +0000</pubDate>
           <discourse:topicPinned>Yes</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2207</guid>
-          <source url=".../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207.rss">A quick guide to the Dynamic Peg</source>
+          <source url="../../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207.rss">A quick guide to the Dynamic Peg</source>
         </item>
         <item>
           <title>How can investors benefit from BitBay’s Dynamic Peg?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p><strong>How can investors benefit from BitBay’s Dynamic Peg?</strong></p>
 <p>There are many lucrative benefits to for investors who hold BAY:</p>
@@ -418,32 +418,32 @@
 <li>Anti-keylogger</li>
 </ul>
 <p><strong>Simplicity —</strong></p>
-<p>No need for expensive mining equipment to earn passive income. With BitBay’s <a href=".../forum-archive/uploads/default/original/1X/a82b35edf21dee2cded2624d82fad28e6c1f4682.pdf">Proof of Stake 3</a>, anyone who holds BAY can earn newly minted coins (in the form of stake rewards) with a simple laptop computer.</p>
+<p>No need for expensive mining equipment to earn passive income. With BitBay’s <a href="../../forum-archive/uploads/default/original/1X/a82b35edf21dee2cded2624d82fad28e6c1f4682.pdf">Proof of Stake 3</a>, anyone who holds BAY can earn newly minted coins (in the form of stake rewards) with a simple laptop computer.</p>
 <p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-can-investors-benefit-from-bitbay-s-dynamic-peg/2182">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-can-investors-benefit-from-bitbay-s-dynamic-peg/2182">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-can-investors-benefit-from-bitbay-s-dynamic-peg/2182</link>
+          <link>../../forum-archive/t/how-can-investors-benefit-from-bitbay-s-dynamic-peg/2182</link>
           <pubDate>Wed, 29 Jan 2020 14:20:01 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2182</guid>
-          <source url=".../forum-archive/t/how-can-investors-benefit-from-bitbay-s-dynamic-peg/2182.rss">How can investors benefit from BitBay’s Dynamic Peg?</source>
+          <source url="../../forum-archive/t/how-can-investors-benefit-from-bitbay-s-dynamic-peg/2182.rss">How can investors benefit from BitBay’s Dynamic Peg?</source>
         </item>
         <item>
           <title>How do I participate in voting with the Dynamic Peg?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p>Since each vote is attached to a stake reward, any user who wishes to vote must run a full BitBay node.</p>
 <p>To run a node, the latest version of either the <strong><a href="https://bitbay.market/downloads/">BitBay Markets Client or QT wallet must be installed</a></strong> and synced prior to voting.</p>
 <p>Once your wallet is installed, you can vote by going to the “staking tab” in both the Markets Client and Qt Wallet. There you will be able to select your vote preference:</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/1f4f1798c45046937581c475155012a1837f34e7.png" data-download-href=".../forum-archive/uploads/default/1f4f1798c45046937581c475155012a1837f34e7" title="Screen Shot 2020-02-18 at 4.32.55 AM.png"><img src=".../forum-archive/uploads/default/original/1X/1f4f1798c45046937581c475155012a1837f34e7.png" alt="55%20AM" width="690" height="311"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/1f4f1798c45046937581c475155012a1837f34e7.png" data-download-href="../../forum-archive/uploads/default/1f4f1798c45046937581c475155012a1837f34e7" title="Screen Shot 2020-02-18 at 4.32.55 AM.png"><img src="../../forum-archive/uploads/default/original/1X/1f4f1798c45046937581c475155012a1837f34e7.png" alt="55%20AM" width="690" height="311"><div class="meta">
 <span class="filename">Screen Shot 2020-02-18 at 4.32.55 AM.png</span><span class="informations">962x434 24.5 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h3>Automatic:</h3>
@@ -469,22 +469,22 @@ As a hard-coded rule in the Markets Client only, voters must remain active with 
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241</link>
+          <link>../../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241</link>
           <pubDate>Tue, 18 Feb 2020 12:34:35 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2241</guid>
-          <source url=".../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241.rss">How do I participate in voting with the Dynamic Peg?</source>
+          <source url="../../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241.rss">How do I participate in voting with the Dynamic Peg?</source>
         </item>
         <item>
           <title>Why are my deposits and withdrawals taking so long on the exchange?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <h3>Why are my deposits and withdrawals taking so long with LA Token?</h3>
 <p>To ensure accurate liquidity calculations, LA Token only completes deposits within a 20 block time buffer before each peg index interval, and will show as “pending” until this buffer is reached.</p>
@@ -499,22 +499,22 @@ As a hard-coded rule in the Markets Client only, voters must remain active with 
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/why-are-my-deposits-and-withdrawals-taking-so-long-on-the-exchange/2250">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/why-are-my-deposits-and-withdrawals-taking-so-long-on-the-exchange/2250">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/why-are-my-deposits-and-withdrawals-taking-so-long-on-the-exchange/2250</link>
+          <link>../../forum-archive/t/why-are-my-deposits-and-withdrawals-taking-so-long-on-the-exchange/2250</link>
           <pubDate>Mon, 24 Feb 2020 13:33:44 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2250</guid>
-          <source url=".../forum-archive/t/why-are-my-deposits-and-withdrawals-taking-so-long-on-the-exchange/2250.rss">Why are my deposits and withdrawals taking so long on the exchange?</source>
+          <source url="../../forum-archive/t/why-are-my-deposits-and-withdrawals-taking-so-long-on-the-exchange/2250.rss">Why are my deposits and withdrawals taking so long on the exchange?</source>
         </item>
         <item>
           <title>What advantage does BitBay’s Dynamic Peg have over traditional fiat currency management?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p><strong>What advantage does BitBay’s Dynamic Peg have over traditional fiat currency management?</strong></p>
 <p>The Dynamic Peg has many advantages over fiat currency management systems.</p>
@@ -543,22 +543,22 @@ As a hard-coded rule in the Markets Client only, voters must remain active with 
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/what-advantage-does-bitbay-s-dynamic-peg-have-over-traditional-fiat-currency-management/2188">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/what-advantage-does-bitbay-s-dynamic-peg-have-over-traditional-fiat-currency-management/2188">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/what-advantage-does-bitbay-s-dynamic-peg-have-over-traditional-fiat-currency-management/2188</link>
+          <link>../../forum-archive/t/what-advantage-does-bitbay-s-dynamic-peg-have-over-traditional-fiat-currency-management/2188</link>
           <pubDate>Wed, 29 Jan 2020 14:24:27 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2188</guid>
-          <source url=".../forum-archive/t/what-advantage-does-bitbay-s-dynamic-peg-have-over-traditional-fiat-currency-management/2188.rss">What advantage does BitBay’s Dynamic Peg have over traditional fiat currency management?</source>
+          <source url="../../forum-archive/t/what-advantage-does-bitbay-s-dynamic-peg-have-over-traditional-fiat-currency-management/2188.rss">What advantage does BitBay’s Dynamic Peg have over traditional fiat currency management?</source>
         </item>
         <item>
           <title>If nothing is backing the coin, what enforces its price?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <h3>If nothing is backing the coin, what enforces its price?</h3>
 <p>The price of BAY is enforced due to a change in liquidity of the coin supply. This change is voted on by stakers 7 times per day.</p>
@@ -587,22 +587,22 @@ As a hard-coded rule in the Markets Client only, voters must remain active with 
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/if-nothing-is-backing-the-coin-what-enforces-its-price/2179">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/if-nothing-is-backing-the-coin-what-enforces-its-price/2179">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/if-nothing-is-backing-the-coin-what-enforces-its-price/2179</link>
+          <link>../../forum-archive/t/if-nothing-is-backing-the-coin-what-enforces-its-price/2179</link>
           <pubDate>Wed, 29 Jan 2020 14:17:20 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2179</guid>
-          <source url=".../forum-archive/t/if-nothing-is-backing-the-coin-what-enforces-its-price/2179.rss">If nothing is backing the coin, what enforces its price?</source>
+          <source url="../../forum-archive/t/if-nothing-is-backing-the-coin-what-enforces-its-price/2179.rss">If nothing is backing the coin, what enforces its price?</source>
         </item>
         <item>
           <title>Does the Dynamic Peg make BitBay a “stablecoin”?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p><strong>Does the Dynamic Peg make BitBay a “stablecoin”?</strong></p>
 <p>In short, no.</p>
@@ -610,7 +610,7 @@ As a hard-coded rule in the Markets Client only, voters must remain active with 
 <p>BitBay’s Dynamic Peg is an entirely different animal.</p>
 <ul>
 <li>It is not backed by ANY collateral, and there are no “reserves”.</li>
-<li>It is not an Ethereum based (erc20) token, BAY has its own blockchain. <img src=".../forum-archive/images/emoji/twitter/slight_smile.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:">
+<li>It is not an Ethereum based (erc20) token, BAY has its own blockchain. <img src="../../forum-archive/images/emoji/twitter/slight_smile.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:">
 </li>
 <li>It is not fixed to any specific price (such as the US Dollar), and is free to move (within limits) in accordance to stakers’ consensus.</li>
 <li>It is a highly decentralized system.</li>
@@ -620,22 +620,22 @@ As a hard-coded rule in the Markets Client only, voters must remain active with 
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/does-the-dynamic-peg-make-bitbay-a-stablecoin/2176">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/does-the-dynamic-peg-make-bitbay-a-stablecoin/2176">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/does-the-dynamic-peg-make-bitbay-a-stablecoin/2176</link>
+          <link>../../forum-archive/t/does-the-dynamic-peg-make-bitbay-a-stablecoin/2176</link>
           <pubDate>Wed, 29 Jan 2020 14:13:35 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2176</guid>
-          <source url=".../forum-archive/t/does-the-dynamic-peg-make-bitbay-a-stablecoin/2176.rss">Does the Dynamic Peg make BitBay a “stablecoin”?</source>
+          <source url="../../forum-archive/t/does-the-dynamic-peg-make-bitbay-a-stablecoin/2176.rss">Does the Dynamic Peg make BitBay a “stablecoin”?</source>
         </item>
         <item>
           <title>What determines the amount of BAY received for stake rewards?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p>The amount received as a stake reward is dependent upon the status of liquidity for the input that is staked.</p>
 <ul>
@@ -653,7 +653,7 @@ As a hard-coded rule in the Markets Client only, voters must remain active with 
 </li>
 </ul>
 <p>Keep in mind, the Dynamic Peg index is frequently changing the total coin supply’s ratio of Liquid to Reserve</p>
-<p><img src=".../forum-archive/uploads/default/original/1X/dda81672ace54e3b9d1ae270b75a23cf049f70bc.png" alt="02%20AM" width="274" height="108"></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/dda81672ace54e3b9d1ae270b75a23cf049f70bc.png" alt="02%20AM" width="274" height="108"></p>
 <p>If the Peg index (shown above) is <strong>between 50 and 100</strong>, you will have a <strong>higher ratio of Liquid (Spendable)</strong> coins, and therefore have a higher chance of earning <strong>5 BAY</strong> rewards.</p>
 <p>If the Peg index meter (shown above) is <strong>between 0 and 50</strong>, you will have a <strong>higher ratio of Reserve</strong> coins, and therefore have a higher chance of earning <strong>10 BAY</strong> rewards.</p>
 <p>***Note:<br>
@@ -666,29 +666,29 @@ The stake rewards that are earned from voluntarily frozen inputs will be receive
 <li>This 40 BAY stake reward will also remain frozen (along with Bob’s 100,000 frozen BAY input) until <strong>May 1</strong>.</li>
 </ol>
 <p><strong><em>If Bob checks the “Reward to Address”</em></strong> option in the Staking tab of the QT Wallet, and sends his reward to a separate address, the 40 BAY will not be frozen. Instead, it will be a mix of liquid (<em>spendable</em>) and reserve, depending on what the current peg index is at the time of receiving it.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e.png" data-download-href=".../forum-archive/uploads/default/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e" title="Screen Shot 2020-02-10 at 6.33.27 AM.png"><img src=".../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_690x59.png" alt="27%20AM" width="690" height="59" srcset=".../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_690x59.png, .../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_1035x88.png 1.5x, .../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_1380x118.png 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e.png" data-download-href="../../forum-archive/uploads/default/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e" title="Screen Shot 2020-02-10 at 6.33.27 AM.png"><img src="../../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_690x59.png" alt="27%20AM" width="690" height="59" srcset="../../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_690x59.png, ../../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_1035x88.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_1380x118.png 2x"><div class="meta">
 <span class="filename">Screen Shot 2020-02-10 at 6.33.27 AM.png</span><span class="informations">1674x144 9.13 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226</link>
+          <link>../../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226</link>
           <pubDate>Mon, 10 Feb 2020 14:36:56 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2226</guid>
-          <source url=".../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226.rss">What determines the amount of BAY received for stake rewards?</source>
+          <source url="../../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226.rss">What determines the amount of BAY received for stake rewards?</source>
         </item>
         <item>
           <title>How to update the Client and/or QT wallet to the latest version</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <h1>How to update the Client and/or QT wallet to the latest version</h1>
 <p><em>***Note: All download links on the BitBay site point to the latest version</em></p>
@@ -739,7 +739,7 @@ The stake rewards that are earned from voluntarily frozen inputs will be receive
       <a href="https://github.com/bitbaymarket/bitbay-bootstrap/releases/tag/v1" target="_blank">GitHub</a>
   </header>
   <article class="onebox-body">
-    <img src=".../forum-archive/uploads/default/original/1X/39c005a4f992d7d3f19e731098e5d205a16f89e5.png" class="thumbnail onebox-avatar" width="420" height="420">
+    <img src="../../forum-archive/uploads/default/original/1X/39c005a4f992d7d3f19e731098e5d205a16f89e5.png" class="thumbnail onebox-avatar" width="420" height="420">
 
 <h3><a href="https://github.com/bitbaymarket/bitbay-bootstrap/releases/tag/v1" target="_blank">bitbaymarket/bitbay-bootstrap</a></h3>
 
@@ -771,44 +771,44 @@ The stake rewards that are earned from voluntarily frozen inputs will be receive
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2235">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2235">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2235</link>
+          <link>../../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2235</link>
           <pubDate>Sun, 16 Feb 2020 21:42:25 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2235</guid>
-          <source url=".../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2235.rss">How to update the Client and/or QT wallet to the latest version</source>
+          <source url="../../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2235.rss">How to update the Client and/or QT wallet to the latest version</source>
         </item>
         <item>
           <title>About the Dynamic Peg - FAQ category</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p>All of your Dynamic Peg related questions answered here.</p>
 <p><em>(If you don’t see your question listed, post it below. It will get answered ASAP.)</em></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/about-the-dynamic-peg-faq-category/2175">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/about-the-dynamic-peg-faq-category/2175">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/about-the-dynamic-peg-faq-category/2175</link>
+          <link>../../forum-archive/t/about-the-dynamic-peg-faq-category/2175</link>
           <pubDate>Wed, 29 Jan 2020 14:04:36 +0000</pubDate>
           <discourse:topicPinned>Yes</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2175</guid>
-          <source url=".../forum-archive/t/about-the-dynamic-peg-faq-category/2175.rss">About the Dynamic Peg - FAQ category</source>
+          <source url="../../forum-archive/t/about-the-dynamic-peg-faq-category/2175.rss">About the Dynamic Peg - FAQ category</source>
         </item>
         <item>
           <title>How does the Dynamic Peg handle “black swan events” such as an extreme decline in demand, market shock, etc.?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p><strong>How does the Dynamic Peg handle “black swan events” such as an extreme decline in demand, market shock, etc.?</strong></p>
 <p>Throughout its entire design, the Dynamic Peg excels at adaptability. No matter how extreme of an event occurs, the supply of Liquid BAY will adjust to meet demand.</p>
@@ -818,22 +818,22 @@ The stake rewards that are earned from voluntarily frozen inputs will be receive
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187</link>
+          <link>../../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187</link>
           <pubDate>Wed, 29 Jan 2020 14:23:08 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2187</guid>
-          <source url=".../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187.rss">How does the Dynamic Peg handle “black swan events” such as an extreme decline in demand, market shock, etc.?</source>
+          <source url="../../forum-archive/t/how-does-the-dynamic-peg-handle-black-swan-events-such-as-an-extreme-decline-in-demand-market-shock-etc/2187.rss">How does the Dynamic Peg handle “black swan events” such as an extreme decline in demand, market shock, etc.?</source>
         </item>
         <item>
           <title>How often do votes change the supply liquidity?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p><strong>How often do votes change the supply liquidity?</strong></p>
 <p>As of now, the consensus intervals are at an even 200 blocks, starting at “0”. As each block is approximately 64 seconds, this interval occurs roughly every 3.5 hours… or about 7 voting sessions per day.</p>
@@ -842,100 +842,100 @@ The stake rewards that are earned from voluntarily frozen inputs will be receive
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195</link>
+          <link>../../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195</link>
           <pubDate>Wed, 29 Jan 2020 14:31:01 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2195</guid>
-          <source url=".../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195.rss">How often do votes change the supply liquidity?</source>
+          <source url="../../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195.rss">How often do votes change the supply liquidity?</source>
         </item>
         <item>
           <title>QT Wallet - A comprehensive guide</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <h1>This guide covers every feature within the BitBay QT wallet:</h1>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/b598f1d6da989b76f424a3b557e576ae4522e8f8.jpeg" data-download-href=".../forum-archive/uploads/default/b598f1d6da989b76f424a3b557e576ae4522e8f8" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-001.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/b598f1d6da989b76f424a3b557e576ae4522e8f8_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-001" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/b598f1d6da989b76f424a3b557e576ae4522e8f8_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/b598f1d6da989b76f424a3b557e576ae4522e8f8_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/b598f1d6da989b76f424a3b557e576ae4522e8f8_1_1380x892.jpeg 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/b598f1d6da989b76f424a3b557e576ae4522e8f8.jpeg" data-download-href="../../forum-archive/uploads/default/b598f1d6da989b76f424a3b557e576ae4522e8f8" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-001.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/b598f1d6da989b76f424a3b557e576ae4522e8f8_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-001" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/b598f1d6da989b76f424a3b557e576ae4522e8f8_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/b598f1d6da989b76f424a3b557e576ae4522e8f8_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/b598f1d6da989b76f424a3b557e576ae4522e8f8_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-001.jpg</span><span class="informations">5100x3300 263 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/e05d94eacbfe354f226c85e5db3e08c6af266a1f.jpeg" data-download-href=".../forum-archive/uploads/default/e05d94eacbfe354f226c85e5db3e08c6af266a1f" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-002.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/e05d94eacbfe354f226c85e5db3e08c6af266a1f_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-002" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/e05d94eacbfe354f226c85e5db3e08c6af266a1f_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/e05d94eacbfe354f226c85e5db3e08c6af266a1f_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/e05d94eacbfe354f226c85e5db3e08c6af266a1f_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/e05d94eacbfe354f226c85e5db3e08c6af266a1f.jpeg" data-download-href="../../forum-archive/uploads/default/e05d94eacbfe354f226c85e5db3e08c6af266a1f" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-002.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/e05d94eacbfe354f226c85e5db3e08c6af266a1f_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-002" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/e05d94eacbfe354f226c85e5db3e08c6af266a1f_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/e05d94eacbfe354f226c85e5db3e08c6af266a1f_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/e05d94eacbfe354f226c85e5db3e08c6af266a1f_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-002.jpg</span><span class="informations">5100x3300 537 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/8c2b869a13b1d738a3353c7110d4aa61d1c95f44.jpeg" data-download-href=".../forum-archive/uploads/default/8c2b869a13b1d738a3353c7110d4aa61d1c95f44" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-004.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/8c2b869a13b1d738a3353c7110d4aa61d1c95f44_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-004" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/8c2b869a13b1d738a3353c7110d4aa61d1c95f44_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/8c2b869a13b1d738a3353c7110d4aa61d1c95f44_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/8c2b869a13b1d738a3353c7110d4aa61d1c95f44_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/8c2b869a13b1d738a3353c7110d4aa61d1c95f44.jpeg" data-download-href="../../forum-archive/uploads/default/8c2b869a13b1d738a3353c7110d4aa61d1c95f44" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-004.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/8c2b869a13b1d738a3353c7110d4aa61d1c95f44_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-004" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/8c2b869a13b1d738a3353c7110d4aa61d1c95f44_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/8c2b869a13b1d738a3353c7110d4aa61d1c95f44_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/8c2b869a13b1d738a3353c7110d4aa61d1c95f44_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-004.jpg</span><span class="informations">5100x3300 858 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/6403ce12be10bf876442560f0bcae3ef65001a38.jpeg" data-download-href=".../forum-archive/uploads/default/6403ce12be10bf876442560f0bcae3ef65001a38" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-005.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/6403ce12be10bf876442560f0bcae3ef65001a38_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-005" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/6403ce12be10bf876442560f0bcae3ef65001a38_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/6403ce12be10bf876442560f0bcae3ef65001a38_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/6403ce12be10bf876442560f0bcae3ef65001a38_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/6403ce12be10bf876442560f0bcae3ef65001a38.jpeg" data-download-href="../../forum-archive/uploads/default/6403ce12be10bf876442560f0bcae3ef65001a38" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-005.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/6403ce12be10bf876442560f0bcae3ef65001a38_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-005" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/6403ce12be10bf876442560f0bcae3ef65001a38_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/6403ce12be10bf876442560f0bcae3ef65001a38_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/6403ce12be10bf876442560f0bcae3ef65001a38_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-005.jpg</span><span class="informations">5100x3300 623 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/3fdc6c60ad56246958fa9bde827662fcf368e75e.jpeg" data-download-href=".../forum-archive/uploads/default/3fdc6c60ad56246958fa9bde827662fcf368e75e" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-006.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/3fdc6c60ad56246958fa9bde827662fcf368e75e_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-006" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/3fdc6c60ad56246958fa9bde827662fcf368e75e_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/3fdc6c60ad56246958fa9bde827662fcf368e75e_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/3fdc6c60ad56246958fa9bde827662fcf368e75e_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/3fdc6c60ad56246958fa9bde827662fcf368e75e.jpeg" data-download-href="../../forum-archive/uploads/default/3fdc6c60ad56246958fa9bde827662fcf368e75e" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-006.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/3fdc6c60ad56246958fa9bde827662fcf368e75e_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-006" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/3fdc6c60ad56246958fa9bde827662fcf368e75e_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/3fdc6c60ad56246958fa9bde827662fcf368e75e_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/3fdc6c60ad56246958fa9bde827662fcf368e75e_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-006.jpg</span><span class="informations">5100x3300 174 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/486c6cf241a7af9c30178c985d2310f46ede3091.jpeg" data-download-href=".../forum-archive/uploads/default/486c6cf241a7af9c30178c985d2310f46ede3091" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-007.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/486c6cf241a7af9c30178c985d2310f46ede3091_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-007" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/486c6cf241a7af9c30178c985d2310f46ede3091_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/486c6cf241a7af9c30178c985d2310f46ede3091_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/486c6cf241a7af9c30178c985d2310f46ede3091_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/486c6cf241a7af9c30178c985d2310f46ede3091.jpeg" data-download-href="../../forum-archive/uploads/default/486c6cf241a7af9c30178c985d2310f46ede3091" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-007.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/486c6cf241a7af9c30178c985d2310f46ede3091_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-007" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/486c6cf241a7af9c30178c985d2310f46ede3091_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/486c6cf241a7af9c30178c985d2310f46ede3091_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/486c6cf241a7af9c30178c985d2310f46ede3091_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-007.jpg</span><span class="informations">5100x3300 812 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/57b06f4c68e2eb5d6c9218dc74dc04970e79dc09.jpeg" data-download-href=".../forum-archive/uploads/default/57b06f4c68e2eb5d6c9218dc74dc04970e79dc09" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-008.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/57b06f4c68e2eb5d6c9218dc74dc04970e79dc09_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-008" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/57b06f4c68e2eb5d6c9218dc74dc04970e79dc09_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/57b06f4c68e2eb5d6c9218dc74dc04970e79dc09_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/57b06f4c68e2eb5d6c9218dc74dc04970e79dc09_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/57b06f4c68e2eb5d6c9218dc74dc04970e79dc09.jpeg" data-download-href="../../forum-archive/uploads/default/57b06f4c68e2eb5d6c9218dc74dc04970e79dc09" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-008.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/57b06f4c68e2eb5d6c9218dc74dc04970e79dc09_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-008" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/57b06f4c68e2eb5d6c9218dc74dc04970e79dc09_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/57b06f4c68e2eb5d6c9218dc74dc04970e79dc09_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/57b06f4c68e2eb5d6c9218dc74dc04970e79dc09_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-008.jpg</span><span class="informations">5100x3300 344 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/31961f0db344648c540db2ce38e8e0fac55a49b1.jpeg" data-download-href=".../forum-archive/uploads/default/31961f0db344648c540db2ce38e8e0fac55a49b1" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-009.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/31961f0db344648c540db2ce38e8e0fac55a49b1_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-009" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/31961f0db344648c540db2ce38e8e0fac55a49b1_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/31961f0db344648c540db2ce38e8e0fac55a49b1_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/31961f0db344648c540db2ce38e8e0fac55a49b1_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/31961f0db344648c540db2ce38e8e0fac55a49b1.jpeg" data-download-href="../../forum-archive/uploads/default/31961f0db344648c540db2ce38e8e0fac55a49b1" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-009.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/31961f0db344648c540db2ce38e8e0fac55a49b1_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-009" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/31961f0db344648c540db2ce38e8e0fac55a49b1_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/31961f0db344648c540db2ce38e8e0fac55a49b1_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/31961f0db344648c540db2ce38e8e0fac55a49b1_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-009.jpg</span><span class="informations">5100x3300 638 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/ca8fe3114bdf08696483b38d59ffc381bbdd695f.jpeg" data-download-href=".../forum-archive/uploads/default/ca8fe3114bdf08696483b38d59ffc381bbdd695f" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-010.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/ca8fe3114bdf08696483b38d59ffc381bbdd695f_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-010" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/ca8fe3114bdf08696483b38d59ffc381bbdd695f_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/ca8fe3114bdf08696483b38d59ffc381bbdd695f_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/ca8fe3114bdf08696483b38d59ffc381bbdd695f_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/ca8fe3114bdf08696483b38d59ffc381bbdd695f.jpeg" data-download-href="../../forum-archive/uploads/default/ca8fe3114bdf08696483b38d59ffc381bbdd695f" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-010.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/ca8fe3114bdf08696483b38d59ffc381bbdd695f_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-010" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/ca8fe3114bdf08696483b38d59ffc381bbdd695f_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/ca8fe3114bdf08696483b38d59ffc381bbdd695f_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/ca8fe3114bdf08696483b38d59ffc381bbdd695f_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-010.jpg</span><span class="informations">5100x3300 381 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/63172483eb020a29b84571f29f7c92bf94e2bae1.jpeg" data-download-href=".../forum-archive/uploads/default/63172483eb020a29b84571f29f7c92bf94e2bae1" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-011.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/63172483eb020a29b84571f29f7c92bf94e2bae1_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-011" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/63172483eb020a29b84571f29f7c92bf94e2bae1_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/63172483eb020a29b84571f29f7c92bf94e2bae1_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/63172483eb020a29b84571f29f7c92bf94e2bae1_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/63172483eb020a29b84571f29f7c92bf94e2bae1.jpeg" data-download-href="../../forum-archive/uploads/default/63172483eb020a29b84571f29f7c92bf94e2bae1" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-011.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/63172483eb020a29b84571f29f7c92bf94e2bae1_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-011" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/63172483eb020a29b84571f29f7c92bf94e2bae1_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/63172483eb020a29b84571f29f7c92bf94e2bae1_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/63172483eb020a29b84571f29f7c92bf94e2bae1_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-011.jpg</span><span class="informations">5100x3300 1010 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/54eec79669821a9e835a10a66a466a01714d5115.jpeg" data-download-href=".../forum-archive/uploads/default/54eec79669821a9e835a10a66a466a01714d5115" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-012.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/54eec79669821a9e835a10a66a466a01714d5115_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-012" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/54eec79669821a9e835a10a66a466a01714d5115_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/54eec79669821a9e835a10a66a466a01714d5115_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/54eec79669821a9e835a10a66a466a01714d5115_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/54eec79669821a9e835a10a66a466a01714d5115.jpeg" data-download-href="../../forum-archive/uploads/default/54eec79669821a9e835a10a66a466a01714d5115" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-012.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/54eec79669821a9e835a10a66a466a01714d5115_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-012" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/54eec79669821a9e835a10a66a466a01714d5115_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/54eec79669821a9e835a10a66a466a01714d5115_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/54eec79669821a9e835a10a66a466a01714d5115_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-012.jpg</span><span class="informations">5100x3300 791 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/98088862bea97875c470a29ba705163f51d233d4.jpeg" data-download-href=".../forum-archive/uploads/default/98088862bea97875c470a29ba705163f51d233d4" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-022.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-013" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/98088862bea97875c470a29ba705163f51d233d4.jpeg" data-download-href="../../forum-archive/uploads/default/98088862bea97875c470a29ba705163f51d233d4" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-022.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-013" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-022.jpg</span><span class="informations">5100x3300 100 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/33e3be02c59efe2df5f52e0467310c35d10b4038.jpeg" data-download-href=".../forum-archive/uploads/default/33e3be02c59efe2df5f52e0467310c35d10b4038" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-014.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/33e3be02c59efe2df5f52e0467310c35d10b4038_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-014" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/33e3be02c59efe2df5f52e0467310c35d10b4038_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/33e3be02c59efe2df5f52e0467310c35d10b4038_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/33e3be02c59efe2df5f52e0467310c35d10b4038_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/33e3be02c59efe2df5f52e0467310c35d10b4038.jpeg" data-download-href="../../forum-archive/uploads/default/33e3be02c59efe2df5f52e0467310c35d10b4038" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-014.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/33e3be02c59efe2df5f52e0467310c35d10b4038_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-014" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/33e3be02c59efe2df5f52e0467310c35d10b4038_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/33e3be02c59efe2df5f52e0467310c35d10b4038_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/33e3be02c59efe2df5f52e0467310c35d10b4038_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-014.jpg</span><span class="informations">5100x3300 761 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/f1efcb40743d4aba50d00d8e24380d8b90916803.jpeg" data-download-href=".../forum-archive/uploads/default/f1efcb40743d4aba50d00d8e24380d8b90916803" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-015.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/f1efcb40743d4aba50d00d8e24380d8b90916803_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-015" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/f1efcb40743d4aba50d00d8e24380d8b90916803_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/f1efcb40743d4aba50d00d8e24380d8b90916803_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/f1efcb40743d4aba50d00d8e24380d8b90916803_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/f1efcb40743d4aba50d00d8e24380d8b90916803.jpeg" data-download-href="../../forum-archive/uploads/default/f1efcb40743d4aba50d00d8e24380d8b90916803" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-015.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/f1efcb40743d4aba50d00d8e24380d8b90916803_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-015" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/f1efcb40743d4aba50d00d8e24380d8b90916803_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/f1efcb40743d4aba50d00d8e24380d8b90916803_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/f1efcb40743d4aba50d00d8e24380d8b90916803_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-015.jpg</span><span class="informations">5100x3300 796 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/36a91353c7099e35755228a619dc748ee181626c.jpeg" data-download-href=".../forum-archive/uploads/default/36a91353c7099e35755228a619dc748ee181626c" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-016.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/36a91353c7099e35755228a619dc748ee181626c_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-016" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/36a91353c7099e35755228a619dc748ee181626c_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/36a91353c7099e35755228a619dc748ee181626c_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/36a91353c7099e35755228a619dc748ee181626c_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/36a91353c7099e35755228a619dc748ee181626c.jpeg" data-download-href="../../forum-archive/uploads/default/36a91353c7099e35755228a619dc748ee181626c" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-016.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/36a91353c7099e35755228a619dc748ee181626c_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-016" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/36a91353c7099e35755228a619dc748ee181626c_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/36a91353c7099e35755228a619dc748ee181626c_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/36a91353c7099e35755228a619dc748ee181626c_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-016.jpg</span><span class="informations">5100x3300 545 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/5ff73102f0718250b34838c5c63940b7704d62f5.jpeg" data-download-href=".../forum-archive/uploads/default/5ff73102f0718250b34838c5c63940b7704d62f5" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-017.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/5ff73102f0718250b34838c5c63940b7704d62f5_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-017" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/5ff73102f0718250b34838c5c63940b7704d62f5_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/5ff73102f0718250b34838c5c63940b7704d62f5_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/5ff73102f0718250b34838c5c63940b7704d62f5_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/5ff73102f0718250b34838c5c63940b7704d62f5.jpeg" data-download-href="../../forum-archive/uploads/default/5ff73102f0718250b34838c5c63940b7704d62f5" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-017.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/5ff73102f0718250b34838c5c63940b7704d62f5_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-017" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/5ff73102f0718250b34838c5c63940b7704d62f5_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/5ff73102f0718250b34838c5c63940b7704d62f5_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/5ff73102f0718250b34838c5c63940b7704d62f5_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-017.jpg</span><span class="informations">5100x3300 575 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/2036a4761e749ee11ddd7f4237f2f7bfbb303b9c.jpeg" data-download-href=".../forum-archive/uploads/default/2036a4761e749ee11ddd7f4237f2f7bfbb303b9c" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-018.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/2036a4761e749ee11ddd7f4237f2f7bfbb303b9c_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-018" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/2036a4761e749ee11ddd7f4237f2f7bfbb303b9c_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/2036a4761e749ee11ddd7f4237f2f7bfbb303b9c_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/2036a4761e749ee11ddd7f4237f2f7bfbb303b9c_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/2036a4761e749ee11ddd7f4237f2f7bfbb303b9c.jpeg" data-download-href="../../forum-archive/uploads/default/2036a4761e749ee11ddd7f4237f2f7bfbb303b9c" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-018.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/2036a4761e749ee11ddd7f4237f2f7bfbb303b9c_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-018" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/2036a4761e749ee11ddd7f4237f2f7bfbb303b9c_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/2036a4761e749ee11ddd7f4237f2f7bfbb303b9c_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/2036a4761e749ee11ddd7f4237f2f7bfbb303b9c_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-018.jpg</span><span class="informations">5100x3300 233 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/a49e946a590a26d7fbf2f9a0e1d4d19ec4651f8a.jpeg" data-download-href=".../forum-archive/uploads/default/a49e946a590a26d7fbf2f9a0e1d4d19ec4651f8a" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-019.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/a49e946a590a26d7fbf2f9a0e1d4d19ec4651f8a_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-019" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/a49e946a590a26d7fbf2f9a0e1d4d19ec4651f8a_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/a49e946a590a26d7fbf2f9a0e1d4d19ec4651f8a_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/a49e946a590a26d7fbf2f9a0e1d4d19ec4651f8a_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/a49e946a590a26d7fbf2f9a0e1d4d19ec4651f8a.jpeg" data-download-href="../../forum-archive/uploads/default/a49e946a590a26d7fbf2f9a0e1d4d19ec4651f8a" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-019.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/a49e946a590a26d7fbf2f9a0e1d4d19ec4651f8a_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-019" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/a49e946a590a26d7fbf2f9a0e1d4d19ec4651f8a_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/a49e946a590a26d7fbf2f9a0e1d4d19ec4651f8a_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/a49e946a590a26d7fbf2f9a0e1d4d19ec4651f8a_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-019.jpg</span><span class="informations">5100x3300 619 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/b7442a60f212f6bba8ff7ce10290bd6a13466c2f.jpeg" data-download-href=".../forum-archive/uploads/default/b7442a60f212f6bba8ff7ce10290bd6a13466c2f" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-020.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/b7442a60f212f6bba8ff7ce10290bd6a13466c2f_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-020" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/b7442a60f212f6bba8ff7ce10290bd6a13466c2f_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/b7442a60f212f6bba8ff7ce10290bd6a13466c2f_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/b7442a60f212f6bba8ff7ce10290bd6a13466c2f_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/b7442a60f212f6bba8ff7ce10290bd6a13466c2f.jpeg" data-download-href="../../forum-archive/uploads/default/b7442a60f212f6bba8ff7ce10290bd6a13466c2f" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-020.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/b7442a60f212f6bba8ff7ce10290bd6a13466c2f_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-020" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/b7442a60f212f6bba8ff7ce10290bd6a13466c2f_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/b7442a60f212f6bba8ff7ce10290bd6a13466c2f_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/b7442a60f212f6bba8ff7ce10290bd6a13466c2f_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-020.jpg</span><span class="informations">5100x3300 486 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/f644e4602af74fb8992ff410f7f70df396b7c9e3.jpeg" data-download-href=".../forum-archive/uploads/default/f644e4602af74fb8992ff410f7f70df396b7c9e3" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-021.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/f644e4602af74fb8992ff410f7f70df396b7c9e3_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-021" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/f644e4602af74fb8992ff410f7f70df396b7c9e3_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/f644e4602af74fb8992ff410f7f70df396b7c9e3_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/f644e4602af74fb8992ff410f7f70df396b7c9e3_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/f644e4602af74fb8992ff410f7f70df396b7c9e3.jpeg" data-download-href="../../forum-archive/uploads/default/f644e4602af74fb8992ff410f7f70df396b7c9e3" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-021.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/f644e4602af74fb8992ff410f7f70df396b7c9e3_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-021" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/f644e4602af74fb8992ff410f7f70df396b7c9e3_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/f644e4602af74fb8992ff410f7f70df396b7c9e3_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/f644e4602af74fb8992ff410f7f70df396b7c9e3_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-021.jpg</span><span class="informations">5100x3300 866 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/98088862bea97875c470a29ba705163f51d233d4.jpeg" data-download-href=".../forum-archive/uploads/default/98088862bea97875c470a29ba705163f51d233d4" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-022.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-022" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/98088862bea97875c470a29ba705163f51d233d4.jpeg" data-download-href="../../forum-archive/uploads/default/98088862bea97875c470a29ba705163f51d233d4" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-022.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-022" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/98088862bea97875c470a29ba705163f51d233d4_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-022.jpg</span><span class="informations">5100x3300 100 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/ecb1537be275b0d6ad9a0e2ef6fb82bc6a93acd9.jpeg" data-download-href=".../forum-archive/uploads/default/ecb1537be275b0d6ad9a0e2ef6fb82bc6a93acd9" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-023.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/ecb1537be275b0d6ad9a0e2ef6fb82bc6a93acd9_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-023" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/ecb1537be275b0d6ad9a0e2ef6fb82bc6a93acd9_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/ecb1537be275b0d6ad9a0e2ef6fb82bc6a93acd9_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/ecb1537be275b0d6ad9a0e2ef6fb82bc6a93acd9_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/ecb1537be275b0d6ad9a0e2ef6fb82bc6a93acd9.jpeg" data-download-href="../../forum-archive/uploads/default/ecb1537be275b0d6ad9a0e2ef6fb82bc6a93acd9" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-023.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/ecb1537be275b0d6ad9a0e2ef6fb82bc6a93acd9_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-023" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/ecb1537be275b0d6ad9a0e2ef6fb82bc6a93acd9_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/ecb1537be275b0d6ad9a0e2ef6fb82bc6a93acd9_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/ecb1537be275b0d6ad9a0e2ef6fb82bc6a93acd9_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-023.jpg</span><span class="informations">5100x3300 839 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/bb6e1800449145bd33bd2f0eff80942520624393.jpeg" data-download-href=".../forum-archive/uploads/default/bb6e1800449145bd33bd2f0eff80942520624393" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-024.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/bb6e1800449145bd33bd2f0eff80942520624393_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-024" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/bb6e1800449145bd33bd2f0eff80942520624393_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/bb6e1800449145bd33bd2f0eff80942520624393_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/bb6e1800449145bd33bd2f0eff80942520624393_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/bb6e1800449145bd33bd2f0eff80942520624393.jpeg" data-download-href="../../forum-archive/uploads/default/bb6e1800449145bd33bd2f0eff80942520624393" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-024.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/bb6e1800449145bd33bd2f0eff80942520624393_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-024" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/bb6e1800449145bd33bd2f0eff80942520624393_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/bb6e1800449145bd33bd2f0eff80942520624393_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/bb6e1800449145bd33bd2f0eff80942520624393_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-024.jpg</span><span class="informations">5100x3300 489 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/5d54901c6cc53d43e906eb634077e6f44878287b.jpeg" data-download-href=".../forum-archive/uploads/default/5d54901c6cc53d43e906eb634077e6f44878287b" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-025.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/5d54901c6cc53d43e906eb634077e6f44878287b_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-025" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/5d54901c6cc53d43e906eb634077e6f44878287b_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/5d54901c6cc53d43e906eb634077e6f44878287b_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/5d54901c6cc53d43e906eb634077e6f44878287b_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/5d54901c6cc53d43e906eb634077e6f44878287b.jpeg" data-download-href="../../forum-archive/uploads/default/5d54901c6cc53d43e906eb634077e6f44878287b" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-025.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/5d54901c6cc53d43e906eb634077e6f44878287b_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-025" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/5d54901c6cc53d43e906eb634077e6f44878287b_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/5d54901c6cc53d43e906eb634077e6f44878287b_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/5d54901c6cc53d43e906eb634077e6f44878287b_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-025.jpg</span><span class="informations">5100x3300 633 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/009742693c8ac5154ead3fa4d334b1b9e4a5c52e.jpeg" data-download-href=".../forum-archive/uploads/default/009742693c8ac5154ead3fa4d334b1b9e4a5c52e" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-026.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/009742693c8ac5154ead3fa4d334b1b9e4a5c52e_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-026" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/009742693c8ac5154ead3fa4d334b1b9e4a5c52e_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/009742693c8ac5154ead3fa4d334b1b9e4a5c52e_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/009742693c8ac5154ead3fa4d334b1b9e4a5c52e_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/009742693c8ac5154ead3fa4d334b1b9e4a5c52e.jpeg" data-download-href="../../forum-archive/uploads/default/009742693c8ac5154ead3fa4d334b1b9e4a5c52e" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-026.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/009742693c8ac5154ead3fa4d334b1b9e4a5c52e_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-026" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/009742693c8ac5154ead3fa4d334b1b9e4a5c52e_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/009742693c8ac5154ead3fa4d334b1b9e4a5c52e_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/009742693c8ac5154ead3fa4d334b1b9e4a5c52e_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-026.jpg</span><span class="informations">5100x3300 752 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/7173847997cc831f4e6c5b6038e8dd41d8e642ec.jpeg" data-download-href=".../forum-archive/uploads/default/7173847997cc831f4e6c5b6038e8dd41d8e642ec" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-027.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/7173847997cc831f4e6c5b6038e8dd41d8e642ec_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-027" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/7173847997cc831f4e6c5b6038e8dd41d8e642ec_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/7173847997cc831f4e6c5b6038e8dd41d8e642ec_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/7173847997cc831f4e6c5b6038e8dd41d8e642ec_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/7173847997cc831f4e6c5b6038e8dd41d8e642ec.jpeg" data-download-href="../../forum-archive/uploads/default/7173847997cc831f4e6c5b6038e8dd41d8e642ec" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-027.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/7173847997cc831f4e6c5b6038e8dd41d8e642ec_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-027" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/7173847997cc831f4e6c5b6038e8dd41d8e642ec_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/7173847997cc831f4e6c5b6038e8dd41d8e642ec_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/7173847997cc831f4e6c5b6038e8dd41d8e642ec_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-027.jpg</span><span class="informations">5100x3300 565 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/39f6a73d94ae8f820dce633ef9aae2814b64da54.jpeg" data-download-href=".../forum-archive/uploads/default/39f6a73d94ae8f820dce633ef9aae2814b64da54" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-028.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/39f6a73d94ae8f820dce633ef9aae2814b64da54_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-028" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/39f6a73d94ae8f820dce633ef9aae2814b64da54_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/39f6a73d94ae8f820dce633ef9aae2814b64da54_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/39f6a73d94ae8f820dce633ef9aae2814b64da54_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/39f6a73d94ae8f820dce633ef9aae2814b64da54.jpeg" data-download-href="../../forum-archive/uploads/default/39f6a73d94ae8f820dce633ef9aae2814b64da54" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-028.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/39f6a73d94ae8f820dce633ef9aae2814b64da54_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-028" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/39f6a73d94ae8f820dce633ef9aae2814b64da54_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/39f6a73d94ae8f820dce633ef9aae2814b64da54_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/39f6a73d94ae8f820dce633ef9aae2814b64da54_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-028.jpg</span><span class="informations">5100x3300 754 KB</span><span class="expand"></span>
-</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/74d25819769ea4deede6e8f981ddd038ff588d83.jpeg" data-download-href=".../forum-archive/uploads/default/74d25819769ea4deede6e8f981ddd038ff588d83" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-029.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/74d25819769ea4deede6e8f981ddd038ff588d83_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-029" width="690" height="446" srcset=".../forum-archive/uploads/default/optimized/1X/74d25819769ea4deede6e8f981ddd038ff588d83_1_690x446.jpeg, .../forum-archive/uploads/default/optimized/1X/74d25819769ea4deede6e8f981ddd038ff588d83_1_1035x669.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/74d25819769ea4deede6e8f981ddd038ff588d83_1_1380x892.jpeg 2x"><div class="meta">
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/74d25819769ea4deede6e8f981ddd038ff588d83.jpeg" data-download-href="../../forum-archive/uploads/default/74d25819769ea4deede6e8f981ddd038ff588d83" title="Latest Copy Dynamic Peg QT Wallet GUI (2)-page-029.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/74d25819769ea4deede6e8f981ddd038ff588d83_1_690x446.jpeg" alt="Latest%20Copy%20Dynamic%20Peg%20QT%20Wallet%20GUI%20(2)-page-029" width="690" height="446" srcset="../../forum-archive/uploads/default/optimized/1X/74d25819769ea4deede6e8f981ddd038ff588d83_1_690x446.jpeg, ../../forum-archive/uploads/default/optimized/1X/74d25819769ea4deede6e8f981ddd038ff588d83_1_1035x669.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/74d25819769ea4deede6e8f981ddd038ff588d83_1_1380x892.jpeg 2x"><div class="meta">
 <span class="filename">Latest Copy Dynamic Peg QT Wallet GUI (2)-page-029.jpg</span><span class="informations">5100x3300 404 KB</span><span class="expand"></span>
 </div></a></div></p>
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/qt-wallet-a-comprehensive-guide/2214">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/qt-wallet-a-comprehensive-guide/2214">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/qt-wallet-a-comprehensive-guide/2214</link>
+          <link>../../forum-archive/t/qt-wallet-a-comprehensive-guide/2214</link>
           <pubDate>Sun, 02 Feb 2020 12:23:22 +0000</pubDate>
           <discourse:topicPinned>Yes</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2214</guid>
-          <source url=".../forum-archive/t/qt-wallet-a-comprehensive-guide/2214.rss">QT Wallet - A comprehensive guide</source>
+          <source url="../../forum-archive/t/qt-wallet-a-comprehensive-guide/2214.rss">QT Wallet - A comprehensive guide</source>
         </item>
         <item>
           <title>What keeps users from voting to pump or dump the price overnight?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p><strong>What keeps users from voting to pump or dump the price overnight?</strong></p>
 <p>The Dynamic Peg uses a few mechanisms to prevent users from voting to pump or dump the price to extreme levels. While the price is always allowed to move up and down, it will always be effected by external voting pressure. Each of these mechanisms serve to regulate the  <em><strong>supply liquidity</strong></em>  of BAY.</p>
@@ -951,22 +951,22 @@ The stake rewards that are earned from voluntarily frozen inputs will be receive
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184</link>
+          <link>../../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184</link>
           <pubDate>Wed, 29 Jan 2020 14:21:14 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2184</guid>
-          <source url=".../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184.rss">What keeps users from voting to pump or dump the price overnight?</source>
+          <source url="../../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184.rss">What keeps users from voting to pump or dump the price overnight?</source>
         </item>
         <item>
           <title>Why does BitBay need a Dynamic Peg? Can you please explain it in layman’s terms?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p><strong>Why does BitBay need a Dynamic Peg? Can you please explain it in layman’s terms?</strong></p>
 <p>The Dynamic Peg is a tool specifically built to stabilize BitBay’s existing <a href="https://bitbay.market/blog/double-deposit-escrow">Double Deposit Escrow</a> contracts and decentralized marketplace. These unique, peer-to-peer contracts rely on mutual deposits of Liquid BAY (from each party) to enforce the completion of each deal.</p>
@@ -979,22 +979,22 @@ The stake rewards that are earned from voluntarily frozen inputs will be receive
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178</link>
+          <link>../../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178</link>
           <pubDate>Wed, 29 Jan 2020 14:16:37 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2178</guid>
-          <source url=".../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178.rss">Why does BitBay need a Dynamic Peg? Can you please explain it in layman’s terms?</source>
+          <source url="../../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178.rss">Why does BitBay need a Dynamic Peg? Can you please explain it in layman’s terms?</source>
         </item>
         <item>
           <title>What is the Dynamic Peg?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p><strong>What is the Dynamic Peg?</strong></p>
 <p>The Dynamic Peg is a brand new mechanism for stabilizing BAY. It is strictly controlled by the users, for the users. In a nutshell, it is a highly efficient form of democratic (voting-based) monetary policy.</p>
@@ -1008,22 +1008,22 @@ The stake rewards that are earned from voluntarily frozen inputs will be receive
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/what-is-the-dynamic-peg/2177">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/what-is-the-dynamic-peg/2177">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/what-is-the-dynamic-peg/2177</link>
+          <link>../../forum-archive/t/what-is-the-dynamic-peg/2177</link>
           <pubDate>Wed, 29 Jan 2020 14:15:48 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2177</guid>
-          <source url=".../forum-archive/t/what-is-the-dynamic-peg/2177.rss">What is the Dynamic Peg?</source>
+          <source url="../../forum-archive/t/what-is-the-dynamic-peg/2177.rss">What is the Dynamic Peg?</source>
         </item>
         <item>
           <title>What will happen with the price in the short, mid, and long term?</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Dynamic Peg - FAQ</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p><strong>What will happen with the price in the short, mid, and long term?</strong></p>
 <p><em>As with anything, market predictions are never safe to make.</em>  <em><strong>We do not guarantee any expectations of price action or offer “investment advice”</strong></em> <em>. There are an infinite number of factors that influence markets, and every investor must perform their own due diligence before investing their money.</em></p>
@@ -1039,15 +1039,15 @@ The stake rewards that are earned from voluntarily frozen inputs will be receive
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/what-will-happen-with-the-price-in-the-short-mid-and-long-term/2190">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/what-will-happen-with-the-price-in-the-short-mid-and-long-term/2190">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/what-will-happen-with-the-price-in-the-short-mid-and-long-term/2190</link>
+          <link>../../forum-archive/t/what-will-happen-with-the-price-in-the-short-mid-and-long-term/2190</link>
           <pubDate>Wed, 29 Jan 2020 14:27:14 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2190</guid>
-          <source url=".../forum-archive/t/what-will-happen-with-the-price-in-the-short-mid-and-long-term/2190.rss">What will happen with the price in the short, mid, and long term?</source>
+          <source url="../../forum-archive/t/what-will-happen-with-the-price-in-the-short-mid-and-long-term/2190.rss">What will happen with the price in the short, mid, and long term?</source>
         </item>
   </channel>
 </rss>

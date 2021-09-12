@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>If I voluntarily freeze my coins for 1 or 4 months, will the earned stake rewards be frozen for the same amount of time?</title>
-    <link>..../forum-archive/t/if-i-voluntarily-freeze-my-coins-for-1-or-4-months-will-the-earned-stake-rewards-be-frozen-for-the-same-amount-of-time/2221</link>
+    <link>../../../forum-archive/t/if-i-voluntarily-freeze-my-coins-for-1-or-4-months-will-the-earned-stake-rewards-be-frozen-for-the-same-amount-of-time/2221</link>
     <description>When voluntarily freezing coins, all rewards will remain attached to the original coin input that staked the reward, and will remain frozen for either the 1 or 4 month maturity timeframe.
 
 However, if you designate your stake reward to be sent to a separate address that you own, then those rewards will be a mix of both spendable and reserve, based on the whatever the current peg index is.
@@ -15,12 +15,12 @@ If you delegate stake rewards to a separate address and peg is 50% deflated  (fo
     
     <lastBuildDate>Tue, 18 Feb 2020 13:03:35 +0000</lastBuildDate>
     <category>Dynamic Peg - FAQ</category>
-    <atom:link href="..../forum-archive/t/if-i-voluntarily-freeze-my-coins-for-1-or-4-months-will-the-earned-stake-rewards-be-frozen-for-the-same-amount-of-time/2221.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/if-i-voluntarily-freeze-my-coins-for-1-or-4-months-will-the-earned-stake-rewards-be-frozen-for-the-same-amount-of-time/2221.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>If I voluntarily freeze my coins for 1 or 4 months, will the earned stake rewards be frozen for the same amount of time?</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>When voluntarily freezing coins, all rewards will remain attached to the original coin input that staked the reward, and will remain frozen for either the 1 or 4 month maturity timeframe.</p>
 <p>However, if you designate your stake reward to be sent to a separate address that you own, then those rewards will be a mix of both spendable and reserve, based on the whatever the current peg index is.</p>
@@ -28,12 +28,12 @@ If you delegate stake rewards to a separate address and peg is 50% deflated  (fo
 <p>If you delegate stake rewards to a separate address and peg is 50% deflated  (for example), then about 50% of your 40 coins would be spendable, and the other 50% would be reserve. So it would equate to approximately 20 liquid coins and 20 reserve coins.</p>
 <p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/if-i-voluntarily-freeze-my-coins-for-1-or-4-months-will-the-earned-stake-rewards-be-frozen-for-the-same-amount-of-time/2221/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/if-i-voluntarily-freeze-my-coins-for-1-or-4-months-will-the-earned-stake-rewards-be-frozen-for-the-same-amount-of-time/2221/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/if-i-voluntarily-freeze-my-coins-for-1-or-4-months-will-the-earned-stake-rewards-be-frozen-for-the-same-amount-of-time/2221/1</link>
+        <link>../../../forum-archive/t/if-i-voluntarily-freeze-my-coins-for-1-or-4-months-will-the-earned-stake-rewards-be-frozen-for-the-same-amount-of-time/2221/1</link>
         <pubDate>Fri, 07 Feb 2020 13:52:44 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2221-1</guid>
-        <source url="..../forum-archive/t/if-i-voluntarily-freeze-my-coins-for-1-or-4-months-will-the-earned-stake-rewards-be-frozen-for-the-same-amount-of-time/2221.rss">If I voluntarily freeze my coins for 1 or 4 months, will the earned stake rewards be frozen for the same amount of time?</source>
+        <source url="../../../forum-archive/t/if-i-voluntarily-freeze-my-coins-for-1-or-4-months-will-the-earned-stake-rewards-be-frozen-for-the-same-amount-of-time/2221.rss">If I voluntarily freeze my coins for 1 or 4 months, will the earned stake rewards be frozen for the same amount of time?</source>
       </item>
   </channel>
 </rss>

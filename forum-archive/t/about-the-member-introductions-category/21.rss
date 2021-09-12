@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>About the Member introductions category</title>
-    <link>..../forum-archive/t/about-the-member-introductions-category/21</link>
+    <link>../../../forum-archive/t/about-the-member-introductions-category/21</link>
     <description>(Replace this first paragraph with a brief description of your new category. This guidance will appear in the category selection area, so try to keep it below 200 characters. **Until you edit this description or create topics, this category won&#39;t appear on the categories page.**)
 
 Use the following paragraphs for a longer description, or to establish category guidelines or rules:
@@ -18,12 +18,12 @@ Use the following paragraphs for a longer description, or to establish category 
     
     <lastBuildDate>Wed, 08 Nov 2017 17:41:58 +0000</lastBuildDate>
     <category>Member introductions</category>
-    <atom:link href="..../forum-archive/t/about-the-member-introductions-category/21.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/about-the-member-introductions-category/21.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>About the Member introductions category</title>
         <dc:creator><![CDATA[@bitadmin]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/bitadmin">@bitadmin</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/bitadmin">@bitadmin</a> wrote:</p>
           <blockquote>
               <p>(Replace this first paragraph with a brief description of your new category. This guidance will appear in the category selection area, so try to keep it below 200 characters. <strong>Until you edit this description or create topics, this category won’t appear on the categories page.</strong>)</p>
 <p>Use the following paragraphs for a longer description, or to establish category guidelines or rules:</p>
@@ -42,12 +42,12 @@ Use the following paragraphs for a longer description, or to establish category 
 </li>
 </ul>
           </blockquote>
-          <p><a href="..../forum-archive/t/about-the-member-introductions-category/21/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/about-the-member-introductions-category/21/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/about-the-member-introductions-category/21/1</link>
+        <link>../../../forum-archive/t/about-the-member-introductions-category/21/1</link>
         <pubDate>Wed, 08 Nov 2017 17:41:58 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-21-1</guid>
-        <source url="..../forum-archive/t/about-the-member-introductions-category/21.rss">About the Member introductions category</source>
+        <source url="../../../forum-archive/t/about-the-member-introductions-category/21.rss">About the Member introductions category</source>
       </item>
   </channel>
 </rss>

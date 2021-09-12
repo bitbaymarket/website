@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>About the Community Proposals category</title>
-    <link>..../forum-archive/t/about-the-community-proposals-category/1556</link>
+    <link>../../../forum-archive/t/about-the-community-proposals-category/1556</link>
     <description>The community behind BitBay is what makes it so unique in the crypto-sphere and we want to enable everyone to have an input in shaping the future of BitBay as we head into 2019.
 
 All our forum members are invited to submit their ideas and suggestions to:
@@ -22,12 +22,12 @@ Contributions that gain enough votes will be advanced to a second round where th
     
     <lastBuildDate>Thu, 08 Nov 2018 11:44:30 +0000</lastBuildDate>
     <category>Community Proposals</category>
-    <atom:link href="..../forum-archive/t/about-the-community-proposals-category/1556.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/about-the-community-proposals-category/1556.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>About the Community Proposals category</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               <p>The community behind BitBay is what makes it so unique in the crypto-sphere and we want to enable everyone to have an input in shaping the future of BitBay as we head into 2019.</p>
 <p>All our forum members are invited to submit their ideas and suggestions to:</p>
@@ -42,12 +42,12 @@ Contributions that gain enough votes will be advanced to a second round where th
 <p>Contributions that gain enough votes will be advanced to a second round where they are rated by the community and core team based on factors such as the concept, code quality, ease-of-use, adoption process etc. We’ll have more details about this rating process before we launch the dedicated '<strong>BitBay Community Website</strong>’ in December.</p>
 <p><strong><em>Voting will be added to this category soon</em></strong></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/about-the-community-proposals-category/1556/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/about-the-community-proposals-category/1556/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/about-the-community-proposals-category/1556/1</link>
+        <link>../../../forum-archive/t/about-the-community-proposals-category/1556/1</link>
         <pubDate>Wed, 10 Oct 2018 14:03:44 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1556-1</guid>
-        <source url="..../forum-archive/t/about-the-community-proposals-category/1556.rss">About the Community Proposals category</source>
+        <source url="../../../forum-archive/t/about-the-community-proposals-category/1556.rss">About the Community Proposals category</source>
       </item>
   </channel>
 </rss>

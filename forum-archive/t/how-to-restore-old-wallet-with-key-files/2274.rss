@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>How to restore old wallet with key files</title>
-    <link>..../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274</link>
+    <link>../../../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274</link>
     <description>My system has the following specifications 
 
 QT Wallet: is currently synchronising. 
@@ -16,12 +16,12 @@ Many thanks</description>
     
     <lastBuildDate>Tue, 10 Mar 2020 11:16:08 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>How to restore old wallet with key files</title>
         <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
           <blockquote>
               <p>Here is a link to show how to import your private key to the QT wallet.</p>
 <p>I’m assuming you have your coins in the web wallet before.</p>
@@ -29,7 +29,7 @@ Many thanks</description>
   <div class="title">
     <div class="quote-controls"></div>
     <img alt="" width="20" height="20" src="/user_avatar/forum.bitbay.market/tradersnow/40/523_1.png" class="avatar">
-    <a href="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-peg-enabled-qt-wallet/2249">How to import your BitBay Web Wallet private key into the peg-enabled QT wallet</a> <a class="badge-wrapper  bullet" href="/c/dynamic-peg-faq"><span class="badge-category-bg" style="background-color: #0088CC;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="All of your Dynamic Peg related questions answered here.">Dynamic Peg - FAQ</span></a>
+    <a href="../../../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-peg-enabled-qt-wallet/2249">How to import your BitBay Web Wallet private key into the peg-enabled QT wallet</a> <a class="badge-wrapper  bullet" href="/c/dynamic-peg-faq"><span class="badge-category-bg" style="background-color: #0088CC;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="All of your Dynamic Peg related questions answered here.">Dynamic Peg - FAQ</span></a>
   </div>
   <blockquote>
     How to import your BitBay Web Wallet private key into the BitBay QT wallet:
@@ -41,18 +41,18 @@ If you have any questions, please leave a comment below.
 </aside>
 
           </blockquote>
-          <p><a href="..../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274/2</link>
+        <link>../../../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274/2</link>
         <pubDate>Tue, 10 Mar 2020 11:16:08 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2274-2</guid>
-        <source url="..../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274.rss">How to restore old wallet with key files</source>
+        <source url="../../../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274.rss">How to restore old wallet with key files</source>
       </item>
       <item>
         <title>How to restore old wallet with key files</title>
         <dc:creator><![CDATA[@dentawise Michael]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/dentawise">@dentawise</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/dentawise">@dentawise</a> wrote:</p>
           <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet: is currently synchronising.<br>
@@ -62,12 +62,12 @@ If desktop wallet (Qt or Client) block # of your client and # of connections:</p
 <p>Please advise how to restore my old wallet with key files only. No wallet.dat files or recovery password is available.</p>
 <p>Many thanks</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274/1</link>
+        <link>../../../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274/1</link>
         <pubDate>Tue, 10 Mar 2020 09:37:39 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2274-1</guid>
-        <source url="..../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274.rss">How to restore old wallet with key files</source>
+        <source url="../../../forum-archive/t/how-to-restore-old-wallet-with-key-files/2274.rss">How to restore old wallet with key files</source>
       </item>
   </channel>
 </rss>

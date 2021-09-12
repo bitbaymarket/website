@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>What keeps users from voting to pump or dump the price overnight?</title>
-    <link>..../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184</link>
+    <link>../../../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184</link>
     <description>**What keeps users from voting to pump or dump the price overnight?**
 
 The Dynamic Peg uses a few mechanisms to prevent users from voting to pump or dump the price to extreme levels. While the price is always allowed to move up and down, it will always be effected by external voting pressure. Each of these mechanisms serve to regulate the  ***supply liquidity***  of BAY.
@@ -20,12 +20,12 @@ In addition to the voting intervals, there is also a limit on the percentage of 
     
     <lastBuildDate>Tue, 18 Feb 2020 13:48:30 +0000</lastBuildDate>
     <category>Dynamic Peg - FAQ</category>
-    <atom:link href="..../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>What keeps users from voting to pump or dump the price overnight?</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p><strong>What keeps users from voting to pump or dump the price overnight?</strong></p>
 <p>The Dynamic Peg uses a few mechanisms to prevent users from voting to pump or dump the price to extreme levels. While the price is always allowed to move up and down, it will always be effected by external voting pressure. Each of these mechanisms serve to regulate the  <em><strong>supply liquidity</strong></em>  of BAY.</p>
@@ -39,12 +39,12 @@ In addition to the voting intervals, there is also a limit on the percentage of 
 </ul>
 <p><strong>Questions, comments, concerns? Please post them below!</strong></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184/1</link>
+        <link>../../../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184/1</link>
         <pubDate>Wed, 29 Jan 2020 14:21:15 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2184-1</guid>
-        <source url="..../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184.rss">What keeps users from voting to pump or dump the price overnight?</source>
+        <source url="../../../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184.rss">What keeps users from voting to pump or dump the price overnight?</source>
       </item>
   </channel>
 </rss>

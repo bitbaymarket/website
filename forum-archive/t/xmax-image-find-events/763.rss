@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>XMAX Image Find events</title>
-    <link>..../forum-archive/t/xmax-image-find-events/763</link>
+    <link>../../../forum-archive/t/xmax-image-find-events/763</link>
     <description>Did the Christmas image file find event end? Or is it still valid?</description>
     
     <lastBuildDate>Wed, 27 Dec 2017 04:56:47 +0000</lastBuildDate>
     <category>Questions about BitBay</category>
-    <atom:link href="..../forum-archive/t/xmax-image-find-events/763.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/xmax-image-find-events/763.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>XMAX Image Find events</title>
         <dc:creator><![CDATA[@Mantrack]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
           <blockquote>
               <p>There are 2 days left.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/xmax-image-find-events/763/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/xmax-image-find-events/763/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/xmax-image-find-events/763/2</link>
+        <link>../../../forum-archive/t/xmax-image-find-events/763/2</link>
         <pubDate>Wed, 27 Dec 2017 04:56:47 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-763-2</guid>
-        <source url="..../forum-archive/t/xmax-image-find-events/763.rss">XMAX Image Find events</source>
+        <source url="../../../forum-archive/t/xmax-image-find-events/763.rss">XMAX Image Find events</source>
       </item>
       <item>
         <title>XMAX Image Find events</title>
         <dc:creator><![CDATA[@epple7108 Ohjunho]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/epple7108">@epple7108</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/epple7108">@epple7108</a> wrote:</p>
           <blockquote>
               <p>Did the Christmas image file find event end? Or is it still valid?</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/xmax-image-find-events/763/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/xmax-image-find-events/763/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/xmax-image-find-events/763/1</link>
+        <link>../../../forum-archive/t/xmax-image-find-events/763/1</link>
         <pubDate>Wed, 27 Dec 2017 01:00:47 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-763-1</guid>
-        <source url="..../forum-archive/t/xmax-image-find-events/763.rss">XMAX Image Find events</source>
+        <source url="../../../forum-archive/t/xmax-image-find-events/763.rss">XMAX Image Find events</source>
       </item>
   </channel>
 </rss>

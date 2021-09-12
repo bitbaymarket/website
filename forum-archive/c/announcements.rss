@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Announcements - BitBay Community</title>
-    <link>.../forum-archive/c/announcements</link>
+    <link>../../forum-archive/c/announcements</link>
     <description>Topics in the &#39;Announcements&#39; category </description>
     
       <lastBuildDate>Wed, 06 Mar 2019 08:37:21 +0000</lastBuildDate>
-      <atom:link href=".../forum-archive/c/announcements.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="../../forum-archive/c/announcements.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>BitBay Community Update — 4th March 2019</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <p><strong>In this update:</strong></p>
 <ul>
@@ -43,7 +43,7 @@
 <p>The foundation will be formed in March/April and a new website will be available soon, at  <em>bitbay.foundation</em> , with info on how to join.</p>
 <h4>A New Structure</h4>
 <p>The graphic below shows how we are proposing to introduce a new structure to the current websites and products, and also introduces a new voting system via the community forum  <em>(more on this below in the self-governance section)</em></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/0b9291717ae373649d6ff6371a71de9f35006727.png" data-download-href=".../forum-archive/uploads/default/0b9291717ae373649d6ff6371a71de9f35006727" title="1*EOWc46KeBc_lD5oow1D6Zw.png"><img src=".../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_578x500.png" alt width="578" height="500" srcset=".../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_578x500.png, .../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_867x750.png 1.5x, .../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_1156x1000.png 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/0b9291717ae373649d6ff6371a71de9f35006727.png" data-download-href="../../forum-archive/uploads/default/0b9291717ae373649d6ff6371a71de9f35006727" title="1*EOWc46KeBc_lD5oow1D6Zw.png"><img src="../../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_578x500.png" alt width="578" height="500" srcset="../../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_578x500.png, ../../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_867x750.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_1156x1000.png 2x"><div class="meta">
 <span class="filename">1*EOWc46KeBc_lD5oow1D6Zw.png</span><span class="informations">2479x2142 215 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>The current website will have a new home at ‘bitbay.community’, and instead of being built in the Drupal CMS, will be open-sourced on GitHub, so community contributors can help maintain the website. We will then move the web markets beta to its new domain at ‘bitbay.market’, to become the main landing page for this new flagship product. In a move to introduce a more democratic process, the forum will also become a place where the community can cast their votes on submitted proposals. The exact method of self-governance has yet to be agreed upon, but this will also be put to a democratic vote to ensure transparency and fairness going forward.</p>
@@ -54,7 +54,7 @@
 <p>We’ll announce the private release of this next version in the Slack channel early this week, so come and join us if you aren’t already one of our beta testers. You can signup here:</p>
 <p><a href="http://eepurl.com/dCI2IL"> <strong>http://eepurl.com/dCI2IL</strong> </a></p>
 <p>With the “live update” service and recent fixes to the email notification system, we are almost ready to release the public beta version. A provisional date for the public beta release has been set for the  <strong>11th March</strong> .</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d.png" data-download-href=".../forum-archive/uploads/default/578098fd2bc7c2053f67704613f8f9713eaecf9d" title="1*yaZfB55tAL4Fw-PUYGIS_Q.png"><img src=".../forum-archive/uploads/default/optimized/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d_1_690x413.png" alt width="690" height="413" srcset=".../forum-archive/uploads/default/optimized/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d_1_690x413.png, .../forum-archive/uploads/default/optimized/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d_1_1035x619.png 1.5x, .../forum-archive/uploads/default/original/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d.png 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d.png" data-download-href="../../forum-archive/uploads/default/578098fd2bc7c2053f67704613f8f9713eaecf9d" title="1*yaZfB55tAL4Fw-PUYGIS_Q.png"><img src="../../forum-archive/uploads/default/optimized/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d_1_690x413.png" alt width="690" height="413" srcset="../../forum-archive/uploads/default/optimized/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d_1_690x413.png, ../../forum-archive/uploads/default/optimized/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d_1_1035x619.png 1.5x, ../../forum-archive/uploads/default/original/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d.png 2x"><div class="meta">
 <span class="filename">1*yaZfB55tAL4Fw-PUYGIS_Q.png</span><span class="informations">1120x671 135 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>Still to come in the next updates:</p>
@@ -78,26 +78,26 @@ Project Manager @ <a href="https://bitbay.market/">BitBay</a></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bitbay-community-update-4th-march-2019/1759">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-community-update-4th-march-2019/1759">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-community-update-4th-march-2019/1759</link>
+          <link>../../forum-archive/t/bitbay-community-update-4th-march-2019/1759</link>
           <pubDate>Wed, 06 Mar 2019 08:37:21 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1759</guid>
-          <source url=".../forum-archive/t/bitbay-community-update-4th-march-2019/1759.rss">BitBay Community Update — 4th March 2019</source>
+          <source url="../../forum-archive/t/bitbay-community-update-4th-march-2019/1759.rss">BitBay Community Update — 4th March 2019</source>
         </item>
         <item>
           <title>BitBay Community Update — 15th February 2019 – BitBay Official – Medium</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
       <a href="https://medium.com/@bitbay/bitbay-community-update-15th-february-2019-a3987d98f302" target="_blank" title="04:16PM - 15 February 2019">Medium – 15 Feb 19</a>
   </header>
   <article class="onebox-body">
@@ -121,30 +121,30 @@ Project Manager @ <a href="https://bitbay.market/">BitBay</a></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bitbay-community-update-15th-february-2019-bitbay-official-medium/1736">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-community-update-15th-february-2019-bitbay-official-medium/1736">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-community-update-15th-february-2019-bitbay-official-medium/1736</link>
+          <link>../../forum-archive/t/bitbay-community-update-15th-february-2019-bitbay-official-medium/1736</link>
           <pubDate>Fri, 15 Feb 2019 16:36:10 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1736</guid>
-          <source url=".../forum-archive/t/bitbay-community-update-15th-february-2019-bitbay-official-medium/1736.rss">BitBay Community Update — 15th February 2019 – BitBay Official – Medium</source>
+          <source url="../../forum-archive/t/bitbay-community-update-15th-february-2019-bitbay-official-medium/1736.rss">BitBay Community Update — 15th February 2019 – BitBay Official – Medium</source>
         </item>
         <item>
           <title>BitBay Community Update — 14th January 2019 – BitBay Blog – Medium</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
       <a href="https://medium.com/bitbay-blog/bitbay-community-update-14th-january-2019-8a38ac6287c1" target="_blank" title="03:44PM - 14 January 2019">Medium – 14 Jan 19</a>
   </header>
   <article class="onebox-body">
-    <div class="aspect-image" style="--aspect-ratio:690/319;"><img src=".../forum-archive/uploads/default/original/1X/0675ba4e4cc63b32ad262f45820bcedb298a67b3.png" class="thumbnail"></div>
+    <div class="aspect-image" style="--aspect-ratio:690/319;"><img src="../../forum-archive/uploads/default/original/1X/0675ba4e4cc63b32ad262f45820bcedb298a67b3.png" class="thumbnail"></div>
 
 <h3><a href="https://medium.com/bitbay-blog/bitbay-community-update-14th-january-2019-8a38ac6287c1" target="_blank">BitBay Community Update — 14th January 2019 – BitBay Blog – Medium</a></h3>
 
@@ -164,30 +164,30 @@ Project Manager @ <a href="https://bitbay.market/">BitBay</a></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bitbay-community-update-14th-january-2019-bitbay-blog-medium/1720">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-community-update-14th-january-2019-bitbay-blog-medium/1720">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-community-update-14th-january-2019-bitbay-blog-medium/1720</link>
+          <link>../../forum-archive/t/bitbay-community-update-14th-january-2019-bitbay-blog-medium/1720</link>
           <pubDate>Fri, 01 Feb 2019 18:09:03 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1720</guid>
-          <source url=".../forum-archive/t/bitbay-community-update-14th-january-2019-bitbay-blog-medium/1720.rss">BitBay Community Update — 14th January 2019 – BitBay Blog – Medium</source>
+          <source url="../../forum-archive/t/bitbay-community-update-14th-january-2019-bitbay-blog-medium/1720.rss">BitBay Community Update — 14th January 2019 – BitBay Blog – Medium</source>
         </item>
         <item>
           <title>BitBay Community Update — 26th November 2018 – BitBay Blog – Medium</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
       <a href="https://medium.com/bitbay-blog/bitbay-community-update-26th-november-2018-832dcd163af7" target="_blank" title="06:34PM - 26 November 2018">Medium – 26 Nov 18</a>
   </header>
   <article class="onebox-body">
-    <div class="aspect-image" style="--aspect-ratio:690/324;"><img src=".../forum-archive/uploads/default/original/1X/de5c51a697c7b94f781059b4e13a6729047cbbba.png" class="thumbnail"></div>
+    <div class="aspect-image" style="--aspect-ratio:690/324;"><img src="../../forum-archive/uploads/default/original/1X/de5c51a697c7b94f781059b4e13a6729047cbbba.png" class="thumbnail"></div>
 
 <h3><a href="https://medium.com/bitbay-blog/bitbay-community-update-26th-november-2018-832dcd163af7" target="_blank">BitBay Community Update — 26th November 2018 – BitBay Blog – Medium</a></h3>
 
@@ -207,30 +207,30 @@ Project Manager @ <a href="https://bitbay.market/">BitBay</a></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bitbay-community-update-26th-november-2018-bitbay-blog-medium/1719">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-community-update-26th-november-2018-bitbay-blog-medium/1719">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-community-update-26th-november-2018-bitbay-blog-medium/1719</link>
+          <link>../../forum-archive/t/bitbay-community-update-26th-november-2018-bitbay-blog-medium/1719</link>
           <pubDate>Fri, 01 Feb 2019 18:08:49 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1719</guid>
-          <source url=".../forum-archive/t/bitbay-community-update-26th-november-2018-bitbay-blog-medium/1719.rss">BitBay Community Update — 26th November 2018 – BitBay Blog – Medium</source>
+          <source url="../../forum-archive/t/bitbay-community-update-26th-november-2018-bitbay-blog-medium/1719.rss">BitBay Community Update — 26th November 2018 – BitBay Blog – Medium</source>
         </item>
         <item>
           <title>This was 2018. – BitBay Blog – Medium</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
       <a href="https://medium.com/bitbay-blog/this-was-2018-af95cc518d7e" target="_blank" title="07:31PM - 26 December 2018">Medium – 26 Dec 18</a>
   </header>
   <article class="onebox-body">
-    <div class="aspect-image" style="--aspect-ratio:690/386;"><img src=".../forum-archive/uploads/default/original/1X/930b1e969e23d5cc4169685f21ede5b795ef38a6.png" class="thumbnail"></div>
+    <div class="aspect-image" style="--aspect-ratio:690/386;"><img src="../../forum-archive/uploads/default/original/1X/930b1e969e23d5cc4169685f21ede5b795ef38a6.png" class="thumbnail"></div>
 
 <h3><a href="https://medium.com/bitbay-blog/this-was-2018-af95cc518d7e" target="_blank">This was 2018. – BitBay Blog – Medium</a></h3>
 
@@ -250,26 +250,26 @@ Project Manager @ <a href="https://bitbay.market/">BitBay</a></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/this-was-2018-bitbay-blog-medium/1718">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/this-was-2018-bitbay-blog-medium/1718">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/this-was-2018-bitbay-blog-medium/1718</link>
+          <link>../../forum-archive/t/this-was-2018-bitbay-blog-medium/1718</link>
           <pubDate>Fri, 01 Feb 2019 18:08:14 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1718</guid>
-          <source url=".../forum-archive/t/this-was-2018-bitbay-blog-medium/1718.rss">This was 2018. – BitBay Blog – Medium</source>
+          <source url="../../forum-archive/t/this-was-2018-bitbay-blog-medium/1718.rss">This was 2018. – BitBay Blog – Medium</source>
         </item>
         <item>
           <title>Web marketplace update – 1st February 2019 – BitBay Blog – Medium</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
       <a href="https://medium.com/bitbay-blog/web-marketplace-update-1st-february-2019-df33945b8c3c" target="_blank" title="04:06PM - 01 February 2019">Medium – 1 Feb 19</a>
   </header>
   <article class="onebox-body">
@@ -293,26 +293,26 @@ Project Manager @ <a href="https://bitbay.market/">BitBay</a></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/web-marketplace-update-1st-february-2019-bitbay-blog-medium/1717">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/web-marketplace-update-1st-february-2019-bitbay-blog-medium/1717">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/web-marketplace-update-1st-february-2019-bitbay-blog-medium/1717</link>
+          <link>../../forum-archive/t/web-marketplace-update-1st-february-2019-bitbay-blog-medium/1717</link>
           <pubDate>Fri, 01 Feb 2019 17:57:06 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1717</guid>
-          <source url=".../forum-archive/t/web-marketplace-update-1st-february-2019-bitbay-blog-medium/1717.rss">Web marketplace update – 1st February 2019 – BitBay Blog – Medium</source>
+          <source url="../../forum-archive/t/web-marketplace-update-1st-february-2019-bitbay-blog-medium/1717.rss">Web marketplace update – 1st February 2019 – BitBay Blog – Medium</source>
         </item>
         <item>
           <title>New 2019 Bitbay Roadmap!</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
       <a href="https://bitbay.market/roadmap" target="_blank">BitBay</a>
   </header>
   <article class="onebox-body">
@@ -334,30 +334,30 @@ Project Manager @ <a href="https://bitbay.market/">BitBay</a></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/new-2019-bitbay-roadmap/1681">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/new-2019-bitbay-roadmap/1681">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/new-2019-bitbay-roadmap/1681</link>
+          <link>../../forum-archive/t/new-2019-bitbay-roadmap/1681</link>
           <pubDate>Mon, 07 Jan 2019 18:14:28 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1681</guid>
-          <source url=".../forum-archive/t/new-2019-bitbay-roadmap/1681.rss">New 2019 Bitbay Roadmap!</source>
+          <source url="../../forum-archive/t/new-2019-bitbay-roadmap/1681.rss">New 2019 Bitbay Roadmap!</source>
         </item>
         <item>
           <title>BitBay Community Update — 19th November 2018 – BitBay Official – Medium</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
       <a href="https://medium.com/@bitbay/bitbay-community-update-19th-november-2018-16f4c20a6ef9" target="_blank" title="03:51PM - 19 November 2018">Medium – 19 Nov 18</a>
   </header>
   <article class="onebox-body">
-    <div class="aspect-image" style="--aspect-ratio:690/394;"><img src=".../forum-archive/uploads/default/original/1X/6e98a4531fd1b811281a678670cac969d8325d21.jpeg" class="thumbnail"></div>
+    <div class="aspect-image" style="--aspect-ratio:690/394;"><img src="../../forum-archive/uploads/default/original/1X/6e98a4531fd1b811281a678670cac969d8325d21.jpeg" class="thumbnail"></div>
 
 <h3><a href="https://medium.com/@bitbay/bitbay-community-update-19th-november-2018-16f4c20a6ef9" target="_blank">BitBay Community Update — 19th November 2018 – BitBay Official – Medium</a></h3>
 
@@ -377,29 +377,29 @@ Project Manager @ <a href="https://bitbay.market/">BitBay</a></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bitbay-community-update-19th-november-2018-bitbay-official-medium/1617">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-community-update-19th-november-2018-bitbay-official-medium/1617">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-community-update-19th-november-2018-bitbay-official-medium/1617</link>
+          <link>../../forum-archive/t/bitbay-community-update-19th-november-2018-bitbay-official-medium/1617</link>
           <pubDate>Mon, 19 Nov 2018 16:07:03 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1617</guid>
-          <source url=".../forum-archive/t/bitbay-community-update-19th-november-2018-bitbay-official-medium/1617.rss">BitBay Community Update — 19th November 2018 – BitBay Official – Medium</source>
+          <source url="../../forum-archive/t/bitbay-community-update-19th-november-2018-bitbay-official-medium/1617.rss">BitBay Community Update — 19th November 2018 – BitBay Official – Medium</source>
         </item>
         <item>
           <title>Bitbay now available to buy with euros on Bitladon Exchange</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox twitterstatus">
   <header class="source">
       <a href="https://twitter.com/BitBayofficial/status/1061982134922027008" target="_blank">twitter.com</a>
   </header>
   <article class="onebox-body">
-    <img src=".../forum-archive/uploads/default/original/1X/cc30a0e42aa69eb84869d300215fb2df886f9bf8.jpg" class="thumbnail onebox-avatar" width="400" height="400">
+    <img src="../../forum-archive/uploads/default/original/1X/cc30a0e42aa69eb84869d300215fb2df886f9bf8.jpg" class="thumbnail onebox-avatar" width="400" height="400">
 <h4>
   <a href="https://twitter.com/BitBayofficial/status/1061982134922027008" target="_blank">
     BitBay (BitBayofficial)
@@ -407,7 +407,7 @@ Project Manager @ <a href="https://bitbay.market/">BitBay</a></p>
 </h4>
 
 <div class="tweet">We are pleased to announce you can now buy $BAY with euros at <a target="_blank" href="https://www.bitladon.com/bitbay">bitladon.com/bitbay</a>
-Bitladon is the international website of the Dutch broker Bitcoin Meester and they make it quick and easy to buy $BAY! <a href="https://twitter.com/search?q=%23BitBay" target="_blank">#BitBay</a> <a href="https://twitter.com/search?q=%23crypto" target="_blank">#crypto</a> <a href="https://twitter.com/search?q=%23altcoin" target="_blank">#altcoin</a> <a href="https://twitter.com/search?q=%23buycrypto" target="_blank">#buycrypto</a> <a href="https://t.co/2AhSf8vWl3" target="_blank">https://t.co/2AhSf8vWl3</a><div class="aspect-image-full-size" style="--aspect-ratio:690/344;"><img class="tweet-image" src=".../forum-archive/uploads/default/original/1X/4c627b96bf6fd099a0f14a495343520028575018.jpeg"></div>
+Bitladon is the international website of the Dutch broker Bitcoin Meester and they make it quick and easy to buy $BAY! <a href="https://twitter.com/search?q=%23BitBay" target="_blank">#BitBay</a> <a href="https://twitter.com/search?q=%23crypto" target="_blank">#crypto</a> <a href="https://twitter.com/search?q=%23altcoin" target="_blank">#altcoin</a> <a href="https://twitter.com/search?q=%23buycrypto" target="_blank">#buycrypto</a> <a href="https://t.co/2AhSf8vWl3" target="_blank">https://t.co/2AhSf8vWl3</a><div class="aspect-image-full-size" style="--aspect-ratio:690/344;"><img class="tweet-image" src="../../forum-archive/uploads/default/original/1X/4c627b96bf6fd099a0f14a495343520028575018.jpeg"></div>
 </div>
 
 <div class="date">
@@ -427,22 +427,22 @@ Bitladon is the international website of the Dutch broker Bitcoin Meester and th
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bitbay-now-available-to-buy-with-euros-on-bitladon-exchange/1606">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-now-available-to-buy-with-euros-on-bitladon-exchange/1606">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-now-available-to-buy-with-euros-on-bitladon-exchange/1606</link>
+          <link>../../forum-archive/t/bitbay-now-available-to-buy-with-euros-on-bitladon-exchange/1606</link>
           <pubDate>Mon, 12 Nov 2018 17:17:20 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1606</guid>
-          <source url=".../forum-archive/t/bitbay-now-available-to-buy-with-euros-on-bitladon-exchange/1606.rss">Bitbay now available to buy with euros on Bitladon Exchange</source>
+          <source url="../../forum-archive/t/bitbay-now-available-to-buy-with-euros-on-bitladon-exchange/1606.rss">Bitbay now available to buy with euros on Bitladon Exchange</source>
         </item>
         <item>
           <title>BitBay November Roadmap Update – BitBay Official – Medium</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
@@ -450,7 +450,7 @@ Bitladon is the international website of the Dutch broker Bitcoin Meester and th
       <a href="https://medium.com/@bitbay/bitbay-roadmap-update-95ab4dcba63" target="_blank" title="03:49PM - 06 November 2018" rel="nofollow noopener">Medium – 6 Nov 18</a>
   </header>
   <article class="onebox-body">
-    <div class="aspect-image" style="--aspect-ratio:690/394;"><img src=".../forum-archive/uploads/default/original/1X/6e98a4531fd1b811281a678670cac969d8325d21.jpeg" class="thumbnail"></div>
+    <div class="aspect-image" style="--aspect-ratio:690/394;"><img src="../../forum-archive/uploads/default/original/1X/6e98a4531fd1b811281a678670cac969d8325d21.jpeg" class="thumbnail"></div>
 
 <h3><a href="https://medium.com/@bitbay/bitbay-roadmap-update-95ab4dcba63" target="_blank" rel="nofollow noopener">BitBay Roadmap Update – BitBay Official – Medium</a></h3>
 
@@ -470,26 +470,26 @@ Bitladon is the international website of the Dutch broker Bitcoin Meester and th
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bitbay-november-roadmap-update-bitbay-official-medium/1597">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-november-roadmap-update-bitbay-official-medium/1597">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-november-roadmap-update-bitbay-official-medium/1597</link>
+          <link>../../forum-archive/t/bitbay-november-roadmap-update-bitbay-official-medium/1597</link>
           <pubDate>Tue, 06 Nov 2018 16:30:51 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1597</guid>
-          <source url=".../forum-archive/t/bitbay-november-roadmap-update-bitbay-official-medium/1597.rss">BitBay November Roadmap Update – BitBay Official – Medium</source>
+          <source url="../../forum-archive/t/bitbay-november-roadmap-update-bitbay-official-medium/1597.rss">BitBay November Roadmap Update – BitBay Official – Medium</source>
         </item>
         <item>
           <title>New 2018 Roadmap Released!</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
       <a href="https://bitbay.market/roadmap" target="_blank" rel="nofollow noopener">BitBay</a>
   </header>
   <article class="onebox-body">
@@ -511,29 +511,29 @@ Bitladon is the international website of the Dutch broker Bitcoin Meester and th
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/new-2018-roadmap-released/1533">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/new-2018-roadmap-released/1533">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/new-2018-roadmap-released/1533</link>
+          <link>../../forum-archive/t/new-2018-roadmap-released/1533</link>
           <pubDate>Thu, 27 Sep 2018 13:47:10 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1533</guid>
-          <source url=".../forum-archive/t/new-2018-roadmap-released/1533.rss">New 2018 Roadmap Released!</source>
+          <source url="../../forum-archive/t/new-2018-roadmap-released/1533.rss">New 2018 Roadmap Released!</source>
         </item>
         <item>
           <title>Dynamic Peg Open for Testing!</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox twitterstatus">
   <header class="source">
       <a href="https://twitter.com/BitBayofficial/status/1031855288448675840" target="_blank" rel="nofollow noopener">twitter.com</a>
   </header>
   <article class="onebox-body">
-    <img src=".../forum-archive/uploads/default/original/1X/cc30a0e42aa69eb84869d300215fb2df886f9bf8.jpg" class="thumbnail onebox-avatar" width="400" height="400">
+    <img src="../../forum-archive/uploads/default/original/1X/cc30a0e42aa69eb84869d300215fb2df886f9bf8.jpg" class="thumbnail onebox-avatar" width="400" height="400">
 <h4>
   <a href="https://twitter.com/BitBayofficial/status/1031855288448675840" target="_blank" rel="nofollow noopener">
     BitBay (BitBayofficial)
@@ -542,7 +542,7 @@ Bitladon is the international website of the Dutch broker Bitcoin Meester and th
 
 <div class="tweet">The Dynamic Peg is officially open for testing. Join the list: <a target="_blank" href="http://eepurl.com/dEh9u5" rel="nofollow noopener">eepurl.com/dEh9u5</a>
 
-$BAY <a href="https://twitter.com/search?q=%23stablecoin" target="_blank" rel="nofollow noopener">#stablecoin</a> <a href="https://t.co/jOQuXyIaNs" target="_blank" rel="nofollow noopener">https://t.co/jOQuXyIaNs</a><div class="tweet-images"><img class="tweet-image" src=".../forum-archive/uploads/default/original/1X/32d891010cbbe50ba17360888f26a7fad014a600.jpg" width="690" height="252"></div>
+$BAY <a href="https://twitter.com/search?q=%23stablecoin" target="_blank" rel="nofollow noopener">#stablecoin</a> <a href="https://t.co/jOQuXyIaNs" target="_blank" rel="nofollow noopener">https://t.co/jOQuXyIaNs</a><div class="tweet-images"><img class="tweet-image" src="../../forum-archive/uploads/default/original/1X/32d891010cbbe50ba17360888f26a7fad014a600.jpg" width="690" height="252"></div>
 </div>
 
 <div class="date">
@@ -560,22 +560,22 @@ $BAY <a href="https://twitter.com/search?q=%23stablecoin" target="_blank" rel="n
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/dynamic-peg-open-for-testing/1492">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/dynamic-peg-open-for-testing/1492">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/dynamic-peg-open-for-testing/1492</link>
+          <link>../../forum-archive/t/dynamic-peg-open-for-testing/1492</link>
           <pubDate>Tue, 21 Aug 2018 13:10:50 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1492</guid>
-          <source url=".../forum-archive/t/dynamic-peg-open-for-testing/1492.rss">Dynamic Peg Open for Testing!</source>
+          <source url="../../forum-archive/t/dynamic-peg-open-for-testing/1492.rss">Dynamic Peg Open for Testing!</source>
         </item>
         <item>
           <title>Official Statement: BitBay Web Marketplace Update – BitBay Official – Medium</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
@@ -583,7 +583,7 @@ $BAY <a href="https://twitter.com/search?q=%23stablecoin" target="_blank" rel="n
       <a href="https://medium.com/@bitbay/official-statement-bitbay-web-marketplace-update-eea7101750fc" target="_blank" title="05:24PM - 31 July 2018" rel="nofollow noopener">Medium – 31 Jul 18</a>
   </header>
   <article class="onebox-body">
-    <div class="aspect-image" style="--aspect-ratio:690/401;"><img src=".../forum-archive/uploads/default/original/1X/eaeb4c848a95bd05052e45dfe721f200e47b9d2e.jpeg" class="thumbnail"></div>
+    <div class="aspect-image" style="--aspect-ratio:690/401;"><img src="../../forum-archive/uploads/default/original/1X/eaeb4c848a95bd05052e45dfe721f200e47b9d2e.jpeg" class="thumbnail"></div>
 
 <h3><a href="https://medium.com/@bitbay/official-statement-bitbay-web-marketplace-update-eea7101750fc" target="_blank" rel="nofollow noopener">Official Statement: BitBay Web Marketplace Update – BitBay Official – Medium</a></h3>
 
@@ -603,22 +603,22 @@ $BAY <a href="https://twitter.com/search?q=%23stablecoin" target="_blank" rel="n
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/official-statement-bitbay-web-marketplace-update-bitbay-official-medium/1459">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/official-statement-bitbay-web-marketplace-update-bitbay-official-medium/1459">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/official-statement-bitbay-web-marketplace-update-bitbay-official-medium/1459</link>
+          <link>../../forum-archive/t/official-statement-bitbay-web-marketplace-update-bitbay-official-medium/1459</link>
           <pubDate>Thu, 02 Aug 2018 11:57:52 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1459</guid>
-          <source url=".../forum-archive/t/official-statement-bitbay-web-marketplace-update-bitbay-official-medium/1459.rss">Official Statement: BitBay Web Marketplace Update – BitBay Official – Medium</source>
+          <source url="../../forum-archive/t/official-statement-bitbay-web-marketplace-update-bitbay-official-medium/1459.rss">Official Statement: BitBay Web Marketplace Update – BitBay Official – Medium</source>
         </item>
         <item>
           <title>Dynamic Peg Whitepaper Released!</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
@@ -626,7 +626,7 @@ $BAY <a href="https://twitter.com/search?q=%23stablecoin" target="_blank" rel="n
       <a href="https://twitter.com/bitbayofficial/status/1022119215443202048?s=21" target="_blank" rel="nofollow noopener">Twitter</a>
   </header>
   <article class="onebox-body">
-    <div class="aspect-image" style="--aspect-ratio:666/500;"><img src=".../forum-archive/uploads/default/original/1X/e630f65611a91c37c1c88a68b19355f5186adb71.jpg" class="thumbnail"></div>
+    <div class="aspect-image" style="--aspect-ratio:666/500;"><img src="../../forum-archive/uploads/default/original/1X/e630f65611a91c37c1c88a68b19355f5186adb71.jpg" class="thumbnail"></div>
 
 <h3><a href="https://twitter.com/bitbayofficial/status/1022119215443202048?s=21" target="_blank" rel="nofollow noopener">BitBay on Twitter</a></h3>
 
@@ -648,29 +648,29 @@ $BAY #whitepaper #bitbay #stablecoin #tether #trueusd #btc https://t.co/F5rUiH6w
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/dynamic-peg-whitepaper-released/1443">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/dynamic-peg-whitepaper-released/1443">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/dynamic-peg-whitepaper-released/1443</link>
+          <link>../../forum-archive/t/dynamic-peg-whitepaper-released/1443</link>
           <pubDate>Wed, 25 Jul 2018 14:11:22 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1443</guid>
-          <source url=".../forum-archive/t/dynamic-peg-whitepaper-released/1443.rss">Dynamic Peg Whitepaper Released!</source>
+          <source url="../../forum-archive/t/dynamic-peg-whitepaper-released/1443.rss">Dynamic Peg Whitepaper Released!</source>
         </item>
         <item>
           <title>Dynamic Peg Whitepaper Soon To Be Released!</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox twitterstatus">
   <header class="source">
       <a href="https://twitter.com/BitBayofficial/status/1021346018028408832" target="_blank" rel="nofollow noopener">twitter.com</a>
   </header>
   <article class="onebox-body">
-    <img src=".../forum-archive/uploads/default/original/1X/cc30a0e42aa69eb84869d300215fb2df886f9bf8.jpg" class="thumbnail onebox-avatar" width="400" height="400">
+    <img src="../../forum-archive/uploads/default/original/1X/cc30a0e42aa69eb84869d300215fb2df886f9bf8.jpg" class="thumbnail onebox-avatar" width="400" height="400">
 <h4>
   <a href="https://twitter.com/BitBayofficial/status/1021346018028408832" target="_blank" rel="nofollow noopener">
     BitBay (BitBayofficial)
@@ -699,22 +699,22 @@ Watch this space. $BAY <a href="https://twitter.com/search?q=%23BitBay" target="
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/dynamic-peg-whitepaper-soon-to-be-released/1437">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/dynamic-peg-whitepaper-soon-to-be-released/1437">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/dynamic-peg-whitepaper-soon-to-be-released/1437</link>
+          <link>../../forum-archive/t/dynamic-peg-whitepaper-soon-to-be-released/1437</link>
           <pubDate>Mon, 23 Jul 2018 14:31:54 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1437</guid>
-          <source url=".../forum-archive/t/dynamic-peg-whitepaper-soon-to-be-released/1437.rss">Dynamic Peg Whitepaper Soon To Be Released!</source>
+          <source url="../../forum-archive/t/dynamic-peg-whitepaper-soon-to-be-released/1437.rss">Dynamic Peg Whitepaper Soon To Be Released!</source>
         </item>
         <item>
           <title>BitBay Community Update — July 20th, 2018 – BitBay Blog</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
@@ -722,7 +722,7 @@ Watch this space. $BAY <a href="https://twitter.com/search?q=%23BitBay" target="
       <a href="https://blog.bitbay.market/bitbay-community-update-july-20th-2018-641a3566ff69?gi=4512d27a446" target="_blank" title="09:00AM - 20 July 2018" rel="nofollow noopener">BitBay Blog – 20 Jul 18</a>
   </header>
   <article class="onebox-body">
-    <div class="aspect-image" style="--aspect-ratio:387/500;"><img src=".../forum-archive/uploads/default/original/1X/545c892871b05a34a20b20eef675931486b5461f.png" class="thumbnail"></div>
+    <div class="aspect-image" style="--aspect-ratio:387/500;"><img src="../../forum-archive/uploads/default/original/1X/545c892871b05a34a20b20eef675931486b5461f.png" class="thumbnail"></div>
 
 <h3><a href="https://blog.bitbay.market/bitbay-community-update-july-20th-2018-641a3566ff69?gi=4512d27a446" target="_blank" rel="nofollow noopener">BitBay Community Update — July 20th, 2018 – BitBay Blog</a></h3>
 
@@ -743,22 +743,22 @@ What is a blockchain-based or decentralized marketplace?</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bitbay-community-update-july-20th-2018-bitbay-blog/1427">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-community-update-july-20th-2018-bitbay-blog/1427">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-community-update-july-20th-2018-bitbay-blog/1427</link>
+          <link>../../forum-archive/t/bitbay-community-update-july-20th-2018-bitbay-blog/1427</link>
           <pubDate>Fri, 20 Jul 2018 13:12:33 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1427</guid>
-          <source url=".../forum-archive/t/bitbay-community-update-july-20th-2018-bitbay-blog/1427.rss">BitBay Community Update — July 20th, 2018 – BitBay Blog</source>
+          <source url="../../forum-archive/t/bitbay-community-update-july-20th-2018-bitbay-blog/1427.rss">BitBay Community Update — July 20th, 2018 – BitBay Blog</source>
         </item>
         <item>
           <title>BitBay Community Update —July 12th, 2018 – BitBay Blog</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
@@ -766,7 +766,7 @@ What is a blockchain-based or decentralized marketplace?</p>
       <a href="https://blog.bitbay.market/bitbay-community-update-july-12th-2018-43d9acf24494?gi=2dec70fc84c5" target="_blank" title="12:33PM - 12 July 2018" rel="nofollow noopener">BitBay Blog – 12 Jul 18</a>
   </header>
   <article class="onebox-body">
-    <div class="aspect-image" style="--aspect-ratio:690/476;"><img src=".../forum-archive/uploads/default/original/1X/698e5556cddc96635fe94cd47cc051d2a858fabb.png" class="thumbnail"></div>
+    <div class="aspect-image" style="--aspect-ratio:690/476;"><img src="../../forum-archive/uploads/default/original/1X/698e5556cddc96635fe94cd47cc051d2a858fabb.png" class="thumbnail"></div>
 
 <h3><a href="https://blog.bitbay.market/bitbay-community-update-july-12th-2018-43d9acf24494?gi=2dec70fc84c5" target="_blank" rel="nofollow noopener">BitBay Community Update —July 12th, 2018 – BitBay Blog</a></h3>
 
@@ -786,52 +786,52 @@ What is a blockchain-based or decentralized marketplace?</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bitbay-community-update-july-12th-2018-bitbay-blog/1416">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-community-update-july-12th-2018-bitbay-blog/1416">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-community-update-july-12th-2018-bitbay-blog/1416</link>
+          <link>../../forum-archive/t/bitbay-community-update-july-12th-2018-bitbay-blog/1416</link>
           <pubDate>Thu, 12 Jul 2018 13:34:20 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1416</guid>
-          <source url=".../forum-archive/t/bitbay-community-update-july-12th-2018-bitbay-blog/1416.rss">BitBay Community Update —July 12th, 2018 – BitBay Blog</source>
+          <source url="../../forum-archive/t/bitbay-community-update-july-12th-2018-bitbay-blog/1416.rss">BitBay Community Update —July 12th, 2018 – BitBay Blog</source>
         </item>
         <item>
           <title>Dedicated Mac OSX Client build potential issues</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <p>We are currently fixing some issues that some users detected regarding the recently released dedicated Mac OSX Client build. If you encounter issues, in the meantime you can use the previous Mac OSX Wine Build using this download link: <a href="https://www.davtonia.com/bitbay/bitbay.zip">https://www.davtonia.com/bitbay/bitbay.zip</a>.</p>
-<p>Thank you for your understanding! <img src=".../forum-archive/images/emoji/twitter/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>Thank you for your understanding! <img src="../../forum-archive/images/emoji/twitter/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314</link>
+          <link>../../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314</link>
           <pubDate>Sat, 12 May 2018 06:58:52 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1314</guid>
-          <source url=".../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314.rss">Dedicated Mac OSX Client build potential issues</source>
+          <source url="../../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314.rss">Dedicated Mac OSX Client build potential issues</source>
         </item>
         <item>
           <title>OptiToken Airdrop reddit thread</title>
           <dc:creator><![CDATA[@stonesourcery mc]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/stonesourcery">@stonesourcery</a> wrote:</p>
+            <p><a href="../../forum-archive/u/stonesourcery">@stonesourcery</a> wrote:</p>
             <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/62964150c1fb11c88b0ae55773ef9be4517e055e.png" class="site-icon" width="192" height="192">
+      <img src="../../forum-archive/uploads/default/original/1X/62964150c1fb11c88b0ae55773ef9be4517e055e.png" class="site-icon" width="192" height="192">
       <a href="https://www.reddit.com/r/BitBay/comments/8agzsl/new_optitoken_airdrop_information/" target="_blank" rel="nofollow noopener">reddit</a>
   </header>
   <article class="onebox-body">
-    <img src=".../forum-archive/uploads/default/original/1X/894dc49844ab5612e376a3235b4de1bb37b5576f.png" class="thumbnail onebox-avatar" width="256" height="256">
+    <img src="../../forum-archive/uploads/default/original/1X/894dc49844ab5612e376a3235b4de1bb37b5576f.png" class="thumbnail onebox-avatar" width="256" height="256">
 
 <h3><a href="https://www.reddit.com/r/BitBay/comments/8agzsl/new_optitoken_airdrop_information/" target="_blank" rel="nofollow noopener">New OptiToken Airdrop Information! • r/BitBay</a></h3>
 
@@ -849,22 +849,22 @@ What is a blockchain-based or decentralized marketplace?</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/optitoken-airdrop-reddit-thread/1281">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/optitoken-airdrop-reddit-thread/1281">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/optitoken-airdrop-reddit-thread/1281</link>
+          <link>../../forum-archive/t/optitoken-airdrop-reddit-thread/1281</link>
           <pubDate>Wed, 18 Apr 2018 11:55:21 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1281</guid>
-          <source url=".../forum-archive/t/optitoken-airdrop-reddit-thread/1281.rss">OptiToken Airdrop reddit thread</source>
+          <source url="../../forum-archive/t/optitoken-airdrop-reddit-thread/1281.rss">OptiToken Airdrop reddit thread</source>
         </item>
         <item>
           <title>London Cryptocurrency Conference - Ticket Competition!</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <p>Our Operations Manager Bjørn Alsos will be one of the speakers at The London Cryptocurrency Show on April 14th (<a href="http://www.londoncryptocurrencyshow.com">http://www.londoncryptocurrencyshow.com</a>). To celebrate this we’re giving away two free tickets and the chance to hang out with members of the BitBay team!</p>
 <p>Simply post your answer below to the following question for a chance to win:</p>
@@ -873,25 +873,25 @@ What is a blockchain-based or decentralized marketplace?</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/london-cryptocurrency-conference-ticket-competition/1252">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/london-cryptocurrency-conference-ticket-competition/1252">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/london-cryptocurrency-conference-ticket-competition/1252</link>
+          <link>../../forum-archive/t/london-cryptocurrency-conference-ticket-competition/1252</link>
           <pubDate>Tue, 03 Apr 2018 15:19:03 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>Yes</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1252</guid>
-          <source url=".../forum-archive/t/london-cryptocurrency-conference-ticket-competition/1252.rss">London Cryptocurrency Conference - Ticket Competition!</source>
+          <source url="../../forum-archive/t/london-cryptocurrency-conference-ticket-competition/1252.rss">London Cryptocurrency Conference - Ticket Competition!</source>
         </item>
         <item>
           <title>Actualización de comunidad 11 de marzo</title>
           <dc:creator><![CDATA[@Manuela Manuela Grisales]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/manuela">@Manuela</a> wrote:</p>
+            <p><a href="../../forum-archive/u/manuela">@Manuela</a> wrote:</p>
             <blockquote>
-              <p><a class="attachment" href=".../forum-archive/uploads/default/original/1X/d0df570e8ef2c7e2fd658724b6509d9e47939f08.pdf">Marzo 11.pdf</a> (220.4 KB)<br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/f3ccfc18c3ce0d7d5466e1abddfdcd158b8331d3.jpg" data-download-href=".../forum-archive/uploads/default/f3ccfc18c3ce0d7d5466e1abddfdcd158b8331d3" title="CommunityUpdate (1).jpg"><img src=".../forum-archive/uploads/default/optimized/1X/f3ccfc18c3ce0d7d5466e1abddfdcd158b8331d3_1_690x222.jpg" alt="CommunityUpdate%20(1)" width="690" height="222"><div class="meta">
+              <p><a class="attachment" href="../../forum-archive/uploads/default/original/1X/d0df570e8ef2c7e2fd658724b6509d9e47939f08.pdf">Marzo 11.pdf</a> (220.4 KB)<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/f3ccfc18c3ce0d7d5466e1abddfdcd158b8331d3.jpg" data-download-href="../../forum-archive/uploads/default/f3ccfc18c3ce0d7d5466e1abddfdcd158b8331d3" title="CommunityUpdate (1).jpg"><img src="../../forum-archive/uploads/default/optimized/1X/f3ccfc18c3ce0d7d5466e1abddfdcd158b8331d3_1_690x222.jpg" alt="CommunityUpdate%20(1)" width="690" height="222"><div class="meta">
 <span class="filename">CommunityUpdate (1).jpg</span><span class="informations">1259x406 75.5 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>Mira esta introducción clara de BitBay en CoinCentral. ¡Hemos visto una reciente afluencia de atención en nuestra plataforma en varios sitios web relacionados con criptomoneda, el impulso está mejorando!</p>
@@ -902,26 +902,26 @@ What is a blockchain-based or decentralized marketplace?</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/actualizacion-de-comunidad-11-de-marzo/1201">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/actualizacion-de-comunidad-11-de-marzo/1201">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/actualizacion-de-comunidad-11-de-marzo/1201</link>
+          <link>../../forum-archive/t/actualizacion-de-comunidad-11-de-marzo/1201</link>
           <pubDate>Mon, 12 Mar 2018 17:15:55 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1201</guid>
-          <source url=".../forum-archive/t/actualizacion-de-comunidad-11-de-marzo/1201.rss">Actualización de comunidad 11 de marzo</source>
+          <source url="../../forum-archive/t/actualizacion-de-comunidad-11-de-marzo/1201.rss">Actualización de comunidad 11 de marzo</source>
         </item>
         <item>
           <title>Community Update 11\03\2018 تحديث المجتمع الأسبوعي</title>
           <dc:creator><![CDATA[@Turkkiendez Mohamed Tourki]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/turkkiendez">@Turkkiendez</a> wrote:</p>
+            <p><a href="../../forum-archive/u/turkkiendez">@Turkkiendez</a> wrote:</p>
             <blockquote>
               <div dir="rtl">
-<a class="attachment" href=".../forum-archive/uploads/default/original/1X/260d036ca7a80d8717d8d3f6ae7652dac0b7de4d.pdf">2018 تحديث المجتمع الأسبوعي.pdf</a> (228.9 KB)
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/aa48903840b6ecdc3fc61dceafe5367f570123c6.jpg" data-download-href=".../forum-archive/uploads/default/aa48903840b6ecdc3fc61dceafe5367f570123c6" title="CommunityUpdate.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/aa48903840b6ecdc3fc61dceafe5367f570123c6_1_690x222.jpg" alt="CommunityUpdate" width="690" height="222"><div class="meta">
+<a class="attachment" href="../../forum-archive/uploads/default/original/1X/260d036ca7a80d8717d8d3f6ae7652dac0b7de4d.pdf">2018 تحديث المجتمع الأسبوعي.pdf</a> (228.9 KB)
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/aa48903840b6ecdc3fc61dceafe5367f570123c6.jpg" data-download-href="../../forum-archive/uploads/default/aa48903840b6ecdc3fc61dceafe5367f570123c6" title="CommunityUpdate.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/aa48903840b6ecdc3fc61dceafe5367f570123c6_1_690x222.jpg" alt="CommunityUpdate" width="690" height="222"><div class="meta">
 <span class="filename">CommunityUpdate.jpg</span><span class="informations">1259x406 79.7 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>تفقد هذا <a href="https://coincentral.com/bitbay-bay-beginners-guide/">الشرح الرائع</a> عن BitBay المقدم من موقع كوين سنترال! نلاحظ اهتمام متتابع بمشروعنا من عدة مواقع مختصة بالعملات الإلكترونية، نحن نتسلق الجبل!</p>
@@ -933,35 +933,35 @@ What is a blockchain-based or decentralized marketplace?</p>
 صفحتنا على تويتر : <a href="http://www.twitter.com/BitBayAlarab">www.twitter.com/BitBayAlarab</a><br>
 صفحتنا على تيليجرام : <a href="https://t.me/bitbaymarketarabic">https://t.me/bitbaymarketarabic</a></p>
 </div>
-<p><img src=".../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href="https://www.bitbay.market">https://www.bitbay.market</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/c875becfb5f9fb400659f8a63f46c4a509e416bd.png" alt="TwitterTiny" width="29" height="23"> <a href="https://twitter.com/BitBayofficial">https://twitter.com/BitBayofficial</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/aba037f855f8e23626115286375c90485db23368.png" alt="TelegramTiny" width="29" height="29"> <a href="https://t.me/bitbayofficial">https://t.me/bitbayofficial</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href=".../forum-archive/">.../forum-archive/</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href="https://blog.bitbay.market/">https://blog.bitbay.market/</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/4b76807fd06d41cfcea0428beec9627e015a2c26.png" alt="RedditTiny" width="29" height="29"> <a href="https://www.reddit.com/r/BitBay/">https://www.reddit.com/r/BitBay/</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/14d49ba9317028df579bbe2585014f036173e9f6.png" alt="FacebookTiny" width="29" height="29"> <a href="https://www.facebook.com/bitbaymarket/">https://www.facebook.com/bitbaymarket/</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/3c51ce0d32a5ba70ac1d134715b01a9258ce6648.png" alt="BitcointalkTiny" width="33" height="33"><a href="https://bitcointalk.org/index.php?topic=890531.0">https://bitcointalk.org/index.php?topic=890531.0</a></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href="https://www.bitbay.market">https://www.bitbay.market</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/c875becfb5f9fb400659f8a63f46c4a509e416bd.png" alt="TwitterTiny" width="29" height="23"> <a href="https://twitter.com/BitBayofficial">https://twitter.com/BitBayofficial</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/aba037f855f8e23626115286375c90485db23368.png" alt="TelegramTiny" width="29" height="29"> <a href="https://t.me/bitbayofficial">https://t.me/bitbayofficial</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href="../../forum-archive/">../../forum-archive/</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href="https://blog.bitbay.market/">https://blog.bitbay.market/</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/4b76807fd06d41cfcea0428beec9627e015a2c26.png" alt="RedditTiny" width="29" height="29"> <a href="https://www.reddit.com/r/BitBay/">https://www.reddit.com/r/BitBay/</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/14d49ba9317028df579bbe2585014f036173e9f6.png" alt="FacebookTiny" width="29" height="29"> <a href="https://www.facebook.com/bitbaymarket/">https://www.facebook.com/bitbaymarket/</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/3c51ce0d32a5ba70ac1d134715b01a9258ce6648.png" alt="BitcointalkTiny" width="33" height="33"><a href="https://bitcointalk.org/index.php?topic=890531.0">https://bitcointalk.org/index.php?topic=890531.0</a></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/community-update-11-03-2018/1200">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/community-update-11-03-2018/1200">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/community-update-11-03-2018/1200</link>
+          <link>../../forum-archive/t/community-update-11-03-2018/1200</link>
           <pubDate>Mon, 12 Mar 2018 16:19:55 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1200</guid>
-          <source url=".../forum-archive/t/community-update-11-03-2018/1200.rss">Community Update 11\03\2018 تحديث المجتمع الأسبوعي</source>
+          <source url="../../forum-archive/t/community-update-11-03-2018/1200.rss">Community Update 11\03\2018 تحديث المجتمع الأسبوعي</source>
         </item>
         <item>
           <title>Community Update 11/03/18 en français</title>
           <dc:creator><![CDATA[@BayCorti]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/baycorti">@BayCorti</a> wrote:</p>
+            <p><a href="../../forum-archive/u/baycorti">@BayCorti</a> wrote:</p>
             <blockquote>
-              <p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/6b22a04c70aa73a2e0340cb5a842a171691f0b2c.png" data-download-href=".../forum-archive/uploads/default/6b22a04c70aa73a2e0340cb5a842a171691f0b2c" title="Twitter 1024x512.png"><img src=".../forum-archive/uploads/default/optimized/1X/6b22a04c70aa73a2e0340cb5a842a171691f0b2c_1_690x345.png" alt="Twitter%201024x512" width="690" height="345"><div class="meta">
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/6b22a04c70aa73a2e0340cb5a842a171691f0b2c.png" data-download-href="../../forum-archive/uploads/default/6b22a04c70aa73a2e0340cb5a842a171691f0b2c" title="Twitter 1024x512.png"><img src="../../forum-archive/uploads/default/optimized/1X/6b22a04c70aa73a2e0340cb5a842a171691f0b2c_1_690x345.png" alt="Twitter%201024x512" width="690" height="345"><div class="meta">
 <span class="filename">Twitter 1024x512.png</span><span class="informations">1024x512 81 KB</span><span class="expand"></span>
 </div></a></div></p>
 <ul>
@@ -979,35 +979,35 @@ What is a blockchain-based or decentralized marketplace?</p>
 </li>
 </ul>
 <p><em>Comme toujours, merci pour votre intérêt pour le Projet BitBay!</em></p>
-<p><img src=".../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href="https://www.bitbay.market">https://www.bitbay.market</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/c875becfb5f9fb400659f8a63f46c4a509e416bd.png" alt="TwitterTiny" width="29" height="23"> <a href="https://twitter.com/BitBayofficial">https://twitter.com/BitBayofficial</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/aba037f855f8e23626115286375c90485db23368.png" alt="TelegramTiny" width="29" height="29"> <a href="https://t.me/bitbayofficial">https://t.me/bitbayofficial</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href=".../forum-archive/">.../forum-archive/</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href="https://blog.bitbay.market/">https://blog.bitbay.market/</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/4b76807fd06d41cfcea0428beec9627e015a2c26.png" alt="RedditTiny" width="29" height="29"> <a href="https://www.reddit.com/r/BitBay/">https://www.reddit.com/r/BitBay/</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/14d49ba9317028df579bbe2585014f036173e9f6.png" alt="FacebookTiny" width="29" height="29"> <a href="https://www.facebook.com/bitbaymarket/">https://www.facebook.com/bitbaymarket/</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/3c51ce0d32a5ba70ac1d134715b01a9258ce6648.png" alt="BitcointalkTiny" width="33" height="33"><a href="https://bitcointalk.org/index.php?topic=890531.0">https://bitcointalk.org/index.php?topic=890531.0</a></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href="https://www.bitbay.market">https://www.bitbay.market</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/c875becfb5f9fb400659f8a63f46c4a509e416bd.png" alt="TwitterTiny" width="29" height="23"> <a href="https://twitter.com/BitBayofficial">https://twitter.com/BitBayofficial</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/aba037f855f8e23626115286375c90485db23368.png" alt="TelegramTiny" width="29" height="29"> <a href="https://t.me/bitbayofficial">https://t.me/bitbayofficial</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href="../../forum-archive/">../../forum-archive/</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href="https://blog.bitbay.market/">https://blog.bitbay.market/</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/4b76807fd06d41cfcea0428beec9627e015a2c26.png" alt="RedditTiny" width="29" height="29"> <a href="https://www.reddit.com/r/BitBay/">https://www.reddit.com/r/BitBay/</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/14d49ba9317028df579bbe2585014f036173e9f6.png" alt="FacebookTiny" width="29" height="29"> <a href="https://www.facebook.com/bitbaymarket/">https://www.facebook.com/bitbaymarket/</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/3c51ce0d32a5ba70ac1d134715b01a9258ce6648.png" alt="BitcointalkTiny" width="33" height="33"><a href="https://bitcointalk.org/index.php?topic=890531.0">https://bitcointalk.org/index.php?topic=890531.0</a></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/community-update-11-03-18-en-francais/1199">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/community-update-11-03-18-en-francais/1199">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/community-update-11-03-18-en-francais/1199</link>
+          <link>../../forum-archive/t/community-update-11-03-18-en-francais/1199</link>
           <pubDate>Mon, 12 Mar 2018 09:18:59 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1199</guid>
-          <source url=".../forum-archive/t/community-update-11-03-18-en-francais/1199.rss">Community Update 11/03/18 en français</source>
+          <source url="../../forum-archive/t/community-update-11-03-18-en-francais/1199.rss">Community Update 11/03/18 en français</source>
         </item>
         <item>
           <title>Community Update 11/03/2018 (Russian) Еженедельное Обновление BitBay (11/03/2018)</title>
           <dc:creator><![CDATA[@igors.fridkins IgorsLV]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/igors.fridkins">@igors.fridkins</a> wrote:</p>
+            <p><a href="../../forum-archive/u/igors.fridkins">@igors.fridkins</a> wrote:</p>
             <blockquote>
-              <p><img src=".../forum-archive/uploads/default/original/1X/74c9d6301ef326488d095c4ad1d2e27ca7710546.png" alt="6b22a04c70aa73a2e0340cb5a842a171691f0b2c_1_690x345" width="690" height="345"></p>
+              <p><img src="../../forum-archive/uploads/default/original/1X/74c9d6301ef326488d095c4ad1d2e27ca7710546.png" alt="6b22a04c70aa73a2e0340cb5a842a171691f0b2c_1_690x345" width="690" height="345"></p>
 <ul>
 <li>
 <p>Зацените это<a href="https://coincentral.com/bitbay-bay-beginners-guide/">аккуратно написанное введение</a> к BitBay на CoinCentral. Мы увидели недавний приток внимания к нашей платформе на сайтах, связанных с криптографией - проект набирает обороты!</p>
@@ -1019,13 +1019,13 @@ What is a blockchain-based or decentralized marketplace?</p>
 <p>Новый графический интерфейс все еще планируется выпустить вовремя. Благодаря новой, гладкой эстетике, мы будем двигаться только вперед для публикации нашего нового вида и для того, чтобы еще больше взбудоражить наше сообщество с помощью преимуществ в виде Двойного Депонирования Депозита, Системы Dynamic Peg и наших уникальных шаблонов Смарт-Контрактов для коммерческих приложений.</p>
 </li>
 <li>
-<p>Некоторые пользователи сообщили о незначительных проблемах с нашим веб-кошельком - мы хотели бы заверить наше сообщество, что все, что связано с блокчейном, находится в рабочем состоянии, и никто не потерял доступ к своим монетам. Если у кого-то возникнут дополнительные проблемы, пожалуйста, свяжитесь с нами через <a href=".../forum-archive/">форум</a>, и мы сможем Вам помочь!</p>
+<p>Некоторые пользователи сообщили о незначительных проблемах с нашим веб-кошельком - мы хотели бы заверить наше сообщество, что все, что связано с блокчейном, находится в рабочем состоянии, и никто не потерял доступ к своим монетам. Если у кого-то возникнут дополнительные проблемы, пожалуйста, свяжитесь с нами через <a href="../../forum-archive/">форум</a>, и мы сможем Вам помочь!</p>
 </li>
 </ul>
 <p><em>И как всегда, благодарим Вас за интерес к проекту BitBay!</em></p>
 <p><aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
       <a href="https://www.bitbay.market/" target="_blank" rel="nofollow noopener">BitBay</a>
   </header>
   <article class="onebox-body">
@@ -1050,7 +1050,7 @@ What is a blockchain-based or decentralized marketplace?</p>
       <a href="https://t.me/bitbaymarketrussia" target="_blank" rel="nofollow noopener">Telegram</a>
   </header>
   <article class="onebox-body">
-    <img src=".../forum-archive/uploads/default/original/1X/e5a0a017b492fbbf7bfa102ee236a68d494944e8.jpg" class="thumbnail onebox-avatar" width="320" height="320">
+    <img src="../../forum-archive/uploads/default/original/1X/e5a0a017b492fbbf7bfa102ee236a68d494944e8.jpg" class="thumbnail onebox-avatar" width="320" height="320">
 
 <h3><a href="https://t.me/bitbaymarketrussia" target="_blank" rel="nofollow noopener">BitBay Market Russia</a></h3>
 
@@ -1071,7 +1071,7 @@ What is a blockchain-based or decentralized marketplace?</p>
       <a href="https://www.facebook.com/BitbayRussian/" target="_blank" rel="nofollow noopener">facebook.com</a>
   </header>
   <article class="onebox-body">
-    <img src=".../forum-archive/uploads/default/original/1X/b7b079c256c7cf78ed699c3a25cc43294756b4a4.jpg" class="thumbnail onebox-avatar" width="200" height="200">
+    <img src="../../forum-archive/uploads/default/original/1X/b7b079c256c7cf78ed699c3a25cc43294756b4a4.jpg" class="thumbnail onebox-avatar" width="200" height="200">
 
 <h3><a href="https://www.facebook.com/BitbayRussian/" target="_blank" rel="nofollow noopener">BitBay Русский</a></h3>
 
@@ -1090,24 +1090,24 @@ What is a blockchain-based or decentralized marketplace?</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/community-update-11-03-2018-russian-bitbay-11-03-2018/1197">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/community-update-11-03-2018-russian-bitbay-11-03-2018/1197">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/community-update-11-03-2018-russian-bitbay-11-03-2018/1197</link>
+          <link>../../forum-archive/t/community-update-11-03-2018-russian-bitbay-11-03-2018/1197</link>
           <pubDate>Mon, 12 Mar 2018 07:54:30 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1197</guid>
-          <source url=".../forum-archive/t/community-update-11-03-2018-russian-bitbay-11-03-2018/1197.rss">Community Update 11/03/2018 (Russian) Еженедельное Обновление BitBay (11/03/2018)</source>
+          <source url="../../forum-archive/t/community-update-11-03-2018-russian-bitbay-11-03-2018/1197.rss">Community Update 11/03/2018 (Russian) Еженедельное Обновление BitBay (11/03/2018)</source>
         </item>
         <item>
           <title>Community Update 2018年3月11日 日本語</title>
           <dc:creator><![CDATA[@Akio.Sashima Akio Sashima]]></dc:creator>
           <category>Announcements</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/akio.sashima">@Akio.Sashima</a> wrote:</p>
+            <p><a href="../../forum-archive/u/akio.sashima">@Akio.Sashima</a> wrote:</p>
             <blockquote>
-              <p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/bc9cc12fc61f442f5dd225dcfe5d796634b7d72b.png" data-download-href=".../forum-archive/uploads/default/bc9cc12fc61f442f5dd225dcfe5d796634b7d72b" title="0311.png"><img src=".../forum-archive/uploads/default/optimized/1X/bc9cc12fc61f442f5dd225dcfe5d796634b7d72b_1_690x222.png" alt="0311" width="690" height="222"><div class="meta">
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/bc9cc12fc61f442f5dd225dcfe5d796634b7d72b.png" data-download-href="../../forum-archive/uploads/default/bc9cc12fc61f442f5dd225dcfe5d796634b7d72b" title="0311.png"><img src="../../forum-archive/uploads/default/optimized/1X/bc9cc12fc61f442f5dd225dcfe5d796634b7d72b_1_690x222.png" alt="0311" width="690" height="222"><div class="meta">
 <span class="filename">0311.png</span><span class="informations">1259x406 103 KB</span><span class="expand"></span>
 </div></a></div></p>
 <ul>
@@ -1121,34 +1121,34 @@ What is a blockchain-based or decentralized marketplace?</p>
 <p>新しいGUIは予定通りにリリースされます。新しく滑らかな美しさで、二重預託金エスクロー、ダイナミック・ペッグ・システム、および商用アプリケーション用の独自のスマートコントラクト・テンプレート以上に、暗号コミュニティを湧かせることになります。</p>
 </li>
 <li>
-<p>数名のユーザーの方から、ウェブウォレットに関するマイナーな問題をご指摘いただいています。ここで今一度、私たちのブロックチェーンは問題なく稼働しており、誰も自分のコインへのアクセスを失ってはいないことをお伝えさせていただくことで、コミュニティーの皆様にはご安心頂きたいと思います。もし問題が生じている場合は、<a href=".../forum-archive/">フォーラム</a>を通じてご連絡ください。私たちがアシストさせていただきます！</p>
+<p>数名のユーザーの方から、ウェブウォレットに関するマイナーな問題をご指摘いただいています。ここで今一度、私たちのブロックチェーンは問題なく稼働しており、誰も自分のコインへのアクセスを失ってはいないことをお伝えさせていただくことで、コミュニティーの皆様にはご安心頂きたいと思います。もし問題が生じている場合は、<a href="../../forum-archive/">フォーラム</a>を通じてご連絡ください。私たちがアシストさせていただきます！</p>
 </li>
 </ul>
 <p>いつもBitBayプロジェクトにご関心頂きまして、ありがとうございます！</p>
 <p>日本語チャンネル<br>
-<img src=".../forum-archive/uploads/default/original/1X/14d49ba9317028df579bbe2585014f036173e9f6.png" alt="FacebookTiny" width="33" height="33"> <a href="https://www.facebook.com/BitBay.Japan/">https://www.facebook.com/BitBay.Japan/</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/c875becfb5f9fb400659f8a63f46c4a509e416bd.png" alt="TwitterTiny" width="33" height="27"> <a href="https://twitter.com/BitBay_Japan">https://twitter.com/BitBay_Japan</a></p>
+<img src="../../forum-archive/uploads/default/original/1X/14d49ba9317028df579bbe2585014f036173e9f6.png" alt="FacebookTiny" width="33" height="33"> <a href="https://www.facebook.com/BitBay.Japan/">https://www.facebook.com/BitBay.Japan/</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/c875becfb5f9fb400659f8a63f46c4a509e416bd.png" alt="TwitterTiny" width="33" height="27"> <a href="https://twitter.com/BitBay_Japan">https://twitter.com/BitBay_Japan</a></p>
 <p>英語チャンネル<br>
-<img src=".../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href="https://www.bitbay.market">https://www.bitbay.market</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/c875becfb5f9fb400659f8a63f46c4a509e416bd.png" alt="TwitterTiny" width="33" height="27"> <a href="https://twitter.com/BitBayofficial">https://twitter.com/BitBayofficial</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/aba037f855f8e23626115286375c90485db23368.png" alt="TelegramTiny" width="33" height="33"> <a href="https://t.me/bitbayofficial">https://t.me/bitbayofficial</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href=".../forum-archive/">.../forum-archive/</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href="https://blog.bitbay.market/">https://blog.bitbay.market/</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/4b76807fd06d41cfcea0428beec9627e015a2c26.png" alt="RedditTiny" width="33" height="27"> <a href="https://www.reddit.com/r/BitBay/">https://www.reddit.com/r/BitBay/</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/14d49ba9317028df579bbe2585014f036173e9f6.png" alt="FacebookTiny" width="33" height="33"> <a href="https://www.facebook.com/bitbaymarket/">https://www.facebook.com/bitbaymarket/</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/3c51ce0d32a5ba70ac1d134715b01a9258ce6648.png" alt="BitcointalkTiny" width="33" height="33"> <a href="https://bitcointalk.org/index.php?topic=890531.01">https://bitcointalk.org/index.php?topic=890531.01</a></p>
+<img src="../../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href="https://www.bitbay.market">https://www.bitbay.market</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/c875becfb5f9fb400659f8a63f46c4a509e416bd.png" alt="TwitterTiny" width="33" height="27"> <a href="https://twitter.com/BitBayofficial">https://twitter.com/BitBayofficial</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/aba037f855f8e23626115286375c90485db23368.png" alt="TelegramTiny" width="33" height="33"> <a href="https://t.me/bitbayofficial">https://t.me/bitbayofficial</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href="../../forum-archive/">../../forum-archive/</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/295df0b0dcabd2554537112727cf10ebe1c4953c.png" alt="BitBayTiny" width="29" height="29"> <a href="https://blog.bitbay.market/">https://blog.bitbay.market/</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/4b76807fd06d41cfcea0428beec9627e015a2c26.png" alt="RedditTiny" width="33" height="27"> <a href="https://www.reddit.com/r/BitBay/">https://www.reddit.com/r/BitBay/</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/14d49ba9317028df579bbe2585014f036173e9f6.png" alt="FacebookTiny" width="33" height="33"> <a href="https://www.facebook.com/bitbaymarket/">https://www.facebook.com/bitbaymarket/</a><br>
+<img src="../../forum-archive/uploads/default/original/1X/3c51ce0d32a5ba70ac1d134715b01a9258ce6648.png" alt="BitcointalkTiny" width="33" height="33"> <a href="https://bitcointalk.org/index.php?topic=890531.01">https://bitcointalk.org/index.php?topic=890531.01</a></p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/community-update-2018-3-11/1196">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/community-update-2018-3-11/1196">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/community-update-2018-3-11/1196</link>
+          <link>../../forum-archive/t/community-update-2018-3-11/1196</link>
           <pubDate>Mon, 12 Mar 2018 06:45:34 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1196</guid>
-          <source url=".../forum-archive/t/community-update-2018-3-11/1196.rss">Community Update 2018年3月11日 日本語</source>
+          <source url="../../forum-archive/t/community-update-2018-3-11/1196.rss">Community Update 2018年3月11日 日本語</source>
         </item>
   </channel>
 </rss>

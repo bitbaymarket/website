@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Not enough funds available</title>
-    <link>..../forum-archive/t/not-enough-funds-available/2272</link>
+    <link>../../../forum-archive/t/not-enough-funds-available/2272</link>
     <description>Hello,
 i have the latest Wallet on windows (halo v2.2 )
 When i try to move the funds from my wallet to Latoken i get this error &quot;Not enough funds available&quot;
@@ -14,12 +14,12 @@ Thanks.</description>
     
     <lastBuildDate>Tue, 10 Mar 2020 11:13:26 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/not-enough-funds-available/2272.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/not-enough-funds-available/2272.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Not enough funds available</title>
         <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
           <blockquote>
               <p>Right, I apologize about the confusion.<br>
 This is how the peg protocol works to stabilize price.</p>
@@ -31,18 +31,18 @@ The available account is showing what is spendable = liquid coins</p>
 However, you must understand that if you send your reserve coins, then they will not be tradeable on the exchange till a 1 month timelock expires.</p>
 <p>If you wish to send all your coins to LATOKEN, let us know and we can show you how to send your spendable and your reserve coins</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/not-enough-funds-available/2272/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/not-enough-funds-available/2272/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/not-enough-funds-available/2272/2</link>
+        <link>../../../forum-archive/t/not-enough-funds-available/2272/2</link>
         <pubDate>Tue, 10 Mar 2020 11:13:26 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2272-2</guid>
-        <source url="..../forum-archive/t/not-enough-funds-available/2272.rss">Not enough funds available</source>
+        <source url="../../../forum-archive/t/not-enough-funds-available/2272.rss">Not enough funds available</source>
       </item>
       <item>
         <title>Not enough funds available</title>
         <dc:creator><![CDATA[@kripti]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/kripti">@kripti</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/kripti">@kripti</a> wrote:</p>
           <blockquote>
               <p>Hello,<br>
 i have the latest Wallet on windows (halo v2.2 )<br>
@@ -51,12 +51,12 @@ When i try to move the funds from my wallet to Latoken i get this error “Not e
 <p>Anyone know how to fix this issue?<br>
 Thanks.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/not-enough-funds-available/2272/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/not-enough-funds-available/2272/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/not-enough-funds-available/2272/1</link>
+        <link>../../../forum-archive/t/not-enough-funds-available/2272/1</link>
         <pubDate>Tue, 10 Mar 2020 07:28:39 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2272-1</guid>
-        <source url="..../forum-archive/t/not-enough-funds-available/2272.rss">Not enough funds available</source>
+        <source url="../../../forum-archive/t/not-enough-funds-available/2272.rss">Not enough funds available</source>
       </item>
   </channel>
 </rss>

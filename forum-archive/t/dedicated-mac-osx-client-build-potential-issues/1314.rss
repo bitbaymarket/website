@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Dedicated Mac OSX Client build potential issues</title>
-    <link>..../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314</link>
+    <link>../../../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314</link>
     <description>We are currently fixing some issues that some users detected regarding the recently released dedicated Mac OSX Client build. If you encounter issues, in the meantime you can use the previous Mac OSX Wine Build using this download link: https://www.davtonia.com/bitbay/bitbay.zip.
 
 Thank you for your understanding! :slight_smile:</description>
     
     <lastBuildDate>Sat, 12 May 2018 06:58:52 +0000</lastBuildDate>
     <category>Announcements</category>
-    <atom:link href="..../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Dedicated Mac OSX Client build potential issues</title>
         <dc:creator><![CDATA[@Mantrack]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
           <blockquote>
               <p>We are currently fixing some issues that some users detected regarding the recently released dedicated Mac OSX Client build. If you encounter issues, in the meantime you can use the previous Mac OSX Wine Build using this download link: <a href="https://www.davtonia.com/bitbay/bitbay.zip">https://www.davtonia.com/bitbay/bitbay.zip</a>.</p>
-<p>Thank you for your understanding! <img src="..../forum-archive/images/emoji/twitter/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>Thank you for your understanding! <img src="../../../forum-archive/images/emoji/twitter/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314/1</link>
+        <link>../../../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314/1</link>
         <pubDate>Sat, 12 May 2018 06:58:52 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1314-1</guid>
-        <source url="..../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314.rss">Dedicated Mac OSX Client build potential issues</source>
+        <source url="../../../forum-archive/t/dedicated-mac-osx-client-build-potential-issues/1314.rss">Dedicated Mac OSX Client build potential issues</source>
       </item>
   </channel>
 </rss>

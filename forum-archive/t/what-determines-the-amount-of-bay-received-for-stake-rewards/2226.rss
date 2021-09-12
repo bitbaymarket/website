@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>What determines the amount of BAY received for stake rewards?</title>
-    <link>..../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226</link>
+    <link>../../../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226</link>
     <description>The amount received as a stake reward is dependent upon the status of liquidity for the input that is staked.
 
 * If the staking input is **Liquid or &quot;Spendable&quot;**,  then it will receive a **5 coin reward**.
@@ -39,12 +39,12 @@ For example:
     
     <lastBuildDate>Mon, 23 Mar 2020 12:14:47 +0000</lastBuildDate>
     <category>Dynamic Peg - FAQ</category>
-    <atom:link href="..../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>What determines the amount of BAY received for stake rewards?</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>The amount received as a stake reward is dependent upon the status of liquidity for the input that is staked.</p>
 <ul>
@@ -62,7 +62,7 @@ For example:
 </li>
 </ul>
 <p>Keep in mind, the Dynamic Peg index is frequently changing the total coin supply’s ratio of Liquid to Reserve</p>
-<p><img src="..../forum-archive/uploads/default/original/1X/dda81672ace54e3b9d1ae270b75a23cf049f70bc.png" alt="02%20AM" width="274" height="108"></p>
+<p><img src="../../../forum-archive/uploads/default/original/1X/dda81672ace54e3b9d1ae270b75a23cf049f70bc.png" alt="02%20AM" width="274" height="108"></p>
 <p>If the Peg index (shown above) is <strong>between 50 and 100</strong>, you will have a <strong>higher ratio of Liquid (Spendable)</strong> coins, and therefore have a higher chance of earning <strong>5 BAY</strong> rewards.</p>
 <p>If the Peg index meter (shown above) is <strong>between 0 and 50</strong>, you will have a <strong>higher ratio of Reserve</strong> coins, and therefore have a higher chance of earning <strong>10 BAY</strong> rewards.</p>
 <p>***Note:<br>
@@ -75,17 +75,17 @@ The stake rewards that are earned from voluntarily frozen inputs will be receive
 <li>This 40 BAY stake reward will also remain frozen (along with Bob’s 100,000 frozen BAY input) until <strong>May 1</strong>.</li>
 </ol>
 <p><strong><em>If Bob checks the “Reward to Address”</em></strong> option in the Staking tab of the QT Wallet, and sends his reward to a separate address, the 40 BAY will not be frozen. Instead, it will be a mix of liquid (<em>spendable</em>) and reserve, depending on what the current peg index is at the time of receiving it.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e.png" data-download-href="..../forum-archive/uploads/default/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e" title="Screen Shot 2020-02-10 at 6.33.27 AM.png"><img src="..../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_690x59.png" alt="27%20AM" width="690" height="59" srcset="..../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_690x59.png, ..../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_1035x88.png 1.5x, ..../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_1380x118.png 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../../forum-archive/uploads/default/original/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e.png" data-download-href="../../../forum-archive/uploads/default/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e" title="Screen Shot 2020-02-10 at 6.33.27 AM.png"><img src="../../../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_690x59.png" alt="27%20AM" width="690" height="59" srcset="../../../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_690x59.png, ../../../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_1035x88.png 1.5x, ../../../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_1380x118.png 2x"><div class="meta">
 <span class="filename">Screen Shot 2020-02-10 at 6.33.27 AM.png</span><span class="informations">1674x144 9.13 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226/1</link>
+        <link>../../../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226/1</link>
         <pubDate>Mon, 10 Feb 2020 14:36:56 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2226-1</guid>
-        <source url="..../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226.rss">What determines the amount of BAY received for stake rewards?</source>
+        <source url="../../../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226.rss">What determines the amount of BAY received for stake rewards?</source>
       </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Does BitBay has something similar as the Horizon API of the Stellar platform? Can I create my own web market front end?</title>
-    <link>..../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800</link>
+    <link>../../../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800</link>
     <description>Hi! Completely new here and I just found the project while trying to figure out how to do something.
 
 Stellar is another crypto that has developed a [server API called Horizon](https://github.com/stellar/horizon) that anyone can host and allows people to communicate with the blockchain through web requests. This is very useful, since then you don&#39;t need to build the market yourself, but anyone can create their own SPA market application by using the API.
@@ -17,12 +17,12 @@ What I want to do is create a community-approved market where people participati
     
     <lastBuildDate>Wed, 10 Apr 2019 17:12:56 +0000</lastBuildDate>
     <category>Questions about BitBay</category>
-    <atom:link href="..../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Does BitBay has something similar as the Horizon API of the Stellar platform? Can I create my own web market front end?</title>
         <dc:creator><![CDATA[@Zequez Ezequiel Adrian Schwartzman]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/zequez">@Zequez</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/zequez">@Zequez</a> wrote:</p>
           <blockquote>
               <p>Hi! Completely new here and I just found the project while trying to figure out how to do something.</p>
 <p>Stellar is another crypto that has developed a <a href="https://github.com/stellar/horizon" rel="nofollow noopener">server API called Horizon</a> that anyone can host and allows people to communicate with the blockchain through web requests. This is very useful, since then you don’t need to build the market yourself, but anyone can create their own SPA market application by using the API.</p>
@@ -31,12 +31,12 @@ What I want to do is create a community-approved market where people participati
 <p>If the market is accessible through an API in the same way that Stellar offers Horizon, anyone can create their own niche market without the need of a server, in the same way one could create a Shopify store.</p>
 <p>What I want to do is create a community-approved market where people participating agree that every time they buy something or they receive profits, a certain voluntary tax is paid and sent to the institutions that the community is funding.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800/1</link>
+        <link>../../../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800/1</link>
         <pubDate>Wed, 10 Apr 2019 17:12:56 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1800-1</guid>
-        <source url="..../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800.rss">Does BitBay has something similar as the Horizon API of the Stellar platform? Can I create my own web market front end?</source>
+        <source url="../../../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800.rss">Does BitBay has something similar as the Horizon API of the Stellar platform? Can I create my own web market front end?</source>
       </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Why does BitBay need a Dynamic Peg? Can you please explain it in layman’s terms?</title>
-    <link>..../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178</link>
+    <link>../../../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178</link>
     <description>**Why does BitBay need a Dynamic Peg? Can you please explain it in layman’s terms?**
 
 The Dynamic Peg is a tool specifically built to stabilize BitBay’s existing [Double Deposit Escrow](https://bitbay.market/blog/double-deposit-escrow) contracts and decentralized marketplace. These unique, peer-to-peer contracts rely on mutual deposits of Liquid BAY (from each party) to enforce the completion of each deal.
@@ -21,12 +21,12 @@ To act as  *both*  a medium of exchange (for payment) and a store of value (for 
     
     <lastBuildDate>Tue, 18 Feb 2020 13:03:46 +0000</lastBuildDate>
     <category>Dynamic Peg - FAQ</category>
-    <atom:link href="..../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Why does BitBay need a Dynamic Peg? Can you please explain it in layman’s terms?</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p><strong>Why does BitBay need a Dynamic Peg? Can you please explain it in layman’s terms?</strong></p>
 <p>The Dynamic Peg is a tool specifically built to stabilize BitBay’s existing <a href="https://bitbay.market/blog/double-deposit-escrow">Double Deposit Escrow</a> contracts and decentralized marketplace. These unique, peer-to-peer contracts rely on mutual deposits of Liquid BAY (from each party) to enforce the completion of each deal.</p>
@@ -37,12 +37,12 @@ To act as  *both*  a medium of exchange (for payment) and a store of value (for 
 <p>To act as  <em>both</em>  a medium of exchange (for payment) and a store of value (for collateral), the price of Liquid BAY must be stable.</p>
 <p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178/1</link>
+        <link>../../../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178/1</link>
         <pubDate>Wed, 29 Jan 2020 14:16:37 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2178-1</guid>
-        <source url="..../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178.rss">Why does BitBay need a Dynamic Peg? Can you please explain it in layman’s terms?</source>
+        <source url="../../../forum-archive/t/why-does-bitbay-need-a-dynamic-peg-can-you-please-explain-it-in-layman-s-terms/2178.rss">Why does BitBay need a Dynamic Peg? Can you please explain it in layman’s terms?</source>
       </item>
   </channel>
 </rss>

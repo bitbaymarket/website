@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>About BitBay - BitBay Community</title>
-    <link>.../forum-archive/c/about-bitbay</link>
+    <link>../../forum-archive/c/about-bitbay</link>
     <description>Topics in the &#39;About BitBay&#39; category </description>
     
       <lastBuildDate>Mon, 08 Jul 2019 08:19:22 +0000</lastBuildDate>
-      <atom:link href=".../forum-archive/c/about-bitbay.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="../../forum-archive/c/about-bitbay.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>BitBay’s Dynamic Peg - FAQ</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>About BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <p>What is the Dynamic Peg?</p>
 <p>BitBay’s Dynamic Peg is a brand new mechanism for stabilizing a digital currency. It is strictly controlled by the users, for the users.</p>
@@ -98,7 +98,7 @@
 <p>For more information, feel free to check out these links:</p>
 <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
       <a href="https://bitbay.market/features" target="_blank">BitBay</a>
   </header>
   <article class="onebox-body">
@@ -119,7 +119,7 @@
 
 <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
       <a href="https://medium.com/bitbay-blog/bitbay-dynamic-peg-faq-8cd257da63fd" target="_blank" title="02:09PM - 26 June 2019">Medium – 26 Jun 19</a>
   </header>
   <article class="onebox-body">
@@ -142,7 +142,7 @@
 
 <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
       <a href="https://bitbay.market/downloads" target="_blank">BitBay</a>
   </header>
   <article class="onebox-body">
@@ -164,11 +164,11 @@
 <p>Discord:</p>
 <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/1af3759a49bc1dcf17a8b0a305d5ccbee17d0944.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/1af3759a49bc1dcf17a8b0a305d5ccbee17d0944.png" class="site-icon" width="32" height="32">
       <a href="https://discordapp.com/invite/sP8b66W" target="_blank">Discord</a>
   </header>
   <article class="onebox-body">
-    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src=".../forum-archive/uploads/default/original/1X/99f30c2adec921f21e6fa359ef808e331a2a46a2.png" class="thumbnail"></div>
+    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src="../../forum-archive/uploads/default/original/1X/99f30c2adec921f21e6fa359ef808e331a2a46a2.png" class="thumbnail"></div>
 
 <h3><a href="https://discordapp.com/invite/sP8b66W" target="_blank">Discord - Free voice and text chat for gamers</a></h3>
 
@@ -190,7 +190,7 @@
       <a href="https://t.me/bitbayofficial" target="_blank">Telegram</a>
   </header>
   <article class="onebox-body">
-    <img src=".../forum-archive/uploads/default/original/1X/d2960c3c5abe3b71a7e78acbbf8af0fc19d34d8b.jpeg" class="thumbnail onebox-avatar" width="320" height="320">
+    <img src="../../forum-archive/uploads/default/original/1X/d2960c3c5abe3b71a7e78acbbf8af0fc19d34d8b.jpeg" class="thumbnail onebox-avatar" width="320" height="320">
 
 <h3><a href="https://t.me/bitbayofficial" target="_blank">BitBay ($BAY) - Decentralised Market with Unbreakable Smart Contracts</a></h3>
 
@@ -210,22 +210,22 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bitbay-s-dynamic-peg-faq/1907">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-s-dynamic-peg-faq/1907">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-s-dynamic-peg-faq/1907</link>
+          <link>../../forum-archive/t/bitbay-s-dynamic-peg-faq/1907</link>
           <pubDate>Mon, 08 Jul 2019 08:19:22 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1907</guid>
-          <source url=".../forum-archive/t/bitbay-s-dynamic-peg-faq/1907.rss">BitBay’s Dynamic Peg - FAQ</source>
+          <source url="../../forum-archive/t/bitbay-s-dynamic-peg-faq/1907.rss">BitBay’s Dynamic Peg - FAQ</source>
         </item>
         <item>
           <title>BitBay动态挂钩 - 常见问题解答</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>About BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <p>什么是动态挂钩？</p>
 <p>BitBay的动态挂钩是一种稳定数字货币的全新机制，这种机制完全服务于用户，也由用户控制。</p>
@@ -289,7 +289,7 @@
 <p>请点击以下链接获取更多信息：</p>
 <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
       <a href="https://bitbay.market/features" target="_blank">BitBay</a>
   </header>
   <article class="onebox-body">
@@ -310,7 +310,7 @@
 
 <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
       <a href="https://medium.com/bitbay-blog/bitbay-dynamic-peg-faq-8cd257da63fd" target="_blank" title="02:09PM - 26 June 2019">Medium – 26 Jun 19</a>
   </header>
   <article class="onebox-body">
@@ -333,7 +333,7 @@
 
 <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
       <a href="https://bitbay.market/downloads" target="_blank">BitBay</a>
   </header>
   <article class="onebox-body">
@@ -355,11 +355,11 @@
 <p>Discord:</p>
 <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src=".../forum-archive/uploads/default/original/1X/1af3759a49bc1dcf17a8b0a305d5ccbee17d0944.png" class="site-icon" width="32" height="32">
+      <img src="../../forum-archive/uploads/default/original/1X/1af3759a49bc1dcf17a8b0a305d5ccbee17d0944.png" class="site-icon" width="32" height="32">
       <a href="https://discordapp.com/invite/sP8b66W" target="_blank">Discord</a>
   </header>
   <article class="onebox-body">
-    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src=".../forum-archive/uploads/default/original/1X/99f30c2adec921f21e6fa359ef808e331a2a46a2.png" class="thumbnail"></div>
+    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src="../../forum-archive/uploads/default/original/1X/99f30c2adec921f21e6fa359ef808e331a2a46a2.png" class="thumbnail"></div>
 
 <h3><a href="https://discordapp.com/invite/sP8b66W" target="_blank">Discord - Free voice and text chat for gamers</a></h3>
 
@@ -381,7 +381,7 @@
       <a href="https://t.me/bitbayofficial" target="_blank">Telegram</a>
   </header>
   <article class="onebox-body">
-    <img src=".../forum-archive/uploads/default/original/1X/d2960c3c5abe3b71a7e78acbbf8af0fc19d34d8b.jpeg" class="thumbnail onebox-avatar" width="320" height="320">
+    <img src="../../forum-archive/uploads/default/original/1X/d2960c3c5abe3b71a7e78acbbf8af0fc19d34d8b.jpeg" class="thumbnail onebox-avatar" width="320" height="320">
 
 <h3><a href="https://t.me/bitbayofficial" target="_blank">BitBay ($BAY) - Decentralised Market with Unbreakable Smart Contracts</a></h3>
 
@@ -401,22 +401,22 @@
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bitbay/1905">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay/1905">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay/1905</link>
+          <link>../../forum-archive/t/bitbay/1905</link>
           <pubDate>Sun, 07 Jul 2019 19:42:35 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1905</guid>
-          <source url=".../forum-archive/t/bitbay/1905.rss">BitBay动态挂钩 - 常见问题解答</source>
+          <source url="../../forum-archive/t/bitbay/1905.rss">BitBay动态挂钩 - 常见问题解答</source>
         </item>
         <item>
           <title>Official Bitbay telegram chat rooms and social medias</title>
           <dc:creator><![CDATA[@Mantrack]]></dc:creator>
           <category>About BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
             <blockquote>
               <p>Hello here bellow you can find:</p>
 <ol>
@@ -486,7 +486,7 @@ Weibo : <a href="https://goo.gl/hDiHk5">https://goo.gl/hDiHk5</a></p>
 <p><strong><em>Indian</em></strong><br>
 Facebook : <a href="https://goo.gl/qvyjdu">https://goo.gl/qvyjdu</a><br>
 Twitter : <a href="https://goo.gl/7F7e5S">https://goo.gl/7F7e5S</a></p>
-<p>Although if you need support, please use first our forums (<a href=".../forum-archive">.../forum-archive</a>) as this way it will be archived for all to see! <img src=".../forum-archive/images/emoji/twitter/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>Although if you need support, please use first our forums (<a href="../../forum-archive">../../forum-archive</a>) as this way it will be archived for all to see! <img src="../../forum-archive/images/emoji/twitter/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
 <hr>
 <p><strong>3) COMMUNITY RULES:</strong></p>
 <ul>
@@ -500,22 +500,22 @@ Twitter : <a href="https://goo.gl/7F7e5S">https://goo.gl/7F7e5S</a></p>
             </blockquote>
             <p>Posts: 5</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/official-bitbay-telegram-chat-rooms-and-social-medias/877">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/official-bitbay-telegram-chat-rooms-and-social-medias/877">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/official-bitbay-telegram-chat-rooms-and-social-medias/877</link>
+          <link>../../forum-archive/t/official-bitbay-telegram-chat-rooms-and-social-medias/877</link>
           <pubDate>Wed, 03 Jan 2018 15:49:31 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-877</guid>
-          <source url=".../forum-archive/t/official-bitbay-telegram-chat-rooms-and-social-medias/877.rss">Official Bitbay telegram chat rooms and social medias</source>
+          <source url="../../forum-archive/t/official-bitbay-telegram-chat-rooms-and-social-medias/877.rss">Official Bitbay telegram chat rooms and social medias</source>
         </item>
         <item>
           <title>Video Interviews with David Zimbeck</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>About BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <p><div class="lazyYT" data-youtube-id="yjhdX-8DZYc" data-youtube-title="Interview w David Alan Zimbeck" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
 <br></p><hr><br><br>
@@ -530,22 +530,22 @@ Twitter : <a href="https://goo.gl/7F7e5S">https://goo.gl/7F7e5S</a></p>
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/video-interviews-with-david-zimbeck/55">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/video-interviews-with-david-zimbeck/55">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/video-interviews-with-david-zimbeck/55</link>
+          <link>../../forum-archive/t/video-interviews-with-david-zimbeck/55</link>
           <pubDate>Thu, 30 Nov 2017 11:33:31 +0000</pubDate>
           <discourse:topicPinned>Yes</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-55</guid>
-          <source url=".../forum-archive/t/video-interviews-with-david-zimbeck/55.rss">Video Interviews with David Zimbeck</source>
+          <source url="../../forum-archive/t/video-interviews-with-david-zimbeck/55.rss">Video Interviews with David Zimbeck</source>
         </item>
         <item>
           <title>$BAY Coin Specs</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>About BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <p>Block time: <strong>64 seconds</strong></p>
 <p>Nominal stake interest: <strong>1% annual</strong></p>
@@ -557,22 +557,22 @@ Twitter : <a href="https://goo.gl/7F7e5S">https://goo.gl/7F7e5S</a></p>
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bay-coin-specs/53">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bay-coin-specs/53">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bay-coin-specs/53</link>
+          <link>../../forum-archive/t/bay-coin-specs/53</link>
           <pubDate>Thu, 30 Nov 2017 11:22:04 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-53</guid>
-          <source url=".../forum-archive/t/bay-coin-specs/53.rss">$BAY Coin Specs</source>
+          <source url="../../forum-archive/t/bay-coin-specs/53.rss">$BAY Coin Specs</source>
         </item>
         <item>
           <title>What is BitBay?</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>About BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <p>BitBay is a suit of free to use multi-platform software programs containing the world’s first decentralized marketplace platform powered by a Proof of Stake 3.0 crypto-currency and unbreakable smart contracts.</p>
 <p>Bitbay’s software is fully decentralized. It is powered by the Blockchain and encrypted peer to peer technology thanks to the Bitmessage protocol. There are no middlemen at all and no fees. Everything happens in between users.</p>
@@ -580,41 +580,41 @@ Twitter : <a href="https://goo.gl/7F7e5S">https://goo.gl/7F7e5S</a></p>
 <p>The <a href="https://bitbay.market/downloads">desktop client</a> provides the first fully anonymous peer to peer crypto marketplace. Users are protected thanks to a revolutionary unbreakable smart contracting system called <a href="https://bitbay.market/double-deposit-escrow">Double Deposit Escrow</a> which allows custom smart contract templates and also a built-in decentralized reputation &amp; moderation system. Both public and private marketplaces are available so both public business and private business are enabled. The whole eco-system is secured thanks to top notch <a href="https://bitbay.market/advanced-security">multi-signature security</a> and many security/utility features like anti-keylogger, Tor/Proxy integration, notary, steganography, encrypted communications, time based contracts etc…</p>
 <p>We also provide a web enabled multi-signature wallet that will soon host our marketplace directly in your web browser. There are also wallets available for GNU/Linux, Mac OSX, Windows and mobile OS (iOs/Android).</p>
 <p>Bitbay will soon be the first Dynamically Pegged coin thanks to a <a href="https://bitbay.market/dynamic-peg">Dynamic Rolling Peg</a>. It is a decentralized way to protect Bitbay’s currency from heavy volatility and hence provides short term stability to crypto users.</p>
-<p>More can be read on our website <a href="https://bitbay.market/features">feature page</a> and <a href=".../forum-archive/t/bitbay-whitepapers/51">whitepapers</a>.</p>
+<p>More can be read on our website <a href="https://bitbay.market/features">feature page</a> and <a href="../../forum-archive/t/bitbay-whitepapers/51">whitepapers</a>.</p>
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/what-is-bitbay/52">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/what-is-bitbay/52">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/what-is-bitbay/52</link>
+          <link>../../forum-archive/t/what-is-bitbay/52</link>
           <pubDate>Thu, 30 Nov 2017 10:43:59 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-52</guid>
-          <source url=".../forum-archive/t/what-is-bitbay/52.rss">What is BitBay?</source>
+          <source url="../../forum-archive/t/what-is-bitbay/52.rss">What is BitBay?</source>
         </item>
         <item>
           <title>BitBay Whitepapers</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>About BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
-              <p>Bitbay Whitepaper: <a class="attachment" href=".../forum-archive/uploads/default/original/1X/a60c8a2bd0fac863ae0b112be1cd47fea32ff664.pdf">bitbay-whitepaper.pdf</a> (62.2 KB)</p>
-<p>Proof of Stake 3.0: <a class="attachment" href=".../forum-archive/uploads/default/original/1X/a82b35edf21dee2cded2624d82fad28e6c1f4682.pdf">PoS 3.0.pdf</a> (88.9 KB)</p>
+              <p>Bitbay Whitepaper: <a class="attachment" href="../../forum-archive/uploads/default/original/1X/a60c8a2bd0fac863ae0b112be1cd47fea32ff664.pdf">bitbay-whitepaper.pdf</a> (62.2 KB)</p>
+<p>Proof of Stake 3.0: <a class="attachment" href="../../forum-archive/uploads/default/original/1X/a82b35edf21dee2cded2624d82fad28e6c1f4682.pdf">PoS 3.0.pdf</a> (88.9 KB)</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bitbay-whitepapers/51">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-whitepapers/51">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-whitepapers/51</link>
+          <link>../../forum-archive/t/bitbay-whitepapers/51</link>
           <pubDate>Thu, 30 Nov 2017 10:28:20 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-51</guid>
-          <source url=".../forum-archive/t/bitbay-whitepapers/51.rss">BitBay Whitepapers</source>
+          <source url="../../forum-archive/t/bitbay-whitepapers/51.rss">BitBay Whitepapers</source>
         </item>
   </channel>
 </rss>

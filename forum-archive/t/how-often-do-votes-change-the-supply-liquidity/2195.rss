@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>How often do votes change the supply liquidity?</title>
-    <link>..../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195</link>
+    <link>../../../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195</link>
     <description>**How often do votes change the supply liquidity?**
 
 As of now, the consensus intervals are at an even 200 blocks, starting at “0”. As each block is approximately 64 seconds, this interval occurs roughly every 3.5 hours… or about 7 voting sessions per day. 
@@ -13,24 +13,24 @@ _***Note: The supply can move anywhere between 1-3%, per voting session, dependi
     
     <lastBuildDate>Tue, 18 Feb 2020 12:58:04 +0000</lastBuildDate>
     <category>Dynamic Peg - FAQ</category>
-    <atom:link href="..../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>How often do votes change the supply liquidity?</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p><strong>How often do votes change the supply liquidity?</strong></p>
 <p>As of now, the consensus intervals are at an even 200 blocks, starting at “0”. As each block is approximately 64 seconds, this interval occurs roughly every 3.5 hours… or about 7 voting sessions per day.</p>
 <p><em>***Note: The supply can move anywhere between 1-3%, per voting session, depending on the weight of the votes.</em></p>
 <p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195/1</link>
+        <link>../../../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195/1</link>
         <pubDate>Wed, 29 Jan 2020 14:31:01 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2195-1</guid>
-        <source url="..../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195.rss">How often do votes change the supply liquidity?</source>
+        <source url="../../../forum-archive/t/how-often-do-votes-change-the-supply-liquidity/2195.rss">How often do votes change the supply liquidity?</source>
       </item>
   </channel>
 </rss>

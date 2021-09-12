@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Problem in installation</title>
-    <link>..../forum-archive/t/problem-in-installation/1338</link>
+    <link>../../../forum-archive/t/problem-in-installation/1338</link>
     <description>Hi,
 I have installed bitbay to my server.Now whenever I am going to run the below command
 ./BitBay.sh
@@ -13,43 +13,43 @@ Can you please help.</description>
     
     <lastBuildDate>Thu, 31 May 2018 17:27:39 +0000</lastBuildDate>
     <category>Ask the Developer</category>
-    <atom:link href="..../forum-archive/t/problem-in-installation/1338.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/problem-in-installation/1338.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Problem in installation</title>
         <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
           <blockquote>
               <p><a class="mention" href="/u/sweetyvj2002">@sweetyvj2002</a><br>
 were you able to sync ? if so post your wallet and I will send some BAY for testing !!</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/problem-in-installation/1338/7">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/problem-in-installation/1338/7">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/problem-in-installation/1338/7</link>
+        <link>../../../forum-archive/t/problem-in-installation/1338/7</link>
         <pubDate>Thu, 31 May 2018 17:27:39 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1338-7</guid>
-        <source url="..../forum-archive/t/problem-in-installation/1338.rss">Problem in installation</source>
+        <source url="../../../forum-archive/t/problem-in-installation/1338.rss">Problem in installation</source>
       </item>
       <item>
         <title>Problem in installation</title>
         <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
           <blockquote>
               <p>make sure you actually get connections before i send some …  right now you have 0 connections … how did you sync with 0 connections ?</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/problem-in-installation/1338/6">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/problem-in-installation/1338/6">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/problem-in-installation/1338/6</link>
+        <link>../../../forum-archive/t/problem-in-installation/1338/6</link>
         <pubDate>Thu, 24 May 2018 09:36:23 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1338-6</guid>
-        <source url="..../forum-archive/t/problem-in-installation/1338.rss">Problem in installation</source>
+        <source url="../../../forum-archive/t/problem-in-installation/1338.rss">Problem in installation</source>
       </item>
       <item>
         <title>Problem in installation</title>
         <dc:creator><![CDATA[@sweetyvj2002 sweety]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sweetyvj2002">@sweetyvj2002</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sweetyvj2002">@sweetyvj2002</a> wrote:</p>
           <blockquote>
               <p>yes I am getting the following info<br>
 {<br>
@@ -78,18 +78,18 @@ were you able to sync ? if so post your wallet and I will send some BAY for test
 }</p>
 <p>Is there any way that I can have some bitbay coin into this wallet that I can test transaction ?</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/problem-in-installation/1338/5">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/problem-in-installation/1338/5">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/problem-in-installation/1338/5</link>
+        <link>../../../forum-archive/t/problem-in-installation/1338/5</link>
         <pubDate>Thu, 24 May 2018 07:23:02 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1338-5</guid>
-        <source url="..../forum-archive/t/problem-in-installation/1338.rss">Problem in installation</source>
+        <source url="../../../forum-archive/t/problem-in-installation/1338.rss">Problem in installation</source>
       </item>
       <item>
         <title>Problem in installation</title>
         <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
           <blockquote>
               <p><a class="mention" href="/u/sweetyvj2002">@sweetyvj2002</a><br>
 I suppose you can only connect with ssh to this machine right ?</p>
@@ -107,18 +107,18 @@ nano .bitbay/bitbay.conf</p>
 ~/BitBay/bitbayd getinfo</p>
 </blockquote>
           </blockquote>
-          <p><a href="..../forum-archive/t/problem-in-installation/1338/4">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/problem-in-installation/1338/4">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/problem-in-installation/1338/4</link>
+        <link>../../../forum-archive/t/problem-in-installation/1338/4</link>
         <pubDate>Thu, 24 May 2018 07:15:06 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1338-4</guid>
-        <source url="..../forum-archive/t/problem-in-installation/1338.rss">Problem in installation</source>
+        <source url="../../../forum-archive/t/problem-in-installation/1338.rss">Problem in installation</source>
       </item>
       <item>
         <title>Problem in installation</title>
         <dc:creator><![CDATA[@sweetyvj2002 sweety]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sweetyvj2002">@sweetyvj2002</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sweetyvj2002">@sweetyvj2002</a> wrote:</p>
           <blockquote>
               <p>No LSB modules are available.<br>
 Distributor ID:	Ubuntu<br>
@@ -127,35 +127,35 @@ Release:	16.04<br>
 Codename:	xenial</p>
 <p>Actually I am trying to get free bitbay in my wallet so I can test transaction.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/problem-in-installation/1338/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/problem-in-installation/1338/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/problem-in-installation/1338/3</link>
+        <link>../../../forum-archive/t/problem-in-installation/1338/3</link>
         <pubDate>Thu, 24 May 2018 06:56:46 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1338-3</guid>
-        <source url="..../forum-archive/t/problem-in-installation/1338.rss">Problem in installation</source>
+        <source url="../../../forum-archive/t/problem-in-installation/1338.rss">Problem in installation</source>
       </item>
       <item>
         <title>Problem in installation</title>
         <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
           <blockquote>
               <p>please give some more on your server<br>
 what os are you on ?</p>
 <p>i think you are trying to start bitbay with GUI but most servers dont have GUI</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/problem-in-installation/1338/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/problem-in-installation/1338/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/problem-in-installation/1338/2</link>
+        <link>../../../forum-archive/t/problem-in-installation/1338/2</link>
         <pubDate>Thu, 24 May 2018 06:50:08 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1338-2</guid>
-        <source url="..../forum-archive/t/problem-in-installation/1338.rss">Problem in installation</source>
+        <source url="../../../forum-archive/t/problem-in-installation/1338.rss">Problem in installation</source>
       </item>
       <item>
         <title>Problem in installation</title>
         <dc:creator><![CDATA[@sweetyvj2002 sweety]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sweetyvj2002">@sweetyvj2002</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sweetyvj2002">@sweetyvj2002</a> wrote:</p>
           <blockquote>
               <p>Hi,<br>
 I have installed bitbay to my server.Now whenever I am going to run the below command<br>
@@ -165,12 +165,12 @@ Fontconfig error: Cannot load default config file<br>
 Halo: cannot connect to X server<br>
 Can you please help.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/problem-in-installation/1338/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/problem-in-installation/1338/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/problem-in-installation/1338/1</link>
+        <link>../../../forum-archive/t/problem-in-installation/1338/1</link>
         <pubDate>Thu, 24 May 2018 05:50:02 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1338-1</guid>
-        <source url="..../forum-archive/t/problem-in-installation/1338.rss">Problem in installation</source>
+        <source url="../../../forum-archive/t/problem-in-installation/1338.rss">Problem in installation</source>
       </item>
   </channel>
 </rss>

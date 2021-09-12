@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Error loading block database</title>
-    <link>..../forum-archive/t/error-loading-block-database/2309</link>
+    <link>../../../forum-archive/t/error-loading-block-database/2309</link>
     <description>My system has the following specifications 
 
 QT Wallet, Client Wallet (and version) or Web wallet: BitBay PC QT Wallet version 3.0.1 64 bit
@@ -16,12 +16,12 @@ So, I can&#39;t even open my wallet.</description>
     
     <lastBuildDate>Tue, 31 Mar 2020 16:50:12 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/error-loading-block-database/2309.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/error-loading-block-database/2309.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Error loading block database</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>Hi <a class="mention" href="/u/monix">@monix</a> ,</p>
 <p>The chain-split issue has been fixed, and an update is required for your QT wallet to function properly.</p>
@@ -30,7 +30,7 @@ So, I can&#39;t even open my wallet.</description>
   <div class="title">
     <div class="quote-controls"></div>
     <img alt="" width="20" height="20" src="/user_avatar/forum.bitbay.market/sh_rn/40/27_1.png" class="avatar">
-    <a href="..../forum-archive/t/how-to-fix-the-chain-split-issue-on-qt-wallet-mandatory-for-qt-wallet-users/2317">How to fix the chain split issue on Qt wallet (**MANDATORY FOR QT WALLET USERS**)</a> <a class="badge-wrapper  bullet" href="/c/support"><span class="badge-category-bg" style="background-color: #3AB54A;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="The support section is here to help you solve any issues you encounter while using Bitbay’s wallets.
+    <a href="../../../forum-archive/t/how-to-fix-the-chain-split-issue-on-qt-wallet-mandatory-for-qt-wallet-users/2317">How to fix the chain split issue on Qt wallet (**MANDATORY FOR QT WALLET USERS**)</a> <a class="badge-wrapper  bullet" href="/c/support"><span class="badge-category-bg" style="background-color: #3AB54A;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="The support section is here to help you solve any issues you encounter while using Bitbay’s wallets.
 To ensure efficient communication when you describe your problem, please provide the following informations:">Support</span></a>
   </div>
   <blockquote>
@@ -54,44 +54,44 @@ Linux…
 <p>Once this update is complete, you should be able to sync 100% without issue.</p>
 <p>If you have any questions, let us know.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/error-loading-block-database/2309/4">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/error-loading-block-database/2309/4">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/error-loading-block-database/2309/4</link>
+        <link>../../../forum-archive/t/error-loading-block-database/2309/4</link>
         <pubDate>Tue, 31 Mar 2020 16:50:12 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2309-4</guid>
-        <source url="..../forum-archive/t/error-loading-block-database/2309.rss">Error loading block database</source>
+        <source url="../../../forum-archive/t/error-loading-block-database/2309.rss">Error loading block database</source>
       </item>
       <item>
         <title>Error loading block database</title>
         <dc:creator><![CDATA[@monix Valentine]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/monix">@monix</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/monix">@monix</a> wrote:</p>
           <blockquote>
               <p>Thank you for the information.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/error-loading-block-database/2309/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/error-loading-block-database/2309/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/error-loading-block-database/2309/3</link>
+        <link>../../../forum-archive/t/error-loading-block-database/2309/3</link>
         <pubDate>Thu, 26 Mar 2020 14:57:05 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2309-3</guid>
-        <source url="..../forum-archive/t/error-loading-block-database/2309.rss">Error loading block database</source>
+        <source url="../../../forum-archive/t/error-loading-block-database/2309.rss">Error loading block database</source>
       </item>
       <item>
         <title>Error loading block database</title>
         <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
           <blockquote>
               <p>Sorry for the incovenience. We are busy fixing a split chain bug. The release should be out in the next few hours.</p>
 <p>Your coins are safe. Instructions will be released ASAP.</p>
 <p>To get more up to date with the fix, feel free to join our discord channel<br>
 <aside class="onebox whitelistedgeneric">
   <header class="source">
-      <img src="..../forum-archive/uploads/default/original/1X/1af3759a49bc1dcf17a8b0a305d5ccbee17d0944.png" class="site-icon" width="32" height="32">
+      <img src="../../../forum-archive/uploads/default/original/1X/1af3759a49bc1dcf17a8b0a305d5ccbee17d0944.png" class="site-icon" width="32" height="32">
       <a href="https://discordapp.com/invite/jRkjCxf" target="_blank" rel="nofollow noopener">Discord</a>
   </header>
   <article class="onebox-body">
-    <img src="..../forum-archive/uploads/default/original/1X/2b55d20c7abf83622d638f0dbe2ab25e5939fcc4.jpeg" class="thumbnail onebox-avatar" width="256" height="256">
+    <img src="../../../forum-archive/uploads/default/original/1X/2b55d20c7abf83622d638f0dbe2ab25e5939fcc4.jpeg" class="thumbnail onebox-avatar" width="256" height="256">
 
 <h3><a href="https://discordapp.com/invite/jRkjCxf" target="_blank" rel="nofollow noopener">Join the BitBay ($BAY) - Decentralised Market with Unbreakable Smart Contracts...</a></h3>
 
@@ -109,18 +109,18 @@ Linux…
 <p>Otherwise I will return in a couple of hours and update you with the new version of wallet</p>
 <p>Thank you for your patience while we sort out this split chain bug</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/error-loading-block-database/2309/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/error-loading-block-database/2309/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/error-loading-block-database/2309/2</link>
+        <link>../../../forum-archive/t/error-loading-block-database/2309/2</link>
         <pubDate>Thu, 26 Mar 2020 11:04:55 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2309-2</guid>
-        <source url="..../forum-archive/t/error-loading-block-database/2309.rss">Error loading block database</source>
+        <source url="../../../forum-archive/t/error-loading-block-database/2309.rss">Error loading block database</source>
       </item>
       <item>
         <title>Error loading block database</title>
         <dc:creator><![CDATA[@monix Valentine]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/monix">@monix</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/monix">@monix</a> wrote:</p>
           <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet, Client Wallet (and version) or Web wallet: BitBay PC QT Wallet version 3.0.1 64 bit<br>
@@ -128,15 +128,15 @@ Operating System and version: Windows 10<br>
 If web wallet browser name and version:<br>
 If desktop wallet (Qt or Client) block # of your client and # of connections: 770000</p>
 <p>The problem I am having is - I downloaded the QT wallet, opened it and start synchronization. Then wallet was closed. Every time, after trying to open the wallet,  it start loading block index and stoped at 770000 and the next error window was shown:<br>
-<img src="..../forum-archive/uploads/default/original/1X/8e65a3c1de52eac5fe90b095af07ffb87e900b67.png" alt="%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9" width="273" height="169"><br>
+<img src="../../../forum-archive/uploads/default/original/1X/8e65a3c1de52eac5fe90b095af07ffb87e900b67.png" alt="%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9" width="273" height="169"><br>
 So, I can’t even open my wallet.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/error-loading-block-database/2309/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/error-loading-block-database/2309/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/error-loading-block-database/2309/1</link>
+        <link>../../../forum-archive/t/error-loading-block-database/2309/1</link>
         <pubDate>Wed, 25 Mar 2020 14:23:51 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2309-1</guid>
-        <source url="..../forum-archive/t/error-loading-block-database/2309.rss">Error loading block database</source>
+        <source url="../../../forum-archive/t/error-loading-block-database/2309.rss">Error loading block database</source>
       </item>
   </channel>
 </rss>

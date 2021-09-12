@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Mobile Wallet - balance not available</title>
-    <link>..../forum-archive/t/mobile-wallet-balance-not-available/2458</link>
+    <link>../../../forum-archive/t/mobile-wallet-balance-not-available/2458</link>
     <description>Hi guys, I left my Bay in the mobile wallet during the dynamic peg update. When I load the wallet I am getting an error message saying NaN where the funds should be. Are the funds SAFU? How do I recover the balance and do I need to do anything to update the coins or migrate to the new chain?</description>
     
     <lastBuildDate>Wed, 03 Jun 2020 10:46:54 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/mobile-wallet-balance-not-available/2458.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/mobile-wallet-balance-not-available/2458.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Mobile Wallet - balance not available</title>
         <dc:creator><![CDATA[@GroundFrost Adam Coleman]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/groundfrost">@GroundFrost</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/groundfrost">@GroundFrost</a> wrote:</p>
           <blockquote>
               <p>Hi guys, I left my Bay in the mobile wallet during the dynamic peg update. When I load the wallet I am getting an error message saying NaN where the funds should be. Are the funds SAFU? How do I recover the balance and do I need to do anything to update the coins or migrate to the new chain?</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/mobile-wallet-balance-not-available/2458/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/mobile-wallet-balance-not-available/2458/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/mobile-wallet-balance-not-available/2458/1</link>
+        <link>../../../forum-archive/t/mobile-wallet-balance-not-available/2458/1</link>
         <pubDate>Wed, 03 Jun 2020 10:46:54 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2458-1</guid>
-        <source url="..../forum-archive/t/mobile-wallet-balance-not-available/2458.rss">Mobile Wallet - balance not available</source>
+        <source url="../../../forum-archive/t/mobile-wallet-balance-not-available/2458.rss">Mobile Wallet - balance not available</source>
       </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>How to import private keys from a multi-sig web wallet address into the BitBay Markets Client</title>
-    <link>..../forum-archive/t/how-to-import-private-keys-from-a-multi-sig-web-wallet-address-into-the-bitbay-markets-client/2322</link>
+    <link>../../../forum-archive/t/how-to-import-private-keys-from-a-multi-sig-web-wallet-address-into-the-bitbay-markets-client/2322</link>
     <description>## Please note: If you have a multi-sig account (two private keys), those keys can only be imported into the Markets Client, as the QT wallet import only works for _single_ private key addresses.
 
 ### First, you must download and install the latest version of the BitBay Markets Client, which can be found here:
@@ -89,12 +89,12 @@ For any further support issues please ask in the community support channel on Di
     
     <lastBuildDate>Thu, 02 Apr 2020 17:40:42 +0000</lastBuildDate>
     <category>Get Started Guides</category>
-    <atom:link href="..../forum-archive/t/how-to-import-private-keys-from-a-multi-sig-web-wallet-address-into-the-bitbay-markets-client/2322.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/how-to-import-private-keys-from-a-multi-sig-web-wallet-address-into-the-bitbay-markets-client/2322.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>How to import private keys from a multi-sig web wallet address into the BitBay Markets Client</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <h2>Please note: If you have a multi-sig account (two private keys), those keys can only be imported into the Markets Client, as the QT wallet import only works for <em>single</em> private key addresses.</h2>
 <h3>First, you must download and install the latest version of the BitBay Markets Client, which can be found here:</h3>
@@ -106,10 +106,10 @@ For any further support issues please ask in the community support channel on Di
 Once logged in, go to the <strong>“receive” tab</strong>, where you will find <strong>both public keys in order</strong>.<br>
 You will find both <strong>private keys</strong> within the <strong>“backup” tab</strong>. You will need these for the following steps.</li>
 </ol>
-<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/c8be2cd1754988d7c08bf863aa1b25f01f8fb694.png" data-download-href="..../forum-archive/uploads/default/c8be2cd1754988d7c08bf863aa1b25f01f8fb694" title="Screen Shot 2020-03-30 at 4.14.26 PM.png"><img src="..../forum-archive/uploads/default/optimized/1X/c8be2cd1754988d7c08bf863aa1b25f01f8fb694_1_690x360.png" alt="26%20PM" width="690" height="360" srcset="..../forum-archive/uploads/default/optimized/1X/c8be2cd1754988d7c08bf863aa1b25f01f8fb694_1_690x360.png, ..../forum-archive/uploads/default/optimized/1X/c8be2cd1754988d7c08bf863aa1b25f01f8fb694_1_1035x540.png 1.5x, ..../forum-archive/uploads/default/optimized/1X/c8be2cd1754988d7c08bf863aa1b25f01f8fb694_1_1380x720.png 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../../forum-archive/uploads/default/original/1X/c8be2cd1754988d7c08bf863aa1b25f01f8fb694.png" data-download-href="../../../forum-archive/uploads/default/c8be2cd1754988d7c08bf863aa1b25f01f8fb694" title="Screen Shot 2020-03-30 at 4.14.26 PM.png"><img src="../../../forum-archive/uploads/default/optimized/1X/c8be2cd1754988d7c08bf863aa1b25f01f8fb694_1_690x360.png" alt="26%20PM" width="690" height="360" srcset="../../../forum-archive/uploads/default/optimized/1X/c8be2cd1754988d7c08bf863aa1b25f01f8fb694_1_690x360.png, ../../../forum-archive/uploads/default/optimized/1X/c8be2cd1754988d7c08bf863aa1b25f01f8fb694_1_1035x540.png 1.5x, ../../../forum-archive/uploads/default/optimized/1X/c8be2cd1754988d7c08bf863aa1b25f01f8fb694_1_1380x720.png 2x"><div class="meta">
 <span class="filename">Screen Shot 2020-03-30 at 4.14.26 PM.png</span><span class="informations">2342x1222 207 KB</span><span class="expand"></span>
 </div></a></div></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/4760c566d4a3e10cbc97b8c0d7271d968f2f3627.png" data-download-href="..../forum-archive/uploads/default/4760c566d4a3e10cbc97b8c0d7271d968f2f3627" title="Screen Shot 2020-03-30 at 4.23.35 PM.png"><img src="..../forum-archive/uploads/default/optimized/1X/4760c566d4a3e10cbc97b8c0d7271d968f2f3627_1_689x399.png" alt="35%20PM" width="689" height="399" srcset="..../forum-archive/uploads/default/optimized/1X/4760c566d4a3e10cbc97b8c0d7271d968f2f3627_1_689x399.png, ..../forum-archive/uploads/default/optimized/1X/4760c566d4a3e10cbc97b8c0d7271d968f2f3627_1_1033x598.png 1.5x, ..../forum-archive/uploads/default/optimized/1X/4760c566d4a3e10cbc97b8c0d7271d968f2f3627_1_1378x798.png 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../../forum-archive/uploads/default/original/1X/4760c566d4a3e10cbc97b8c0d7271d968f2f3627.png" data-download-href="../../../forum-archive/uploads/default/4760c566d4a3e10cbc97b8c0d7271d968f2f3627" title="Screen Shot 2020-03-30 at 4.23.35 PM.png"><img src="../../../forum-archive/uploads/default/optimized/1X/4760c566d4a3e10cbc97b8c0d7271d968f2f3627_1_689x399.png" alt="35%20PM" width="689" height="399" srcset="../../../forum-archive/uploads/default/optimized/1X/4760c566d4a3e10cbc97b8c0d7271d968f2f3627_1_689x399.png, ../../../forum-archive/uploads/default/optimized/1X/4760c566d4a3e10cbc97b8c0d7271d968f2f3627_1_1033x598.png 1.5x, ../../../forum-archive/uploads/default/optimized/1X/4760c566d4a3e10cbc97b8c0d7271d968f2f3627_1_1378x798.png 2x"><div class="meta">
 <span class="filename">Screen Shot 2020-03-30 at 4.23.35 PM.png</span><span class="informations">2362x1366 265 KB</span><span class="expand"></span>
 </div></a></div></p>
 <ol start="2">
@@ -133,7 +133,7 @@ DO NOT LOSE, ALTER OR SHARE THIS FILE - WITHOUT THIS FILE, YOUR MONEY IS AT RISK
 “KEY: PidYnxHrb8aj1y62hkbLY8aVUFzyFZY8kKLZBrYbzu23MtwHYRZx”</p>
 </li>
 </ol>
-<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/90cc534e20480dcc00a1ca1c93b5dd834d8bc8a4.png" data-download-href="..../forum-archive/uploads/default/90cc534e20480dcc00a1ca1c93b5dd834d8bc8a4" title="Screen Shot 2020-03-30 at 4.59.31 PM.png"><img src="..../forum-archive/uploads/default/original/1X/90cc534e20480dcc00a1ca1c93b5dd834d8bc8a4.png" alt="31%20PM" width="690" height="240"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../../forum-archive/uploads/default/original/1X/90cc534e20480dcc00a1ca1c93b5dd834d8bc8a4.png" data-download-href="../../../forum-archive/uploads/default/90cc534e20480dcc00a1ca1c93b5dd834d8bc8a4" title="Screen Shot 2020-03-30 at 4.59.31 PM.png"><img src="../../../forum-archive/uploads/default/original/1X/90cc534e20480dcc00a1ca1c93b5dd834d8bc8a4.png" alt="31%20PM" width="690" height="240"><div class="meta">
 <span class="filename">Screen Shot 2020-03-30 at 4.59.31 PM.png</span><span class="informations">1054x368 61.8 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p><strong>Once created, make a few copies of this file and save them in secure locations!</strong></p>
@@ -158,7 +158,7 @@ DO NOT LOSE, ALTER OR SHARE THIS FILE - WITHOUT THIS FILE, YOUR MONEY IS AT RISK
 “KEY: e1c2ef63ff737da551d143fa575eaaff0f5f391dd77c270edd3b40e7”</p>
 </li>
 </ol>
-<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/610b2461c5e7984407714e6c125a23f5065e8f25.png" data-download-href="..../forum-archive/uploads/default/610b2461c5e7984407714e6c125a23f5065e8f25" title="Screen Shot 2020-03-30 at 5.00.26 PM.png"><img src="..../forum-archive/uploads/default/original/1X/610b2461c5e7984407714e6c125a23f5065e8f25.png" alt="26%20PM" width="690" height="229"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../../forum-archive/uploads/default/original/1X/610b2461c5e7984407714e6c125a23f5065e8f25.png" data-download-href="../../../forum-archive/uploads/default/610b2461c5e7984407714e6c125a23f5065e8f25" title="Screen Shot 2020-03-30 at 5.00.26 PM.png"><img src="../../../forum-archive/uploads/default/original/1X/610b2461c5e7984407714e6c125a23f5065e8f25.png" alt="26%20PM" width="690" height="229"><div class="meta">
 <span class="filename">Screen Shot 2020-03-30 at 5.00.26 PM.png</span><span class="informations">1096x364 65.1 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p><strong>Once created, make a few copies of this file and save them in secure locations!</strong></p>
@@ -176,22 +176,22 @@ Line 3: Public key <span class="hashtag">#1</span><br>
 Line 4: Private key <span class="hashtag">#2</span></p>
 <hr>
 <p>Once these are created,  you can attempt to load these keys into the client.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/54b7166ddfa540c93e086c245011842952e37e33.png" data-download-href="..../forum-archive/uploads/default/54b7166ddfa540c93e086c245011842952e37e33" title="Screen Shot 2020-04-02 at 10.23.00 AM.png"><img src="..../forum-archive/uploads/default/original/1X/54b7166ddfa540c93e086c245011842952e37e33.png" alt="00%20AM" width="690" height="486"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../../forum-archive/uploads/default/original/1X/54b7166ddfa540c93e086c245011842952e37e33.png" data-download-href="../../../forum-archive/uploads/default/54b7166ddfa540c93e086c245011842952e37e33" title="Screen Shot 2020-04-02 at 10.23.00 AM.png"><img src="../../../forum-archive/uploads/default/original/1X/54b7166ddfa540c93e086c245011842952e37e33.png" alt="00%20AM" width="690" height="486"><div class="meta">
 <span class="filename">Screen Shot 2020-04-02 at 10.23.00 AM.png</span><span class="informations">1392x982 51.6 KB</span><span class="expand"></span>
 </div></a></div></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/d54d98a84a2aac3a2ccb24ea635bb7ad03ed5ea1.png" data-download-href="..../forum-archive/uploads/default/d54d98a84a2aac3a2ccb24ea635bb7ad03ed5ea1" title="Screen Shot 2020-04-02 at 10.24.02 AM.png"><img src="..../forum-archive/uploads/default/original/1X/d54d98a84a2aac3a2ccb24ea635bb7ad03ed5ea1.png" alt="02%20AM" width="690" height="153"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../../forum-archive/uploads/default/original/1X/d54d98a84a2aac3a2ccb24ea635bb7ad03ed5ea1.png" data-download-href="../../../forum-archive/uploads/default/d54d98a84a2aac3a2ccb24ea635bb7ad03ed5ea1" title="Screen Shot 2020-04-02 at 10.24.02 AM.png"><img src="../../../forum-archive/uploads/default/original/1X/d54d98a84a2aac3a2ccb24ea635bb7ad03ed5ea1.png" alt="02%20AM" width="690" height="153"><div class="meta">
 <span class="filename">Screen Shot 2020-04-02 at 10.24.02 AM.png</span><span class="informations">932x208 9.37 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h3>If successfully loaded, your web wallet address will now be visible on the client dashboard.</h3>
 <p><strong><em>Please note: If your full balance does not show up, click the “rescan” button at the bottom of the dashboard. Once it finishes, you should be able to spend the coins.</em></strong></p>
 <p>For any further support issues please ask in the community support channel on Discord:  <strong><a href="https://discordapp.com/invite/jRkjCxf">https://discordapp.com/invite/jRkjCxf</a></strong></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/how-to-import-private-keys-from-a-multi-sig-web-wallet-address-into-the-bitbay-markets-client/2322/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-to-import-private-keys-from-a-multi-sig-web-wallet-address-into-the-bitbay-markets-client/2322/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-to-import-private-keys-from-a-multi-sig-web-wallet-address-into-the-bitbay-markets-client/2322/1</link>
+        <link>../../../forum-archive/t/how-to-import-private-keys-from-a-multi-sig-web-wallet-address-into-the-bitbay-markets-client/2322/1</link>
         <pubDate>Mon, 30 Mar 2020 14:20:54 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2322-1</guid>
-        <source url="..../forum-archive/t/how-to-import-private-keys-from-a-multi-sig-web-wallet-address-into-the-bitbay-markets-client/2322.rss">How to import private keys from a multi-sig web wallet address into the BitBay Markets Client</source>
+        <source url="../../../forum-archive/t/how-to-import-private-keys-from-a-multi-sig-web-wallet-address-into-the-bitbay-markets-client/2322.rss">How to import private keys from a multi-sig web wallet address into the BitBay Markets Client</source>
       </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>BitBay Community Update — 4th March 2019</title>
-    <link>..../forum-archive/t/bitbay-community-update-4th-march-2019/1759</link>
+    <link>../../../forum-archive/t/bitbay-community-update-4th-march-2019/1759</link>
     <description>**In this update:**
 - development team updates
 - a new foundation
@@ -94,12 +94,12 @@ Project Manager @ [BitBay](https://bitbay.market/)</description>
     
     <lastBuildDate>Wed, 06 Mar 2019 08:37:21 +0000</lastBuildDate>
     <category>Announcements</category>
-    <atom:link href="..../forum-archive/t/bitbay-community-update-4th-march-2019/1759.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/bitbay-community-update-4th-march-2019/1759.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>BitBay Community Update — 4th March 2019</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               <p><strong>In this update:</strong></p>
 <ul>
@@ -130,7 +130,7 @@ Project Manager @ [BitBay](https://bitbay.market/)</description>
 <p>The foundation will be formed in March/April and a new website will be available soon, at  <em>bitbay.foundation</em> , with info on how to join.</p>
 <h4>A New Structure</h4>
 <p>The graphic below shows how we are proposing to introduce a new structure to the current websites and products, and also introduces a new voting system via the community forum  <em>(more on this below in the self-governance section)</em></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/0b9291717ae373649d6ff6371a71de9f35006727.png" data-download-href="..../forum-archive/uploads/default/0b9291717ae373649d6ff6371a71de9f35006727" title="1*EOWc46KeBc_lD5oow1D6Zw.png"><img src="..../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_578x500.png" alt width="578" height="500" srcset="..../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_578x500.png, ..../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_867x750.png 1.5x, ..../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_1156x1000.png 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../../forum-archive/uploads/default/original/1X/0b9291717ae373649d6ff6371a71de9f35006727.png" data-download-href="../../../forum-archive/uploads/default/0b9291717ae373649d6ff6371a71de9f35006727" title="1*EOWc46KeBc_lD5oow1D6Zw.png"><img src="../../../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_578x500.png" alt width="578" height="500" srcset="../../../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_578x500.png, ../../../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_867x750.png 1.5x, ../../../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_1156x1000.png 2x"><div class="meta">
 <span class="filename">1*EOWc46KeBc_lD5oow1D6Zw.png</span><span class="informations">2479x2142 215 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>The current website will have a new home at ‘bitbay.community’, and instead of being built in the Drupal CMS, will be open-sourced on GitHub, so community contributors can help maintain the website. We will then move the web markets beta to its new domain at ‘bitbay.market’, to become the main landing page for this new flagship product. In a move to introduce a more democratic process, the forum will also become a place where the community can cast their votes on submitted proposals. The exact method of self-governance has yet to be agreed upon, but this will also be put to a democratic vote to ensure transparency and fairness going forward.</p>
@@ -141,7 +141,7 @@ Project Manager @ [BitBay](https://bitbay.market/)</description>
 <p>We’ll announce the private release of this next version in the Slack channel early this week, so come and join us if you aren’t already one of our beta testers. You can signup here:</p>
 <p><a href="http://eepurl.com/dCI2IL"> <strong>http://eepurl.com/dCI2IL</strong> </a></p>
 <p>With the “live update” service and recent fixes to the email notification system, we are almost ready to release the public beta version. A provisional date for the public beta release has been set for the  <strong>11th March</strong> .</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d.png" data-download-href="..../forum-archive/uploads/default/578098fd2bc7c2053f67704613f8f9713eaecf9d" title="1*yaZfB55tAL4Fw-PUYGIS_Q.png"><img src="..../forum-archive/uploads/default/optimized/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d_1_690x413.png" alt width="690" height="413" srcset="..../forum-archive/uploads/default/optimized/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d_1_690x413.png, ..../forum-archive/uploads/default/optimized/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d_1_1035x619.png 1.5x, ..../forum-archive/uploads/default/original/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d.png 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../../forum-archive/uploads/default/original/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d.png" data-download-href="../../../forum-archive/uploads/default/578098fd2bc7c2053f67704613f8f9713eaecf9d" title="1*yaZfB55tAL4Fw-PUYGIS_Q.png"><img src="../../../forum-archive/uploads/default/optimized/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d_1_690x413.png" alt width="690" height="413" srcset="../../../forum-archive/uploads/default/optimized/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d_1_690x413.png, ../../../forum-archive/uploads/default/optimized/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d_1_1035x619.png 1.5x, ../../../forum-archive/uploads/default/original/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d.png 2x"><div class="meta">
 <span class="filename">1*yaZfB55tAL4Fw-PUYGIS_Q.png</span><span class="informations">1120x671 135 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>Still to come in the next updates:</p>
@@ -163,12 +163,12 @@ Project Manager @ [BitBay](https://bitbay.market/)</description>
 <p>Shorn Keld<br>
 Project Manager @ <a href="https://bitbay.market/">BitBay</a></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/bitbay-community-update-4th-march-2019/1759/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/bitbay-community-update-4th-march-2019/1759/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/bitbay-community-update-4th-march-2019/1759/1</link>
+        <link>../../../forum-archive/t/bitbay-community-update-4th-march-2019/1759/1</link>
         <pubDate>Wed, 06 Mar 2019 08:37:21 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1759-1</guid>
-        <source url="..../forum-archive/t/bitbay-community-update-4th-march-2019/1759.rss">BitBay Community Update — 4th March 2019</source>
+        <source url="../../../forum-archive/t/bitbay-community-update-4th-march-2019/1759.rss">BitBay Community Update — 4th March 2019</source>
       </item>
   </channel>
 </rss>

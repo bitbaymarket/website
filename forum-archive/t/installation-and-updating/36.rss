@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Installation and Updating</title>
-    <link>..../forum-archive/t/installation-and-updating/36</link>
+    <link>../../../forum-archive/t/installation-and-updating/36</link>
     <description>## 1) How do you install and load the Client on linux?
 
 Download the tar.gz file found on the [website downloads page](https://bitbay.market/downloads). Extract the file with an app like Archive Manager.
@@ -84,12 +84,12 @@ The price of almost everything in this world is determined by supply and demand.
     
     <lastBuildDate>Sat, 17 Mar 2018 17:10:40 +0000</lastBuildDate>
     <category>Get Started Guides</category>
-    <atom:link href="..../forum-archive/t/installation-and-updating/36.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/installation-and-updating/36.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Installation and Updating</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               <h2>1) How do you install and load the Client on linux?</h2>
 <p>Download the tar.gz file found on the <a href="https://bitbay.market/downloads">website downloads page</a>. Extract the file with an app like Archive Manager.<br>
@@ -167,12 +167,12 @@ You can find the current market cap here: <a href="http://coinmarketcap.com/curr
 <h2>22) How is the fiat price of BitBay truly determined? What is a buy or sell wall?</h2>
 <p>The price of almost everything in this world is determined by supply and demand. The lower supply and the higher demand drives a high price. The larger the size of the BitBay community and the larger the volume the more this drives demand. Currently, BitBay can be bought peer to peer through the software and that doesn’t affect the market price greatly. On different cryptocurrency exchanges, you can see people who bid on the price on BitBay in exchange for Bitcoin for example. They may keep their coins off the exchange and only deposit for purchases or sales. However some people who trade the currency full time will place orders or sometimes called “walls”. These orders may be lower than the current price or higher than the current price. If someone wants to buy 10 Bitcoins of BitBay at 5% lower than the current market price that would create a “wall” because in order to drop the price of the currency, someone would need that much BitBay to fill their entire order. This is why the rolling peg will be so effective. As we can set a dynamic supply that adjusts properly to the volume, orders and demand.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/installation-and-updating/36/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/installation-and-updating/36/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/installation-and-updating/36/1</link>
+        <link>../../../forum-archive/t/installation-and-updating/36/1</link>
         <pubDate>Wed, 29 Nov 2017 09:40:03 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-36-1</guid>
-        <source url="..../forum-archive/t/installation-and-updating/36.rss">Installation and Updating</source>
+        <source url="../../../forum-archive/t/installation-and-updating/36.rss">Installation and Updating</source>
       </item>
   </channel>
 </rss>

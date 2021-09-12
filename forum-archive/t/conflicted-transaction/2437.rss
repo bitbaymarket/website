@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Conflicted Transaction</title>
-    <link>..../forum-archive/t/conflicted-transaction/2437</link>
+    <link>../../../forum-archive/t/conflicted-transaction/2437</link>
     <description>I wanted to send my BAY to an exchange but the transaction got conflicted and did not went through. Now all my spendable BAY were transformed to &quot;reserve&quot; BAYR ... how do I get my BAY to an exchange now?
 
 Transaction ID: b603a0eaadf8b7e157680eb9452fcb317b10984d540d639b876dd4996f1cbe36
@@ -15,12 +15,12 @@ Andreas</description>
     
     <lastBuildDate>Sun, 24 May 2020 08:44:05 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/conflicted-transaction/2437.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/conflicted-transaction/2437.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Conflicted Transaction</title>
         <dc:creator><![CDATA[@voidindex voidindex]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
           <blockquote>
               <p>I wanted to send my BAY to an exchange but the transaction got conflicted and did not went through. Now all my spendable BAY were transformed to “reserve” BAYR … how do I get my BAY to an exchange now?</p>
 <p>Transaction ID: b603a0eaadf8b7e157680eb9452fcb317b10984d540d639b876dd4996f1cbe36</p>
@@ -28,12 +28,12 @@ Andreas</description>
 <p>All the best,</p>
 <p>Andreas</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/conflicted-transaction/2437/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/conflicted-transaction/2437/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/conflicted-transaction/2437/1</link>
+        <link>../../../forum-archive/t/conflicted-transaction/2437/1</link>
         <pubDate>Sun, 24 May 2020 08:44:05 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2437-1</guid>
-        <source url="..../forum-archive/t/conflicted-transaction/2437.rss">Conflicted Transaction</source>
+        <source url="../../../forum-archive/t/conflicted-transaction/2437.rss">Conflicted Transaction</source>
       </item>
   </channel>
 </rss>

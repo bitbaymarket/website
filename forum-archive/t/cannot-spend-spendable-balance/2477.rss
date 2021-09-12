@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Cannot Spend &#39;SPENDABLE&#39; balance</title>
-    <link>..../forum-archive/t/cannot-spend-spendable-balance/2477</link>
+    <link>../../../forum-archive/t/cannot-spend-spendable-balance/2477</link>
     <description>
 My system has the following specifications
 
@@ -20,12 +20,12 @@ Please help.</description>
     
     <lastBuildDate>Fri, 12 Jun 2020 18:21:55 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/cannot-spend-spendable-balance/2477.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/cannot-spend-spendable-balance/2477.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Cannot Spend &#39;SPENDABLE&#39; balance</title>
         <dc:creator><![CDATA[@oaktree ace]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/oaktree">@oaktree</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/oaktree">@oaktree</a> wrote:</p>
           <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet, Client Wallet (and version) or Web wallet:3.0.2<br>
@@ -36,12 +36,12 @@ desktop wallet (Qt or Client) block # 2632717 and <span class="hashtag">#43</spa
 <p>The fee is already 0.02 but I have tried to increase it to 0.2 and then 1 BAY without success. The same error message appears.</p>
 <p>Please help.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/cannot-spend-spendable-balance/2477/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/cannot-spend-spendable-balance/2477/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/cannot-spend-spendable-balance/2477/1</link>
+        <link>../../../forum-archive/t/cannot-spend-spendable-balance/2477/1</link>
         <pubDate>Fri, 12 Jun 2020 18:21:55 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2477-1</guid>
-        <source url="..../forum-archive/t/cannot-spend-spendable-balance/2477.rss">Cannot Spend &#39;SPENDABLE&#39; balance</source>
+        <source url="../../../forum-archive/t/cannot-spend-spendable-balance/2477.rss">Cannot Spend &#39;SPENDABLE&#39; balance</source>
       </item>
   </channel>
 </rss>

@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Welcome to the Lounge</title>
-    <link>..../forum-archive/t/welcome-to-the-lounge/8</link>
+    <link>../../../forum-archive/t/welcome-to-the-lounge/8</link>
     <description>A place to chill and talk about anything you want. Be random, be fun, but always be nice!</description>
     
     <lastBuildDate>Thu, 15 Mar 2018 04:01:22 +0000</lastBuildDate>
     <category>The Lounge</category>
-    <atom:link href="..../forum-archive/t/welcome-to-the-lounge/8.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/welcome-to-the-lounge/8.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Welcome to the Lounge</title>
         <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
           <blockquote>
               <p>A post was split to a new topic: <a href="/t/client-on-mac-wont-open/1207">Client on MAC wont open</a></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/welcome-to-the-lounge/8/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/welcome-to-the-lounge/8/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/welcome-to-the-lounge/8/3</link>
+        <link>../../../forum-archive/t/welcome-to-the-lounge/8/3</link>
         <pubDate>Thu, 15 Mar 2018 06:16:05 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-8-3</guid>
-        <source url="..../forum-archive/t/welcome-to-the-lounge/8.rss">Welcome to the Lounge</source>
+        <source url="../../../forum-archive/t/welcome-to-the-lounge/8.rss">Welcome to the Lounge</source>
       </item>
       <item>
         <title>Welcome to the Lounge</title>
         <dc:creator><![CDATA[@Munti Bjorn Alsos]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/munti">@Munti</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/munti">@Munti</a> wrote:</p>
           <blockquote>
-              <p>Nice to see this happening <img src="..../forum-archive/images/emoji/twitter/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+              <p>Nice to see this happening <img src="../../../forum-archive/images/emoji/twitter/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/welcome-to-the-lounge/8/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/welcome-to-the-lounge/8/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/welcome-to-the-lounge/8/2</link>
+        <link>../../../forum-archive/t/welcome-to-the-lounge/8/2</link>
         <pubDate>Thu, 30 Nov 2017 11:57:21 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-8-2</guid>
-        <source url="..../forum-archive/t/welcome-to-the-lounge/8.rss">Welcome to the Lounge</source>
+        <source url="../../../forum-archive/t/welcome-to-the-lounge/8.rss">Welcome to the Lounge</source>
       </item>
       <item>
         <title>Welcome to the Lounge</title>
         <dc:creator><![CDATA[@system system]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/system">@system</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/system">@system</a> wrote:</p>
           <blockquote>
               <p>A place to chill and talk about anything you want. Be random, be fun, but always be nice!</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/welcome-to-the-lounge/8/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/welcome-to-the-lounge/8/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/welcome-to-the-lounge/8/1</link>
+        <link>../../../forum-archive/t/welcome-to-the-lounge/8/1</link>
         <pubDate>Tue, 07 Nov 2017 16:42:34 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-8-1</guid>
-        <source url="..../forum-archive/t/welcome-to-the-lounge/8.rss">Welcome to the Lounge</source>
+        <source url="../../../forum-archive/t/welcome-to-the-lounge/8.rss">Welcome to the Lounge</source>
       </item>
   </channel>
 </rss>

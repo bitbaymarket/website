@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Reserve to Freeze Liquidity</title>
-    <link>..../forum-archive/t/reserve-to-freeze-liquidity/2283</link>
+    <link>../../../forum-archive/t/reserve-to-freeze-liquidity/2283</link>
     <description>My system has the following specifications 
 
 QT Wallet, Client Wallet (and version) or Web wallet:3.0.1.0
@@ -20,45 +20,45 @@ The problem I am having is ....</description>
     
     <lastBuildDate>Mon, 16 Mar 2020 20:29:44 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/reserve-to-freeze-liquidity/2283.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/reserve-to-freeze-liquidity/2283.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Reserve to Freeze Liquidity</title>
         <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
           <blockquote>
               <p>The entire network is frozen by over 98%. Hopefully that will change in the near future and begin to inflate back to liquid coins. But we can’t predict the future price. I guess the big part of your decision depends on whether or not you want to hold long term.</p>
 <p>Thanks for supporting BitBay</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/reserve-to-freeze-liquidity/2283/4">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/reserve-to-freeze-liquidity/2283/4">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/reserve-to-freeze-liquidity/2283/4</link>
+        <link>../../../forum-archive/t/reserve-to-freeze-liquidity/2283/4</link>
         <pubDate>Mon, 16 Mar 2020 20:29:44 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2283-4</guid>
-        <source url="..../forum-archive/t/reserve-to-freeze-liquidity/2283.rss">Reserve to Freeze Liquidity</source>
+        <source url="../../../forum-archive/t/reserve-to-freeze-liquidity/2283.rss">Reserve to Freeze Liquidity</source>
       </item>
       <item>
         <title>Reserve to Freeze Liquidity</title>
         <dc:creator><![CDATA[@hoodat hoo dat]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/hoodat">@hoodat</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/hoodat">@hoodat</a> wrote:</p>
           <blockquote>
               <p>Hi Craig,</p>
 <p>Thanks for the doc.  It sounds like I have to freeze reserve these for 1 month before I can freeze liquidity.  I’ll go ahead and do this.  If there is something I’m missing please let me know.   I’d prefer to get these started in freeze liquidity but waiting a month is not all that bad.</p>
 <p>thanks hoodat</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/reserve-to-freeze-liquidity/2283/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/reserve-to-freeze-liquidity/2283/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/reserve-to-freeze-liquidity/2283/3</link>
+        <link>../../../forum-archive/t/reserve-to-freeze-liquidity/2283/3</link>
         <pubDate>Mon, 16 Mar 2020 15:37:18 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2283-3</guid>
-        <source url="..../forum-archive/t/reserve-to-freeze-liquidity/2283.rss">Reserve to Freeze Liquidity</source>
+        <source url="../../../forum-archive/t/reserve-to-freeze-liquidity/2283.rss">Reserve to Freeze Liquidity</source>
       </item>
       <item>
         <title>Reserve to Freeze Liquidity</title>
         <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
           <blockquote>
               <p>Hoodat,</p>
 <p>In your “Send” tab there is an drop down menu that allows you to select what type of coin inputs you wish to use.</p>
@@ -83,18 +83,18 @@ The problem I am having is ....</description>
 </aside>
 </p>
           </blockquote>
-          <p><a href="..../forum-archive/t/reserve-to-freeze-liquidity/2283/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/reserve-to-freeze-liquidity/2283/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/reserve-to-freeze-liquidity/2283/2</link>
+        <link>../../../forum-archive/t/reserve-to-freeze-liquidity/2283/2</link>
         <pubDate>Mon, 16 Mar 2020 11:06:20 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2283-2</guid>
-        <source url="..../forum-archive/t/reserve-to-freeze-liquidity/2283.rss">Reserve to Freeze Liquidity</source>
+        <source url="../../../forum-archive/t/reserve-to-freeze-liquidity/2283.rss">Reserve to Freeze Liquidity</source>
       </item>
       <item>
         <title>Reserve to Freeze Liquidity</title>
         <dc:creator><![CDATA[@hoodat hoo dat]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/hoodat">@hoodat</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/hoodat">@hoodat</a> wrote:</p>
           <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet, Client Wallet (and version) or Web wallet:3.0.1.0<br>
@@ -106,12 +106,12 @@ If desktop wallet (Qt or Client) block # of your client and # of connections: QT
 <p>ba</p>
 <p>The problem I am having is …</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/reserve-to-freeze-liquidity/2283/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/reserve-to-freeze-liquidity/2283/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/reserve-to-freeze-liquidity/2283/1</link>
+        <link>../../../forum-archive/t/reserve-to-freeze-liquidity/2283/1</link>
         <pubDate>Sat, 14 Mar 2020 02:48:30 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2283-1</guid>
-        <source url="..../forum-archive/t/reserve-to-freeze-liquidity/2283.rss">Reserve to Freeze Liquidity</source>
+        <source url="../../../forum-archive/t/reserve-to-freeze-liquidity/2283.rss">Reserve to Freeze Liquidity</source>
       </item>
   </channel>
 </rss>

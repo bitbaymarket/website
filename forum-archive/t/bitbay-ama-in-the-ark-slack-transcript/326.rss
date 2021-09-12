@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>BitBay AMA in the ARK Slack! [Transcript]</title>
-    <link>..../forum-archive/t/bitbay-ama-in-the-ark-slack-transcript/326</link>
+    <link>../../../forum-archive/t/bitbay-ama-in-the-ark-slack-transcript/326</link>
     <description>https://www.reddit.com/r/BitBay/comments/742odg/log_of_ama_arkioslack_with_bitbaymarket_dzimbeck/</description>
     
     <lastBuildDate>Wed, 06 Mar 2019 13:24:10 +0000</lastBuildDate>
     <category>Ask the Developer</category>
-    <atom:link href="..../forum-archive/t/bitbay-ama-in-the-ark-slack-transcript/326.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/bitbay-ama-in-the-ark-slack-transcript/326.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>BitBay AMA in the ARK Slack! [Transcript]</title>
         <dc:creator><![CDATA[@BitBay_Guy BitBay Guy]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/bitbay_guy">@BitBay_Guy</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/bitbay_guy">@BitBay_Guy</a> wrote:</p>
           <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
@@ -36,12 +36,12 @@
 </aside>
 
           </blockquote>
-          <p><a href="..../forum-archive/t/bitbay-ama-in-the-ark-slack-transcript/326/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/bitbay-ama-in-the-ark-slack-transcript/326/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/bitbay-ama-in-the-ark-slack-transcript/326/1</link>
+        <link>../../../forum-archive/t/bitbay-ama-in-the-ark-slack-transcript/326/1</link>
         <pubDate>Wed, 20 Dec 2017 19:56:19 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-326-1</guid>
-        <source url="..../forum-archive/t/bitbay-ama-in-the-ark-slack-transcript/326.rss">BitBay AMA in the ARK Slack! [Transcript]</source>
+        <source url="../../../forum-archive/t/bitbay-ama-in-the-ark-slack-transcript/326.rss">BitBay AMA in the ARK Slack! [Transcript]</source>
       </item>
   </channel>
 </rss>

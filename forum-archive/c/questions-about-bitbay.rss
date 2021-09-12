@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Questions about BitBay - BitBay Community</title>
-    <link>.../forum-archive/c/questions-about-bitbay</link>
+    <link>../../forum-archive/c/questions-about-bitbay</link>
     <description>Topics in the &#39;Questions about BitBay&#39; category </description>
     
       <lastBuildDate>Thu, 09 Apr 2020 07:43:57 +0000</lastBuildDate>
-      <atom:link href=".../forum-archive/c/questions-about-bitbay.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="../../forum-archive/c/questions-about-bitbay.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>How to send my BAY from Android Wallet to LATOKEN exchange</title>
           <dc:creator><![CDATA[@phamminh05 Minh]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/phamminh05">@phamminh05</a> wrote:</p>
+            <p><a href="../../forum-archive/u/phamminh05">@phamminh05</a> wrote:</p>
             <blockquote>
               <p>I tried to send, but failed! Help me.</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-to-send-my-bay-from-android-wallet-to-latoken-exchange/2358">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-send-my-bay-from-android-wallet-to-latoken-exchange/2358">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-send-my-bay-from-android-wallet-to-latoken-exchange/2358</link>
+          <link>../../forum-archive/t/how-to-send-my-bay-from-android-wallet-to-latoken-exchange/2358</link>
           <pubDate>Thu, 09 Apr 2020 07:43:57 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2358</guid>
-          <source url=".../forum-archive/t/how-to-send-my-bay-from-android-wallet-to-latoken-exchange/2358.rss">How to send my BAY from Android Wallet to LATOKEN exchange</source>
+          <source url="../../forum-archive/t/how-to-send-my-bay-from-android-wallet-to-latoken-exchange/2358.rss">How to send my BAY from Android Wallet to LATOKEN exchange</source>
         </item>
         <item>
           <title>BitBay Marketplace</title>
           <dc:creator><![CDATA[@thenewb sylvan newby]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/thenewb">@thenewb</a> wrote:</p>
+            <p><a href="../../forum-archive/u/thenewb">@thenewb</a> wrote:</p>
             <blockquote>
               <p>Hello,</p>
 <p>How can I actually get to the bitbay marketplace to see items for sale? I have already downloaded the client/wallet/app think, and all it allowed me to do was to post something I wanted to buy or sell. I saw there was a marketplace in the youtube video that looked very much like ebay or amazon but does it really exist? Why not just make it availalble to a web browser? Am I missing something?</p>
@@ -42,22 +42,22 @@ Thenewb</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/bitbay-marketplace/2102">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-marketplace/2102">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-marketplace/2102</link>
+          <link>../../forum-archive/t/bitbay-marketplace/2102</link>
           <pubDate>Sun, 24 Nov 2019 01:40:35 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2102</guid>
-          <source url=".../forum-archive/t/bitbay-marketplace/2102.rss">BitBay Marketplace</source>
+          <source url="../../forum-archive/t/bitbay-marketplace/2102.rss">BitBay Marketplace</source>
         </item>
         <item>
           <title>Bitbay wallet 连接不上bitbay.conf</title>
           <dc:creator><![CDATA[@tang090304 tangjian]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tang090304">@tang090304</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tang090304">@tang090304</a> wrote:</p>
             <blockquote>
               <p>正式环境为什么这样配置不行，测试确可以<br>
 rpcuser=root<br>
@@ -68,22 +68,22 @@ listen=1</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bitbay-wallet-bitbay-conf/2089">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-wallet-bitbay-conf/2089">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-wallet-bitbay-conf/2089</link>
+          <link>../../forum-archive/t/bitbay-wallet-bitbay-conf/2089</link>
           <pubDate>Tue, 12 Nov 2019 06:30:58 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2089</guid>
-          <source url=".../forum-archive/t/bitbay-wallet-bitbay-conf/2089.rss">Bitbay wallet 连接不上bitbay.conf</source>
+          <source url="../../forum-archive/t/bitbay-wallet-bitbay-conf/2089.rss">Bitbay wallet 连接不上bitbay.conf</source>
         </item>
         <item>
           <title>Does BitBay has something similar as the Horizon API of the Stellar platform? Can I create my own web market front end?</title>
           <dc:creator><![CDATA[@Zequez Ezequiel Adrian Schwartzman]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/zequez">@Zequez</a> wrote:</p>
+            <p><a href="../../forum-archive/u/zequez">@Zequez</a> wrote:</p>
             <blockquote>
               <p>Hi! Completely new here and I just found the project while trying to figure out how to do something.</p>
 <p>Stellar is another crypto that has developed a <a href="https://github.com/stellar/horizon" rel="nofollow noopener">server API called Horizon</a> that anyone can host and allows people to communicate with the blockchain through web requests. This is very useful, since then you don’t need to build the market yourself, but anyone can create their own SPA market application by using the API.</p>
@@ -94,22 +94,22 @@ listen=1</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800</link>
+          <link>../../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800</link>
           <pubDate>Wed, 10 Apr 2019 17:12:56 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1800</guid>
-          <source url=".../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800.rss">Does BitBay has something similar as the Horizon API of the Stellar platform? Can I create my own web market front end?</source>
+          <source url="../../forum-archive/t/does-bitbay-has-something-similar-as-the-horizon-api-of-the-stellar-platform-can-i-create-my-own-web-market-front-end/1800.rss">Does BitBay has something similar as the Horizon API of the Stellar platform? Can I create my own web market front end?</source>
         </item>
         <item>
           <title>Questions about the dynamic peg</title>
           <dc:creator><![CDATA[@lidd0512 lidd]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/lidd0512">@lidd0512</a> wrote:</p>
+            <p><a href="../../forum-archive/u/lidd0512">@lidd0512</a> wrote:</p>
             <blockquote>
               <p>As we know ,bitbay release a new feature called dynamic peg,which make bitbay a stable coin.what i read about the dynamic peg from the white paper tell me this feature is used for anti inflation or deflation.And this function is realized by coin liquidity controlling.This concept is quite like the modern finance. Central bank will control the fiat money stability by increase or decrease the reserve ratio to afford or release liquidity. But this method has definitily some hysteresis.The purpose of freezing or releasing might take place usually long time after the action,maybe several monthes or years.<br>
 The developping purpose of bitbay is to afford a kind of exhanging insurance  which would make the goods exchange trustfull based on the smart contracts.In this contract ,both dealers deposit certain amounts of bays to this contract, if the deal is not finished ,none of them will cancel the contract ,so the bays of each owner will reamin in the contract instead of return to the owner. I think this is a quite good mechanism to build a decentralized trustfull market  without an escrow.<br>
@@ -118,65 +118,65 @@ So ,how to solve this flaw in this imaged case?</p>
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/questions-about-the-dynamic-peg/1574">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/questions-about-the-dynamic-peg/1574">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/questions-about-the-dynamic-peg/1574</link>
+          <link>../../forum-archive/t/questions-about-the-dynamic-peg/1574</link>
           <pubDate>Sat, 20 Oct 2018 02:50:07 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1574</guid>
-          <source url=".../forum-archive/t/questions-about-the-dynamic-peg/1574.rss">Questions about the dynamic peg</source>
+          <source url="../../forum-archive/t/questions-about-the-dynamic-peg/1574.rss">Questions about the dynamic peg</source>
         </item>
         <item>
           <title>How many users can confirm the bay coins transaction from A to B?What is the mechanism to keep it decentralized?</title>
           <dc:creator><![CDATA[@Blockstack Block]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/blockstack">@Blockstack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/blockstack">@Blockstack</a> wrote:</p>
             <blockquote>
               <p>Bitcoin miners can confirm the bitcoin transaction,currently decentralized. Byteball has 12 peoples to confirm the byteball coin transaction.Ethereum miners  also can confirm the<br>
 ETH transaction,so How many peoples can confirm the bay coins transaction from A to B?What is the mechanism to keep it decentralized?</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/how-many-users-can-confirm-the-bay-coins-transaction-from-a-to-b-what-is-the-mechanism-to-keep-it-decentralized/1482">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-many-users-can-confirm-the-bay-coins-transaction-from-a-to-b-what-is-the-mechanism-to-keep-it-decentralized/1482">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-many-users-can-confirm-the-bay-coins-transaction-from-a-to-b-what-is-the-mechanism-to-keep-it-decentralized/1482</link>
+          <link>../../forum-archive/t/how-many-users-can-confirm-the-bay-coins-transaction-from-a-to-b-what-is-the-mechanism-to-keep-it-decentralized/1482</link>
           <pubDate>Wed, 15 Aug 2018 06:26:17 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1482</guid>
-          <source url=".../forum-archive/t/how-many-users-can-confirm-the-bay-coins-transaction-from-a-to-b-what-is-the-mechanism-to-keep-it-decentralized/1482.rss">How many users can confirm the bay coins transaction from A to B?What is the mechanism to keep it decentralized?</source>
+          <source url="../../forum-archive/t/how-many-users-can-confirm-the-bay-coins-transaction-from-a-to-b-what-is-the-mechanism-to-keep-it-decentralized/1482.rss">How many users can confirm the bay coins transaction from A to B?What is the mechanism to keep it decentralized?</source>
         </item>
         <item>
           <title>Any word on opti token airdrop?</title>
           <dc:creator><![CDATA[@bitbay]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/bitbay">@bitbay</a> wrote:</p>
+            <p><a href="../../forum-archive/u/bitbay">@bitbay</a> wrote:</p>
             <blockquote>
               <p>Just read about it. Looked like the community response to the proposal was a bit underwhelming. Did it die a death or is it happening? If the latter, any guidance on what BAY holders need to do? I’m skint and could use a freebie.</p>
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/any-word-on-opti-token-airdrop/1198">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/any-word-on-opti-token-airdrop/1198">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/any-word-on-opti-token-airdrop/1198</link>
+          <link>../../forum-archive/t/any-word-on-opti-token-airdrop/1198</link>
           <pubDate>Mon, 12 Mar 2018 08:26:40 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1198</guid>
-          <source url=".../forum-archive/t/any-word-on-opti-token-airdrop/1198.rss">Any word on opti token airdrop?</source>
+          <source url="../../forum-archive/t/any-word-on-opti-token-airdrop/1198.rss">Any word on opti token airdrop?</source>
         </item>
         <item>
           <title>About the Questions about BitBay category</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <p>(Replace this first paragraph with a brief description of your new category. This guidance will appear in the category selection area, so try to keep it below 200 characters. <strong>Until you edit this description or create topics, this category won’t appear on the categories page.</strong>)</p>
 <p>Use the following paragraphs for a longer description, or to establish category guidelines or rules:</p>
@@ -197,43 +197,43 @@ ETH transaction,so How many peoples can confirm the bay coins transaction from A
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/about-the-questions-about-bitbay-category/1148">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/about-the-questions-about-bitbay-category/1148">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/about-the-questions-about-bitbay-category/1148</link>
+          <link>../../forum-archive/t/about-the-questions-about-bitbay-category/1148</link>
           <pubDate>Fri, 23 Feb 2018 21:49:43 +0000</pubDate>
           <discourse:topicPinned>Yes</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>Yes</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1148</guid>
-          <source url=".../forum-archive/t/about-the-questions-about-bitbay-category/1148.rss">About the Questions about BitBay category</source>
+          <source url="../../forum-archive/t/about-the-questions-about-bitbay-category/1148.rss">About the Questions about BitBay category</source>
         </item>
         <item>
           <title>Question about Bitbay.net</title>
           <dc:creator><![CDATA[@CryptoRays]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/cryptorays">@CryptoRays</a> wrote:</p>
+            <p><a href="../../forum-archive/u/cryptorays">@CryptoRays</a> wrote:</p>
             <blockquote>
               <p>Is <a href="http://Bitbay.net" rel="nofollow noopener">Bitbay.net</a> a part of the bitbay.market properties?</p>
             </blockquote>
             <p>Posts: 8</p>
             <p>Participants: 4</p>
-            <p><a href=".../forum-archive/t/question-about-bitbay-net/1039">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/question-about-bitbay-net/1039">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/question-about-bitbay-net/1039</link>
+          <link>../../forum-archive/t/question-about-bitbay-net/1039</link>
           <pubDate>Mon, 29 Jan 2018 08:03:51 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1039</guid>
-          <source url=".../forum-archive/t/question-about-bitbay-net/1039.rss">Question about Bitbay.net</source>
+          <source url="../../forum-archive/t/question-about-bitbay-net/1039.rss">Question about Bitbay.net</source>
         </item>
         <item>
           <title>If I write an unbreakable contract on bitbay market? Where is the contract data storage?</title>
           <dc:creator><![CDATA[@Blockstack Block]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/blockstack">@Blockstack</a> wrote:</p>
+            <p><a href="../../forum-archive/u/blockstack">@Blockstack</a> wrote:</p>
             <blockquote>
               <p>If I write an unbreakable contract on bitbay market?where is the contract data storage?Is the contract which I wrote stored in every computer like bitcoin or Just in my computer, When the bitmarket client in my computer offline, other user can search and see the contract in the bitbay market?</p>
 <p>Another question:<br>
@@ -241,43 +241,43 @@ If I send 100 bitbay to another bitbay address?How many transaction recognizatio
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/if-i-write-an-unbreakable-contract-on-bitbay-market-where-is-the-contract-data-storage/986">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/if-i-write-an-unbreakable-contract-on-bitbay-market-where-is-the-contract-data-storage/986">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/if-i-write-an-unbreakable-contract-on-bitbay-market-where-is-the-contract-data-storage/986</link>
+          <link>../../forum-archive/t/if-i-write-an-unbreakable-contract-on-bitbay-market-where-is-the-contract-data-storage/986</link>
           <pubDate>Fri, 19 Jan 2018 22:11:21 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-986</guid>
-          <source url=".../forum-archive/t/if-i-write-an-unbreakable-contract-on-bitbay-market-where-is-the-contract-data-storage/986.rss">If I write an unbreakable contract on bitbay market? Where is the contract data storage?</source>
+          <source url="../../forum-archive/t/if-i-write-an-unbreakable-contract-on-bitbay-market-where-is-the-contract-data-storage/986.rss">If I write an unbreakable contract on bitbay market? Where is the contract data storage?</source>
         </item>
         <item>
           <title>A tech question,how can bitbay know customer recieve goods or not?</title>
           <dc:creator><![CDATA[@lidd0512 lidd]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/lidd0512">@lidd0512</a> wrote:</p>
+            <p><a href="../../forum-archive/u/lidd0512">@lidd0512</a> wrote:</p>
             <blockquote>
               <p>as we can see ,the bitbay market has listed no goods on it,  i wonder when the market is developped, many people trade goods on it.how can the smart contracts know that customer recieve the goods or not.if people paid the sellers coins and the the seller cheat the customer and bitbay  and dont send goods ,or customer cheat seller and bitbay that he didnt recieve goods(actually he recieved), who can make an adjustment on this case?can the smart contracts recognize who is honest?i think its a complicated situation,so how can bitbay solve this problem?</p>
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967</link>
+          <link>../../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967</link>
           <pubDate>Sun, 14 Jan 2018 14:22:29 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-967</guid>
-          <source url=".../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967.rss">A tech question,how can bitbay know customer recieve goods or not?</source>
+          <source url="../../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967.rss">A tech question,how can bitbay know customer recieve goods or not?</source>
         </item>
         <item>
           <title>Dynamic Peg Mechanics</title>
           <dc:creator><![CDATA[@hmio213 Hugo]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/hmio213">@hmio213</a> wrote:</p>
+            <p><a href="../../forum-archive/u/hmio213">@hmio213</a> wrote:</p>
             <blockquote>
               <p>Based on the overview of the Dynamic Peg on the main site, the logic behind it makes a lot of sense. Having said that, have a few questions on how this works in reality.</p>
 <ol>
@@ -299,22 +299,22 @@ If I send 100 bitbay to another bitbay address?How many transaction recognizatio
             </blockquote>
             <p>Posts: 4</p>
             <p>Participants: 4</p>
-            <p><a href=".../forum-archive/t/dynamic-peg-mechanics/948">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/dynamic-peg-mechanics/948">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/dynamic-peg-mechanics/948</link>
+          <link>../../forum-archive/t/dynamic-peg-mechanics/948</link>
           <pubDate>Thu, 11 Jan 2018 16:47:50 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-948</guid>
-          <source url=".../forum-archive/t/dynamic-peg-mechanics/948.rss">Dynamic Peg Mechanics</source>
+          <source url="../../forum-archive/t/dynamic-peg-mechanics/948.rss">Dynamic Peg Mechanics</source>
         </item>
         <item>
           <title>Buying BAY / High Sierra Update</title>
           <dc:creator><![CDATA[@hmio213 Hugo]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/hmio213">@hmio213</a> wrote:</p>
+            <p><a href="../../forum-archive/u/hmio213">@hmio213</a> wrote:</p>
             <blockquote>
               <p>Hi,</p>
 <p>Completely new to BAY (and the entire crypto world for that matter).</p>
@@ -323,43 +323,43 @@ If I send 100 bitbay to another bitbay address?How many transaction recognizatio
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/buying-bay-high-sierra-update/927">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/buying-bay-high-sierra-update/927">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/buying-bay-high-sierra-update/927</link>
+          <link>../../forum-archive/t/buying-bay-high-sierra-update/927</link>
           <pubDate>Mon, 08 Jan 2018 20:09:43 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-927</guid>
-          <source url=".../forum-archive/t/buying-bay-high-sierra-update/927.rss">Buying BAY / High Sierra Update</source>
+          <source url="../../forum-archive/t/buying-bay-high-sierra-update/927.rss">Buying BAY / High Sierra Update</source>
         </item>
         <item>
           <title>Bitbay going to implement masternodes?</title>
           <dc:creator><![CDATA[@zimuk zimuk]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/zimuk">@zimuk</a> wrote:</p>
+            <p><a href="../../forum-archive/u/zimuk">@zimuk</a> wrote:</p>
             <blockquote>
               <p>Bitbay going to implement masternotes?</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/bitbay-going-to-implement-masternodes/915">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-going-to-implement-masternodes/915">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-going-to-implement-masternodes/915</link>
+          <link>../../forum-archive/t/bitbay-going-to-implement-masternodes/915</link>
           <pubDate>Sat, 06 Jan 2018 19:21:30 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-915</guid>
-          <source url=".../forum-archive/t/bitbay-going-to-implement-masternodes/915.rss">Bitbay going to implement masternodes?</source>
+          <source url="../../forum-archive/t/bitbay-going-to-implement-masternodes/915.rss">Bitbay going to implement masternodes?</source>
         </item>
         <item>
           <title>BitBay: Making Real Estate “Smarter” – BitBay Blog</title>
           <dc:creator><![CDATA[@zeus311 CHOI]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/zeus311">@zeus311</a> wrote:</p>
+            <p><a href="../../forum-archive/u/zeus311">@zeus311</a> wrote:</p>
             <blockquote>
               <aside class="onebox whitelistedgeneric">
   <header class="source">
@@ -367,7 +367,7 @@ If I send 100 bitbay to another bitbay address?How many transaction recognizatio
       <a href="https://medium.com/bitbay-blog/bitbay-making-real-estate-smarter-37b8fce65bb7" target="_blank" title="05:00PM - 04 January 2018" rel="nofollow noopener">Medium – 4 Jan 18</a>
   </header>
   <article class="onebox-body">
-    <div class="aspect-image" style="--aspect-ratio:690/345;"><img src=".../forum-archive/uploads/default/original/1X/afdde45cb5d8f1534ab661100cf40cb4d5e37550.png" class="thumbnail"></div>
+    <div class="aspect-image" style="--aspect-ratio:690/345;"><img src="../../forum-archive/uploads/default/original/1X/afdde45cb5d8f1534ab661100cf40cb4d5e37550.png" class="thumbnail"></div>
 
 <h3><a href="https://medium.com/bitbay-blog/bitbay-making-real-estate-smarter-37b8fce65bb7" target="_blank" rel="nofollow noopener">BitBay: Making Real Estate “Smarter” – BitBay Blog – Medium</a></h3>
 
@@ -388,227 +388,227 @@ If I send 100 bitbay to another bitbay address?How many transaction recognizatio
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/bitbay-making-real-estate-smarter-bitbay-blog/902">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-making-real-estate-smarter-bitbay-blog/902">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-making-real-estate-smarter-bitbay-blog/902</link>
+          <link>../../forum-archive/t/bitbay-making-real-estate-smarter-bitbay-blog/902</link>
           <pubDate>Fri, 05 Jan 2018 00:29:10 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-902</guid>
-          <source url=".../forum-archive/t/bitbay-making-real-estate-smarter-bitbay-blog/902.rss">BitBay: Making Real Estate “Smarter” – BitBay Blog</source>
+          <source url="../../forum-archive/t/bitbay-making-real-estate-smarter-bitbay-blog/902.rss">BitBay: Making Real Estate “Smarter” – BitBay Blog</source>
         </item>
         <item>
           <title>Inflation of bitbay</title>
           <dc:creator><![CDATA[@antropogen]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/antropogen">@antropogen</a> wrote:</p>
+            <p><a href="../../forum-archive/u/antropogen">@antropogen</a> wrote:</p>
             <blockquote>
               <p>hi, what is inflation? can anyone give strong explanation ?</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/inflation-of-bitbay/876">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/inflation-of-bitbay/876">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/inflation-of-bitbay/876</link>
+          <link>../../forum-archive/t/inflation-of-bitbay/876</link>
           <pubDate>Wed, 03 Jan 2018 15:47:45 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-876</guid>
-          <source url=".../forum-archive/t/inflation-of-bitbay/876.rss">Inflation of bitbay</source>
+          <source url="../../forum-archive/t/inflation-of-bitbay/876.rss">Inflation of bitbay</source>
         </item>
         <item>
           <title>Trojan in win client</title>
           <dc:creator><![CDATA[@antropogen]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/antropogen">@antropogen</a> wrote:</p>
+            <p><a href="../../forum-archive/u/antropogen">@antropogen</a> wrote:</p>
             <blockquote>
               <p>hi all, i found trojan virus in bitmhalo.exe with Dr Web antivirus, please report , contact drweb devs for droping your file from their database, or repair your file . If they are scam or just incompetent antivirus devs , please report here, it seems so untrustworthy to find trojan in this soft. Best regards…</p>
             </blockquote>
             <p>Posts: 11</p>
             <p>Participants: 3</p>
-            <p><a href=".../forum-archive/t/trojan-in-win-client/864">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/trojan-in-win-client/864">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/trojan-in-win-client/864</link>
+          <link>../../forum-archive/t/trojan-in-win-client/864</link>
           <pubDate>Tue, 02 Jan 2018 22:49:32 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-864</guid>
-          <source url=".../forum-archive/t/trojan-in-win-client/864.rss">Trojan in win client</source>
+          <source url="../../forum-archive/t/trojan-in-win-client/864.rss">Trojan in win client</source>
         </item>
         <item>
           <title>Is bitbay the open-source project?</title>
           <dc:creator><![CDATA[@antropogen]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/antropogen">@antropogen</a> wrote:</p>
+            <p><a href="../../forum-archive/u/antropogen">@antropogen</a> wrote:</p>
             <blockquote>
               <p>hi, can i expore bibay project’s code anywhere, i don’t see any links</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/is-bitbay-the-open-source-project/832">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/is-bitbay-the-open-source-project/832">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/is-bitbay-the-open-source-project/832</link>
+          <link>../../forum-archive/t/is-bitbay-the-open-source-project/832</link>
           <pubDate>Sun, 31 Dec 2017 00:01:29 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-832</guid>
-          <source url=".../forum-archive/t/is-bitbay-the-open-source-project/832.rss">Is bitbay the open-source project?</source>
+          <source url="../../forum-archive/t/is-bitbay-the-open-source-project/832.rss">Is bitbay the open-source project?</source>
         </item>
         <item>
           <title>When is the first quarter 2018 Surprise release?</title>
           <dc:creator><![CDATA[@ssep092 ruin]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/ssep092">@ssep092</a> wrote:</p>
+            <p><a href="../../forum-archive/u/ssep092">@ssep092</a> wrote:</p>
             <blockquote>
               <p>Have we set a date yet?<br>
 There is a rumor that it is a contract with someone else, is it true to make one?</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/when-is-the-first-quarter-2018-surprise-release/822">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/when-is-the-first-quarter-2018-surprise-release/822">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/when-is-the-first-quarter-2018-surprise-release/822</link>
+          <link>../../forum-archive/t/when-is-the-first-quarter-2018-surprise-release/822</link>
           <pubDate>Sat, 30 Dec 2017 15:25:33 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-822</guid>
-          <source url=".../forum-archive/t/when-is-the-first-quarter-2018-surprise-release/822.rss">When is the first quarter 2018 Surprise release?</source>
+          <source url="../../forum-archive/t/when-is-the-first-quarter-2018-surprise-release/822.rss">When is the first quarter 2018 Surprise release?</source>
         </item>
         <item>
           <title>XMAX Image Find events</title>
           <dc:creator><![CDATA[@epple7108 Ohjunho]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/epple7108">@epple7108</a> wrote:</p>
+            <p><a href="../../forum-archive/u/epple7108">@epple7108</a> wrote:</p>
             <blockquote>
               <p>Did the Christmas image file find event end? Or is it still valid?</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/xmax-image-find-events/763">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/xmax-image-find-events/763">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/xmax-image-find-events/763</link>
+          <link>../../forum-archive/t/xmax-image-find-events/763</link>
           <pubDate>Wed, 27 Dec 2017 01:00:47 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-763</guid>
-          <source url=".../forum-archive/t/xmax-image-find-events/763.rss">XMAX Image Find events</source>
+          <source url="../../forum-archive/t/xmax-image-find-events/763.rss">XMAX Image Find events</source>
         </item>
         <item>
           <title>Christmas surprise 4000 bit bays for 5 days</title>
           <dc:creator><![CDATA[@shaheryar]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/shaheryar">@shaheryar</a> wrote:</p>
+            <p><a href="../../forum-archive/u/shaheryar">@shaheryar</a> wrote:</p>
             <blockquote>
               <p>4000 bitbays on 5 days of Christmas for solving puzzle is it authentic?</p>
             </blockquote>
             <p>Posts: 12</p>
             <p>Participants: 5</p>
-            <p><a href=".../forum-archive/t/christmas-surprise-4000-bit-bays-for-5-days/742">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/christmas-surprise-4000-bit-bays-for-5-days/742">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/christmas-surprise-4000-bit-bays-for-5-days/742</link>
+          <link>../../forum-archive/t/christmas-surprise-4000-bit-bays-for-5-days/742</link>
           <pubDate>Tue, 26 Dec 2017 18:35:22 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-742</guid>
-          <source url=".../forum-archive/t/christmas-surprise-4000-bit-bays-for-5-days/742.rss">Christmas surprise 4000 bit bays for 5 days</source>
+          <source url="../../forum-archive/t/christmas-surprise-4000-bit-bays-for-5-days/742.rss">Christmas surprise 4000 bit bays for 5 days</source>
         </item>
         <item>
           <title>Developments in BitBay</title>
           <dc:creator><![CDATA[@Jacksonf Jack]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/jacksonf">@Jacksonf</a> wrote:</p>
+            <p><a href="../../forum-archive/u/jacksonf">@Jacksonf</a> wrote:</p>
             <blockquote>
               <p>Does anyone know where I can get active updates on the developments happening with the product? I am in the telegram channel and it seems like a lot of people don’t know where to go or who to look to. Also, as a side note question, how much of the workload was focused on making a poker game? Should we expect to see more surprises like these in the future?</p>
             </blockquote>
             <p>Posts: 5</p>
             <p>Participants: 4</p>
-            <p><a href=".../forum-archive/t/developments-in-bitbay/730">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/developments-in-bitbay/730">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/developments-in-bitbay/730</link>
+          <link>../../forum-archive/t/developments-in-bitbay/730</link>
           <pubDate>Tue, 26 Dec 2017 08:33:36 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-730</guid>
-          <source url=".../forum-archive/t/developments-in-bitbay/730.rss">Developments in BitBay</source>
+          <source url="../../forum-archive/t/developments-in-bitbay/730.rss">Developments in BitBay</source>
         </item>
         <item>
           <title>When is the poker site open?</title>
           <dc:creator><![CDATA[@Gammagagama YBM]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/gammagagama">@Gammagagama</a> wrote:</p>
+            <p><a href="../../forum-archive/u/gammagagama">@Gammagagama</a> wrote:</p>
             <blockquote>
               <p>12.31 or Is it going to be held in the first quarter?</p>
             </blockquote>
             <p>Posts: 6</p>
             <p>Participants: 3</p>
-            <p><a href=".../forum-archive/t/when-is-the-poker-site-open/725">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/when-is-the-poker-site-open/725">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/when-is-the-poker-site-open/725</link>
+          <link>../../forum-archive/t/when-is-the-poker-site-open/725</link>
           <pubDate>Tue, 26 Dec 2017 04:28:07 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-725</guid>
-          <source url=".../forum-archive/t/when-is-the-poker-site-open/725.rss">When is the poker site open?</source>
+          <source url="../../forum-archive/t/when-is-the-poker-site-open/725.rss">When is the poker site open?</source>
         </item>
         <item>
           <title>Is the xmas event over?</title>
           <dc:creator><![CDATA[@ssep092 ruin]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/ssep092">@ssep092</a> wrote:</p>
+            <p><a href="../../forum-archive/u/ssep092">@ssep092</a> wrote:</p>
             <blockquote>
               <p>Anything else?<br>
 I want to know if this is the end.</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/is-the-xmas-event-over/714">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/is-the-xmas-event-over/714">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/is-the-xmas-event-over/714</link>
+          <link>../../forum-archive/t/is-the-xmas-event-over/714</link>
           <pubDate>Tue, 26 Dec 2017 00:19:20 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-714</guid>
-          <source url=".../forum-archive/t/is-the-xmas-event-over/714.rss">Is the xmas event over?</source>
+          <source url="../../forum-archive/t/is-the-xmas-event-over/714.rss">Is the xmas event over?</source>
         </item>
         <item>
           <title>Is the poker xmas surprise or just bonus?</title>
           <dc:creator><![CDATA[@yOpqzVXmEVQN8au 신인태]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/yopqzvxmevqn8au">@yOpqzVXmEVQN8au</a> wrote:</p>
+            <p><a href="../../forum-archive/u/yopqzvxmevqn8au">@yOpqzVXmEVQN8au</a> wrote:</p>
             <blockquote>
               <p>i am curious about it. is that all or do i have to expect more?</p>
             </blockquote>
             <p>Posts: 9</p>
             <p>Participants: 6</p>
-            <p><a href=".../forum-archive/t/is-the-poker-xmas-surprise-or-just-bonus/710">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/is-the-poker-xmas-surprise-or-just-bonus/710">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/is-the-poker-xmas-surprise-or-just-bonus/710</link>
+          <link>../../forum-archive/t/is-the-poker-xmas-surprise-or-just-bonus/710</link>
           <pubDate>Mon, 25 Dec 2017 23:01:05 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-710</guid>
-          <source url=".../forum-archive/t/is-the-poker-xmas-surprise-or-just-bonus/710.rss">Is the poker xmas surprise or just bonus?</source>
+          <source url="../../forum-archive/t/is-the-poker-xmas-surprise-or-just-bonus/710.rss">Is the poker xmas surprise or just bonus?</source>
         </item>
   </channel>
 </rss>

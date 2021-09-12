@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Inflation of bitbay</title>
-    <link>..../forum-archive/t/inflation-of-bitbay/876</link>
+    <link>../../../forum-archive/t/inflation-of-bitbay/876</link>
     <description>hi, what is inflation? can anyone give strong explanation ?</description>
     
     <lastBuildDate>Wed, 03 Jan 2018 16:08:15 +0000</lastBuildDate>
     <category>Questions about BitBay</category>
-    <atom:link href="..../forum-archive/t/inflation-of-bitbay/876.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/inflation-of-bitbay/876.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Inflation of bitbay</title>
         <dc:creator><![CDATA[@Mantrack]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
           <blockquote>
               <p>Inflation is basically the rate of an augmentation/increasing.<br>
 For example, everything costs more money than 30 years ago, hence we call it the <em>inflation</em> of prices because everything costs x% more than 30 years ago.</p>
 <p>In cryptocurrency, inflation usually refers to the inflation of supply (the number of coins in circulation). In Bitbay, the inflation is set by the Proof of Stake 3.0 protocol. It is set to 1% yearly. Basically each year there are 1% of additional coins created, and these coins are rewarded to miners that stake their coins in order to secure the network.</p>
 <p>I hope it answered your question properly!</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/inflation-of-bitbay/876/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/inflation-of-bitbay/876/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/inflation-of-bitbay/876/2</link>
+        <link>../../../forum-archive/t/inflation-of-bitbay/876/2</link>
         <pubDate>Wed, 03 Jan 2018 16:08:15 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-876-2</guid>
-        <source url="..../forum-archive/t/inflation-of-bitbay/876.rss">Inflation of bitbay</source>
+        <source url="../../../forum-archive/t/inflation-of-bitbay/876.rss">Inflation of bitbay</source>
       </item>
       <item>
         <title>Inflation of bitbay</title>
         <dc:creator><![CDATA[@antropogen]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/antropogen">@antropogen</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/antropogen">@antropogen</a> wrote:</p>
           <blockquote>
               <p>hi, what is inflation? can anyone give strong explanation ?</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/inflation-of-bitbay/876/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/inflation-of-bitbay/876/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/inflation-of-bitbay/876/1</link>
+        <link>../../../forum-archive/t/inflation-of-bitbay/876/1</link>
         <pubDate>Wed, 03 Jan 2018 15:47:45 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-876-1</guid>
-        <source url="..../forum-archive/t/inflation-of-bitbay/876.rss">Inflation of bitbay</source>
+        <source url="../../../forum-archive/t/inflation-of-bitbay/876.rss">Inflation of bitbay</source>
       </item>
   </channel>
 </rss>

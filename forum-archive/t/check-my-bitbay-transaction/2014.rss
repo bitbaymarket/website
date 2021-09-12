@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Check my bitbay transaction</title>
-    <link>..../forum-archive/t/check-my-bitbay-transaction/2014</link>
+    <link>../../../forum-archive/t/check-my-bitbay-transaction/2014</link>
     <description>Hello admin,
 
 I transferred my bitbay coin from upbit (korea coin market) to my bitbay wallet which is window client wallet.
@@ -25,30 +25,30 @@ The problem I am having is ....</description>
     
     <lastBuildDate>Sun, 13 Oct 2019 13:19:04 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/check-my-bitbay-transaction/2014.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/check-my-bitbay-transaction/2014.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Check my bitbay transaction</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>Hi,</p>
 <p>It looks like your transaction did complete on chain. For the balance to show up in the BitBay client, the sync bar at the bottom must be at 100%. Can you please check and see what the sync status is?</p>
 <p>Thanks,<br>
 Matt</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/check-my-bitbay-transaction/2014/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/check-my-bitbay-transaction/2014/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/check-my-bitbay-transaction/2014/2</link>
+        <link>../../../forum-archive/t/check-my-bitbay-transaction/2014/2</link>
         <pubDate>Sun, 13 Oct 2019 13:19:04 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2014-2</guid>
-        <source url="..../forum-archive/t/check-my-bitbay-transaction/2014.rss">Check my bitbay transaction</source>
+        <source url="../../../forum-archive/t/check-my-bitbay-transaction/2014.rss">Check my bitbay transaction</source>
       </item>
       <item>
         <title>Check my bitbay transaction</title>
         <dc:creator><![CDATA[@hyogij hyogij]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/hyogij">@hyogij</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/hyogij">@hyogij</a> wrote:</p>
           <blockquote>
               <p>Hello admin,</p>
 <p>I transferred my bitbay coin from upbit (korea coin market) to my bitbay wallet which is window client wallet.<br>
@@ -63,12 +63,12 @@ If web wallet browser name and version:<br>
 If desktop wallet (Qt or Client) block # of your client and # of connections:</p>
 <p>The problem I am having is …</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/check-my-bitbay-transaction/2014/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/check-my-bitbay-transaction/2014/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/check-my-bitbay-transaction/2014/1</link>
+        <link>../../../forum-archive/t/check-my-bitbay-transaction/2014/1</link>
         <pubDate>Wed, 11 Sep 2019 07:29:44 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2014-1</guid>
-        <source url="..../forum-archive/t/check-my-bitbay-transaction/2014.rss">Check my bitbay transaction</source>
+        <source url="../../../forum-archive/t/check-my-bitbay-transaction/2014.rss">Check my bitbay transaction</source>
       </item>
   </channel>
 </rss>

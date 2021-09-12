@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Support - BitBay Community</title>
-    <link>.../forum-archive/c/support</link>
+    <link>../../forum-archive/c/support</link>
     <description>Topics in the &#39;Support&#39; category The support section is here to help you solve any issues you encounter while using Bitbay’s wallets.&lt;br&gt;
 To ensure efficient communication when you describe your problem, please provide the following informations:</description>
     
       <lastBuildDate>Fri, 28 Aug 2020 08:07:57 +0000</lastBuildDate>
-      <atom:link href=".../forum-archive/c/support.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="../../forum-archive/c/support.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>My coins still not recevied in Bay account of latoken since more 4 months</title>
           <dc:creator><![CDATA[@artlover josf]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/artlover">@artlover</a> wrote:</p>
+            <p><a href="../../forum-archive/u/artlover">@artlover</a> wrote:</p>
             <blockquote>
               <p>The problem I am having is …</p>
 <p>my coins still not recevied in Bay account of  latoken since more 4 months …</p>
@@ -33,22 +33,22 @@ TXID: a397379d5d378c53cf489a35832a9810f5a5253d1a522efdd196ee47a7e2766a</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/my-coins-still-not-recevied-in-bay-account-of-latoken-since-more-4-months/2580">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/my-coins-still-not-recevied-in-bay-account-of-latoken-since-more-4-months/2580">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/my-coins-still-not-recevied-in-bay-account-of-latoken-since-more-4-months/2580</link>
+          <link>../../forum-archive/t/my-coins-still-not-recevied-in-bay-account-of-latoken-since-more-4-months/2580</link>
           <pubDate>Fri, 28 Aug 2020 08:07:57 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2580</guid>
-          <source url=".../forum-archive/t/my-coins-still-not-recevied-in-bay-account-of-latoken-since-more-4-months/2580.rss">My coins still not recevied in Bay account of latoken since more 4 months</source>
+          <source url="../../forum-archive/t/my-coins-still-not-recevied-in-bay-account-of-latoken-since-more-4-months/2580.rss">My coins still not recevied in Bay account of latoken since more 4 months</source>
         </item>
         <item>
           <title>Qt wallet update</title>
           <dc:creator><![CDATA[@Richard88 riccardo santucci]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/richard88">@Richard88</a> wrote:</p>
+            <p><a href="../../forum-archive/u/richard88">@Richard88</a> wrote:</p>
             <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet, Client Wallet (and version) or Web wallet: Latest 64 bit QT Wallet<br>
@@ -61,22 +61,22 @@ If desktop wallet (Qt or Client) block # of your client and # of connections:</p
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/qt-wallet-update/2577">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/qt-wallet-update/2577">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/qt-wallet-update/2577</link>
+          <link>../../forum-archive/t/qt-wallet-update/2577</link>
           <pubDate>Thu, 27 Aug 2020 21:49:58 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2577</guid>
-          <source url=".../forum-archive/t/qt-wallet-update/2577.rss">Qt wallet update</source>
+          <source url="../../forum-archive/t/qt-wallet-update/2577.rss">Qt wallet update</source>
         </item>
         <item>
           <title>Contract and Wallet problem</title>
           <dc:creator><![CDATA[@cryptowarrior Crypto Warrior]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/cryptowarrior">@cryptowarrior</a> wrote:</p>
+            <p><a href="../../forum-archive/u/cryptowarrior">@cryptowarrior</a> wrote:</p>
             <blockquote>
               <p>My system has the following specifications</p>
 <p>Operating System and version: Windows 10<br>
@@ -88,64 +88,64 @@ However in “History” it show that the BAY for my contract are “reserved”
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/contract-and-wallet-problem/2535">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/contract-and-wallet-problem/2535">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/contract-and-wallet-problem/2535</link>
+          <link>../../forum-archive/t/contract-and-wallet-problem/2535</link>
           <pubDate>Thu, 23 Jul 2020 06:40:52 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2535</guid>
-          <source url=".../forum-archive/t/contract-and-wallet-problem/2535.rss">Contract and Wallet problem</source>
+          <source url="../../forum-archive/t/contract-and-wallet-problem/2535.rss">Contract and Wallet problem</source>
         </item>
         <item>
           <title>LAToken is DESTROYING the liquidity of BAY (VERY IMPORTANT!)</title>
           <dc:creator><![CDATA[@oaktree ace]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/oaktree">@oaktree</a> wrote:</p>
+            <p><a href="../../forum-archive/u/oaktree">@oaktree</a> wrote:</p>
             <blockquote>
               <p>When my liquid BAY is being sent to LAToken it is either immediately converted back into BAYR (poof and its gone) or is converted into BAYR as soon as it is transferred from Wallet to Spot. The BAY team needs to communicate to them that the BAY deposits need to be segregated so that there is sufficient liquidity in the BAY market, otherwise BAY is likely to be delisted from our only exchange listing!</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/latoken-is-destroying-the-liquidity-of-bay-very-important/2510">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/latoken-is-destroying-the-liquidity-of-bay-very-important/2510">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/latoken-is-destroying-the-liquidity-of-bay-very-important/2510</link>
+          <link>../../forum-archive/t/latoken-is-destroying-the-liquidity-of-bay-very-important/2510</link>
           <pubDate>Fri, 03 Jul 2020 11:39:55 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2510</guid>
-          <source url=".../forum-archive/t/latoken-is-destroying-the-liquidity-of-bay-very-important/2510.rss">LAToken is DESTROYING the liquidity of BAY (VERY IMPORTANT!)</source>
+          <source url="../../forum-archive/t/latoken-is-destroying-the-liquidity-of-bay-very-important/2510.rss">LAToken is DESTROYING the liquidity of BAY (VERY IMPORTANT!)</source>
         </item>
         <item>
           <title>Monitoring when BAY is available</title>
           <dc:creator><![CDATA[@oaktree ace]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/oaktree">@oaktree</a> wrote:</p>
+            <p><a href="../../forum-archive/u/oaktree">@oaktree</a> wrote:</p>
             <blockquote>
               <p>Is there a countdown clock webpage monitoring when and what percentage of coins are being made liquid next so that we users can trade the liquid BAY?</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/monitoring-when-bay-is-available/2508">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/monitoring-when-bay-is-available/2508">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/monitoring-when-bay-is-available/2508</link>
+          <link>../../forum-archive/t/monitoring-when-bay-is-available/2508</link>
           <pubDate>Thu, 02 Jul 2020 18:43:13 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2508</guid>
-          <source url=".../forum-archive/t/monitoring-when-bay-is-available/2508.rss">Monitoring when BAY is available</source>
+          <source url="../../forum-archive/t/monitoring-when-bay-is-available/2508.rss">Monitoring when BAY is available</source>
         </item>
         <item>
           <title>Sync my QT wallet</title>
           <dc:creator><![CDATA[@kriptojon]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/kriptojon">@kriptojon</a> wrote:</p>
+            <p><a href="../../forum-archive/u/kriptojon">@kriptojon</a> wrote:</p>
             <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet, Client Wallet (and version) or Web wallet: QT Wallet<br>
@@ -156,22 +156,22 @@ If desktop wallet (Qt or Client) block # of your client and # of connections:</p
             </blockquote>
             <p>Posts: 4</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/sync-my-qt-wallet/2486">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/sync-my-qt-wallet/2486">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/sync-my-qt-wallet/2486</link>
+          <link>../../forum-archive/t/sync-my-qt-wallet/2486</link>
           <pubDate>Mon, 15 Jun 2020 12:40:16 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2486</guid>
-          <source url=".../forum-archive/t/sync-my-qt-wallet/2486.rss">Sync my QT wallet</source>
+          <source url="../../forum-archive/t/sync-my-qt-wallet/2486.rss">Sync my QT wallet</source>
         </item>
         <item>
           <title>Client wallet won&#39;t allow me to access my &quot;Actual Balance&quot;</title>
           <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+            <p><a href="../../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
             <blockquote>
               <p>My system has the following specifications</p>
 <p>Client Wallet: downloaded this week<br>
@@ -182,22 +182,22 @@ If desktop wallet (Qt or Client) block # of your client and # of connections: 26
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/client-wallet-wont-allow-me-to-access-my-actual-balance/2483">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/client-wallet-wont-allow-me-to-access-my-actual-balance/2483">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/client-wallet-wont-allow-me-to-access-my-actual-balance/2483</link>
+          <link>../../forum-archive/t/client-wallet-wont-allow-me-to-access-my-actual-balance/2483</link>
           <pubDate>Sun, 14 Jun 2020 04:25:33 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2483</guid>
-          <source url=".../forum-archive/t/client-wallet-wont-allow-me-to-access-my-actual-balance/2483.rss">Client wallet won&#39;t allow me to access my &quot;Actual Balance&quot;</source>
+          <source url="../../forum-archive/t/client-wallet-wont-allow-me-to-access-my-actual-balance/2483.rss">Client wallet won&#39;t allow me to access my &quot;Actual Balance&quot;</source>
         </item>
         <item>
           <title>How do you actually sell your BAY?</title>
           <dc:creator><![CDATA[@proteanman Protean Man]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
+            <p><a href="../../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
             <blockquote>
               <p>The experience I have with BAY is frustration and annoyance. Our money is locked in the BAYR format and waiting for the community to vote to inflate is futile given the time it takes to actually transfer all of your BAYR into BAY.</p>
 <p>I know this may seem a little redundant but I am trying to grasp the reality of what is happening with BAY right now. The PEG system is a lovely idea and the price of BAY has gone up in a wonderful way, yet I am unable to sell anything and be rewarded for holding BAY. I think the PEG system only works with millions of active people voting, not the current state of BAY.</p>
@@ -209,22 +209,22 @@ When I came back I found some hurdles to overcome with the RESERVE SYSTEM (BAYR)
             </blockquote>
             <p>Posts: 14</p>
             <p>Participants: 5</p>
-            <p><a href=".../forum-archive/t/how-do-you-actually-sell-your-bay/2481">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-do-you-actually-sell-your-bay/2481">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-do-you-actually-sell-your-bay/2481</link>
+          <link>../../forum-archive/t/how-do-you-actually-sell-your-bay/2481</link>
           <pubDate>Sat, 13 Jun 2020 20:52:06 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2481</guid>
-          <source url=".../forum-archive/t/how-do-you-actually-sell-your-bay/2481.rss">How do you actually sell your BAY?</source>
+          <source url="../../forum-archive/t/how-do-you-actually-sell-your-bay/2481.rss">How do you actually sell your BAY?</source>
         </item>
         <item>
           <title>Cannot Spend &#39;SPENDABLE&#39; balance</title>
           <dc:creator><![CDATA[@oaktree ace]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/oaktree">@oaktree</a> wrote:</p>
+            <p><a href="../../forum-archive/u/oaktree">@oaktree</a> wrote:</p>
             <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet, Client Wallet (and version) or Web wallet:3.0.2<br>
@@ -237,22 +237,22 @@ desktop wallet (Qt or Client) block # 2632717 and <span class="hashtag">#43</spa
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/cannot-spend-spendable-balance/2477">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/cannot-spend-spendable-balance/2477">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/cannot-spend-spendable-balance/2477</link>
+          <link>../../forum-archive/t/cannot-spend-spendable-balance/2477</link>
           <pubDate>Fri, 12 Jun 2020 18:21:55 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2477</guid>
-          <source url=".../forum-archive/t/cannot-spend-spendable-balance/2477.rss">Cannot Spend &#39;SPENDABLE&#39; balance</source>
+          <source url="../../forum-archive/t/cannot-spend-spendable-balance/2477.rss">Cannot Spend &#39;SPENDABLE&#39; balance</source>
         </item>
         <item>
           <title>Missing transaction</title>
           <dc:creator><![CDATA[@dentawise Michael]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/dentawise">@dentawise</a> wrote:</p>
+            <p><a href="../../forum-archive/u/dentawise">@dentawise</a> wrote:</p>
             <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet v2.0.0.1-g32a928e<br>
@@ -265,22 +265,22 @@ If web wallet browser name and version: Chrome</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/missing-transaction/2476">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/missing-transaction/2476">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/missing-transaction/2476</link>
+          <link>../../forum-archive/t/missing-transaction/2476</link>
           <pubDate>Fri, 12 Jun 2020 08:36:33 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2476</guid>
-          <source url=".../forum-archive/t/missing-transaction/2476.rss">Missing transaction</source>
+          <source url="../../forum-archive/t/missing-transaction/2476.rss">Missing transaction</source>
         </item>
         <item>
           <title>Transaction STUCK</title>
           <dc:creator><![CDATA[@voidindex voidindex]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
+            <p><a href="../../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
             <blockquote>
               <p>I made a transaction from my wallet to latoken … it is pending but i am waiting for weeks now:</p>
 <p>Status: 21100 confirmations<br>
@@ -295,22 +295,22 @@ Transaction ID: f0b4d48033bbd95f0e21abf2478dc118fb49068d6e187e9bd5283ccd6323abd2
             </blockquote>
             <p>Posts: 6</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/transaction-stuck/2472">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/transaction-stuck/2472">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/transaction-stuck/2472</link>
+          <link>../../forum-archive/t/transaction-stuck/2472</link>
           <pubDate>Wed, 10 Jun 2020 16:25:27 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2472</guid>
-          <source url=".../forum-archive/t/transaction-stuck/2472.rss">Transaction STUCK</source>
+          <source url="../../forum-archive/t/transaction-stuck/2472.rss">Transaction STUCK</source>
         </item>
         <item>
           <title>Balance available is still less than 1%</title>
           <dc:creator><![CDATA[@Pisscat101 Simon]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/pisscat101">@Pisscat101</a> wrote:</p>
+            <p><a href="../../forum-archive/u/pisscat101">@Pisscat101</a> wrote:</p>
             <blockquote>
               <p>Hi Guys,</p>
 <p>Just a bit worried that there is something wrong with my wallet. I understand the new system but thought I would have a larger percentage available. My wallet is fully synchronised and on the correct chain and I am running the market wallet. Out 0f 83000 coins I can only spend 11, is this right? How long until I will be able to spend more?</p>
@@ -319,22 +319,22 @@ Transaction ID: f0b4d48033bbd95f0e21abf2478dc118fb49068d6e187e9bd5283ccd6323abd2
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/balance-available-is-still-less-than-1/2470">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/balance-available-is-still-less-than-1/2470">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/balance-available-is-still-less-than-1/2470</link>
+          <link>../../forum-archive/t/balance-available-is-still-less-than-1/2470</link>
           <pubDate>Tue, 09 Jun 2020 07:52:59 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2470</guid>
-          <source url=".../forum-archive/t/balance-available-is-still-less-than-1/2470.rss">Balance available is still less than 1%</source>
+          <source url="../../forum-archive/t/balance-available-is-still-less-than-1/2470.rss">Balance available is still less than 1%</source>
         </item>
         <item>
           <title>Cannot send &#39;SPENDABLE&#39; balance (NOT RESOLVED since June 5th)</title>
           <dc:creator><![CDATA[@oaktree ace]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/oaktree">@oaktree</a> wrote:</p>
+            <p><a href="../../forum-archive/u/oaktree">@oaktree</a> wrote:</p>
             <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet, Client Wallet (and version) or Web wallet:3.0.2<br>
@@ -346,43 +346,43 @@ desktop wallet (Qt or Client) block # 2632717 and <span class="hashtag">#43</spa
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/cannot-send-spendable-balance-not-resolved-since-june-5th/2463">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/cannot-send-spendable-balance-not-resolved-since-june-5th/2463">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/cannot-send-spendable-balance-not-resolved-since-june-5th/2463</link>
+          <link>../../forum-archive/t/cannot-send-spendable-balance-not-resolved-since-june-5th/2463</link>
           <pubDate>Fri, 05 Jun 2020 10:13:01 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2463</guid>
-          <source url=".../forum-archive/t/cannot-send-spendable-balance-not-resolved-since-june-5th/2463.rss">Cannot send &#39;SPENDABLE&#39; balance (NOT RESOLVED since June 5th)</source>
+          <source url="../../forum-archive/t/cannot-send-spendable-balance-not-resolved-since-june-5th/2463.rss">Cannot send &#39;SPENDABLE&#39; balance (NOT RESOLVED since June 5th)</source>
         </item>
         <item>
           <title>Mobile Wallet - balance not available</title>
           <dc:creator><![CDATA[@GroundFrost Adam Coleman]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/groundfrost">@GroundFrost</a> wrote:</p>
+            <p><a href="../../forum-archive/u/groundfrost">@GroundFrost</a> wrote:</p>
             <blockquote>
               <p>Hi guys, I left my Bay in the mobile wallet during the dynamic peg update. When I load the wallet I am getting an error message saying NaN where the funds should be. Are the funds SAFU? How do I recover the balance and do I need to do anything to update the coins or migrate to the new chain?</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/mobile-wallet-balance-not-available/2458">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/mobile-wallet-balance-not-available/2458">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/mobile-wallet-balance-not-available/2458</link>
+          <link>../../forum-archive/t/mobile-wallet-balance-not-available/2458</link>
           <pubDate>Wed, 03 Jun 2020 10:46:54 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2458</guid>
-          <source url=".../forum-archive/t/mobile-wallet-balance-not-available/2458.rss">Mobile Wallet - balance not available</source>
+          <source url="../../forum-archive/t/mobile-wallet-balance-not-available/2458.rss">Mobile Wallet - balance not available</source>
         </item>
         <item>
           <title>No coins in Android Mobile wallet</title>
           <dc:creator><![CDATA[@curve]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/curve">@curve</a> wrote:</p>
+            <p><a href="../../forum-archive/u/curve">@curve</a> wrote:</p>
             <blockquote>
               <p>Hi.<br>
 I logged into my Android mobile wallet for the first time for a while. No coins are showing up. Is there an easy fix?</p>
@@ -390,22 +390,22 @@ I logged into my Android mobile wallet for the first time for a while. No coins 
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/no-coins-in-android-mobile-wallet/2455">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/no-coins-in-android-mobile-wallet/2455">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/no-coins-in-android-mobile-wallet/2455</link>
+          <link>../../forum-archive/t/no-coins-in-android-mobile-wallet/2455</link>
           <pubDate>Tue, 02 Jun 2020 14:23:29 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2455</guid>
-          <source url=".../forum-archive/t/no-coins-in-android-mobile-wallet/2455.rss">No coins in Android Mobile wallet</source>
+          <source url="../../forum-archive/t/no-coins-in-android-mobile-wallet/2455.rss">No coins in Android Mobile wallet</source>
         </item>
         <item>
           <title>I have not received coins on QT Wallet</title>
           <dc:creator><![CDATA[@kriptojon]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/kriptojon">@kriptojon</a> wrote:</p>
+            <p><a href="../../forum-archive/u/kriptojon">@kriptojon</a> wrote:</p>
             <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet, Client Wallet (and version) or Web wallet: QT Wallet<br>
@@ -416,22 +416,22 @@ If desktop wallet (Qt or Client) block # of your client and # of connections:</p
             </blockquote>
             <p>Posts: 11</p>
             <p>Participants: 3</p>
-            <p><a href=".../forum-archive/t/i-have-not-received-coins-on-qt-wallet/2449">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/i-have-not-received-coins-on-qt-wallet/2449">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/i-have-not-received-coins-on-qt-wallet/2449</link>
+          <link>../../forum-archive/t/i-have-not-received-coins-on-qt-wallet/2449</link>
           <pubDate>Sat, 30 May 2020 15:51:34 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2449</guid>
-          <source url=".../forum-archive/t/i-have-not-received-coins-on-qt-wallet/2449.rss">I have not received coins on QT Wallet</source>
+          <source url="../../forum-archive/t/i-have-not-received-coins-on-qt-wallet/2449.rss">I have not received coins on QT Wallet</source>
         </item>
         <item>
           <title>Can&#39;t load keys into client wallet</title>
           <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+            <p><a href="../../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
             <blockquote>
               <p>I’ve just downloaded and synced my client wallet. I’m now trying to load my keys into the Client wallet but I’m getting the following error message. “You cannot pair two keys with the same file name”. Can someone help please?</p>
 <p>How can I load my keys? Thank you!</p>
@@ -448,44 +448,44 @@ Client</li>
             </blockquote>
             <p>Posts: 22</p>
             <p>Participants: 3</p>
-            <p><a href=".../forum-archive/t/cant-load-keys-into-client-wallet/2445">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/cant-load-keys-into-client-wallet/2445">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/cant-load-keys-into-client-wallet/2445</link>
+          <link>../../forum-archive/t/cant-load-keys-into-client-wallet/2445</link>
           <pubDate>Wed, 27 May 2020 10:45:31 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2445</guid>
-          <source url=".../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+          <source url="../../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
         </item>
         <item>
           <title>Confusion on sending BAY amounts</title>
           <dc:creator><![CDATA[@Snoopy]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/snoopy">@Snoopy</a> wrote:</p>
+            <p><a href="../../forum-archive/u/snoopy">@Snoopy</a> wrote:</p>
             <blockquote>
               <p>Hi all, tried sending some BAY tokens and noticed a difference in the sending amount and a change amount from the change address (see below). Could someone please explain why the charge amount is different from the sending amount with fees?</p>
-<p><img src=".../forum-archive/uploads/default/original/1X/7d3333d0c6f599748b5261be146c9c0fbe1ad30b.png" alt="image" width="381" height="326"></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/7d3333d0c6f599748b5261be146c9c0fbe1ad30b.png" alt="image" width="381" height="326"></p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/confusion-on-sending-bay-amounts/2444">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/confusion-on-sending-bay-amounts/2444">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/confusion-on-sending-bay-amounts/2444</link>
+          <link>../../forum-archive/t/confusion-on-sending-bay-amounts/2444</link>
           <pubDate>Wed, 27 May 2020 03:52:52 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2444</guid>
-          <source url=".../forum-archive/t/confusion-on-sending-bay-amounts/2444.rss">Confusion on sending BAY amounts</source>
+          <source url="../../forum-archive/t/confusion-on-sending-bay-amounts/2444.rss">Confusion on sending BAY amounts</source>
         </item>
         <item>
           <title>Transaction does not get confirmed</title>
           <dc:creator><![CDATA[@voidindex voidindex]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
+            <p><a href="../../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
             <blockquote>
               <p>I made a transaction from my wallet to latoken … it is pending but i am waiting for 2 days now:</p>
 <p>Status: 1406 confirmations, broadcast through 6 nodes<br>
@@ -500,22 +500,22 @@ Transaction ID: f0b4d48033bbd95f0e21abf2478dc118fb49068d6e187e9bd5283ccd6323abd2
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/transaction-does-not-get-confirmed/2441">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/transaction-does-not-get-confirmed/2441">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/transaction-does-not-get-confirmed/2441</link>
+          <link>../../forum-archive/t/transaction-does-not-get-confirmed/2441</link>
           <pubDate>Tue, 26 May 2020 09:52:07 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2441</guid>
-          <source url=".../forum-archive/t/transaction-does-not-get-confirmed/2441.rss">Transaction does not get confirmed</source>
+          <source url="../../forum-archive/t/transaction-does-not-get-confirmed/2441.rss">Transaction does not get confirmed</source>
         </item>
         <item>
           <title>Error Loading Block Database</title>
           <dc:creator><![CDATA[@Joseph Joseph]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/joseph">@Joseph</a> wrote:</p>
+            <p><a href="../../forum-archive/u/joseph">@Joseph</a> wrote:</p>
             <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet 3.0.2.0<br>
@@ -527,22 +527,22 @@ Now when I launch the QT Wallet, it starts by loading the index block, then I ha
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/error-loading-block-database/2440">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/error-loading-block-database/2440">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/error-loading-block-database/2440</link>
+          <link>../../forum-archive/t/error-loading-block-database/2440</link>
           <pubDate>Tue, 26 May 2020 07:52:35 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2440</guid>
-          <source url=".../forum-archive/t/error-loading-block-database/2440.rss">Error Loading Block Database</source>
+          <source url="../../forum-archive/t/error-loading-block-database/2440.rss">Error Loading Block Database</source>
         </item>
         <item>
           <title>Conflicted Transaction</title>
           <dc:creator><![CDATA[@voidindex voidindex]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
+            <p><a href="../../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
             <blockquote>
               <p>I wanted to send my BAY to an exchange but the transaction got conflicted and did not went through. Now all my spendable BAY were transformed to “reserve” BAYR … how do I get my BAY to an exchange now?</p>
 <p>Transaction ID: b603a0eaadf8b7e157680eb9452fcb317b10984d540d639b876dd4996f1cbe36</p>
@@ -552,85 +552,85 @@ Now when I launch the QT Wallet, it starts by loading the index block, then I ha
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/conflicted-transaction/2437">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/conflicted-transaction/2437">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/conflicted-transaction/2437</link>
+          <link>../../forum-archive/t/conflicted-transaction/2437</link>
           <pubDate>Sun, 24 May 2020 08:44:05 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2437</guid>
-          <source url=".../forum-archive/t/conflicted-transaction/2437.rss">Conflicted Transaction</source>
+          <source url="../../forum-archive/t/conflicted-transaction/2437.rss">Conflicted Transaction</source>
         </item>
         <item>
           <title>Can I recover my wallet wih only key1.private and key1.share?</title>
           <dc:creator><![CDATA[@Joseph Joseph]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/joseph">@Joseph</a> wrote:</p>
+            <p><a href="../../forum-archive/u/joseph">@Joseph</a> wrote:</p>
             <blockquote>
               <p>Hi everybody,</p>
 <p>All I have now from my bitbay wallet is a backup from 30/08/2019 with files : key1.private, key1.share, key2.private, key2.share and ContractsBackup.dat.</p>
 <p>I tried to install the new wallet but don’t see any way to recover ?</p>
 <p>Is there a way to restore my wallet with that. I tried an importprivkey in the console with the private key I find in Key1.private, but the key is not recognised.</p>
-<p><img src=".../forum-archive/uploads/default/original/1X/e5c737322e8b49b5fabdfdc8f5045a1046b1bff3.jpeg" alt="BitBayForumQuestion" width="600" height="149"></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/e5c737322e8b49b5fabdfdc8f5045a1046b1bff3.jpeg" alt="BitBayForumQuestion" width="600" height="149"></p>
 <p>Any way I can recover?<br>
 Any help welcome.<br>
 Thanks.</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/can-i-recover-my-wallet-wih-only-key1-private-and-key1-share/2433">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/can-i-recover-my-wallet-wih-only-key1-private-and-key1-share/2433">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/can-i-recover-my-wallet-wih-only-key1-private-and-key1-share/2433</link>
+          <link>../../forum-archive/t/can-i-recover-my-wallet-wih-only-key1-private-and-key1-share/2433</link>
           <pubDate>Fri, 22 May 2020 13:07:49 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2433</guid>
-          <source url=".../forum-archive/t/can-i-recover-my-wallet-wih-only-key1-private-and-key1-share/2433.rss">Can I recover my wallet wih only key1.private and key1.share?</source>
+          <source url="../../forum-archive/t/can-i-recover-my-wallet-wih-only-key1-private-and-key1-share/2433.rss">Can I recover my wallet wih only key1.private and key1.share?</source>
         </item>
         <item>
           <title>Can&#39;t See BAY in my QT Wallet</title>
           <dc:creator><![CDATA[@LEEJIHOON]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/leejihoon">@LEEJIHOON</a> wrote:</p>
+            <p><a href="../../forum-archive/u/leejihoon">@LEEJIHOON</a> wrote:</p>
             <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet, Client Wallet (and version) or Web wallet: 3.0.2b<br>
 Operating System and version: Windows 10</p>
 <p>I did it</p>
 <ol>
-<li><a href=".../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-peg-enabled-qt-wallet/2249">How to import your BitBay Web Wallet private key into the peg-enabled QT wallet</a></li>
-<li><a href=".../forum-archive/t/how-to-rescan-within-the-bitbay-qt-wallet-pc/2327">How to rescan within the BitBay QT Wallet (PC)</a></li>
+<li><a href="../../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-peg-enabled-qt-wallet/2249">How to import your BitBay Web Wallet private key into the peg-enabled QT wallet</a></li>
+<li><a href="../../forum-archive/t/how-to-rescan-within-the-bitbay-qt-wallet-pc/2327">How to rescan within the BitBay QT Wallet (PC)</a></li>
 </ol>
 <p>I imported a private key from following the instructions(1.) and it imports successfully. But I can’t see my funds in QT Wallet.</p>
 <p>I also upload my QT wallet capture.</p>
 <p>What do I have to do?</p>
 <p>(오래된 means old)</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/6c3f9e0dff0d41645c5f693fba462fd8e9bf2f32.png" data-download-href=".../forum-archive/uploads/default/6c3f9e0dff0d41645c5f693fba462fd8e9bf2f32" title="bitbay.PNG"><img src=".../forum-archive/uploads/default/original/1X/6c3f9e0dff0d41645c5f693fba462fd8e9bf2f32.png" alt="bitbay" width="690" height="262"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/6c3f9e0dff0d41645c5f693fba462fd8e9bf2f32.png" data-download-href="../../forum-archive/uploads/default/6c3f9e0dff0d41645c5f693fba462fd8e9bf2f32" title="bitbay.PNG"><img src="../../forum-archive/uploads/default/original/1X/6c3f9e0dff0d41645c5f693fba462fd8e9bf2f32.png" alt="bitbay" width="690" height="262"><div class="meta">
 <span class="filename">bitbay.PNG</span><span class="informations">790x301 4.61 KB</span><span class="expand"></span>
 </div></a></div></p>
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/cant-see-bay-in-my-qt-wallet/2415">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/cant-see-bay-in-my-qt-wallet/2415">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/cant-see-bay-in-my-qt-wallet/2415</link>
+          <link>../../forum-archive/t/cant-see-bay-in-my-qt-wallet/2415</link>
           <pubDate>Wed, 13 May 2020 11:55:27 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2415</guid>
-          <source url=".../forum-archive/t/cant-see-bay-in-my-qt-wallet/2415.rss">Can&#39;t See BAY in my QT Wallet</source>
+          <source url="../../forum-archive/t/cant-see-bay-in-my-qt-wallet/2415.rss">Can&#39;t See BAY in my QT Wallet</source>
         </item>
         <item>
           <title>Why have BitBay price charts and info disappeared from CoinmMarketCap in the past week?</title>
           <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+            <p><a href="../../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
             <blockquote>
               <p>What’s happening?<br>
 Are BitBay still operational?<br>
@@ -638,22 +638,22 @@ Is trading still possible?</p>
             </blockquote>
             <p>Posts: 5</p>
             <p>Participants: 4</p>
-            <p><a href=".../forum-archive/t/why-have-bitbay-price-charts-and-info-disappeared-from-coinmmarketcap-in-the-past-week/2389">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/why-have-bitbay-price-charts-and-info-disappeared-from-coinmmarketcap-in-the-past-week/2389">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/why-have-bitbay-price-charts-and-info-disappeared-from-coinmmarketcap-in-the-past-week/2389</link>
+          <link>../../forum-archive/t/why-have-bitbay-price-charts-and-info-disappeared-from-coinmmarketcap-in-the-past-week/2389</link>
           <pubDate>Thu, 23 Apr 2020 04:33:52 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2389</guid>
-          <source url=".../forum-archive/t/why-have-bitbay-price-charts-and-info-disappeared-from-coinmmarketcap-in-the-past-week/2389.rss">Why have BitBay price charts and info disappeared from CoinmMarketCap in the past week?</source>
+          <source url="../../forum-archive/t/why-have-bitbay-price-charts-and-info-disappeared-from-coinmmarketcap-in-the-past-week/2389.rss">Why have BitBay price charts and info disappeared from CoinmMarketCap in the past week?</source>
         </item>
         <item>
           <title>Are you sure you sent it on the correct side of the chain?</title>
           <dc:creator><![CDATA[@pranilb Pranil Bilimoria]]></dc:creator>
           <category>Support</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/pranilb">@pranilb</a> wrote:</p>
+            <p><a href="../../forum-archive/u/pranilb">@pranilb</a> wrote:</p>
             <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet, Client Wallet (and version) or Web wallet: BitBay version v2.1.1.0-g32a928e<br>
@@ -676,15 +676,15 @@ Could you please check on which block is your transaction, and see with BAY team
             </blockquote>
             <p>Posts: 8</p>
             <p>Participants: 3</p>
-            <p><a href=".../forum-archive/t/are-you-sure-you-sent-it-on-the-correct-side-of-the-chain/2386">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/are-you-sure-you-sent-it-on-the-correct-side-of-the-chain/2386">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/are-you-sure-you-sent-it-on-the-correct-side-of-the-chain/2386</link>
+          <link>../../forum-archive/t/are-you-sure-you-sent-it-on-the-correct-side-of-the-chain/2386</link>
           <pubDate>Tue, 21 Apr 2020 07:46:12 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2386</guid>
-          <source url=".../forum-archive/t/are-you-sure-you-sent-it-on-the-correct-side-of-the-chain/2386.rss">Are you sure you sent it on the correct side of the chain?</source>
+          <source url="../../forum-archive/t/are-you-sure-you-sent-it-on-the-correct-side-of-the-chain/2386.rss">Are you sure you sent it on the correct side of the chain?</source>
         </item>
   </channel>
 </rss>

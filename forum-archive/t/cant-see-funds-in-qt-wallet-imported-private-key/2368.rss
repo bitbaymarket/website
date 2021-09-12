@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Can&#39;t See Funds in QT Wallet - Imported Private Key</title>
-    <link>..../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368</link>
+    <link>../../../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368</link>
     <description>QT Wallet is up to date with current version/block
 
 When I imported a private key from the webwallet following the instructions on the webwallet link it imports successfully. Yet I see no funds in QT. 
@@ -16,48 +16,48 @@ Or what else is happening after a successful import of a private key?</descripti
     
     <lastBuildDate>Mon, 13 Apr 2020 19:18:39 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Can&#39;t See Funds in QT Wallet - Imported Private Key</title>
         <dc:creator><![CDATA[@proteanman Protean Man]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
           <blockquote>
               <p>It is syncronized.</p>
 <p>I received help from another forum post with instructions about how to rescan the QT wallet.</p>
 <p>When importing a private key the wallet doesn’t include that new key in it’s balance output for some reason. So you have to: (windows) make a shortcut of the QT Wallet Start Icon, go to properties of the shortcut, under “Target” go to the end of whatever it says there and add this " -rescan", with a space between the last thing in the target and the -rescan.<br>
 Then QT will rescan all keys it has and the new private key imported shows up in balances.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368/3</link>
+        <link>../../../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368/3</link>
         <pubDate>Mon, 13 Apr 2020 19:18:39 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2368-3</guid>
-        <source url="..../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368.rss">Can&#39;t See Funds in QT Wallet - Imported Private Key</source>
+        <source url="../../../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368.rss">Can&#39;t See Funds in QT Wallet - Imported Private Key</source>
       </item>
       <item>
         <title>Can&#39;t See Funds in QT Wallet - Imported Private Key</title>
         <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
           <blockquote>
               <p>Is your wallet synchronized to the latest block?</p>
 <p>Funds typically won’t show until the entire blockchain is downloaded</p>
 <p>You can enter your receiver address into a blockexplorer and see your funds, while you wait for the Qt wallet to finish synchronizing<br>
 <a href="https://chainz.cryptoid.info/bay/" class="onebox" target="_blank" rel="nofollow noopener">https://chainz.cryptoid.info/bay/</a></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368/2</link>
+        <link>../../../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368/2</link>
         <pubDate>Mon, 13 Apr 2020 11:19:07 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2368-2</guid>
-        <source url="..../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368.rss">Can&#39;t See Funds in QT Wallet - Imported Private Key</source>
+        <source url="../../../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368.rss">Can&#39;t See Funds in QT Wallet - Imported Private Key</source>
       </item>
       <item>
         <title>Can&#39;t See Funds in QT Wallet - Imported Private Key</title>
         <dc:creator><![CDATA[@proteanman Protean Man]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
           <blockquote>
               <p>QT Wallet is up to date with current version/block</p>
 <p>When I imported a private key from the webwallet following the instructions on the webwallet link it imports successfully. Yet I see no funds in QT.</p>
@@ -67,12 +67,12 @@ Is it possible that QT is set to a different address so that is why the funds ar
 —&gt;How would I change the selected wallet in QT if that is the case? I can’t seem to find that anywhere.<br>
 Or what else is happening after a successful import of a private key?</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368/1</link>
+        <link>../../../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368/1</link>
         <pubDate>Sat, 11 Apr 2020 21:12:49 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2368-1</guid>
-        <source url="..../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368.rss">Can&#39;t See Funds in QT Wallet - Imported Private Key</source>
+        <source url="../../../forum-archive/t/cant-see-funds-in-qt-wallet-imported-private-key/2368.rss">Can&#39;t See Funds in QT Wallet - Imported Private Key</source>
       </item>
   </channel>
 </rss>

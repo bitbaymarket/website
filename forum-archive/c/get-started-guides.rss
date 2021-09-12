@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Get Started Guides - BitBay Community</title>
-    <link>.../forum-archive/c/get-started-guides</link>
+    <link>../../forum-archive/c/get-started-guides</link>
     <description>Topics in the &#39;Get Started Guides&#39; category </description>
     
       <lastBuildDate>Wed, 29 Nov 2017 09:25:53 +0000</lastBuildDate>
-      <atom:link href=".../forum-archive/c/get-started-guides.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="../../forum-archive/c/get-started-guides.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>Staking and Synchronizing</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <h2>1) How do I know if my Client is synchronized to the blockchain?</h2>
 <p>At the bottom of the Home tab or the History tab is a synchronization status bar. If it’s at 100% then you are fully synchronized. You cannot perform transactions until you are fully synchronized. You will not see deposits to your Client until you are fully synchronized.<br>
@@ -63,22 +63,22 @@ This webpage how many coins are currently staking. Typically the amount of coins
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/staking-and-synchronizing/35">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/staking-and-synchronizing/35">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/staking-and-synchronizing/35</link>
+          <link>../../forum-archive/t/staking-and-synchronizing/35</link>
           <pubDate>Wed, 29 Nov 2017 09:25:53 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-35</guid>
-          <source url=".../forum-archive/t/staking-and-synchronizing/35.rss">Staking and Synchronizing</source>
+          <source url="../../forum-archive/t/staking-and-synchronizing/35.rss">Staking and Synchronizing</source>
         </item>
         <item>
           <title>Client and Wallet Troubleshooting</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <h2>1) Why won’t the BAY client open properly on my Macbook?</h2>
 <p>When using a Macbook, BAY operates in WINE rather than as a typical mac program. This results in some issues, as a Mac user myself I have found that BAY will not work properly without “Control Clicking” and then clicking Open. Despite the fact I am using my administrator account, I have found this is the only way to get BAY to work 100%. Don’t worry though, we will address this issue in due time! Also remember to use Control + V for paste instead of Command + V for paste in WINE, it took me a few minutes to realize this myself.<br>
@@ -134,22 +134,22 @@ solid performance: 4 – 8 GB. Also refer to the FAQ above and create/update you
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/client-and-wallet-troubleshooting/37">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/client-and-wallet-troubleshooting/37">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/client-and-wallet-troubleshooting/37</link>
+          <link>../../forum-archive/t/client-and-wallet-troubleshooting/37</link>
           <pubDate>Wed, 29 Nov 2017 10:26:41 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-37</guid>
-          <source url=".../forum-archive/t/client-and-wallet-troubleshooting/37.rss">Client and Wallet Troubleshooting</source>
+          <source url="../../forum-archive/t/client-and-wallet-troubleshooting/37.rss">Client and Wallet Troubleshooting</source>
         </item>
         <item>
           <title>Getting Started with the Client</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <h3>1. Download the software</h3>
 <p>We recommend you download the BitBay Client which provides a wealth of features. As well as sending, storing and staking $Bay, the client has a wealth of other features including the BitBay decentralized marketplace.</p>
@@ -208,7 +208,7 @@ solid performance: 4 – 8 GB. Also refer to the FAQ above and create/update you
 <p>We recommend you enable both unless you have a reason to not do so. You can create an email address that you only use for the Bitbay Market if you like. You also need email enabled if you want to use Pay to Mail.</p>
 <h4>Bitmessage</h4>
 <p>To enable Bitmessage you only have to tick off the box. Your address will be generated by the software.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/cb6e41a1ba98ad592f400a03cf67023af9131920.png" data-download-href=".../forum-archive/uploads/default/cb6e41a1ba98ad592f400a03cf67023af9131920" title="bitmessage.png"><img src=".../forum-archive/uploads/default/optimized/1X/cb6e41a1ba98ad592f400a03cf67023af9131920_1_662x500.png" alt="bitmessage" width="662" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/cb6e41a1ba98ad592f400a03cf67023af9131920.png" data-download-href="../../forum-archive/uploads/default/cb6e41a1ba98ad592f400a03cf67023af9131920" title="bitmessage.png"><img src="../../forum-archive/uploads/default/optimized/1X/cb6e41a1ba98ad592f400a03cf67023af9131920_1_662x500.png" alt="bitmessage" width="662" height="500"><div class="meta">
 <span class="filename">bitmessage.png</span><span class="informations">1010x762 106 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>For more information about Bitmessage head to the geek section.</p>
@@ -256,22 +256,22 @@ Note: If you decide to change your email address in the future. It’s highly re
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/getting-started-with-the-client/44">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/getting-started-with-the-client/44">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/getting-started-with-the-client/44</link>
+          <link>../../forum-archive/t/getting-started-with-the-client/44</link>
           <pubDate>Thu, 30 Nov 2017 09:18:24 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-44</guid>
-          <source url=".../forum-archive/t/getting-started-with-the-client/44.rss">Getting Started with the Client</source>
+          <source url="../../forum-archive/t/getting-started-with-the-client/44.rss">Getting Started with the Client</source>
         </item>
         <item>
           <title>Using the Marketplace Client</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <h3>Buying on the market</h3>
 <p>Now that your client is set up you can begin buying and selling items. To buy or bid on items you need to enter the “Market” tab window. This is the marketplace. It has many features and to better understand these features feel free to click on the “?” icon for more information.</p>
@@ -297,22 +297,22 @@ Note: If you decide to change your email address in the future. It’s highly re
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/using-the-marketplace-client/45">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/using-the-marketplace-client/45">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/using-the-marketplace-client/45</link>
+          <link>../../forum-archive/t/using-the-marketplace-client/45</link>
           <pubDate>Thu, 30 Nov 2017 09:30:54 +0000</pubDate>
           <discourse:topicPinned>Yes</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-45</guid>
-          <source url=".../forum-archive/t/using-the-marketplace-client/45.rss">Using the Marketplace Client</source>
+          <source url="../../forum-archive/t/using-the-marketplace-client/45.rss">Using the Marketplace Client</source>
         </item>
         <item>
           <title>The Geek Section</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <h3>The Change System</h3>
 <p>Bitbay’s Halo Client is unique in that it’s accounting system is far superior to the typical QT wallet bitcoin and other alt coins are utilize. The Client creates a “bill” system similar to fiat paper money. Yet with different sizes. Bitbay’s bills are broken out in integers of 50,000 – 10,000 – 5,000 – 1,000 – 100 – 50 – 10 – 5 – 1 – 0.5  any change left over is finally broken out into exact increments. So rather than having a bunch of deposits or “inputs” with random numbers and fractions of numbers, Bitbay’s Halo Client breaks them out into whole integers (like dollar bills) to minimize amounts of “chump change”. This is done for one important reason, it simplifies the accounting system and allows users to do large volumes of contracts.</p>
@@ -339,22 +339,22 @@ Note: If you decide to change your email address in the future. It’s highly re
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/the-geek-section/46">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/the-geek-section/46">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/the-geek-section/46</link>
+          <link>../../forum-archive/t/the-geek-section/46</link>
           <pubDate>Thu, 30 Nov 2017 09:32:29 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-46</guid>
-          <source url=".../forum-archive/t/the-geek-section/46.rss">The Geek Section</source>
+          <source url="../../forum-archive/t/the-geek-section/46.rss">The Geek Section</source>
         </item>
         <item>
           <title>How to get $BAY</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <h3>1. Buy BitBay on the Exchanges</h3>
 <p>You can currently buy $BAY on the following exchanges:</p>
@@ -371,22 +371,22 @@ Note: If you decide to change your email address in the future. It’s highly re
             </blockquote>
             <p>Posts: 3</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-to-get-bay/47">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-get-bay/47">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-get-bay/47</link>
+          <link>../../forum-archive/t/how-to-get-bay/47</link>
           <pubDate>Thu, 30 Nov 2017 09:43:46 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-47</guid>
-          <source url=".../forum-archive/t/how-to-get-bay/47.rss">How to get $BAY</source>
+          <source url="../../forum-archive/t/how-to-get-bay/47.rss">How to get $BAY</source>
         </item>
         <item>
           <title>How to build the BitBay QT from Source</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <p>Linux QT wallet install for Debian Jessie</p>
 <p>n.b. this does not work for Stretch at the moment and hasn’t been tried in ubuntu.</p>
@@ -398,7 +398,7 @@ Note: If you decide to change your email address in the future. It’s highly re
       <a href="https://www.privateinternetaccess.com/forum/discussion/18063/debian-8-1-0-jessie-sudo-fix-not-installed-by-default" target="_blank" rel="nofollow noopener">PIA</a>
   </header>
   <article class="onebox-body">
-    <img src=".../forum-archive/uploads/default/original/1X/030ab06de9907b4049e4fc9e7817e5f9bf39b32d.png" class="thumbnail onebox-avatar" width="200" height="200">
+    <img src="../../forum-archive/uploads/default/original/1X/030ab06de9907b4049e4fc9e7817e5f9bf39b32d.png" class="thumbnail onebox-avatar" width="200" height="200">
 
 <h3><a href="https://www.privateinternetaccess.com/forum/discussion/18063/debian-8-1-0-jessie-sudo-fix-not-installed-by-default" target="_blank" rel="nofollow noopener">debian 8.1.0 jessie - sudo fix (not installed by default)</a></h3>
 
@@ -598,22 +598,22 @@ or<br>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57</link>
+          <link>../../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57</link>
           <pubDate>Thu, 30 Nov 2017 11:40:27 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-57</guid>
-          <source url=".../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57.rss">How to build the BitBay QT from Source</source>
+          <source url="../../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57.rss">How to build the BitBay QT from Source</source>
         </item>
         <item>
           <title>Video Tutorials</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <p><a href="#toc"></a></p>
 <h2>1 - How to Install the BitBay Market Client</h2>
@@ -655,102 +655,102 @@ or<br>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/video-tutorials/38">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/video-tutorials/38">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/video-tutorials/38</link>
+          <link>../../forum-archive/t/video-tutorials/38</link>
           <pubDate>Wed, 29 Nov 2017 12:18:59 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-38</guid>
-          <source url=".../forum-archive/t/video-tutorials/38.rss">Video Tutorials</source>
+          <source url="../../forum-archive/t/video-tutorials/38.rss">Video Tutorials</source>
         </item>
         <item>
           <title>Encrypted wallets in images for practice</title>
           <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <p><a href="../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
             <blockquote>
               <p>The following images contain encrypted wallets that were used in the christmas 2017 giveaway contest</p>
 <p>we upload them here just for people that want to practice</p>
 <p>you will need the client (not QT)<br>
 then go to <code>file &gt; key to image &gt; extract file key from image</code><br>
 then you will get a zip file which if you unzip will contain the private keys to a wallet</p>
-<p>the BAY is withdrawn from them though <img src=".../forum-archive/images/emoji/twitter/wink.png?v=5" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>the BAY is withdrawn from them though <img src="../../forum-archive/images/emoji/twitter/wink.png?v=5" title=":wink:" class="emoji" alt=":wink:"></p>
 <p>1st<br>
 <a href="https://chainz.cryptoid.info/bay/address.dws?bSDuPz5h6ZWGa2KUR5kY1aAJh4VJ5LakBf.htm" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/address.dws?bSDuPz5h6ZWGa2KUR5kY1aAJh4VJ5LakBf.htm</a><br>
-<img src=".../forum-archive/uploads/default/original/1X/a6c0a9986c6d140e60bc8ed525c3cc61011a14a0.png" alt="dzimbeck" width="319" height="319"></p>
+<img src="../../forum-archive/uploads/default/original/1X/a6c0a9986c6d140e60bc8ed525c3cc61011a14a0.png" alt="dzimbeck" width="319" height="319"></p>
 <p>2nd<br>
 <a href="https://chainz.cryptoid.info/bay/address.dws?bVmjK42hGjPLJEgYPc9c3aR8sJayR8ZWfR.htm" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/address.dws?bVmjK42hGjPLJEgYPc9c3aR8sJayR8ZWfR.htm</a><br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/9263b14c47f843b3f5dcb06138c968b26f3ca4fd.png" data-download-href=".../forum-archive/uploads/default/9263b14c47f843b3f5dcb06138c968b26f3ca4fd" title="How-to-claim-christmas-surprise.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/9263b14c47f843b3f5dcb06138c968b26f3ca4fd_1_666x500.jpg" alt="How-to-claim-christmas-surprise" width="666" height="500"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/9263b14c47f843b3f5dcb06138c968b26f3ca4fd.png" data-download-href="../../forum-archive/uploads/default/9263b14c47f843b3f5dcb06138c968b26f3ca4fd" title="How-to-claim-christmas-surprise.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/9263b14c47f843b3f5dcb06138c968b26f3ca4fd_1_666x500.jpg" alt="How-to-claim-christmas-surprise" width="666" height="500"><div class="meta">
 <span class="filename">How-to-claim-christmas-surprise.jpg</span><span class="informations">800x600 115 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>3rd<br>
 <a href="https://chainz.cryptoid.info/bay/address.dws?bXNiYnqiFpo2n4HnbQG9nCyYRezzLLke9U.htm" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/address.dws?bXNiYnqiFpo2n4HnbQG9nCyYRezzLLke9U.htm</a><br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/75befd36db4aab7fb1eac3a399aeda26464f6549.png" data-download-href=".../forum-archive/uploads/default/75befd36db4aab7fb1eac3a399aeda26464f6549" title="BitBay-King.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/75befd36db4aab7fb1eac3a399aeda26464f6549_1_320x499.jpg" alt="BitBay-King" width="320" height="499"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/75befd36db4aab7fb1eac3a399aeda26464f6549.png" data-download-href="../../forum-archive/uploads/default/75befd36db4aab7fb1eac3a399aeda26464f6549" title="BitBay-King.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/75befd36db4aab7fb1eac3a399aeda26464f6549_1_320x499.jpg" alt="BitBay-King" width="320" height="499"><div class="meta">
 <span class="filename">BitBay-King.jpg</span><span class="informations">600x937 406 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>4th<br>
 <a href="https://chainz.cryptoid.info/bay/address.dws?bE67VLbmEgjrCyDxuMcwfFfrrQJDtUvYrM.htm" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/address.dws?bE67VLbmEgjrCyDxuMcwfFfrrQJDtUvYrM.htm</a><br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/4dc9797dcd2023c6d121217d50b510a93c79f525.png" data-download-href=".../forum-archive/uploads/default/4dc9797dcd2023c6d121217d50b510a93c79f525" title="Multisig-Poker-Table-1000px.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/4dc9797dcd2023c6d121217d50b510a93c79f525_1_690x390.jpg" alt="Multisig-Poker-Table-1000px" width="690" height="390"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/4dc9797dcd2023c6d121217d50b510a93c79f525.png" data-download-href="../../forum-archive/uploads/default/4dc9797dcd2023c6d121217d50b510a93c79f525" title="Multisig-Poker-Table-1000px.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/4dc9797dcd2023c6d121217d50b510a93c79f525_1_690x390.jpg" alt="Multisig-Poker-Table-1000px" width="690" height="390"><div class="meta">
 <span class="filename">Multisig-Poker-Table-1000px.jpg</span><span class="informations">1000x566 282 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>5th  has a private key in each of the following images<br>
 <a href="https://chainz.cryptoid.info/bay/address.dws?bUgcfw7Qa9bnrzHTB3jNUMhvMTKKv7kKhf.htm" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/address.dws?bUgcfw7Qa9bnrzHTB3jNUMhvMTKKv7kKhf.htm</a><br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/b6a4d2d8682f87c2df00a8656739d9d5222edf34.png" data-download-href=".../forum-archive/uploads/default/b6a4d2d8682f87c2df00a8656739d9d5222edf34" title="clubs-4.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/b6a4d2d8682f87c2df00a8656739d9d5222edf34_1_340x500.jpg" alt="clubs-4" width="340" height="500"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/b6a4d2d8682f87c2df00a8656739d9d5222edf34.png" data-download-href="../../forum-archive/uploads/default/b6a4d2d8682f87c2df00a8656739d9d5222edf34" title="clubs-4.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/b6a4d2d8682f87c2df00a8656739d9d5222edf34_1_340x500.jpg" alt="clubs-4" width="340" height="500"><div class="meta">
 <span class="filename">clubs-4.jpg</span><span class="informations">396x581 23.5 KB</span><span class="expand"></span>
 </div></a></div></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/ac70545ad2364243a188f602d0675cc602737773.png" data-download-href=".../forum-archive/uploads/default/ac70545ad2364243a188f602d0675cc602737773" title="hearts-12.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/ac70545ad2364243a188f602d0675cc602737773_1_340x500.jpg" alt="hearts-12" width="340" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/ac70545ad2364243a188f602d0675cc602737773.png" data-download-href="../../forum-archive/uploads/default/ac70545ad2364243a188f602d0675cc602737773" title="hearts-12.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/ac70545ad2364243a188f602d0675cc602737773_1_340x500.jpg" alt="hearts-12" width="340" height="500"><div class="meta">
 <span class="filename">hearts-12.jpg</span><span class="informations">396x581 144 KB</span><span class="expand"></span>
 </div></a></div></p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/encrypted-wallets-in-images-for-practice/895">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/encrypted-wallets-in-images-for-practice/895">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/encrypted-wallets-in-images-for-practice/895</link>
+          <link>../../forum-archive/t/encrypted-wallets-in-images-for-practice/895</link>
           <pubDate>Thu, 04 Jan 2018 16:20:29 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-895</guid>
-          <source url=".../forum-archive/t/encrypted-wallets-in-images-for-practice/895.rss">Encrypted wallets in images for practice</source>
+          <source url="../../forum-archive/t/encrypted-wallets-in-images-for-practice/895.rss">Encrypted wallets in images for practice</source>
         </item>
         <item>
           <title>Effective staking rate</title>
           <dc:creator><![CDATA[@J-W-F JWF]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/j-w-f">@J-W-F</a> wrote:</p>
+            <p><a href="../../forum-archive/u/j-w-f">@J-W-F</a> wrote:</p>
             <blockquote>
               <p>Here is a quick spreadsheet I made regarding the approximate effective stake weight based on the number of BAY being staked on the network. So at 50% of the total supply staking the effective stake rate for your coins is 2% “APR”. These numbers are based off the available specs for BAY. If I’m not mistaken I do believe that the minimum 1% stake is based off of the current supply at the time, ie currently 1,009,138,145 so the actual yearly stake amount would be 10,091,381 and growing.</p>
-<p><img src=".../forum-archive/uploads/default/original/1X/1b77c3e0a30d62d0aa7434104797b394b456a1b1.JPG" alt="Staking" width="563" height="430"></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/1b77c3e0a30d62d0aa7434104797b394b456a1b1.JPG" alt="Staking" width="563" height="430"></p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/effective-staking-rate/981">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/effective-staking-rate/981">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/effective-staking-rate/981</link>
+          <link>../../forum-archive/t/effective-staking-rate/981</link>
           <pubDate>Thu, 18 Jan 2018 01:37:07 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-981</guid>
-          <source url=".../forum-archive/t/effective-staking-rate/981.rss">Effective staking rate</source>
+          <source url="../../forum-archive/t/effective-staking-rate/981.rss">Effective staking rate</source>
         </item>
         <item>
           <title>How to find out the type of client and version</title>
           <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <p><a href="../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
             <blockquote>
               <p>When reporting an issue its very important to report the client and the version so someone can better support you</p>
 <h1>MARKET CLIENT</h1>
 <p>Here is how the <strong>client</strong> looks like<br>
 some people also call the <strong>market client</strong> as it contains the marketplace</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/faaf04c907e013e9c0213aa97e9a3232fc3cc161.png" data-download-href=".../forum-archive/uploads/default/faaf04c907e013e9c0213aa97e9a3232fc3cc161" title="bitbay.client.windows.png"><img src=".../forum-archive/uploads/default/optimized/1X/faaf04c907e013e9c0213aa97e9a3232fc3cc161_1_682x500.png" alt="windows" width="682" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/faaf04c907e013e9c0213aa97e9a3232fc3cc161.png" data-download-href="../../forum-archive/uploads/default/faaf04c907e013e9c0213aa97e9a3232fc3cc161" title="bitbay.client.windows.png"><img src="../../forum-archive/uploads/default/optimized/1X/faaf04c907e013e9c0213aa97e9a3232fc3cc161_1_682x500.png" alt="windows" width="682" height="500"><div class="meta">
 <span class="filename">bitbay.client.windows.png</span><span class="informations">993x727 144 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>The <strong>block number</strong> is on the bottom left corner of <strong>Home tab</strong> as seen on the screenshot above.<br>
@@ -758,7 +758,7 @@ For <strong>number of connections</strong>  go to <code>settings &gt; general se
 For <strong>version number</strong> go to <code>help &gt; about</code> it will say Halo version and a number 1.29</p>
 <h1>QT WALLET</h1>
 <p>Here is how the QT client looks like</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/9932973ac50c12e168601ecf0eaebd6e4a5a3864.png" data-download-href=".../forum-archive/uploads/default/9932973ac50c12e168601ecf0eaebd6e4a5a3864" title="bitbay.qt.wallet.png"><img src=".../forum-archive/uploads/default/optimized/1X/9932973ac50c12e168601ecf0eaebd6e4a5a3864_1_684x500.png" alt="wallet" width="684" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/9932973ac50c12e168601ecf0eaebd6e4a5a3864.png" data-download-href="../../forum-archive/uploads/default/9932973ac50c12e168601ecf0eaebd6e4a5a3864" title="bitbay.qt.wallet.png"><img src="../../forum-archive/uploads/default/optimized/1X/9932973ac50c12e168601ecf0eaebd6e4a5a3864_1_684x500.png" alt="wallet" width="684" height="500"><div class="meta">
 <span class="filename">bitbay.qt.wallet.png</span><span class="informations">965x705 34.3 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>For the QT version go  to <code>help &gt; debug window</code> as seen on the screenshot above<br>
@@ -766,31 +766,31 @@ There you can also find the <strong>number of connections</strong> and <strong>c
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059</link>
+          <link>../../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059</link>
           <pubDate>Fri, 02 Feb 2018 20:25:49 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1059</guid>
-          <source url=".../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059.rss">How to find out the type of client and version</source>
+          <source url="../../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059.rss">How to find out the type of client and version</source>
         </item>
         <item>
           <title>How to generate debug files through the BitBay Markets Client</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p>When a problem with the client occurs, it can be very helpful to create a debug file for it. This clarifies the issue and allows the program’s developers to find or create a solution to that problem.</p>
 <h2>Step 1:</h2>
 <p>First, you must activate the debugger within the client. To do this, go to the client homepage and click settings &gt; general settings.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/5e1c575942297eb7e1d5a2fb04d42e3b173699ce.png" data-download-href=".../forum-archive/uploads/default/5e1c575942297eb7e1d5a2fb04d42e3b173699ce" title="1.png"><img src=".../forum-archive/uploads/default/optimized/1X/5e1c575942297eb7e1d5a2fb04d42e3b173699ce_1_690x471.png" alt="1" width="690" height="471"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/5e1c575942297eb7e1d5a2fb04d42e3b173699ce.png" data-download-href="../../forum-archive/uploads/default/5e1c575942297eb7e1d5a2fb04d42e3b173699ce" title="1.png"><img src="../../forum-archive/uploads/default/optimized/1X/5e1c575942297eb7e1d5a2fb04d42e3b173699ce_1_690x471.png" alt="1" width="690" height="471"><div class="meta">
 <span class="filename">1.png</span><span class="informations">1318x900 36.3 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>Next, click the <strong>Create Debug File on Exit</strong> box.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/da131b4c0cfa389c7530bd3a0f776d367fc49e38.png" data-download-href=".../forum-archive/uploads/default/da131b4c0cfa389c7530bd3a0f776d367fc49e38" title="2.png"><img src=".../forum-archive/uploads/default/optimized/1X/da131b4c0cfa389c7530bd3a0f776d367fc49e38_1_690x429.png" alt="2" width="690" height="429"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/da131b4c0cfa389c7530bd3a0f776d367fc49e38.png" data-download-href="../../forum-archive/uploads/default/da131b4c0cfa389c7530bd3a0f776d367fc49e38" title="2.png"><img src="../../forum-archive/uploads/default/optimized/1X/da131b4c0cfa389c7530bd3a0f776d367fc49e38_1_690x429.png" alt="2" width="690" height="429"><div class="meta">
 <span class="filename">2.png</span><span class="informations">1328x826 18.6 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>Step 2:</h2>
@@ -815,22 +815,22 @@ There you can also find the <strong>number of connections</strong> and <strong>c
             </blockquote>
             <p>Posts: 4</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096</link>
+          <link>../../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096</link>
           <pubDate>Tue, 13 Feb 2018 02:41:52 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1096</guid>
-          <source url=".../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096.rss">How to generate debug files through the BitBay Markets Client</source>
+          <source url="../../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096.rss">How to generate debug files through the BitBay Markets Client</source>
         </item>
         <item>
           <title>How do I install mobile wallet APK on android</title>
           <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <p><a href="../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
             <blockquote>
               <p>Until the google play store releases the wallet for download we have made it available for download on our own downloads section.</p>
 <p>Download the APK to your phone</p>
@@ -846,22 +846,22 @@ Step 4 – Tap “OK” when it show the warning.</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-do-i-install-mobile-wallet-apk-on-android/1100">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-do-i-install-mobile-wallet-apk-on-android/1100">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-do-i-install-mobile-wallet-apk-on-android/1100</link>
+          <link>../../forum-archive/t/how-do-i-install-mobile-wallet-apk-on-android/1100</link>
           <pubDate>Wed, 14 Feb 2018 18:33:30 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1100</guid>
-          <source url=".../forum-archive/t/how-do-i-install-mobile-wallet-apk-on-android/1100.rss">How do I install mobile wallet APK on android</source>
+          <source url="../../forum-archive/t/how-do-i-install-mobile-wallet-apk-on-android/1100.rss">How do I install mobile wallet APK on android</source>
         </item>
         <item>
           <title>How to buy anything using the “Buy/Sell Anything” Template</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p><strong><em>This template is great for buying or selling crypto and fiat currencies, goods, or anything of value - All peer-to-peer, without middlemen or high fees.</em></strong></p>
 <h1>***<strong>Note: Before creating any contract, please make sure your client has synced 100%, and both keys are loaded.</strong>
@@ -869,20 +869,20 @@ Step 4 – Tap “OK” when it show the warning.</p>
 <h1><strong>Step 1:</strong></h1>
 <p>First click on the “Buy/Sell Anything” icon, located on the homepage of the client.<br>
 Then select the “Buy Something” option within the following pop-up window.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/be88970e9133e601138bc6d6dc7665a43a2143fd.png" data-download-href=".../forum-archive/uploads/default/be88970e9133e601138bc6d6dc7665a43a2143fd" title="#1.png"><img src=".../forum-archive/uploads/default/optimized/1X/be88970e9133e601138bc6d6dc7665a43a2143fd_1_686x500.png" alt="%231" width="686" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/be88970e9133e601138bc6d6dc7665a43a2143fd.png" data-download-href="../../forum-archive/uploads/default/be88970e9133e601138bc6d6dc7665a43a2143fd" title="#1.png"><img src="../../forum-archive/uploads/default/optimized/1X/be88970e9133e601138bc6d6dc7665a43a2143fd_1_686x500.png" alt="%231" width="686" height="500"><div class="meta">
 <span class="filename">#1.png</span><span class="informations">1978x1440 171 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h1><strong>Step 2:</strong></h1>
 <p>Enter the description of the item you wish to buy, and upload an image. Be specific. The more<br>
 information you provide, the easier it is for seller’s to know exactly what you are looking for.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/0b9108e9ad404d6d2439fbaaf63b14c7fc307b29.png" data-download-href=".../forum-archive/uploads/default/0b9108e9ad404d6d2439fbaaf63b14c7fc307b29" title="#2.png"><img src=".../forum-archive/uploads/default/optimized/1X/0b9108e9ad404d6d2439fbaaf63b14c7fc307b29_1_502x500.png" alt="%232" width="502" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/0b9108e9ad404d6d2439fbaaf63b14c7fc307b29.png" data-download-href="../../forum-archive/uploads/default/0b9108e9ad404d6d2439fbaaf63b14c7fc307b29" title="#2.png"><img src="../../forum-archive/uploads/default/optimized/1X/0b9108e9ad404d6d2439fbaaf63b14c7fc307b29_1_502x500.png" alt="%232" width="502" height="500"><div class="meta">
 <span class="filename">#2.png</span><span class="informations">1394x1386 32.5 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h1><strong>Step 3:</strong></h1>
 <p>Select “Normal Sale”, and enter the amount that you would like for payment. You can either<br>
 enter an amount in $BAY or USD, depending on your preference. The contract will automatically<br>
 convert it to $BAY for completion of the contract.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/5473cdfa4288abac902cec877f6ed50f8c99742b.png" data-download-href=".../forum-archive/uploads/default/5473cdfa4288abac902cec877f6ed50f8c99742b" title="#3.png"><img src=".../forum-archive/uploads/default/optimized/1X/5473cdfa4288abac902cec877f6ed50f8c99742b_1_690x167.png" alt="%233" width="690" height="167"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/5473cdfa4288abac902cec877f6ed50f8c99742b.png" data-download-href="../../forum-archive/uploads/default/5473cdfa4288abac902cec877f6ed50f8c99742b" title="#3.png"><img src="../../forum-archive/uploads/default/optimized/1X/5473cdfa4288abac902cec877f6ed50f8c99742b_1_690x167.png" alt="%233" width="690" height="167"><div class="meta">
 <span class="filename">#3.png</span><span class="informations">758x184 14.8 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h1><strong>Step 4:</strong></h1>
@@ -890,22 +890,22 @@ convert it to $BAY for completion of the contract.</p>
 <p><strong>First Option:</strong> You can have the client use a <strong><em>recommended setting</em></strong> . The recommended setting makes<br>
 each party deposit an amount equal to the value of the item being purchased. There is a set duration<br>
 of 45 days to complete the transaction. In most cases, this is a great way to structure the deposits.<br>
-<img src=".../forum-archive/uploads/default/original/1X/2d2a8b090194350cbcf3bf422ee02b5c6cb77b9c.png" alt="%234" width="430" height="182"></p>
+<img src="../../forum-archive/uploads/default/original/1X/2d2a8b090194350cbcf3bf422ee02b5c6cb77b9c.png" alt="%234" width="430" height="182"></p>
 <p><strong><em>Second option:</em></strong> You may also select a <strong><em>custom deposits</em></strong> option. This will allow you to structure the<br>
 two deposits individually based on you or the seller’s risk tolerance. It will also allow you to set a<br>
 specific time duration for completion of the transaction. (this option can be useful if one party<br>
 doesn’t own enough BAY to cover the purchase amount)</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/cdd0acf6be469de0c57b3f01c73505548061a9d1.png" data-download-href=".../forum-archive/uploads/default/cdd0acf6be469de0c57b3f01c73505548061a9d1" title="#5.png"><img src=".../forum-archive/uploads/default/optimized/1X/cdd0acf6be469de0c57b3f01c73505548061a9d1_1_690x318.png" alt="%235" width="690" height="318"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/cdd0acf6be469de0c57b3f01c73505548061a9d1.png" data-download-href="../../forum-archive/uploads/default/cdd0acf6be469de0c57b3f01c73505548061a9d1" title="#5.png"><img src="../../forum-archive/uploads/default/optimized/1X/cdd0acf6be469de0c57b3f01c73505548061a9d1_1_690x318.png" alt="%235" width="690" height="318"><div class="meta">
 <span class="filename">#5.png</span><span class="informations">740x342 4.03 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p><strong>Third option:</strong> If the seller does not own any BAY for a deposit, simply select <strong><em>“Make Me A Guarantor”</em></strong>.<br>
 With this scenario, you (the buyer) will lock in a deposit of BAY equal to the item’s value, and the<br>
 seller will send you the item first.</p>
-<p><img src=".../forum-archive/uploads/default/original/1X/dca44f02384b4c88e05ff05987b4ce26dcc6e190.png" alt="%236" width="430" height="180"></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/dca44f02384b4c88e05ff05987b4ce26dcc6e190.png" alt="%236" width="430" height="180"></p>
 <p>Fourth option: If you (the buyer) do not currently own any BAY for a deposit, simply select <em><strong>“Make</strong></em><br>
 <em><strong>Them A Guarantor”</strong></em>. With this scenario, the seller will lock in a deposit of BAY equal to the payment<br>
 amount you are sending, and you will send them your payment first.</p>
-<p><img src=".../forum-archive/uploads/default/original/1X/d18a82ea22f0bb0857d12816ec6f942820ae6838.png" alt="image4" width="430" height="182"></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/d18a82ea22f0bb0857d12816ec6f942820ae6838.png" alt="image4" width="430" height="182"></p>
 <p>***<strong>Note: Setting up contracts with custom deposits and/or Guarantors places more risk on either</strong><br>
 <strong>the buyer or seller. We strongly suggest that both parties fully understand these risks before</strong><br>
 <strong>proceeding. If these risks are unclear, the “Recommended Deposits and Settings” option should be</strong><br>
@@ -915,36 +915,36 @@ amount you are sending, and you will send them your payment first.</p>
 marketplace, or create your own private marketplace. The BitBay marketplace is public and will give<br>
 your contract the most exposure to potential sellers. The private marketplace can only be visible to<br>
 those you share it with. Click <strong><em>“Confirm Order”</em></strong> to proceed.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/b0b994ca32c39dcbd61bb6cdd4603f09a9bcb5f8.png" data-download-href=".../forum-archive/uploads/default/b0b994ca32c39dcbd61bb6cdd4603f09a9bcb5f8" title="#8.png"><img src=".../forum-archive/uploads/default/optimized/1X/b0b994ca32c39dcbd61bb6cdd4603f09a9bcb5f8_1_507x500.png" alt="%238" width="507" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/b0b994ca32c39dcbd61bb6cdd4603f09a9bcb5f8.png" data-download-href="../../forum-archive/uploads/default/b0b994ca32c39dcbd61bb6cdd4603f09a9bcb5f8" title="#8.png"><img src="../../forum-archive/uploads/default/optimized/1X/b0b994ca32c39dcbd61bb6cdd4603f09a9bcb5f8_1_507x500.png" alt="%238" width="507" height="500"><div class="meta">
 <span class="filename">#8.png</span><span class="informations">1414x1394 18 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h1><strong>Step 6:</strong></h1>
 <p>After clicking <strong><em>“Confirm Order”</em></strong>, You will have a chance to review the exchange rates one last<br>
 time, and will be asked to enter the passwords for both keys. The contract will show up in the<br>
 BitBay marketplace shortly after.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/e8057bd5e32f1f3142ff51bfe62adb9418d53b9d.png" data-download-href=".../forum-archive/uploads/default/e8057bd5e32f1f3142ff51bfe62adb9418d53b9d" title="#9.png"><img src=".../forum-archive/uploads/default/optimized/1X/e8057bd5e32f1f3142ff51bfe62adb9418d53b9d_1_690x346.png" alt="%239" width="690" height="346"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/e8057bd5e32f1f3142ff51bfe62adb9418d53b9d.png" data-download-href="../../forum-archive/uploads/default/e8057bd5e32f1f3142ff51bfe62adb9418d53b9d" title="#9.png"><img src="../../forum-archive/uploads/default/optimized/1X/e8057bd5e32f1f3142ff51bfe62adb9418d53b9d_1_690x346.png" alt="%239" width="690" height="346"><div class="meta">
 <span class="filename">#9.png</span><span class="informations">2818x1416 314 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h1><strong>Step 7:</strong></h1>
 <p>When somebody sends you an offer, the client will notify you (and even send an email if desired).<br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/3481678cbfcb4139bade4467a1202ae967c5840c.png" data-download-href=".../forum-archive/uploads/default/3481678cbfcb4139bade4467a1202ae967c5840c" title="#10.png"><img src=".../forum-archive/uploads/default/optimized/1X/3481678cbfcb4139bade4467a1202ae967c5840c_1_690x345.png" alt="%2310" width="690" height="345"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/3481678cbfcb4139bade4467a1202ae967c5840c.png" data-download-href="../../forum-archive/uploads/default/3481678cbfcb4139bade4467a1202ae967c5840c" title="#10.png"><img src="../../forum-archive/uploads/default/optimized/1X/3481678cbfcb4139bade4467a1202ae967c5840c_1_690x345.png" alt="%2310" width="690" height="345"><div class="meta">
 <span class="filename">#10.png</span><span class="informations">2834x1420 191 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>Then, you can accept the offer under the “pending offers” tab.<br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/a50d9e20746f344b2bdabd6b272af397950bb15c.png" data-download-href=".../forum-archive/uploads/default/a50d9e20746f344b2bdabd6b272af397950bb15c" title="#11.png"><img src=".../forum-archive/uploads/default/optimized/1X/a50d9e20746f344b2bdabd6b272af397950bb15c_1_690x195.png" alt="%2311" width="690" height="195"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/a50d9e20746f344b2bdabd6b272af397950bb15c.png" data-download-href="../../forum-archive/uploads/default/a50d9e20746f344b2bdabd6b272af397950bb15c" title="#11.png"><img src="../../forum-archive/uploads/default/optimized/1X/a50d9e20746f344b2bdabd6b272af397950bb15c_1_690x195.png" alt="%2311" width="690" height="195"><div class="meta">
 <span class="filename">#11.png</span><span class="informations">1926x546 46.6 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p><strong>Then:</strong></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/712c65a9ed7d8cb41da82dbf7bc9de2eba07eeec.png" data-download-href=".../forum-archive/uploads/default/712c65a9ed7d8cb41da82dbf7bc9de2eba07eeec" title="#12.png"><img src=".../forum-archive/uploads/default/optimized/1X/712c65a9ed7d8cb41da82dbf7bc9de2eba07eeec_1_506x500.png" alt="%2312" width="506" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/712c65a9ed7d8cb41da82dbf7bc9de2eba07eeec.png" data-download-href="../../forum-archive/uploads/default/712c65a9ed7d8cb41da82dbf7bc9de2eba07eeec" title="#12.png"><img src="../../forum-archive/uploads/default/optimized/1X/712c65a9ed7d8cb41da82dbf7bc9de2eba07eeec_1_506x500.png" alt="%2312" width="506" height="500"><div class="meta">
 <span class="filename">#12.png</span><span class="informations">1428x1410 94.2 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h1><strong>Step 8:</strong></h1>
 <p>Once you have accepted the offer, the seller will then ship you the item. After you receive the<br>
 item, both parties will have to complete the contract on either end.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/679eda8329d415306906a206273bf636f8555782.png" data-download-href=".../forum-archive/uploads/default/679eda8329d415306906a206273bf636f8555782" title="#13.png"><img src=".../forum-archive/uploads/default/optimized/1X/679eda8329d415306906a206273bf636f8555782_1_690x132.png" alt="%2313" width="690" height="132"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/679eda8329d415306906a206273bf636f8555782.png" data-download-href="../../forum-archive/uploads/default/679eda8329d415306906a206273bf636f8555782" title="#13.png"><img src="../../forum-archive/uploads/default/optimized/1X/679eda8329d415306906a206273bf636f8555782_1_690x132.png" alt="%2313" width="690" height="132"><div class="meta">
 <span class="filename">#13.png</span><span class="informations">1960x376 22.4 KB</span><span class="expand"></span>
 </div></a></div></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/c9358f86831bdc5323beebe32a9da5232ec26bc8.png" data-download-href=".../forum-archive/uploads/default/c9358f86831bdc5323beebe32a9da5232ec26bc8" title="#13.png"><img src=".../forum-archive/uploads/default/optimized/1X/c9358f86831bdc5323beebe32a9da5232ec26bc8_1_690x345.png" alt="%2313" width="690" height="345"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/c9358f86831bdc5323beebe32a9da5232ec26bc8.png" data-download-href="../../forum-archive/uploads/default/c9358f86831bdc5323beebe32a9da5232ec26bc8" title="#13.png"><img src="../../forum-archive/uploads/default/optimized/1X/c9358f86831bdc5323beebe32a9da5232ec26bc8_1_690x345.png" alt="%2313" width="690" height="345"><div class="meta">
 <span class="filename">#13.png</span><span class="informations">2818x1412 186 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>At this point, the transaction is complete. You can also check under history tab for transaction<br>
@@ -952,22 +952,22 @@ confirmation.</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-to-buy-anything-using-the-buy-sell-anything-template/1128">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-buy-anything-using-the-buy-sell-anything-template/1128">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-buy-anything-using-the-buy-sell-anything-template/1128</link>
+          <link>../../forum-archive/t/how-to-buy-anything-using-the-buy-sell-anything-template/1128</link>
           <pubDate>Mon, 19 Feb 2018 22:58:45 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1128</guid>
-          <source url=".../forum-archive/t/how-to-buy-anything-using-the-buy-sell-anything-template/1128.rss">How to buy anything using the “Buy/Sell Anything” Template</source>
+          <source url="../../forum-archive/t/how-to-buy-anything-using-the-buy-sell-anything-template/1128.rss">How to buy anything using the “Buy/Sell Anything” Template</source>
         </item>
         <item>
           <title>Installation and Updating</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <h2>1) How do you install and load the Client on linux?</h2>
 <p>Download the tar.gz file found on the <a href="https://bitbay.market/downloads">website downloads page</a>. Extract the file with an app like Archive Manager.<br>
@@ -1047,44 +1047,44 @@ You can find the current market cap here: <a href="http://coinmarketcap.com/curr
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/installation-and-updating/36">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/installation-and-updating/36">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/installation-and-updating/36</link>
+          <link>../../forum-archive/t/installation-and-updating/36</link>
           <pubDate>Wed, 29 Nov 2017 09:40:03 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-36</guid>
-          <source url=".../forum-archive/t/installation-and-updating/36.rss">Installation and Updating</source>
+          <source url="../../forum-archive/t/installation-and-updating/36.rss">Installation and Updating</source>
         </item>
         <item>
           <title>Voting Tutorial for BitBay&#39;s Client</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <p><strong>BitBay’s Decentralized Voting UI marks yet another amazing feature of the advanced BitBay Client.  The voting works thanks to blockchain technology so votes are 100% transparent and trustworthy.</strong></p>
-<p><em>***Note: The <strong>BitBay Markets Client</strong> must be <strong>downloaded</strong> and <strong>100% synchronized to the blockchain</strong>.  In order to vote, you must be holding coins in the Client wallet, and that wallet must be unlocked with staking enabled (<a href=".../forum-archive/t/staking-and-synchronizing/35">see staking tutorial</a>).  Anyone can vote; the more coins you have stored on your Client the stronger your voting power becomes. This is due because all votes attach themselves to staked block rewards (which are received at random intervals based on coin balance).</em></p>
+<p><em>***Note: The <strong>BitBay Markets Client</strong> must be <strong>downloaded</strong> and <strong>100% synchronized to the blockchain</strong>.  In order to vote, you must be holding coins in the Client wallet, and that wallet must be unlocked with staking enabled (<a href="../../forum-archive/t/staking-and-synchronizing/35">see staking tutorial</a>).  Anyone can vote; the more coins you have stored on your Client the stronger your voting power becomes. This is due because all votes attach themselves to staked block rewards (which are received at random intervals based on coin balance).</em></p>
 <h1>Step 1:</h1>
 <p>Within the Client simply go to the Settings tab -&gt; General Settings -&gt; Mining/Staking and Voting (tab).</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/f76b0432b0d7ee660520063eef3de1c7e5b6f8a8.png" data-download-href=".../forum-archive/uploads/default/f76b0432b0d7ee660520063eef3de1c7e5b6f8a8" title="Screen Shot 2018-03-26 at 1.48.37 PM.png"><img src=".../forum-archive/uploads/default/optimized/1X/f76b0432b0d7ee660520063eef3de1c7e5b6f8a8_1_512x500.png" alt="37%20PM" width="512" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/f76b0432b0d7ee660520063eef3de1c7e5b6f8a8.png" data-download-href="../../forum-archive/uploads/default/f76b0432b0d7ee660520063eef3de1c7e5b6f8a8" title="Screen Shot 2018-03-26 at 1.48.37 PM.png"><img src="../../forum-archive/uploads/default/optimized/1X/f76b0432b0d7ee660520063eef3de1c7e5b6f8a8_1_512x500.png" alt="37%20PM" width="512" height="500"><div class="meta">
 <span class="filename">Screen Shot 2018-03-26 at 1.48.37 PM.png</span><span class="informations">1360x1328 13.5 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h1>Step 2:</h1>
 <p>Next, click the “Add Vote” button and enter the subject of your vote.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/398919b02b2143764fba654a93f83a9cbe0a2cbb.png" data-download-href=".../forum-archive/uploads/default/398919b02b2143764fba654a93f83a9cbe0a2cbb" title="Screen Shot 2018-03-26 at 1.53.02 PM.png"><img src=".../forum-archive/uploads/default/optimized/1X/398919b02b2143764fba654a93f83a9cbe0a2cbb_1_690x481.png" alt="02%20PM" width="690" height="481"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/398919b02b2143764fba654a93f83a9cbe0a2cbb.png" data-download-href="../../forum-archive/uploads/default/398919b02b2143764fba654a93f83a9cbe0a2cbb" title="Screen Shot 2018-03-26 at 1.53.02 PM.png"><img src="../../forum-archive/uploads/default/optimized/1X/398919b02b2143764fba654a93f83a9cbe0a2cbb_1_690x481.png" alt="02%20PM" width="690" height="481"><div class="meta">
 <span class="filename">Screen Shot 2018-03-26 at 1.53.02 PM.png</span><span class="informations">1354x944 27.3 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>As an example: If a vote was taking place to answer a “yes/no question”, then the people who vote for “yes” would enter “yes” and those who vote “no” would enter “no”. It is a maximum of 20 characters (lower cases only, it is case sensitive). Everyone must vote using an <strong>identical string of characters</strong> so that it gets counted.</p>
 <p>It helps to make the character string unique, because the burn address that counts the votes is generated based on that string. So the string must be as unique as possible to not have your poll affected by other concurrent open polls of other Bitbay users (in case they do a nearly identical poll with similar vote strings).</p>
 <p>An example of a character string would be write “yes” or “no” + other unique characters to differentiate your votes like “yes175feUndw456sefeG” &amp; “no175feUndw456sefeGb”. Also make note of when the voting period begins and ends so that you can later count the votes accurately.</p>
-<p><img src=".../forum-archive/uploads/default/original/1X/f4d16380c53d0bb36bdb30375e5e0e4a3c06ef5c.png" alt="20%20AM" width="562" height="232"></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/f4d16380c53d0bb36bdb30375e5e0e4a3c06ef5c.png" alt="20%20AM" width="562" height="232"></p>
 <h1>Step 3:</h1>
 <p>The Client will then ask you how many times you wish to vote.  <strong>All votes cost 0.000005554 BAY</strong>.</p>
-<p>Enter the desired amount of votes to cast and you are complete.  Remember, your Client must be staking in order to cast votes (<a href=".../forum-archive/t/staking-and-synchronizing/35">see staking tutorial</a>). Votes do not immediately tally into the system.  Once you’ve cast the total of votes you wish to add, these votes will attach themselves to any future blocks you find while your Client stakes.</p>
+<p>Enter the desired amount of votes to cast and you are complete.  Remember, your Client must be staking in order to cast votes (<a href="../../forum-archive/t/staking-and-synchronizing/35">see staking tutorial</a>). Votes do not immediately tally into the system.  Once you’ve cast the total of votes you wish to add, these votes will attach themselves to any future blocks you find while your Client stakes.</p>
 <p>You must keep you Client <strong>open and staking</strong> in order for it to continue to add votes to your choice.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/ec740183e7df5aa343b3d4f340e33281ccb13c17.png" data-download-href=".../forum-archive/uploads/default/ec740183e7df5aa343b3d4f340e33281ccb13c17" title="Screen Shot 2018-03-27 at 4.13.48 AM.png"><img src=".../forum-archive/uploads/default/optimized/1X/ec740183e7df5aa343b3d4f340e33281ccb13c17_1_690x384.png" alt="48%20AM" width="690" height="384"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/ec740183e7df5aa343b3d4f340e33281ccb13c17.png" data-download-href="../../forum-archive/uploads/default/ec740183e7df5aa343b3d4f340e33281ccb13c17" title="Screen Shot 2018-03-27 at 4.13.48 AM.png"><img src="../../forum-archive/uploads/default/optimized/1X/ec740183e7df5aa343b3d4f340e33281ccb13c17_1_690x384.png" alt="48%20AM" width="690" height="384"><div class="meta">
 <span class="filename">Screen Shot 2018-03-27 at 4.13.48 AM.png</span><span class="informations">1356x756 13.4 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h1>Step 4:</h1>
@@ -1092,22 +1092,22 @@ You can find the current market cap here: <a href="http://coinmarketcap.com/curr
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/voting-tutorial-for-bitbays-client/1241">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/voting-tutorial-for-bitbays-client/1241">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/voting-tutorial-for-bitbays-client/1241</link>
+          <link>../../forum-archive/t/voting-tutorial-for-bitbays-client/1241</link>
           <pubDate>Tue, 27 Mar 2018 11:16:38 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1241</guid>
-          <source url=".../forum-archive/t/voting-tutorial-for-bitbays-client/1241.rss">Voting Tutorial for BitBay&#39;s Client</source>
+          <source url="../../forum-archive/t/voting-tutorial-for-bitbays-client/1241.rss">Voting Tutorial for BitBay&#39;s Client</source>
         </item>
         <item>
           <title>Creating a bitbay.conf for better network connections</title>
           <dc:creator><![CDATA[@Craig Craig]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/craig">@Craig</a> wrote:</p>
+            <p><a href="../../forum-archive/u/craig">@Craig</a> wrote:</p>
             <blockquote>
               <p>The Client wallet already has a bitbay.conf file that can be found in your BitBay directory inside the bitbaydata folder<br>
 Default bitbay data folder locations<br>
@@ -1118,7 +1118,7 @@ mac QT client <code>~/Library/Application Support/BitBay</code></p>
 <p>If you are still having trouble connecting to the network with the Client, then you can update the addnode list from the block explorer.<br>
 <a href="https://chainz.cryptoid.info/bay/#!network" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/#!network</a><br>
 Click on the ‘node list’ from BitBay 2.0.0  and copy and paste those ‘fresh’ nodes to your bitbay.conf file (replacing the old addnodes) then save the file.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/cc88b828b9b4f66d19872c092b146e3e1519b894.png" data-download-href=".../forum-archive/uploads/default/cc88b828b9b4f66d19872c092b146e3e1519b894" title="node.list.png"><img src=".../forum-archive/uploads/default/optimized/1X/cc88b828b9b4f66d19872c092b146e3e1519b894_1_673x500.png" alt="list" width="673" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/cc88b828b9b4f66d19872c092b146e3e1519b894.png" data-download-href="../../forum-archive/uploads/default/cc88b828b9b4f66d19872c092b146e3e1519b894" title="node.list.png"><img src="../../forum-archive/uploads/default/optimized/1X/cc88b828b9b4f66d19872c092b146e3e1519b894_1_673x500.png" alt="list" width="673" height="500"><div class="meta">
 <span class="filename">node.list.png</span><span class="informations">1149x853 108 KB</span><span class="expand"></span>
 </div></a></div></p>
 <hr>
@@ -1237,22 +1237,22 @@ addnode=62.96.91.202</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736</link>
+          <link>../../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736</link>
           <pubDate>Tue, 26 Dec 2017 14:59:37 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-736</guid>
-          <source url=".../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736.rss">Creating a bitbay.conf for better network connections</source>
+          <source url="../../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736.rss">Creating a bitbay.conf for better network connections</source>
         </item>
         <item>
           <title>Linux Dependencies For Ubuntu Client Users</title>
           <dc:creator><![CDATA[@Craig Craig]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/craig">@Craig</a> wrote:</p>
+            <p><a href="../../forum-archive/u/craig">@Craig</a> wrote:</p>
             <blockquote>
               <p>Ubuntu users require these dependencies in order for the Client to load up properly.</p>
 <p>Steps<br>
@@ -1261,22 +1261,22 @@ Then type command  &gt;sudo apt -y install libgconf2-4&lt;</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/linux-dependencies-for-ubuntu-client-users/1647">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/linux-dependencies-for-ubuntu-client-users/1647">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/linux-dependencies-for-ubuntu-client-users/1647</link>
+          <link>../../forum-archive/t/linux-dependencies-for-ubuntu-client-users/1647</link>
           <pubDate>Wed, 12 Dec 2018 21:23:27 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1647</guid>
-          <source url=".../forum-archive/t/linux-dependencies-for-ubuntu-client-users/1647.rss">Linux Dependencies For Ubuntu Client Users</source>
+          <source url="../../forum-archive/t/linux-dependencies-for-ubuntu-client-users/1647.rss">Linux Dependencies For Ubuntu Client Users</source>
         </item>
         <item>
           <title>Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
           <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <p><a href="../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
             <blockquote>
               <p>This tutorial will walk you through how to create a time locked wallet that can hold funds to be released in the future.</p>
 <p><em><strong>DISCLAIMER 1:</strong></em> You are advised to use this feature with small amounts of BAY until you completely understand the process and the implications. There is always a possibility of <strong>losing your funds</strong> if the process is not followed correctly.</p>
@@ -1289,17 +1289,17 @@ Then type command  &gt;sudo apt -y install libgconf2-4&lt;</p>
 <h1>TIME LOCKED WALLET CREATION</h1>
 <h2>1.</h2>
 <p>The beneficiary can create a <strong>regular wallet</strong> (if they don’t have one already). This is the wallet that will <strong>REDEEM</strong> the funds.  The wallet can be created from the client, or it can be an individual multisig wallet (2 of 2).</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" data-download-href=".../forum-archive/uploads/default/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a" title="01.wallet.create.png"><img src=".../forum-archive/uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" alt="create" width="514" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" data-download-href="../../forum-archive/uploads/default/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a" title="01.wallet.create.png"><img src="../../forum-archive/uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" alt="create" width="514" height="500"><div class="meta">
 <span class="filename">01.wallet.create.png</span><span class="informations">792x770 17.3 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>2.</h2>
 <p>Under the “<strong>Receive</strong>” tab, the beneficiary will copy the <strong>Public Key</strong> of the wallet created above, then <strong>logout</strong> and send the <strong>public key</strong> to the benefactor.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a.png" data-download-href=".../forum-archive/uploads/default/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a" title="02.wallet.public.key.png"><img src=".../forum-archive/uploads/default/original/1X/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a.png" alt="key" width="690" height="319"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a.png" data-download-href="../../forum-archive/uploads/default/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a" title="02.wallet.public.key.png"><img src="../../forum-archive/uploads/default/original/1X/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a.png" alt="key" width="690" height="319"><div class="meta">
 <span class="filename">02.wallet.public.key.png</span><span class="informations">835x387 11.1 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>3.</h2>
 <p>The benefactor selects <strong>Time Locked Address</strong> from the menu and pastes in the previously copied <strong>public key</strong>. Then select a date/time for funds release and then click <strong>Submit</strong>.  Alternatively, one can set the blockheight of release by checking the current block height using the <a href="https://chainz.cryptoid.info/bay/">explorer</a> and estimating 1 block per minute.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c.png" data-download-href=".../forum-archive/uploads/default/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c" title="03.wallet.time.locked.png"><img src=".../forum-archive/uploads/default/original/1X/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c.png" alt="locked" width="648" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c.png" data-download-href="../../forum-archive/uploads/default/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c" title="03.wallet.time.locked.png"><img src="../../forum-archive/uploads/default/original/1X/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c.png" alt="locked" width="648" height="500"><div class="meta">
 <span class="filename">03.wallet.time.locked.png</span><span class="informations">793x611 24.3 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>For the purpose of this tutorial, the date/time is only a few minutes into the future.</p>
@@ -1308,7 +1308,7 @@ Then type command  &gt;sudo apt -y install libgconf2-4&lt;</p>
 <strong>date</strong> <code>01/23/2018 12:40</code></p>
 <h2>4.</h2>
 <p>After clicking <strong>Submit</strong>, you will get the following (example info below so you can verify)</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/9806a8bb940df4cb44a01447968db332a0719ae3.png" data-download-href=".../forum-archive/uploads/default/9806a8bb940df4cb44a01447968db332a0719ae3" title="04.wallet.time.locked.submit.png"><img src=".../forum-archive/uploads/default/original/1X/9806a8bb940df4cb44a01447968db332a0719ae3.png" alt="submit" width="690" height="475"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/9806a8bb940df4cb44a01447968db332a0719ae3.png" data-download-href="../../forum-archive/uploads/default/9806a8bb940df4cb44a01447968db332a0719ae3" title="04.wallet.time.locked.submit.png"><img src="../../forum-archive/uploads/default/original/1X/9806a8bb940df4cb44a01447968db332a0719ae3.png" alt="submit" width="690" height="475"><div class="meta">
 <span class="filename">04.wallet.time.locked.submit.png</span><span class="informations">691x476 17.2 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p><strong>Wallet to send the FUNDS to:</strong><br>
@@ -1321,34 +1321,34 @@ Then type command  &gt;sudo apt -y install libgconf2-4&lt;</p>
 <h2>5.</h2>
 <p>The benefactor only needs to send the <strong>Shareable URL</strong> to the beneficiary, who should STORE the <strong>shareable url</strong> or <strong>redeem script</strong> code somewhere safe (print or write it down or bookmark it).  Its <strong>VERY IMPORTANT</strong> that the beneficiary understands the importance of saving the <strong>shareable url</strong> or <strong>redeem script</strong>, otherwise the funds would stay in the TimeLock address without anyone being able to release them.</p>
 <p>The beneficiary can paste into their browser and they will be able to verify the details of this action (wallets involved and date/time of release).</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/b2b4587cea2463664035df0d3b27241d15a578e2.png" data-download-href=".../forum-archive/uploads/default/b2b4587cea2463664035df0d3b27241d15a578e2" title="05.wallet.time.locked.verify.png"><img src=".../forum-archive/uploads/default/original/1X/b2b4587cea2463664035df0d3b27241d15a578e2.png" alt="verify" width="602" height="499"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/b2b4587cea2463664035df0d3b27241d15a578e2.png" data-download-href="../../forum-archive/uploads/default/b2b4587cea2463664035df0d3b27241d15a578e2" title="05.wallet.time.locked.verify.png"><img src="../../forum-archive/uploads/default/original/1X/b2b4587cea2463664035df0d3b27241d15a578e2.png" alt="verify" width="602" height="499"><div class="meta">
 <span class="filename">05.wallet.time.locked.verify.png</span><span class="informations">709x588 18.3 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h1>REDEEM FUNDS</h1>
 <p>Once the future release date passes, the beneficiary can redeem the funds using the following procedure:</p>
 <h2>1.</h2>
 <p>Beneficiary will create a transaction, (menu &gt; transaction) inputing the <strong>Redeem script</strong> and clicking <strong>Load</strong>. This will load all the details of the transaction. The Beneficiary then will need to input the wallet address that will receive the redeemed funds, and the amount which will have to be a little less (0.99) than the total. This compensates for the network fee (which is calculated automatically - the difference between outputs and inputs is always the fee). Click <strong>Enter</strong> when done.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/c18b44bbb99917b7eeac3eb6dbb2867c0149b067.png" data-download-href=".../forum-archive/uploads/default/c18b44bbb99917b7eeac3eb6dbb2867c0149b067" title="01.create.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/c18b44bbb99917b7eeac3eb6dbb2867c0149b067.png" alt="transaction" width="452" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/c18b44bbb99917b7eeac3eb6dbb2867c0149b067.png" data-download-href="../../forum-archive/uploads/default/c18b44bbb99917b7eeac3eb6dbb2867c0149b067" title="01.create.transaction.png"><img src="../../forum-archive/uploads/default/original/1X/c18b44bbb99917b7eeac3eb6dbb2867c0149b067.png" alt="transaction" width="452" height="500"><div class="meta">
 <span class="filename">01.create.transaction.png</span><span class="informations">720x796 23.6 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>2.</h2>
 <p>The transaction has been created and you can see the generated code to be used for the next step:</p>
-<p><img src=".../forum-archive/uploads/default/original/1X/e8f5e7b2a826f56e5da830fb71f747c89bdc6ca4.png" alt="transaction" width="686" height="290"></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/e8f5e7b2a826f56e5da830fb71f747c89bdc6ca4.png" alt="transaction" width="686" height="290"></p>
 <p><strong>transaction</strong> <code>010000000a1a675a0112de2b4a11579c146f43701eb05692a35ba48d4f095448117ccc77a8301a9773000000002a040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac0000000001c09ee605000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac0011675a</code></p>
 <h2>3.</h2>
 <p>Under menu &gt; sign, the Beneficiary will then <strong>sign the transaction</strong> with their own wallet private key. The<br>
 private key can be found under the <strong>Receive</strong> tab on web wallet.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/79cc2a656450cc7a495679751f3b5b6edd4ee11e.png" data-download-href=".../forum-archive/uploads/default/79cc2a656450cc7a495679751f3b5b6edd4ee11e" title="03.sign.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/79cc2a656450cc7a495679751f3b5b6edd4ee11e.png" alt="transaction" width="690" height="444"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/79cc2a656450cc7a495679751f3b5b6edd4ee11e.png" data-download-href="../../forum-archive/uploads/default/79cc2a656450cc7a495679751f3b5b6edd4ee11e" title="03.sign.transaction.png"><img src="../../forum-archive/uploads/default/original/1X/79cc2a656450cc7a495679751f3b5b6edd4ee11e.png" alt="transaction" width="690" height="444"><div class="meta">
 <span class="filename">03.sign.transaction.png</span><span class="informations">720x464 15.8 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>4.</h2>
 <p>After signing the transaction the following information is created:</p>
-<p><img src=".../forum-archive/uploads/default/original/1X/f65f03da3960c6871f30dd36da037de56fd6d0a2.png" alt="transaction" width="662" height="242"></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/f65f03da3960c6871f30dd36da037de56fd6d0a2.png" alt="transaction" width="662" height="242"></p>
 <p><strong>signed transaction</strong> <code>010000000a1a675a0112de2b4a11579c146f43701eb05692a35ba48d4f095448117ccc77a8301a97730000000074483045022100b98759bfeec796d7a9292ae18b6f0b591ed48dac49829356f3b002394c87ff4402203e7fd949357e493c6212aff84806560572afb236cb40c8fb924a1ba2ef7c09d4012a040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac0000000001c09ee605000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac0011675a</code></p>
 <p><em><strong>Note:</strong> One can also verify the <strong>signed transaction</strong> by going to <strong>menu &gt; verify</strong></em></p>
 <h2>5.</h2>
 <p>Lastly, under <strong>menu &gt; broadcast</strong>, the Beneficiary will broadcast the <strong>signed transaction</strong>.  If successful, this will produce a transaction ID. If not successful, simply wait a few moments and try again.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1.png" data-download-href=".../forum-archive/uploads/default/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1" title="05.broadcast.signed.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1.png" alt="transaction" width="690" height="399"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1.png" data-download-href="../../forum-archive/uploads/default/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1" title="05.broadcast.signed.transaction.png"><img src="../../forum-archive/uploads/default/original/1X/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1.png" alt="transaction" width="690" height="399"><div class="meta">
 <span class="filename">05.broadcast.signed.transaction.png</span><span class="informations">708x410 17.6 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>After it has been succesfully broadcast the funds will be released and the receiving address used in step 1 should see them shortly.</p>
@@ -1363,22 +1363,22 @@ private key can be found under the <strong>Receive</strong> tab on web wallet.</
             </blockquote>
             <p>Posts: 9</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008</link>
+          <link>../../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008</link>
           <pubDate>Tue, 23 Jan 2018 11:10:10 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1008</guid>
-          <source url=".../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008.rss">Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
+          <source url="../../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008.rss">Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
         </item>
         <item>
           <title>How to purchase BAY through BitBay&#39;s marketplace</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <h2>Step 1:</h2>
 <p>Download and install Bitbay client software here: <a href="https://bitbay.market/downloads">https://bitbay.market/downloads</a><br>
@@ -1386,80 +1386,80 @@ private key can be found under the <strong>Receive</strong> tab on web wallet.</
 <h2>Step 2:</h2>
 <p>Once the client has been downloaded, and synced 100% with the blockchain, click on the “Buy/Sell Coins” icon, located on the home tab of the client.</p>
 <p>Then select the “Buy Coins” option in following the pop-up window.<br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd.png" data-download-href=".../forum-archive/uploads/default/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd" title="1.png"><img src=".../forum-archive/uploads/default/optimized/1X/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd_1_690x490.png" alt="1" width="690" height="490" srcset=".../forum-archive/uploads/default/optimized/1X/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd_1_690x490.png, .../forum-archive/uploads/default/optimized/1X/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd_1_1035x735.png 1.5x, .../forum-archive/uploads/default/optimized/1X/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd_1_1380x980.png 2x"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd.png" data-download-href="../../forum-archive/uploads/default/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd" title="1.png"><img src="../../forum-archive/uploads/default/optimized/1X/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd_1_690x490.png" alt="1" width="690" height="490" srcset="../../forum-archive/uploads/default/optimized/1X/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd_1_690x490.png, ../../forum-archive/uploads/default/optimized/1X/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd_1_1035x735.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd_1_1380x980.png 2x"><div class="meta">
 <span class="filename">1.png</span><span class="informations">1948x1386 162 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>Step 3:</h2>
 <p>Select either “Market Price” or “Price per coin”. Market Price will automatically calculate current exchange rates, while Price per coin will allow you to enter a custom exchange rate.<br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/287212dd5c2c7d4b425a002e373da51aa16fe129.png" data-download-href=".../forum-archive/uploads/default/287212dd5c2c7d4b425a002e373da51aa16fe129" title="2.png"><img src=".../forum-archive/uploads/default/original/1X/287212dd5c2c7d4b425a002e373da51aa16fe129.png" alt="2" width="519" height="500"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/287212dd5c2c7d4b425a002e373da51aa16fe129.png" data-download-href="../../forum-archive/uploads/default/287212dd5c2c7d4b425a002e373da51aa16fe129" title="2.png"><img src="../../forum-archive/uploads/default/original/1X/287212dd5c2c7d4b425a002e373da51aa16fe129.png" alt="2" width="519" height="500"><div class="meta">
 <span class="filename">2.png</span><span class="informations">1416x1364 30.4 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>Step 4:</h2>
 <p>Enter the amount of coins you would like to purchase. (You can also request a specific amount in US Dollars) Then set a maximum service charge that the seller pays for being a guarantor (see step 6 for full explanation)<br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/b173361457996d168eaac6b7e47a12454884545a.png" data-download-href=".../forum-archive/uploads/default/b173361457996d168eaac6b7e47a12454884545a" title="3.png"><img src=".../forum-archive/uploads/default/original/1X/b173361457996d168eaac6b7e47a12454884545a.png" alt="3" width="690" height="332"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/b173361457996d168eaac6b7e47a12454884545a.png" data-download-href="../../forum-archive/uploads/default/b173361457996d168eaac6b7e47a12454884545a" title="3.png"><img src="../../forum-archive/uploads/default/original/1X/b173361457996d168eaac6b7e47a12454884545a.png" alt="3" width="690" height="332"><div class="meta">
 <span class="filename">3.png</span><span class="informations">1358x654 18.5 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>Step 5</h2>
 <p><em>This is very important</em>. Choose how you want to arrange the deposits. If you do not currently own any BAY for a deposit, simply select “Request a Guarantor”. With this scenario, the seller will lock in a deposit of BAY equal to the payment amount you are sending, and you will send them your payment first. If either party cheats, both will lose, which removes economic incentives for dishonesty. Also with this scenario, the first-time buyer does take on more risk. You (the buyer) can adjust the service charge to compensate for this.</p>
 <p>It is also highly recommended that you perform your own “Know Your Customer” (KYC) verification for the other party. This can be done through requesting a copy of their ID/Driver’s License, verifying contact information, viewing their previous BitBay contract reputation, or even checking social media profiles etc.</p>
 <p>If you already own some BAY to use as a deposit, you may select the recommended option (which is an equal amount for both parties), or tailor custom deposits depending on your risk tolerance.<br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/984c54c95c8ecfb565959b4a593797d253c8c2b3.png" data-download-href=".../forum-archive/uploads/default/984c54c95c8ecfb565959b4a593797d253c8c2b3" title="4.png"><img src=".../forum-archive/uploads/default/original/1X/984c54c95c8ecfb565959b4a593797d253c8c2b3.png" alt="4" width="690" height="372"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/984c54c95c8ecfb565959b4a593797d253c8c2b3.png" data-download-href="../../forum-archive/uploads/default/984c54c95c8ecfb565959b4a593797d253c8c2b3" title="4.png"><img src="../../forum-archive/uploads/default/original/1X/984c54c95c8ecfb565959b4a593797d253c8c2b3.png" alt="4" width="690" height="372"><div class="meta">
 <span class="filename">4.png</span><span class="informations">1384x748 19 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>Step 6:</h2>
 <p>Select your preferred payment methods. If you have any additional comments or requests regarding the transaction or other payment options, you may enter them here. Then click “Save and Continue” to review everything.<br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/6155d98f5534955fd8fb93ac8998f69f316a0fa5.png" data-download-href=".../forum-archive/uploads/default/6155d98f5534955fd8fb93ac8998f69f316a0fa5" title="5.png"><img src=".../forum-archive/uploads/default/original/1X/6155d98f5534955fd8fb93ac8998f69f316a0fa5.png" alt="5" width="500" height="500"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/6155d98f5534955fd8fb93ac8998f69f316a0fa5.png" data-download-href="../../forum-archive/uploads/default/6155d98f5534955fd8fb93ac8998f69f316a0fa5" title="5.png"><img src="../../forum-archive/uploads/default/original/1X/6155d98f5534955fd8fb93ac8998f69f316a0fa5.png" alt="5" width="500" height="500"><div class="meta">
 <span class="filename">5.png</span><span class="informations">1384x1382 37.4 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>Step 7:</h2>
 <p>Review the information for your contract. You have the option place your contract in the BitBay marketplace, or create a custom marketplace. The BitBay marketplace is most common and will give your contract the most exposure to potential sellers.</p>
 <p>For buying/selling coins, it is strongly recommended that you do not automatically accept valid offers. This will allow you to obtain the proper KYC information from the seller before accepting their offer.<br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/ec85d2c0dedf97352e546b45949676fe8b759f96.png" data-download-href=".../forum-archive/uploads/default/ec85d2c0dedf97352e546b45949676fe8b759f96" title="6.png"><img src=".../forum-archive/uploads/default/original/1X/ec85d2c0dedf97352e546b45949676fe8b759f96.png" alt="6" width="514" height="500"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/ec85d2c0dedf97352e546b45949676fe8b759f96.png" data-download-href="../../forum-archive/uploads/default/ec85d2c0dedf97352e546b45949676fe8b759f96" title="6.png"><img src="../../forum-archive/uploads/default/original/1X/ec85d2c0dedf97352e546b45949676fe8b759f96.png" alt="6" width="514" height="500"><div class="meta">
 <span class="filename">6.png</span><span class="informations">1388x1350 40.9 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>Step 8:</h2>
 <p>Click “Confirm Order” to send out the contract. You will be asked to enter the passwords for both of your keys. The contract will show up in the BitBay marketplace shortly after.<br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/458229c9dda335ed7c7cae249c41130449f5b06c.png" data-download-href=".../forum-archive/uploads/default/458229c9dda335ed7c7cae249c41130449f5b06c" title="7.png"><img src=".../forum-archive/uploads/default/optimized/1X/458229c9dda335ed7c7cae249c41130449f5b06c_1_690x452.png" alt="7" width="690" height="452" srcset=".../forum-archive/uploads/default/optimized/1X/458229c9dda335ed7c7cae249c41130449f5b06c_1_690x452.png, .../forum-archive/uploads/default/optimized/1X/458229c9dda335ed7c7cae249c41130449f5b06c_1_1035x678.png 1.5x, .../forum-archive/uploads/default/optimized/1X/458229c9dda335ed7c7cae249c41130449f5b06c_1_1380x904.png 2x"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/458229c9dda335ed7c7cae249c41130449f5b06c.png" data-download-href="../../forum-archive/uploads/default/458229c9dda335ed7c7cae249c41130449f5b06c" title="7.png"><img src="../../forum-archive/uploads/default/optimized/1X/458229c9dda335ed7c7cae249c41130449f5b06c_1_690x452.png" alt="7" width="690" height="452" srcset="../../forum-archive/uploads/default/optimized/1X/458229c9dda335ed7c7cae249c41130449f5b06c_1_690x452.png, ../../forum-archive/uploads/default/optimized/1X/458229c9dda335ed7c7cae249c41130449f5b06c_1_1035x678.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/458229c9dda335ed7c7cae249c41130449f5b06c_1_1380x904.png 2x"><div class="meta">
 <span class="filename">7.png</span><span class="informations">1964x1288 220 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>Step 9:</h2>
 <p>When somebody sends you an offer, the client will notify you (and even send an email if desired). At this point, you can complete your KYC verification and exchange all necessary information from the seller. Then, you can accept the offer under the “pending offers” tab.<br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/43843b023dcf87354da1a59ae26f51050b078e2c.jpg" data-download-href=".../forum-archive/uploads/default/43843b023dcf87354da1a59ae26f51050b078e2c" title="8.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/43843b023dcf87354da1a59ae26f51050b078e2c_1_690x345.jpg" alt="8" width="690" height="345" srcset=".../forum-archive/uploads/default/optimized/1X/43843b023dcf87354da1a59ae26f51050b078e2c_1_690x345.jpg, .../forum-archive/uploads/default/optimized/1X/43843b023dcf87354da1a59ae26f51050b078e2c_1_1035x517.jpg 1.5x, .../forum-archive/uploads/default/optimized/1X/43843b023dcf87354da1a59ae26f51050b078e2c_1_1380x690.jpg 2x"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/43843b023dcf87354da1a59ae26f51050b078e2c.jpg" data-download-href="../../forum-archive/uploads/default/43843b023dcf87354da1a59ae26f51050b078e2c" title="8.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/43843b023dcf87354da1a59ae26f51050b078e2c_1_690x345.jpg" alt="8" width="690" height="345" srcset="../../forum-archive/uploads/default/optimized/1X/43843b023dcf87354da1a59ae26f51050b078e2c_1_690x345.jpg, ../../forum-archive/uploads/default/optimized/1X/43843b023dcf87354da1a59ae26f51050b078e2c_1_1035x517.jpg 1.5x, ../../forum-archive/uploads/default/optimized/1X/43843b023dcf87354da1a59ae26f51050b078e2c_1_1380x690.jpg 2x"><div class="meta">
 <span class="filename">8.jpg</span><span class="informations">2528x1266 303 KB</span><span class="expand"></span>
 </div></a></div></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/f381baa2bf3f90d7b19a18591f0480698119a011.jpg" data-download-href=".../forum-archive/uploads/default/f381baa2bf3f90d7b19a18591f0480698119a011" title="9.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/f381baa2bf3f90d7b19a18591f0480698119a011_1_690x194.jpg" alt="9" width="690" height="194" srcset=".../forum-archive/uploads/default/optimized/1X/f381baa2bf3f90d7b19a18591f0480698119a011_1_690x194.jpg, .../forum-archive/uploads/default/optimized/1X/f381baa2bf3f90d7b19a18591f0480698119a011_1_1035x291.jpg 1.5x, .../forum-archive/uploads/default/optimized/1X/f381baa2bf3f90d7b19a18591f0480698119a011_1_1380x388.jpg 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/f381baa2bf3f90d7b19a18591f0480698119a011.jpg" data-download-href="../../forum-archive/uploads/default/f381baa2bf3f90d7b19a18591f0480698119a011" title="9.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/f381baa2bf3f90d7b19a18591f0480698119a011_1_690x194.jpg" alt="9" width="690" height="194" srcset="../../forum-archive/uploads/default/optimized/1X/f381baa2bf3f90d7b19a18591f0480698119a011_1_690x194.jpg, ../../forum-archive/uploads/default/optimized/1X/f381baa2bf3f90d7b19a18591f0480698119a011_1_1035x291.jpg 1.5x, ../../forum-archive/uploads/default/optimized/1X/f381baa2bf3f90d7b19a18591f0480698119a011_1_1380x388.jpg 2x"><div class="meta">
 <span class="filename">9.jpg</span><span class="informations">2746x774 444 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>Step 10:</h2>
 <p>Send the seller your funds via your preferred method (Western Union, cash in the mail, wire transfer etc.). With their deposit now locked up in escrow, there is no incentive for them to be dishonest during the transaction.<br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/847ba2a3016c082f21111ba996ffa626ce01aff5.jpg" data-download-href=".../forum-archive/uploads/default/847ba2a3016c082f21111ba996ffa626ce01aff5" title="image.jpg"><img src=".../forum-archive/uploads/default/original/1X/847ba2a3016c082f21111ba996ffa626ce01aff5.jpg" alt="image" width="687" height="500"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/847ba2a3016c082f21111ba996ffa626ce01aff5.jpg" data-download-href="../../forum-archive/uploads/default/847ba2a3016c082f21111ba996ffa626ce01aff5" title="image.jpg"><img src="../../forum-archive/uploads/default/original/1X/847ba2a3016c082f21111ba996ffa626ce01aff5.jpg" alt="image" width="687" height="500"><div class="meta">
 <span class="filename">image.jpg</span><span class="informations">780x567 84.9 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>Step 11:</h2>
 <p>Once the seller receives your funds, you both will have to complete the contract on either end. At this point, your new BAY will be sent directly to your client wallet, and the transaction is complete. You can also check under history tab for transaction confirmation.<br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/b0dc9d930a63893cb74df964ad39ce2c39589f04.jpg" data-download-href=".../forum-archive/uploads/default/b0dc9d930a63893cb74df964ad39ce2c39589f04" title="image.jpg"><img src=".../forum-archive/uploads/default/original/1X/b0dc9d930a63893cb74df964ad39ce2c39589f04.jpg" alt="image" width="690" height="499"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/b0dc9d930a63893cb74df964ad39ce2c39589f04.jpg" data-download-href="../../forum-archive/uploads/default/b0dc9d930a63893cb74df964ad39ce2c39589f04" title="image.jpg"><img src="../../forum-archive/uploads/default/original/1X/b0dc9d930a63893cb74df964ad39ce2c39589f04.jpg" alt="image" width="690" height="499"><div class="meta">
 <span class="filename">image.jpg</span><span class="informations">780x565 85 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>You can also view a video explanation of this entire process <a href="https://youtu.be/jQM2L1Qt_BM"><strong>here</strong></a>.</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-to-purchase-bay-through-bitbays-marketplace/1010">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-purchase-bay-through-bitbays-marketplace/1010">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-purchase-bay-through-bitbays-marketplace/1010</link>
+          <link>../../forum-archive/t/how-to-purchase-bay-through-bitbays-marketplace/1010</link>
           <pubDate>Wed, 24 Jan 2018 00:43:26 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1010</guid>
-          <source url=".../forum-archive/t/how-to-purchase-bay-through-bitbays-marketplace/1010.rss">How to purchase BAY through BitBay&#39;s marketplace</source>
+          <source url="../../forum-archive/t/how-to-purchase-bay-through-bitbays-marketplace/1010.rss">How to purchase BAY through BitBay&#39;s marketplace</source>
         </item>
         <item>
           <title>Multisig Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
           <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <p><a href="../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
             <blockquote>
               <p>The enhanced web wallet has the capability to create a multisig wallet with up to 15 participants. In simple terms, this is a joint account/wallet controlled by up to 15 individuals.</p>
 <p><em><strong>DISCLAIMER:</strong></em> You are advised to use this feature with small amounts of BAY until completely understanding the process and the implications. There is always a posibility to lose your funds if something is not done properly.</p>
@@ -1471,7 +1471,7 @@ public key2 <code>025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2
 public key3 <code>024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f912</code></p>
 <h2>1.</h2>
 <p>From the web wallet dropdown menu choose <strong>multisig address</strong> and fill in the 3 keys given. Leave the 2 <strong>required signatures</strong> in place and press submit.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/7289dec20e8fe4b10f1f221c0fcd738564f94d42.png" data-download-href=".../forum-archive/uploads/default/7289dec20e8fe4b10f1f221c0fcd738564f94d42" title="1.new.multisig.png"><img src=".../forum-archive/uploads/default/original/1X/7289dec20e8fe4b10f1f221c0fcd738564f94d42.png" alt="multisig" width="666" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/7289dec20e8fe4b10f1f221c0fcd738564f94d42.png" data-download-href="../../forum-archive/uploads/default/7289dec20e8fe4b10f1f221c0fcd738564f94d42" title="1.new.multisig.png"><img src="../../forum-archive/uploads/default/original/1X/7289dec20e8fe4b10f1f221c0fcd738564f94d42.png" alt="multisig" width="666" height="500"><div class="meta">
 <span class="filename">1.new.multisig.png</span><span class="informations">872x654 27.9 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>2.</h2>
@@ -1479,11 +1479,11 @@ public key3 <code>024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24
 <p><strong>Address</strong> <code>bUnqfZPjfcagU3XBLUpTGsEqA2urHt19Yn</code><br>
 <strong>Redeem Script</strong> <code>5221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253ae</code><br>
 <strong>Shareable URL</strong> <code>https://wallet.bitbay.market/_test123_/?verify=5221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253ae#verify</code></p>
-<p><img src=".../forum-archive/uploads/default/original/1X/aa3f98a766cd67064fe682a9878e5a45d10a1fec.png" alt="multisig" width="665" height="405"></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/aa3f98a766cd67064fe682a9878e5a45d10a1fec.png" alt="multisig" width="665" height="405"></p>
 <p><strong>NOTE:</strong> It is important to note that the <strong>redeem script</strong> or <strong>shareable URL</strong> have to be kept somewhere safe otherwise any funds that go into this account will not be able to be redeemed. The above info can be kept just in case by more than one participant in a safe place (text file, print, bookmark).</p>
 <h2>3.</h2>
 <p>You can verify the previous script using either the <strong>shareable URL</strong> above or pasting the <strong>redeem script</strong> using the <strong>verify</strong> panel from the drop down menu:</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/e47993a4077a767640a94fbff4bbe93a576c9e0a.png" data-download-href=".../forum-archive/uploads/default/e47993a4077a767640a94fbff4bbe93a576c9e0a" title="3.verify.multisig.png"><img src=".../forum-archive/uploads/default/original/1X/e47993a4077a767640a94fbff4bbe93a576c9e0a.png" alt="multisig" width="482" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/e47993a4077a767640a94fbff4bbe93a576c9e0a.png" data-download-href="../../forum-archive/uploads/default/e47993a4077a767640a94fbff4bbe93a576c9e0a" title="3.verify.multisig.png"><img src="../../forum-archive/uploads/default/original/1X/e47993a4077a767640a94fbff4bbe93a576c9e0a.png" alt="multisig" width="482" height="500"><div class="meta">
 <span class="filename">3.verify.multisig.png</span><span class="informations">707x733 49.5 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>4.</h2>
@@ -1493,7 +1493,7 @@ public key3 <code>024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24
 <h2>1.</h2>
 <p>On the web wallet we go to <em><strong>TRANSACTION</strong></em> from the <em><strong>DROP DOWN MENU</strong></em>, paste the <strong>redeem script</strong> that we have and press <strong>LOAD</strong>. After a few seconds the form will be filled with all relevant information pertaining to this multisig account. The input tab will say <strong>inputs 1.0000</strong> which means the wallet has 1 BAY in it.</p>
 <p>We have to specify the <strong>output(s)</strong> which means where the funds will go.  We could have multiple output addresses but for the purpose of this tutorial  we will only send the funds to 1 address.  We input the amount that the wallet(s) will receive.  We should not get the full amount but the amount after subtracting the transaction fee,  0.001 will suffice. <strong>Be careful</strong> as the transaction fee is autocalculated to be the remainder. For example, if we input 0.999 the fee becomes 0.001. After filling in this information we <em><strong>SUBMIT</strong></em> the form:</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/55244cfd5a442798fe17bf8122b4ca355552071a.png" data-download-href=".../forum-archive/uploads/default/55244cfd5a442798fe17bf8122b4ca355552071a" title="1.create.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/55244cfd5a442798fe17bf8122b4ca355552071a.png" alt="transaction" width="514" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/55244cfd5a442798fe17bf8122b4ca355552071a.png" data-download-href="../../forum-archive/uploads/default/55244cfd5a442798fe17bf8122b4ca355552071a" title="1.create.transaction.png"><img src="../../forum-archive/uploads/default/original/1X/55244cfd5a442798fe17bf8122b4ca355552071a.png" alt="transaction" width="514" height="500"><div class="meta">
 <span class="filename">1.create.transaction.png</span><span class="informations">712x692 21.7 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p><em>The wallet used to redeem the funds in this case: <code>B4w8iuDJ6iSpf1kzw3tcVFrChMtv1QEHeU</code></em></p>
@@ -1502,25 +1502,25 @@ public key3 <code>024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24
 <h2>2.</h2>
 <p>As a result of SUBMITTING the form we get the following <strong>RAW transaction</strong><br>
 <code>010000009d5a6b5a027539a82f516fb22a61a22c7acd8574ece8e154ac77aa120f7880365375ca9d9f00000000695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff5b85426233ba2ae502c759d3a433e5def655d1fbdf97c4b5059e77b9744ca23300000000695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff01605af405000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac00000000</code></p>
-<p><img src=".../forum-archive/uploads/default/original/1X/71d264ffb99f58502d25ea7698bdd96cb0fce8e8.png" alt="transaction" width="655" height="271"></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/71d264ffb99f58502d25ea7698bdd96cb0fce8e8.png" alt="transaction" width="655" height="271"></p>
 <h2>3.</h2>
 <p>We now go to the <strong>sign</strong> panel from the drop down menu and we use as inputs the transaction and the private key for 1 of the wallets involved (as we said we have 3 wallets / 3 participants). Below is the <strong>signed transaction</strong>.</p>
 <p><em><strong>NOTE</strong> The order we sign the transactions should be the same order we used to create the multisig address. For the purpose of this turorial we are using the 2nd wallet’s private key on this step.</em></p>
 <p><code>010000009d5a6b5a027539a82f516fb22a61a22c7acd8574ece8e154ac77aa120f7880365375ca9d9f00000000b500483045022100b5d746bcc0f9305f342a694cee67b504071a6313055cfd1c25db0101b2b79bcb022072791987c327900b1c657e4d98ceb7105e5e6755c3eaf74c2b22db583f35fa47014c695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff5b85426233ba2ae502c759d3a433e5def655d1fbdf97c4b5059e77b9744ca23300000000b40047304402207d2094abd103ec6e66ed6b16fc03fe3b87ed55de0e490a590079a76aec492ee90220374e127912d51fd5f905a0873e32a8daa27bda9c09a547f3cd81f56b718ee6f9014c695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff01605af405000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac00000000</code></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/421d0da92185b322fff87d824dc7e373b6fc9ae5.png" data-download-href=".../forum-archive/uploads/default/421d0da92185b322fff87d824dc7e373b6fc9ae5" title="3.signed.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/421d0da92185b322fff87d824dc7e373b6fc9ae5.png" alt="transaction" width="476" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/421d0da92185b322fff87d824dc7e373b6fc9ae5.png" data-download-href="../../forum-archive/uploads/default/421d0da92185b322fff87d824dc7e373b6fc9ae5" title="3.signed.transaction.png"><img src="../../forum-archive/uploads/default/original/1X/421d0da92185b322fff87d824dc7e373b6fc9ae5.png" alt="transaction" width="476" height="500"><div class="meta">
 <span class="filename">3.signed.transaction.png</span><span class="informations">707x742 35.3 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>4.</h2>
 <p>We send this signed transaction to one of the other participants to sign using the same process and we get this twice <strong>signed transaction</strong>:</p>
 <p><em><strong>NOTE</strong> The 2nd party involved in this step cannot change where the funds are redeemed and any intercepting parties cannot either so this transaction can also be transmitted through insecure channels.  The receiving party has the ability to verify (using the verify panel) that the funds are going to an agreed upon wallet.</em></p>
 <p><code>010000009d5a6b5a027539a82f516fb22a61a22c7acd8574ece8e154ac77aa120f7880365375ca9d9f00000000fdfe0000483045022100b5d746bcc0f9305f342a694cee67b504071a6313055cfd1c25db0101b2b79bcb022072791987c327900b1c657e4d98ceb7105e5e6755c3eaf74c2b22db583f35fa4701483045022100d580d92cd78bded467848f37bc2651035bb80e95c18759c65271eef1f2ca3f05022042a85cc6eb33e0f834dcc9b0310cbdbca84fe069b91ebdf38d516673a4ffaa9e014c695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff5b85426233ba2ae502c759d3a433e5def655d1fbdf97c4b5059e77b9744ca23300000000fc0047304402207d2094abd103ec6e66ed6b16fc03fe3b87ed55de0e490a590079a76aec492ee90220374e127912d51fd5f905a0873e32a8daa27bda9c09a547f3cd81f56b718ee6f90147304402200da015d23651d8f7ad2aa81374bf643664f6ce14e105fb69b263c74eb9ad42840220155f7c8f046a304f824f8e9eba00fa739c0b98f28c1d16ef21e89321be675da0014c695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff01605af405000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac00000000</code></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/c09d7a5068d1b1645d0cbb4020e016656af1067d.png" data-download-href=".../forum-archive/uploads/default/c09d7a5068d1b1645d0cbb4020e016656af1067d" title="4.signed.twice.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/c09d7a5068d1b1645d0cbb4020e016656af1067d.png" alt="transaction" width="472" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/c09d7a5068d1b1645d0cbb4020e016656af1067d.png" data-download-href="../../forum-archive/uploads/default/c09d7a5068d1b1645d0cbb4020e016656af1067d" title="4.signed.twice.transaction.png"><img src="../../forum-archive/uploads/default/original/1X/c09d7a5068d1b1645d0cbb4020e016656af1067d.png" alt="transaction" width="472" height="500"><div class="meta">
 <span class="filename">4.signed.twice.transaction.png</span><span class="informations">708x749 35.2 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>5.</h2>
 <p>We Broadcast the signed transaction and once everything is ok we receive the <a href="https://chainz.cryptoid.info/bay/search.dws?q=7b6109bef2ec8dfce4e0dac710c4ab5c2b7e91c48877c165667718a9cb4e5d29">TX ID</a> shown below:</p>
 <p><em><strong>NOTE:</strong> The time of the last signing to the broadcasting should not be too long otherwise we might receive a transaction error and the network would refuse our transaction.</em></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/7e2f5c0b38a973e0d361b0f5d79335e86bb2aa6e.png" data-download-href=".../forum-archive/uploads/default/7e2f5c0b38a973e0d361b0f5d79335e86bb2aa6e" title="5.broadcast.signed.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/7e2f5c0b38a973e0d361b0f5d79335e86bb2aa6e.png" alt="transaction" width="690" height="408"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/7e2f5c0b38a973e0d361b0f5d79335e86bb2aa6e.png" data-download-href="../../forum-archive/uploads/default/7e2f5c0b38a973e0d361b0f5d79335e86bb2aa6e" title="5.broadcast.signed.transaction.png"><img src="../../forum-archive/uploads/default/original/1X/7e2f5c0b38a973e0d361b0f5d79335e86bb2aa6e.png" alt="transaction" width="690" height="408"><div class="meta">
 <span class="filename">5.broadcast.signed.transaction.png</span><span class="informations">711x421 19.1 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p><strong>CLOSING NOTES:</strong></p>
@@ -1534,127 +1534,127 @@ public key3 <code>024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/multisig-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1024">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/multisig-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1024">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/multisig-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1024</link>
+          <link>../../forum-archive/t/multisig-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1024</link>
           <pubDate>Thu, 25 Jan 2018 15:53:22 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1024</guid>
-          <source url=".../forum-archive/t/multisig-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1024.rss">Multisig Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
+          <source url="../../forum-archive/t/multisig-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1024.rss">Multisig Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
         </item>
         <item>
           <title>Creating wallet within the BitBAY Web-based Marketplace (WMP)</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <h1><strong>Creating a new WMP wallet</strong></h1>
 <p><strong>1. Go to <a href="https://beta.bitbay.market/wallet/create">https://beta.bitbay.market/wallet/create</a></strong><br>
 <br>
 <br>
 <strong>2. Read the terms of use (pop-up window), and click “Understood”.</strong></p>
-<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/b1dde21845c32d4c43504dcb91994d0a1b9acd9f.png" data-download-href=".../forum-archive/uploads/default/b1dde21845c32d4c43504dcb91994d0a1b9acd9f" title="InKAL6lGifpfM0TTbWf4T-wQtd59qjCDr0Q3fwGn6FLBrIcsfC6YIyWvy-qirfutef2yjfy0-n9hfk1I3p3dPpVCVHxQix0VukBLPvSRl_lDuRTVspya2KAIpZv3nDpXhG78KAZH.png"><img src=".../forum-archive/uploads/default/optimized/1X/b1dde21845c32d4c43504dcb91994d0a1b9acd9f_1_365x237.png" alt width="365" height="237" srcset=".../forum-archive/uploads/default/optimized/1X/b1dde21845c32d4c43504dcb91994d0a1b9acd9f_1_365x237.png, .../forum-archive/uploads/default/optimized/1X/b1dde21845c32d4c43504dcb91994d0a1b9acd9f_1_547x355.png 1.5x, .../forum-archive/uploads/default/optimized/1X/b1dde21845c32d4c43504dcb91994d0a1b9acd9f_1_730x474.png 2x"><div class="meta">
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/b1dde21845c32d4c43504dcb91994d0a1b9acd9f.png" data-download-href="../../forum-archive/uploads/default/b1dde21845c32d4c43504dcb91994d0a1b9acd9f" title="InKAL6lGifpfM0TTbWf4T-wQtd59qjCDr0Q3fwGn6FLBrIcsfC6YIyWvy-qirfutef2yjfy0-n9hfk1I3p3dPpVCVHxQix0VukBLPvSRl_lDuRTVspya2KAIpZv3nDpXhG78KAZH.png"><img src="../../forum-archive/uploads/default/optimized/1X/b1dde21845c32d4c43504dcb91994d0a1b9acd9f_1_365x237.png" alt width="365" height="237" srcset="../../forum-archive/uploads/default/optimized/1X/b1dde21845c32d4c43504dcb91994d0a1b9acd9f_1_365x237.png, ../../forum-archive/uploads/default/optimized/1X/b1dde21845c32d4c43504dcb91994d0a1b9acd9f_1_547x355.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/b1dde21845c32d4c43504dcb91994d0a1b9acd9f_1_730x474.png 2x"><div class="meta">
 <span class="filename">InKAL6lGifpfM0TTbWf4T-wQtd59qjCDr0Q3fwGn6FLBrIcsfC6YIyWvy-qirfutef2yjfy0-n9hfk1I3p3dPpVCVHxQix0VukBLPvSRl_lDuRTVspya2KAIpZv3nDpXhG78KAZH.png</span><span class="informations">1112x716 80.5 KB</span><span class="expand"></span>
 </div></a></div></strong><br>
 <br>
 <br>
 <strong>3. Then, click “Generate Unique Passphrase”.</strong></p>
-<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/1cfb264003e3901f6aa30d09c0bab3fa9d197818.png" data-download-href=".../forum-archive/uploads/default/1cfb264003e3901f6aa30d09c0bab3fa9d197818" title="vf2afD3tUxTQ27LefO2cLoqpdsaoqVloxT9UNAYbaNagoU07WwLrWMFtMsyCyUjDtLmNQ4QBkjr7Iyf5P3nJzZohGD9yx7eY-ptYsUUXUADqN_s7lNu5Owe077fMy-i198BNQnL3.png"><img src=".../forum-archive/uploads/default/optimized/1X/1cfb264003e3901f6aa30d09c0bab3fa9d197818_1_528x204.png" alt width="528" height="204" srcset=".../forum-archive/uploads/default/optimized/1X/1cfb264003e3901f6aa30d09c0bab3fa9d197818_1_528x204.png, .../forum-archive/uploads/default/optimized/1X/1cfb264003e3901f6aa30d09c0bab3fa9d197818_1_792x306.png 1.5x, .../forum-archive/uploads/default/optimized/1X/1cfb264003e3901f6aa30d09c0bab3fa9d197818_1_1056x408.png 2x"><div class="meta">
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/1cfb264003e3901f6aa30d09c0bab3fa9d197818.png" data-download-href="../../forum-archive/uploads/default/1cfb264003e3901f6aa30d09c0bab3fa9d197818" title="vf2afD3tUxTQ27LefO2cLoqpdsaoqVloxT9UNAYbaNagoU07WwLrWMFtMsyCyUjDtLmNQ4QBkjr7Iyf5P3nJzZohGD9yx7eY-ptYsUUXUADqN_s7lNu5Owe077fMy-i198BNQnL3.png"><img src="../../forum-archive/uploads/default/optimized/1X/1cfb264003e3901f6aa30d09c0bab3fa9d197818_1_528x204.png" alt width="528" height="204" srcset="../../forum-archive/uploads/default/optimized/1X/1cfb264003e3901f6aa30d09c0bab3fa9d197818_1_528x204.png, ../../forum-archive/uploads/default/optimized/1X/1cfb264003e3901f6aa30d09c0bab3fa9d197818_1_792x306.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/1cfb264003e3901f6aa30d09c0bab3fa9d197818_1_1056x408.png 2x"><div class="meta">
 <span class="filename">vf2afD3tUxTQ27LefO2cLoqpdsaoqVloxT9UNAYbaNagoU07WwLrWMFtMsyCyUjDtLmNQ4QBkjr7Iyf5P3nJzZohGD9yx7eY-ptYsUUXUADqN_s7lNu5Owe077fMy-i198BNQnL3.png</span><span class="informations">1600x571 109 KB</span><span class="expand"></span>
 </div></a></div></strong><br>
 <br>
 <br>
 <strong>4. Write down each of the 12 keywords that appear <a href="https://en.bitcoin.it/wiki/Seed_phrase">(mnemonic seed phrase)</a>, in exact order, and each line from left to right. Alternatively, you can simply click within the box to copy them, and manually paste into a text file or document.</strong></p>
-<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/1a89e46fccba3d38b0186f9a1b3b04408e07382f.png" data-download-href=".../forum-archive/uploads/default/1a89e46fccba3d38b0186f9a1b3b04408e07382f" title="GIq1qmBgLeq_hnKcahUreHfZuY1OFeX-gT0WmIZv2zY0MkeYMSKNakA_5CXEq7t-a8-i7RJogmUppVSQixYzUpEMa_1yKB9f-9kJAN6Q73zpaq6NAIHghoPtV90YatVUOpL58YQW.png"><img src=".../forum-archive/uploads/default/optimized/1X/1a89e46fccba3d38b0186f9a1b3b04408e07382f_1_451x148.png" alt width="451" height="148" srcset=".../forum-archive/uploads/default/optimized/1X/1a89e46fccba3d38b0186f9a1b3b04408e07382f_1_451x148.png, .../forum-archive/uploads/default/optimized/1X/1a89e46fccba3d38b0186f9a1b3b04408e07382f_1_676x222.png 1.5x, .../forum-archive/uploads/default/optimized/1X/1a89e46fccba3d38b0186f9a1b3b04408e07382f_1_902x296.png 2x"><div class="meta">
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/1a89e46fccba3d38b0186f9a1b3b04408e07382f.png" data-download-href="../../forum-archive/uploads/default/1a89e46fccba3d38b0186f9a1b3b04408e07382f" title="GIq1qmBgLeq_hnKcahUreHfZuY1OFeX-gT0WmIZv2zY0MkeYMSKNakA_5CXEq7t-a8-i7RJogmUppVSQixYzUpEMa_1yKB9f-9kJAN6Q73zpaq6NAIHghoPtV90YatVUOpL58YQW.png"><img src="../../forum-archive/uploads/default/optimized/1X/1a89e46fccba3d38b0186f9a1b3b04408e07382f_1_451x148.png" alt width="451" height="148" srcset="../../forum-archive/uploads/default/optimized/1X/1a89e46fccba3d38b0186f9a1b3b04408e07382f_1_451x148.png, ../../forum-archive/uploads/default/optimized/1X/1a89e46fccba3d38b0186f9a1b3b04408e07382f_1_676x222.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/1a89e46fccba3d38b0186f9a1b3b04408e07382f_1_902x296.png 2x"><div class="meta">
 <span class="filename">GIq1qmBgLeq_hnKcahUreHfZuY1OFeX-gT0WmIZv2zY0MkeYMSKNakA_5CXEq7t-a8-i7RJogmUppVSQixYzUpEMa_1yKB9f-9kJAN6Q73zpaq6NAIHghoPtV90YatVUOpL58YQW.png</span><span class="informations">1600x541 139 KB</span><span class="expand"></span>
 </div></a></div></strong></p>
 <p><em>***Note: Keep this seed phrase in a safe place! If you lose access to it, recovering your funds and listings will be impossible.</em><br>
 <br>
 <br>
 <strong>5. Next, you will be asked to confirm your backing up of this phrase. Click the words in the order they were written down, and then click “Confirm”</strong></p>
-<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/2447af6448f79cd01322213d50e28e1104921929.png" data-download-href=".../forum-archive/uploads/default/2447af6448f79cd01322213d50e28e1104921929" title="iW380e3HRdhCqxBw_gPc_Ehb9KaSB9j89agdP3v9wrskp2d_6XShCUQB3HkP47XCq-yAnJbJXPM9_2KiXK6ksAq9dvAcHycz_G8p-6tXCK315qWSKC2S3PiFfvgN-RI-o7OAzXW9.png"><img src=".../forum-archive/uploads/default/optimized/1X/2447af6448f79cd01322213d50e28e1104921929_1_467x228.png" alt width="467" height="228" srcset=".../forum-archive/uploads/default/optimized/1X/2447af6448f79cd01322213d50e28e1104921929_1_467x228.png, .../forum-archive/uploads/default/optimized/1X/2447af6448f79cd01322213d50e28e1104921929_1_700x342.png 1.5x, .../forum-archive/uploads/default/optimized/1X/2447af6448f79cd01322213d50e28e1104921929_1_934x456.png 2x"><div class="meta">
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/2447af6448f79cd01322213d50e28e1104921929.png" data-download-href="../../forum-archive/uploads/default/2447af6448f79cd01322213d50e28e1104921929" title="iW380e3HRdhCqxBw_gPc_Ehb9KaSB9j89agdP3v9wrskp2d_6XShCUQB3HkP47XCq-yAnJbJXPM9_2KiXK6ksAq9dvAcHycz_G8p-6tXCK315qWSKC2S3PiFfvgN-RI-o7OAzXW9.png"><img src="../../forum-archive/uploads/default/optimized/1X/2447af6448f79cd01322213d50e28e1104921929_1_467x228.png" alt width="467" height="228" srcset="../../forum-archive/uploads/default/optimized/1X/2447af6448f79cd01322213d50e28e1104921929_1_467x228.png, ../../forum-archive/uploads/default/optimized/1X/2447af6448f79cd01322213d50e28e1104921929_1_700x342.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/2447af6448f79cd01322213d50e28e1104921929_1_934x456.png 2x"><div class="meta">
 <span class="filename">iW380e3HRdhCqxBw_gPc_Ehb9KaSB9j89agdP3v9wrskp2d_6XShCUQB3HkP47XCq-yAnJbJXPM9_2KiXK6ksAq9dvAcHycz_G8p-6tXCK315qWSKC2S3PiFfvgN-RI-o7OAzXW9.png</span><span class="informations">1600x779 106 KB</span><span class="expand"></span>
 </div></a></div></strong></p>
-<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/9b1254af4e8666a5caad37981d18a27efbcd9649.png" data-download-href=".../forum-archive/uploads/default/9b1254af4e8666a5caad37981d18a27efbcd9649" title="OmBZNnzUhTrTZodjesST-F8xTPwBqlh2eUIOqhtmuWhH7Kn5xmuXhP0ZPVym3Bi_6dNmUOHzwIJzgT-aFCnrkvt8crFtGf6k71-gNJY9Zz4X_CBv7iPFkO-hnoQ7OZ7yrKrTKuPo.png"><img src=".../forum-archive/uploads/default/optimized/1X/9b1254af4e8666a5caad37981d18a27efbcd9649_1_344x267.png" alt width="344" height="267" srcset=".../forum-archive/uploads/default/optimized/1X/9b1254af4e8666a5caad37981d18a27efbcd9649_1_344x267.png, .../forum-archive/uploads/default/optimized/1X/9b1254af4e8666a5caad37981d18a27efbcd9649_1_516x400.png 1.5x, .../forum-archive/uploads/default/optimized/1X/9b1254af4e8666a5caad37981d18a27efbcd9649_1_688x534.png 2x"><div class="meta">
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/9b1254af4e8666a5caad37981d18a27efbcd9649.png" data-download-href="../../forum-archive/uploads/default/9b1254af4e8666a5caad37981d18a27efbcd9649" title="OmBZNnzUhTrTZodjesST-F8xTPwBqlh2eUIOqhtmuWhH7Kn5xmuXhP0ZPVym3Bi_6dNmUOHzwIJzgT-aFCnrkvt8crFtGf6k71-gNJY9Zz4X_CBv7iPFkO-hnoQ7OZ7yrKrTKuPo.png"><img src="../../forum-archive/uploads/default/optimized/1X/9b1254af4e8666a5caad37981d18a27efbcd9649_1_344x267.png" alt width="344" height="267" srcset="../../forum-archive/uploads/default/optimized/1X/9b1254af4e8666a5caad37981d18a27efbcd9649_1_344x267.png, ../../forum-archive/uploads/default/optimized/1X/9b1254af4e8666a5caad37981d18a27efbcd9649_1_516x400.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/9b1254af4e8666a5caad37981d18a27efbcd9649_1_688x534.png 2x"><div class="meta">
 <span class="filename">OmBZNnzUhTrTZodjesST-F8xTPwBqlh2eUIOqhtmuWhH7Kn5xmuXhP0ZPVym3Bi_6dNmUOHzwIJzgT-aFCnrkvt8crFtGf6k71-gNJY9Zz4X_CBv7iPFkO-hnoQ7OZ7yrKrTKuPo.png</span><span class="informations">828x644 22 KB</span><span class="expand"></span>
 </div></a></div></strong><br>
 <br>
 <br>
 <strong>6. Then click “Set up easy access” to create a simple username and password for the account. This will allow you to login easily, without having to complete a full “wallet restore” using the 12 word seed phrase.</strong></p>
-<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/932250bc1c6a80472f69e8ccfa750aa390323301.png" data-download-href=".../forum-archive/uploads/default/932250bc1c6a80472f69e8ccfa750aa390323301" title="z0rwLIh5pnMAPp4T0LKRl3pM1GWX6qESyMf4lji3feAdV0GtDurN4lONDsiOBBxkNZfY4hALxDB_ZM6YQ-f0ckRymJTelrtUvjF0QaSoe0n_6zIQXKWLh6jFIVAm4v9X69RdJHMB.png"><img src=".../forum-archive/uploads/default/optimized/1X/932250bc1c6a80472f69e8ccfa750aa390323301_1_466x205.png" alt width="466" height="205" srcset=".../forum-archive/uploads/default/optimized/1X/932250bc1c6a80472f69e8ccfa750aa390323301_1_466x205.png, .../forum-archive/uploads/default/optimized/1X/932250bc1c6a80472f69e8ccfa750aa390323301_1_699x307.png 1.5x, .../forum-archive/uploads/default/optimized/1X/932250bc1c6a80472f69e8ccfa750aa390323301_1_932x410.png 2x"><div class="meta">
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/932250bc1c6a80472f69e8ccfa750aa390323301.png" data-download-href="../../forum-archive/uploads/default/932250bc1c6a80472f69e8ccfa750aa390323301" title="z0rwLIh5pnMAPp4T0LKRl3pM1GWX6qESyMf4lji3feAdV0GtDurN4lONDsiOBBxkNZfY4hALxDB_ZM6YQ-f0ckRymJTelrtUvjF0QaSoe0n_6zIQXKWLh6jFIVAm4v9X69RdJHMB.png"><img src="../../forum-archive/uploads/default/optimized/1X/932250bc1c6a80472f69e8ccfa750aa390323301_1_466x205.png" alt width="466" height="205" srcset="../../forum-archive/uploads/default/optimized/1X/932250bc1c6a80472f69e8ccfa750aa390323301_1_466x205.png, ../../forum-archive/uploads/default/optimized/1X/932250bc1c6a80472f69e8ccfa750aa390323301_1_699x307.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/932250bc1c6a80472f69e8ccfa750aa390323301_1_932x410.png 2x"><div class="meta">
 <span class="filename">z0rwLIh5pnMAPp4T0LKRl3pM1GWX6qESyMf4lji3feAdV0GtDurN4lONDsiOBBxkNZfY4hALxDB_ZM6YQ-f0ckRymJTelrtUvjF0QaSoe0n_6zIQXKWLh6jFIVAm4v9X69RdJHMB.png</span><span class="informations">1600x704 184 KB</span><span class="expand"></span>
 </div></a></div></strong><br>
 <br>
 <br>
 <strong>7. Then, enter a custom username of your choice, and click “Continue”.</strong></p>
-<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/3f7570677d6e430a2d40f632151b7332bbd5d2d1.png" data-download-href=".../forum-archive/uploads/default/3f7570677d6e430a2d40f632151b7332bbd5d2d1" title="yPy2b0Jsn5uwKYGqDJi5YRNERr30us86b7U9kBrxefFwzHLVCg5p9Wg6TL-B2PbFmMUHLvpWPaKC_p6B4LSyeFp6nWOSS5qtvFRff9DAurz-YSlgf0X1jYPL8D7c6_GZGR9r0I65.png"><img src=".../forum-archive/uploads/default/optimized/1X/3f7570677d6e430a2d40f632151b7332bbd5d2d1_1_583x148.png" alt width="583" height="148" srcset=".../forum-archive/uploads/default/optimized/1X/3f7570677d6e430a2d40f632151b7332bbd5d2d1_1_583x148.png, .../forum-archive/uploads/default/optimized/1X/3f7570677d6e430a2d40f632151b7332bbd5d2d1_1_874x222.png 1.5x, .../forum-archive/uploads/default/optimized/1X/3f7570677d6e430a2d40f632151b7332bbd5d2d1_1_1166x296.png 2x"><div class="meta">
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/3f7570677d6e430a2d40f632151b7332bbd5d2d1.png" data-download-href="../../forum-archive/uploads/default/3f7570677d6e430a2d40f632151b7332bbd5d2d1" title="yPy2b0Jsn5uwKYGqDJi5YRNERr30us86b7U9kBrxefFwzHLVCg5p9Wg6TL-B2PbFmMUHLvpWPaKC_p6B4LSyeFp6nWOSS5qtvFRff9DAurz-YSlgf0X1jYPL8D7c6_GZGR9r0I65.png"><img src="../../forum-archive/uploads/default/optimized/1X/3f7570677d6e430a2d40f632151b7332bbd5d2d1_1_583x148.png" alt width="583" height="148" srcset="../../forum-archive/uploads/default/optimized/1X/3f7570677d6e430a2d40f632151b7332bbd5d2d1_1_583x148.png, ../../forum-archive/uploads/default/optimized/1X/3f7570677d6e430a2d40f632151b7332bbd5d2d1_1_874x222.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/3f7570677d6e430a2d40f632151b7332bbd5d2d1_1_1166x296.png 2x"><div class="meta">
 <span class="filename">yPy2b0Jsn5uwKYGqDJi5YRNERr30us86b7U9kBrxefFwzHLVCg5p9Wg6TL-B2PbFmMUHLvpWPaKC_p6B4LSyeFp6nWOSS5qtvFRff9DAurz-YSlgf0X1jYPL8D7c6_GZGR9r0I65.png</span><span class="informations">1600x408 111 KB</span><span class="expand"></span>
 </div></a></div></strong><br>
 <br>
 <br>
 <strong>8. Next, enter and confirm a new password that meets the minimum requirements, then click “Save Password”.</strong></p>
-<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/4950674212f8f333a7a5d256ee6956851ee36f6b.jpeg" data-download-href=".../forum-archive/uploads/default/4950674212f8f333a7a5d256ee6956851ee36f6b" title="AAK4ht1NUcpuRabkAc6s6I1ylXCPlzDT3CEWpV_3bAPgC__UzT3O894GzUjH8tt8MTeIGrWxQ9nrGoMMgpms5eUdZIIwFlgBTW6TZ02Qe4zU2-RaiYDfzvj7KFjnv9hNXVLFUdes.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/4950674212f8f333a7a5d256ee6956851ee36f6b_1_507x227.jpeg" alt width="507" height="227" srcset=".../forum-archive/uploads/default/optimized/1X/4950674212f8f333a7a5d256ee6956851ee36f6b_1_507x227.jpeg, .../forum-archive/uploads/default/optimized/1X/4950674212f8f333a7a5d256ee6956851ee36f6b_1_760x340.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/4950674212f8f333a7a5d256ee6956851ee36f6b_1_1014x454.jpeg 2x"><div class="meta">
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/4950674212f8f333a7a5d256ee6956851ee36f6b.jpeg" data-download-href="../../forum-archive/uploads/default/4950674212f8f333a7a5d256ee6956851ee36f6b" title="AAK4ht1NUcpuRabkAc6s6I1ylXCPlzDT3CEWpV_3bAPgC__UzT3O894GzUjH8tt8MTeIGrWxQ9nrGoMMgpms5eUdZIIwFlgBTW6TZ02Qe4zU2-RaiYDfzvj7KFjnv9hNXVLFUdes.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/4950674212f8f333a7a5d256ee6956851ee36f6b_1_507x227.jpeg" alt width="507" height="227" srcset="../../forum-archive/uploads/default/optimized/1X/4950674212f8f333a7a5d256ee6956851ee36f6b_1_507x227.jpeg, ../../forum-archive/uploads/default/optimized/1X/4950674212f8f333a7a5d256ee6956851ee36f6b_1_760x340.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/4950674212f8f333a7a5d256ee6956851ee36f6b_1_1014x454.jpeg 2x"><div class="meta">
 <span class="filename">AAK4ht1NUcpuRabkAc6s6I1ylXCPlzDT3CEWpV_3bAPgC__UzT3O894GzUjH8tt8MTeIGrWxQ9nrGoMMgpms5eUdZIIwFlgBTW6TZ02Qe4zU2-RaiYDfzvj7KFjnv9hNXVLFUdes.jpg</span><span class="informations">1600x717 129 KB</span><span class="expand"></span>
 </div></a></div></strong><br>
 <br>
 <br>
 <strong>9. Finally, read the quick review of the BitBay terms of use. Then click “Understood”.</strong></p>
-<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53.png" data-download-href=".../forum-archive/uploads/default/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53" title="DSc_T-cLK68Dz_7rCITLlhsVP_fJRAq94UeI9tP97eBdIpA9XLFAbey6lreiYujfwK5Ec1r8rqz_w6BIyPtA4FjweKf0GAOysAmXmGMDLKzE6lnfti_bqI6onjcXVx_KQ0zIGgVL.png"><img src=".../forum-archive/uploads/default/optimized/1X/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53_1_361x178.png" alt width="361" height="178" srcset=".../forum-archive/uploads/default/optimized/1X/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53_1_361x178.png, .../forum-archive/uploads/default/optimized/1X/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53_1_541x267.png 1.5x, .../forum-archive/uploads/default/optimized/1X/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53_1_722x356.png 2x"><div class="meta">
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53.png" data-download-href="../../forum-archive/uploads/default/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53" title="DSc_T-cLK68Dz_7rCITLlhsVP_fJRAq94UeI9tP97eBdIpA9XLFAbey6lreiYujfwK5Ec1r8rqz_w6BIyPtA4FjweKf0GAOysAmXmGMDLKzE6lnfti_bqI6onjcXVx_KQ0zIGgVL.png"><img src="../../forum-archive/uploads/default/optimized/1X/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53_1_361x178.png" alt width="361" height="178" srcset="../../forum-archive/uploads/default/optimized/1X/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53_1_361x178.png, ../../forum-archive/uploads/default/optimized/1X/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53_1_541x267.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53_1_722x356.png 2x"><div class="meta">
 <span class="filename">DSc_T-cLK68Dz_7rCITLlhsVP_fJRAq94UeI9tP97eBdIpA9XLFAbey6lreiYujfwK5Ec1r8rqz_w6BIyPtA4FjweKf0GAOysAmXmGMDLKzE6lnfti_bqI6onjcXVx_KQ0zIGgVL.png</span><span class="informations">1128x560 56.7 KB</span><span class="expand"></span>
 </div></a></div></strong></p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/creating-wallet-within-the-bitbay-web-based-marketplace-wmp/1946">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/creating-wallet-within-the-bitbay-web-based-marketplace-wmp/1946">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/creating-wallet-within-the-bitbay-web-based-marketplace-wmp/1946</link>
+          <link>../../forum-archive/t/creating-wallet-within-the-bitbay-web-based-marketplace-wmp/1946</link>
           <pubDate>Tue, 30 Jul 2019 14:56:55 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1946</guid>
-          <source url=".../forum-archive/t/creating-wallet-within-the-bitbay-web-based-marketplace-wmp/1946.rss">Creating wallet within the BitBAY Web-based Marketplace (WMP)</source>
+          <source url="../../forum-archive/t/creating-wallet-within-the-bitbay-web-based-marketplace-wmp/1946.rss">Creating wallet within the BitBAY Web-based Marketplace (WMP)</source>
         </item>
         <item>
           <title>How to Access / Change personal settings within BitBay&#39;s Web-based Marketplace (WMP)</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <h1>How to access / change personal settings</h1>
 <p>**1. Within the header of any page, click on the “Person icon” in the top right corner. Then select “Account”.</p>
 <p>There, you will be able to edit all of your personal information, add a profile picture, switch to “Dark Mode”, change network fees and currency conversion preferences etc.**<br>
 <br>
 <br>
-<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/ca19d1c957f1934bc088320767cd400210a915de.png" data-download-href=".../forum-archive/uploads/default/ca19d1c957f1934bc088320767cd400210a915de" title="fGTVnf91UHdGyys-VBif4V0V5h2qEB48H3y2aGjRZ7azrt2lpzsFWKafqGwA51PzqiUKJGTKHC7HmvsIWdop7Og6UyzIg7Uq3YLk3zaZBTsHp1OLvnINoqyBSfXGNuW1rA6qvAOT.png"><img src=".../forum-archive/uploads/default/optimized/1X/ca19d1c957f1934bc088320767cd400210a915de_1_353x153.png" alt width="353" height="153" srcset=".../forum-archive/uploads/default/optimized/1X/ca19d1c957f1934bc088320767cd400210a915de_1_353x153.png, .../forum-archive/uploads/default/optimized/1X/ca19d1c957f1934bc088320767cd400210a915de_1_529x229.png 1.5x, .../forum-archive/uploads/default/original/1X/ca19d1c957f1934bc088320767cd400210a915de.png 2x"><div class="meta">
+<div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/ca19d1c957f1934bc088320767cd400210a915de.png" data-download-href="../../forum-archive/uploads/default/ca19d1c957f1934bc088320767cd400210a915de" title="fGTVnf91UHdGyys-VBif4V0V5h2qEB48H3y2aGjRZ7azrt2lpzsFWKafqGwA51PzqiUKJGTKHC7HmvsIWdop7Og6UyzIg7Uq3YLk3zaZBTsHp1OLvnINoqyBSfXGNuW1rA6qvAOT.png"><img src="../../forum-archive/uploads/default/optimized/1X/ca19d1c957f1934bc088320767cd400210a915de_1_353x153.png" alt width="353" height="153" srcset="../../forum-archive/uploads/default/optimized/1X/ca19d1c957f1934bc088320767cd400210a915de_1_353x153.png, ../../forum-archive/uploads/default/optimized/1X/ca19d1c957f1934bc088320767cd400210a915de_1_529x229.png 1.5x, ../../forum-archive/uploads/default/original/1X/ca19d1c957f1934bc088320767cd400210a915de.png 2x"><div class="meta">
 <span class="filename">fGTVnf91UHdGyys-VBif4V0V5h2qEB48H3y2aGjRZ7azrt2lpzsFWKafqGwA51PzqiUKJGTKHC7HmvsIWdop7Og6UyzIg7Uq3YLk3zaZBTsHp1OLvnINoqyBSfXGNuW1rA6qvAOT.png</span><span class="informations">692x346 97.7 KB</span><span class="expand"></span>
 </div></a></div></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/edb342fe96064551e230c273a55a4f61988da134.jpeg" data-download-href=".../forum-archive/uploads/default/edb342fe96064551e230c273a55a4f61988da134" title="6aEJGISOevNTsJeSzexSGf0o9Sj9SR44DHXlE7S7jztZ4VBLZTbdIXRkADIe7SN3Xa4po5keJpjelf9Pg8-mc8ihds3e-GSLPARohzPX7n7FVDmAHATMfDQGtSYBNWkyXCzykGrp.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/edb342fe96064551e230c273a55a4f61988da134_1_452x230.jpeg" alt width="452" height="230" srcset=".../forum-archive/uploads/default/optimized/1X/edb342fe96064551e230c273a55a4f61988da134_1_452x230.jpeg, .../forum-archive/uploads/default/optimized/1X/edb342fe96064551e230c273a55a4f61988da134_1_678x345.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/edb342fe96064551e230c273a55a4f61988da134_1_904x460.jpeg 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/edb342fe96064551e230c273a55a4f61988da134.jpeg" data-download-href="../../forum-archive/uploads/default/edb342fe96064551e230c273a55a4f61988da134" title="6aEJGISOevNTsJeSzexSGf0o9Sj9SR44DHXlE7S7jztZ4VBLZTbdIXRkADIe7SN3Xa4po5keJpjelf9Pg8-mc8ihds3e-GSLPARohzPX7n7FVDmAHATMfDQGtSYBNWkyXCzykGrp.jpg"><img src="../../forum-archive/uploads/default/optimized/1X/edb342fe96064551e230c273a55a4f61988da134_1_452x230.jpeg" alt width="452" height="230" srcset="../../forum-archive/uploads/default/optimized/1X/edb342fe96064551e230c273a55a4f61988da134_1_452x230.jpeg, ../../forum-archive/uploads/default/optimized/1X/edb342fe96064551e230c273a55a4f61988da134_1_678x345.jpeg 1.5x, ../../forum-archive/uploads/default/optimized/1X/edb342fe96064551e230c273a55a4f61988da134_1_904x460.jpeg 2x"><div class="meta">
 <span class="filename">6aEJGISOevNTsJeSzexSGf0o9Sj9SR44DHXlE7S7jztZ4VBLZTbdIXRkADIe7SN3Xa4po5keJpjelf9Pg8-mc8ihds3e-GSLPARohzPX7n7FVDmAHATMfDQGtSYBNWkyXCzykGrp.jpg</span><span class="informations">1600x814 126 KB</span><span class="expand"></span>
 </div></a></div></p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-to-access-change-personal-settings-within-bitbays-web-based-marketplace-wmp/1947">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-access-change-personal-settings-within-bitbays-web-based-marketplace-wmp/1947">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-access-change-personal-settings-within-bitbays-web-based-marketplace-wmp/1947</link>
+          <link>../../forum-archive/t/how-to-access-change-personal-settings-within-bitbays-web-based-marketplace-wmp/1947</link>
           <pubDate>Tue, 30 Jul 2019 15:08:30 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1947</guid>
-          <source url=".../forum-archive/t/how-to-access-change-personal-settings-within-bitbays-web-based-marketplace-wmp/1947.rss">How to Access / Change personal settings within BitBay&#39;s Web-based Marketplace (WMP)</source>
+          <source url="../../forum-archive/t/how-to-access-change-personal-settings-within-bitbays-web-based-marketplace-wmp/1947.rss">How to Access / Change personal settings within BitBay&#39;s Web-based Marketplace (WMP)</source>
         </item>
         <item>
           <title>How to send &amp; receive BAY with Web-based Marketplace (WMP) wallet</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <h1>How to send &amp; receive BAY with Web-based Marketplace (WMP) wallet</h1>
 <h3><strong>How to receive BAY</strong></h3>
@@ -1664,69 +1664,69 @@ public key3 <code>024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24
 <p><em>Alternatively, you can also click the “Balance” icon in the upper left corner of any page, and then click “Copy address”.</em></p>
 </li>
 </ol>
-<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/bd8058542ed18a543a865c6e274352761ea4de78.png" data-download-href=".../forum-archive/uploads/default/bd8058542ed18a543a865c6e274352761ea4de78" title="ei5MCduFOVnCX7y3gkjd99tk1v0R1Db1TPW_KFPTBV-_3FJ2rnSMm8kzIfKe1VyWLUGFFAfvm_mbgNwQMyBv9iDUPmVPYNfiitPFb41CVrDv_THOm4pzBavo6eoryYOvt3IIafIn.png"><img src=".../forum-archive/uploads/default/optimized/1X/bd8058542ed18a543a865c6e274352761ea4de78_1_547x158.png" alt width="547" height="158" srcset=".../forum-archive/uploads/default/optimized/1X/bd8058542ed18a543a865c6e274352761ea4de78_1_547x158.png, .../forum-archive/uploads/default/optimized/1X/bd8058542ed18a543a865c6e274352761ea4de78_1_820x237.png 1.5x, .../forum-archive/uploads/default/optimized/1X/bd8058542ed18a543a865c6e274352761ea4de78_1_1094x316.png 2x"><div class="meta">
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/bd8058542ed18a543a865c6e274352761ea4de78.png" data-download-href="../../forum-archive/uploads/default/bd8058542ed18a543a865c6e274352761ea4de78" title="ei5MCduFOVnCX7y3gkjd99tk1v0R1Db1TPW_KFPTBV-_3FJ2rnSMm8kzIfKe1VyWLUGFFAfvm_mbgNwQMyBv9iDUPmVPYNfiitPFb41CVrDv_THOm4pzBavo6eoryYOvt3IIafIn.png"><img src="../../forum-archive/uploads/default/optimized/1X/bd8058542ed18a543a865c6e274352761ea4de78_1_547x158.png" alt width="547" height="158" srcset="../../forum-archive/uploads/default/optimized/1X/bd8058542ed18a543a865c6e274352761ea4de78_1_547x158.png, ../../forum-archive/uploads/default/optimized/1X/bd8058542ed18a543a865c6e274352761ea4de78_1_820x237.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/bd8058542ed18a543a865c6e274352761ea4de78_1_1094x316.png 2x"><div class="meta">
 <span class="filename">ei5MCduFOVnCX7y3gkjd99tk1v0R1Db1TPW_KFPTBV-_3FJ2rnSMm8kzIfKe1VyWLUGFFAfvm_mbgNwQMyBv9iDUPmVPYNfiitPFb41CVrDv_THOm4pzBavo6eoryYOvt3IIafIn.png</span><span class="informations">1600x457 124 KB</span><span class="expand"></span>
 </div></a></div></strong></p>
 <h3>How to send BAY</h3>
 <p>To send funds out of your web marketplace wallet, click the “<strong>Balance</strong>” icon in the upper left corner of any page.</p>
-<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0.png" data-download-href=".../forum-archive/uploads/default/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0" title="kd0Lo9bwbXexpYyAfaLpw6brr61pncGy2FfRE2KK3gpq2yz8kHuwdRo2w0bKVAFwXkMmcYK5g-7i1fmPWTcw_5xTq96YxfqVZssBM9ycNbYss2dAn6wYUfv5FeFoDxKVlkYtZubx.png"><img src=".../forum-archive/uploads/default/optimized/1X/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0_1_307x182.png" alt width="307" height="182" srcset=".../forum-archive/uploads/default/optimized/1X/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0_1_307x182.png, .../forum-archive/uploads/default/optimized/1X/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0_1_460x273.png 1.5x, .../forum-archive/uploads/default/optimized/1X/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0_1_614x364.png 2x"><div class="meta">
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0.png" data-download-href="../../forum-archive/uploads/default/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0" title="kd0Lo9bwbXexpYyAfaLpw6brr61pncGy2FfRE2KK3gpq2yz8kHuwdRo2w0bKVAFwXkMmcYK5g-7i1fmPWTcw_5xTq96YxfqVZssBM9ycNbYss2dAn6wYUfv5FeFoDxKVlkYtZubx.png"><img src="../../forum-archive/uploads/default/optimized/1X/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0_1_307x182.png" alt width="307" height="182" srcset="../../forum-archive/uploads/default/optimized/1X/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0_1_307x182.png, ../../forum-archive/uploads/default/optimized/1X/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0_1_460x273.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0_1_614x364.png 2x"><div class="meta">
 <span class="filename">kd0Lo9bwbXexpYyAfaLpw6brr61pncGy2FfRE2KK3gpq2yz8kHuwdRo2w0bKVAFwXkMmcYK5g-7i1fmPWTcw_5xTq96YxfqVZssBM9ycNbYss2dAn6wYUfv5FeFoDxKVlkYtZubx.png</span><span class="informations">1148x680 303 KB</span><span class="expand"></span>
 </div></a></div></strong><br>
 <br>
 <br>
 Then click, “<strong>Make Transfer</strong>."</p>
-<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae.png" data-download-href=".../forum-archive/uploads/default/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae" title="l0xpFUZak_a36m3JNQAyicf44f_XMiiippThOheb76SmWY1-G5Srxnp4SopY-H5X4QSXU1Oj5n9RNx-oYgPcDtAWcR0WwLvcCflUZBluYgNBZ39YuXIJnHBOJIk3E0oxe4uv2Yqu.png"><img src=".../forum-archive/uploads/default/optimized/1X/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae_1_248x233.png" alt width="248" height="233" srcset=".../forum-archive/uploads/default/optimized/1X/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae_1_248x233.png, .../forum-archive/uploads/default/optimized/1X/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae_1_372x349.png 1.5x, .../forum-archive/uploads/default/optimized/1X/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae_1_496x466.png 2x"><div class="meta">
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae.png" data-download-href="../../forum-archive/uploads/default/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae" title="l0xpFUZak_a36m3JNQAyicf44f_XMiiippThOheb76SmWY1-G5Srxnp4SopY-H5X4QSXU1Oj5n9RNx-oYgPcDtAWcR0WwLvcCflUZBluYgNBZ39YuXIJnHBOJIk3E0oxe4uv2Yqu.png"><img src="../../forum-archive/uploads/default/optimized/1X/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae_1_248x233.png" alt width="248" height="233" srcset="../../forum-archive/uploads/default/optimized/1X/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae_1_248x233.png, ../../forum-archive/uploads/default/optimized/1X/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae_1_372x349.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae_1_496x466.png 2x"><div class="meta">
 <span class="filename">l0xpFUZak_a36m3JNQAyicf44f_XMiiippThOheb76SmWY1-G5Srxnp4SopY-H5X4QSXU1Oj5n9RNx-oYgPcDtAWcR0WwLvcCflUZBluYgNBZ39YuXIJnHBOJIk3E0oxe4uv2Yqu.png</span><span class="informations">586x552 25.1 KB</span><span class="expand"></span>
 </div></a></div></strong><br>
 <br>
 <br>
 Next, enter/paste in a compatible BAY receive address, and also enter the amount of BAY you would like to send. Then click, “<strong>Send coins</strong>”.</p>
-<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e.png" data-download-href=".../forum-archive/uploads/default/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e" title="IrvOrq7rkQH9mBo2_QJUEfC3CcTO3Bsfby4Ko66EuilDRpLaQ0uuopBoccgc7OU9SUNPc5sBoGH0rkeBSuP2MNb9re9-TWHv7lOXqctABSZodlmFnIRhLD4z7OpOsxcl7y-EYWxP.png"><img src=".../forum-archive/uploads/default/optimized/1X/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e_1_363x264.png" alt width="363" height="264" srcset=".../forum-archive/uploads/default/optimized/1X/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e_1_363x264.png, .../forum-archive/uploads/default/optimized/1X/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e_1_544x396.png 1.5x, .../forum-archive/uploads/default/optimized/1X/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e_1_726x528.png 2x"><div class="meta">
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e.png" data-download-href="../../forum-archive/uploads/default/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e" title="IrvOrq7rkQH9mBo2_QJUEfC3CcTO3Bsfby4Ko66EuilDRpLaQ0uuopBoccgc7OU9SUNPc5sBoGH0rkeBSuP2MNb9re9-TWHv7lOXqctABSZodlmFnIRhLD4z7OpOsxcl7y-EYWxP.png"><img src="../../forum-archive/uploads/default/optimized/1X/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e_1_363x264.png" alt width="363" height="264" srcset="../../forum-archive/uploads/default/optimized/1X/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e_1_363x264.png, ../../forum-archive/uploads/default/optimized/1X/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e_1_544x396.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e_1_726x528.png 2x"><div class="meta">
 <span class="filename">IrvOrq7rkQH9mBo2_QJUEfC3CcTO3Bsfby4Ko66EuilDRpLaQ0uuopBoccgc7OU9SUNPc5sBoGH0rkeBSuP2MNb9re9-TWHv7lOXqctABSZodlmFnIRhLD4z7OpOsxcl7y-EYWxP.png</span><span class="informations">1072x778 50.9 KB</span><span class="expand"></span>
 </div></a></div></strong></p>
 <p>You can view all transactions (including pending) at <a href="https://chainz.cryptoid.info/bay/">https://chainz.cryptoid.info/bay/</a>.</p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-to-send-receive-bay-with-web-based-marketplace-wmp-wallet/1948">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-send-receive-bay-with-web-based-marketplace-wmp-wallet/1948">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-send-receive-bay-with-web-based-marketplace-wmp-wallet/1948</link>
+          <link>../../forum-archive/t/how-to-send-receive-bay-with-web-based-marketplace-wmp-wallet/1948</link>
           <pubDate>Tue, 30 Jul 2019 15:27:36 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1948</guid>
-          <source url=".../forum-archive/t/how-to-send-receive-bay-with-web-based-marketplace-wmp-wallet/1948.rss">How to send &amp; receive BAY with Web-based Marketplace (WMP) wallet</source>
+          <source url="../../forum-archive/t/how-to-send-receive-bay-with-web-based-marketplace-wmp-wallet/1948.rss">How to send &amp; receive BAY with Web-based Marketplace (WMP) wallet</source>
         </item>
         <item>
           <title>How to purchase BAY quickly and easily</title>
           <dc:creator><![CDATA[@tradersnow]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
             <blockquote>
               <h1>How to purchase BAY quickly and easily</h1>
 <ol>
 <li>Within the header of any page, click on “<strong>Get coins</strong>” in the upper left corner. You will then be taken to BitBay’s third-party partner exchange, where you can fill out a form to purchase $BAY with a credit card.</li>
 </ol>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6.png" data-download-href=".../forum-archive/uploads/default/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6" title="6ckjy7H0LVcbcGatwTJINDQAtsLZLG9Dj7RhaV9tElFRiVqyOar37Mfru-x2yApSCY9tR8Ge5JzeQn0qgOF2Mk3Trbw0vC81tuomKJ-OV93gtIY5cDu0X34Mf4uq9_5Z2jxWoCVv.png"><img src=".../forum-archive/uploads/default/optimized/1X/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6_1_378x262.png" alt width="378" height="262" srcset=".../forum-archive/uploads/default/optimized/1X/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6_1_378x262.png, .../forum-archive/uploads/default/optimized/1X/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6_1_567x393.png 1.5x, .../forum-archive/uploads/default/optimized/1X/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6_1_756x524.png 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6.png" data-download-href="../../forum-archive/uploads/default/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6" title="6ckjy7H0LVcbcGatwTJINDQAtsLZLG9Dj7RhaV9tElFRiVqyOar37Mfru-x2yApSCY9tR8Ge5JzeQn0qgOF2Mk3Trbw0vC81tuomKJ-OV93gtIY5cDu0X34Mf4uq9_5Z2jxWoCVv.png"><img src="../../forum-archive/uploads/default/optimized/1X/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6_1_378x262.png" alt width="378" height="262" srcset="../../forum-archive/uploads/default/optimized/1X/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6_1_378x262.png, ../../forum-archive/uploads/default/optimized/1X/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6_1_567x393.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6_1_756x524.png 2x"><div class="meta">
 <span class="filename">6ckjy7H0LVcbcGatwTJINDQAtsLZLG9Dj7RhaV9tElFRiVqyOar37Mfru-x2yApSCY9tR8Ge5JzeQn0qgOF2Mk3Trbw0vC81tuomKJ-OV93gtIY5cDu0X34Mf4uq9_5Z2jxWoCVv.png</span><span class="informations">1074x748 278 KB</span><span class="expand"></span>
 </div></a></div></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/537f8f664ab140900e0104911d13146359a39925.png" data-download-href=".../forum-archive/uploads/default/537f8f664ab140900e0104911d13146359a39925" title="7hvCE64v8Oo2hUgf7IJ-kxJmeapTHzNaYwYuWyp-HBp6tJgi5IwbqxRJf5ixTE6n-nxU7ggs80xpnuh_PYGZN34beMuGoFKekr-mctSOC0Z_QtIumoKdxNiQczG-7vQSf5xA33D7.png"><img src=".../forum-archive/uploads/default/optimized/1X/537f8f664ab140900e0104911d13146359a39925_1_436x332.png" alt width="436" height="332" srcset=".../forum-archive/uploads/default/optimized/1X/537f8f664ab140900e0104911d13146359a39925_1_436x332.png, .../forum-archive/uploads/default/optimized/1X/537f8f664ab140900e0104911d13146359a39925_1_654x498.png 1.5x, .../forum-archive/uploads/default/optimized/1X/537f8f664ab140900e0104911d13146359a39925_1_872x664.png 2x"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/537f8f664ab140900e0104911d13146359a39925.png" data-download-href="../../forum-archive/uploads/default/537f8f664ab140900e0104911d13146359a39925" title="7hvCE64v8Oo2hUgf7IJ-kxJmeapTHzNaYwYuWyp-HBp6tJgi5IwbqxRJf5ixTE6n-nxU7ggs80xpnuh_PYGZN34beMuGoFKekr-mctSOC0Z_QtIumoKdxNiQczG-7vQSf5xA33D7.png"><img src="../../forum-archive/uploads/default/optimized/1X/537f8f664ab140900e0104911d13146359a39925_1_436x332.png" alt width="436" height="332" srcset="../../forum-archive/uploads/default/optimized/1X/537f8f664ab140900e0104911d13146359a39925_1_436x332.png, ../../forum-archive/uploads/default/optimized/1X/537f8f664ab140900e0104911d13146359a39925_1_654x498.png 1.5x, ../../forum-archive/uploads/default/optimized/1X/537f8f664ab140900e0104911d13146359a39925_1_872x664.png 2x"><div class="meta">
 <span class="filename">7hvCE64v8Oo2hUgf7IJ-kxJmeapTHzNaYwYuWyp-HBp6tJgi5IwbqxRJf5ixTE6n-nxU7ggs80xpnuh_PYGZN34beMuGoFKekr-mctSOC0Z_QtIumoKdxNiQczG-7vQSf5xA33D7.png</span><span class="informations">1562x1192 73.7 KB</span><span class="expand"></span>
 </div></a></div></p>
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-to-purchase-bay-quickly-and-easily/1949">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-purchase-bay-quickly-and-easily/1949">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-purchase-bay-quickly-and-easily/1949</link>
+          <link>../../forum-archive/t/how-to-purchase-bay-quickly-and-easily/1949</link>
           <pubDate>Tue, 30 Jul 2019 15:29:53 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1949</guid>
-          <source url=".../forum-archive/t/how-to-purchase-bay-quickly-and-easily/1949.rss">How to purchase BAY quickly and easily</source>
+          <source url="../../forum-archive/t/how-to-purchase-bay-quickly-and-easily/1949.rss">How to purchase BAY quickly and easily</source>
         </item>
   </channel>
 </rss>

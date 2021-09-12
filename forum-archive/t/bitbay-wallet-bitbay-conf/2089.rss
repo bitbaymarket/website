@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Bitbay wallet 连接不上bitbay.conf</title>
-    <link>..../forum-archive/t/bitbay-wallet-bitbay-conf/2089</link>
+    <link>../../../forum-archive/t/bitbay-wallet-bitbay-conf/2089</link>
     <description>正式环境为什么这样配置不行，测试确可以
 rpcuser=root
 rpcpassword=123456
@@ -12,12 +12,12 @@ listen=1</description>
     
     <lastBuildDate>Tue, 12 Nov 2019 06:30:59 +0000</lastBuildDate>
     <category>Questions about BitBay</category>
-    <atom:link href="..../forum-archive/t/bitbay-wallet-bitbay-conf/2089.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/bitbay-wallet-bitbay-conf/2089.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Bitbay wallet 连接不上bitbay.conf</title>
         <dc:creator><![CDATA[@tang090304 tangjian]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tang090304">@tang090304</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tang090304">@tang090304</a> wrote:</p>
           <blockquote>
               <p>正式环境为什么这样配置不行，测试确可以<br>
 rpcuser=root<br>
@@ -26,12 +26,12 @@ rpcallowip=0.0.0.0/0<br>
 rpcport=19914<br>
 listen=1</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/bitbay-wallet-bitbay-conf/2089/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/bitbay-wallet-bitbay-conf/2089/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/bitbay-wallet-bitbay-conf/2089/1</link>
+        <link>../../../forum-archive/t/bitbay-wallet-bitbay-conf/2089/1</link>
         <pubDate>Tue, 12 Nov 2019 06:30:59 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2089-1</guid>
-        <source url="..../forum-archive/t/bitbay-wallet-bitbay-conf/2089.rss">Bitbay wallet 连接不上bitbay.conf</source>
+        <source url="../../../forum-archive/t/bitbay-wallet-bitbay-conf/2089.rss">Bitbay wallet 连接不上bitbay.conf</source>
       </item>
   </channel>
 </rss>

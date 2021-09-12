@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>What is the Dynamic Peg?</title>
-    <link>..../forum-archive/t/what-is-the-dynamic-peg/2177</link>
+    <link>../../../forum-archive/t/what-is-the-dynamic-peg/2177</link>
     <description>**What is the Dynamic Peg?**
 
 The Dynamic Peg is a brand new mechanism for stabilizing BAY. It is strictly controlled by the users, for the users. In a nutshell, it is a highly efficient form of democratic (voting-based) monetary policy.
@@ -23,12 +23,12 @@ Because of the timelock, frozen coins cannot be traded until after the timelock 
     
     <lastBuildDate>Tue, 18 Feb 2020 13:05:33 +0000</lastBuildDate>
     <category>Dynamic Peg - FAQ</category>
-    <atom:link href="..../forum-archive/t/what-is-the-dynamic-peg/2177.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/what-is-the-dynamic-peg/2177.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>What is the Dynamic Peg?</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p><strong>What is the Dynamic Peg?</strong></p>
 <p>The Dynamic Peg is a brand new mechanism for stabilizing BAY. It is strictly controlled by the users, for the users. In a nutshell, it is a highly efficient form of democratic (voting-based) monetary policy.</p>
@@ -40,12 +40,12 @@ Because of the timelock, frozen coins cannot be traded until after the timelock 
 <p>Because of the timelock, frozen coins cannot be traded until after the timelock has expired.</p>
 <p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/what-is-the-dynamic-peg/2177/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/what-is-the-dynamic-peg/2177/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/what-is-the-dynamic-peg/2177/1</link>
+        <link>../../../forum-archive/t/what-is-the-dynamic-peg/2177/1</link>
         <pubDate>Wed, 29 Jan 2020 14:15:48 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2177-1</guid>
-        <source url="..../forum-archive/t/what-is-the-dynamic-peg/2177.rss">What is the Dynamic Peg?</source>
+        <source url="../../../forum-archive/t/what-is-the-dynamic-peg/2177.rss">What is the Dynamic Peg?</source>
       </item>
   </channel>
 </rss>

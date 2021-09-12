@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>How long are coins frozen for, and what enforces this rule?</title>
-    <link>..../forum-archive/t/how-long-are-coins-frozen-for-and-what-enforces-this-rule/2194</link>
+    <link>../../../forum-archive/t/how-long-are-coins-frozen-for-and-what-enforces-this-rule/2194</link>
     <description>**How long are coins frozen for, and what enforces this rule?**
 
 There are three (3) different timelines for freezing, which is hard-coded into the Dynamic Peg protocol, using checklocktimeverify. This ensures that spending cannot occur until after the allotted time has expired.
@@ -24,12 +24,12 @@ The freezing schedule is as follows:
     
     <lastBuildDate>Tue, 18 Feb 2020 12:58:51 +0000</lastBuildDate>
     <category>Dynamic Peg - FAQ</category>
-    <atom:link href="..../forum-archive/t/how-long-are-coins-frozen-for-and-what-enforces-this-rule/2194.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/how-long-are-coins-frozen-for-and-what-enforces-this-rule/2194.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>How long are coins frozen for, and what enforces this rule?</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p><strong>How long are coins frozen for, and what enforces this rule?</strong></p>
 <p>There are three (3) different timelines for freezing, which is hard-coded into the Dynamic Peg protocol, using checklocktimeverify. This ensures that spending cannot occur until after the allotted time has expired.</p>
@@ -44,12 +44,12 @@ The freezing schedule is as follows:
 <p>***<em>Once Frozen Liquid BAY unfreeze and become Liquid BAY, they will retain their high interest staking privileges until moved. This feature allows users to “ladder” their Frozen BAY, maximizing the benefits of high interest and premium liquidity as each rung of the ladder unfreezes.</em></p>
 <p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/how-long-are-coins-frozen-for-and-what-enforces-this-rule/2194/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-long-are-coins-frozen-for-and-what-enforces-this-rule/2194/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-long-are-coins-frozen-for-and-what-enforces-this-rule/2194/1</link>
+        <link>../../../forum-archive/t/how-long-are-coins-frozen-for-and-what-enforces-this-rule/2194/1</link>
         <pubDate>Wed, 29 Jan 2020 14:30:35 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2194-1</guid>
-        <source url="..../forum-archive/t/how-long-are-coins-frozen-for-and-what-enforces-this-rule/2194.rss">How long are coins frozen for, and what enforces this rule?</source>
+        <source url="../../../forum-archive/t/how-long-are-coins-frozen-for-and-what-enforces-this-rule/2194.rss">How long are coins frozen for, and what enforces this rule?</source>
       </item>
   </channel>
 </rss>

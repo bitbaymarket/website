@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>How to update the Client and/or QT wallet to the latest version</title>
-    <link>..../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2236</link>
+    <link>../../../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2236</link>
     <description># How to update the Client and/or QT wallet to the latest version
 
 ****Note: All download links on the BitBay site point to the latest version*
@@ -54,7 +54,7 @@ Using the Markets Client updater ( *without*  doing a fresh install):
 
 ![|32x32](https://github.githubassets.com/favicon.ico) [GitHub](https://github.com/bitbaymarket/bitbay-bootstrap/releases/tag/v1)
 
-![|420x420](..../forum-archive/uploads/default/original/1X/39c005a4f992d7d3f19e731098e5d205a16f89e5.png)
+![|420x420](../../../forum-archive/uploads/default/original/1X/39c005a4f992d7d3f19e731098e5d205a16f89e5.png)
 
 ### [bitbaymarket/bitbay-bootstrap](https://github.com/bitbaymarket/bitbay-bootstrap/releases/tag/v1)
 
@@ -88,12 +88,12 @@ Once the file has been added, restart the Client or Qt, and that’s it!
     
     <lastBuildDate>Sun, 16 Feb 2020 22:04:08 +0000</lastBuildDate>
     <category>Get Started Guides</category>
-    <atom:link href="..../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2236.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2236.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>How to update the Client and/or QT wallet to the latest version</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <h1>How to update the Client and/or QT wallet to the latest version</h1>
 <p>***<em>Note: All download links on the BitBay site point to the latest version</em></p>
@@ -139,7 +139,7 @@ Once the file has been added, restart the Client or Qt, and that’s it!
 <h1><strong>New  <em>(untested)</em>  Bootstrap Instructions:</strong></h1>
 <h2><strong>If you are doing a fresh install for either QT Wallet or Markets Client, or do not have an existing version of the QT Wallet or Markets Client installed, here is a brand new bootstrap file which significantly speeds up the syncing process:</strong></h2>
 <p><img src="https://github.githubassets.com/favicon.ico" alt width="32" height="32"> <a href="https://github.com/bitbaymarket/bitbay-bootstrap/releases/tag/v1">GitHub</a></p>
-<p><img src="..../forum-archive/uploads/default/original/1X/39c005a4f992d7d3f19e731098e5d205a16f89e5.png" alt width="420" height="420"></p>
+<p><img src="../../../forum-archive/uploads/default/original/1X/39c005a4f992d7d3f19e731098e5d205a16f89e5.png" alt width="420" height="420"></p>
 <h3><a href="https://github.com/bitbaymarket/bitbay-bootstrap/releases/tag/v1">bitbaymarket/bitbay-bootstrap</a></h3>
 <p>Contribute to bitbaymarket/bitbay-bootstrap development by creating an account on GitHub.</p>
 <p>*** <em>Note: This is bootstrap has not yet been heavily tested. If you experience any issues with it, please let the team know in Slack.</em></p>
@@ -157,12 +157,12 @@ Once the file has been added, restart the Client or Qt, and that’s it!
 <p>Once the file has been added, restart the Client or Qt, and that’s it!</p>
 <p>**  <strong>If you have any questions at all or need help with the update, please let the BitBay team know in the “ <em><span class="hashtag">#Support</span></em> ” channel on Slack or Discord.</strong> *</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2236/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2236/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2236/1</link>
+        <link>../../../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2236/1</link>
         <pubDate>Sun, 16 Feb 2020 22:04:08 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2236-1</guid>
-        <source url="..../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2236.rss">How to update the Client and/or QT wallet to the latest version</source>
+        <source url="../../../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2236.rss">How to update the Client and/or QT wallet to the latest version</source>
       </item>
   </channel>
 </rss>

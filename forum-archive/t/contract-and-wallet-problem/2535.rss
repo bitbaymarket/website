@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Contract and Wallet problem</title>
-    <link>..../forum-archive/t/contract-and-wallet-problem/2535</link>
+    <link>../../../forum-archive/t/contract-and-wallet-problem/2535</link>
     <description>My system has the following specifications 
 
 Operating System and version: Windows 10
@@ -17,12 +17,12 @@ I want to cancel the contract. How is that possible, when nothing shows up???</d
     
     <lastBuildDate>Thu, 23 Jul 2020 06:40:53 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/contract-and-wallet-problem/2535.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/contract-and-wallet-problem/2535.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Contract and Wallet problem</title>
         <dc:creator><![CDATA[@cryptowarrior Crypto Warrior]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/cryptowarrior">@cryptowarrior</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/cryptowarrior">@cryptowarrior</a> wrote:</p>
           <blockquote>
               <p>My system has the following specifications</p>
 <p>Operating System and version: Windows 10<br>
@@ -32,12 +32,12 @@ If desktop wallet (Qt or Client) block # of your client and # of connections: Wi
 However in “History” it show that the BAY for my contract are “reserved”.</p>
 <p>I want to cancel the contract. How is that possible, when nothing shows up???</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/contract-and-wallet-problem/2535/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/contract-and-wallet-problem/2535/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/contract-and-wallet-problem/2535/1</link>
+        <link>../../../forum-archive/t/contract-and-wallet-problem/2535/1</link>
         <pubDate>Thu, 23 Jul 2020 06:40:53 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2535-1</guid>
-        <source url="..../forum-archive/t/contract-and-wallet-problem/2535.rss">Contract and Wallet problem</source>
+        <source url="../../../forum-archive/t/contract-and-wallet-problem/2535.rss">Contract and Wallet problem</source>
       </item>
   </channel>
 </rss>

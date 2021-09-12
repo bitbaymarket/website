@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Bitbay web wallet block my login</title>
-    <link>..../forum-archive/t/bitbay-web-wallet-block-my-login/2323</link>
+    <link>../../../forum-archive/t/bitbay-web-wallet-block-my-login/2323</link>
     <description>Hello,
 
 i&#39;m using bitbay web wallet for a while, login as usual, today i tried to access to my founds and the system block me because i had a password less than 12char...so now how can access to my funds if i can not modify my credentials?
@@ -14,48 +14,48 @@ Thanks in advance</description>
     
     <lastBuildDate>Wed, 08 Apr 2020 06:34:59 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/bitbay-web-wallet-block-my-login/2323.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/bitbay-web-wallet-block-my-login/2323.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Bitbay web wallet block my login</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               <p>Hi there. Sorry for the delay but our devs have now prepared you a login page that you can use if your password is shorter than 12 characters.</p>
 <p>Please login at: <a href="https://devwallet.bitbay.market/index_older_pw.html">https://devwallet.bitbay.market/index_older_pw.html</a></p>
 <p>Once you have logged in successfully you can navigate to the backup page to view and print your private key. Then you can use that private key to import into the Qt wallet so you can access your funds.</p>
-<p>Please see this tutorial to see how to do this: <a href="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227">How to import your BitBay Web Wallet private key into the BitBay QT wallet</a></p>
+<p>Please see this tutorial to see how to do this: <a href="../../../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227">How to import your BitBay Web Wallet private key into the BitBay QT wallet</a></p>
 <p>I hope that resolves your issue but if you are still stuck then please let us know.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/bitbay-web-wallet-block-my-login/2323/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/bitbay-web-wallet-block-my-login/2323/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/bitbay-web-wallet-block-my-login/2323/3</link>
+        <link>../../../forum-archive/t/bitbay-web-wallet-block-my-login/2323/3</link>
         <pubDate>Wed, 08 Apr 2020 06:34:59 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2323-3</guid>
-        <source url="..../forum-archive/t/bitbay-web-wallet-block-my-login/2323.rss">Bitbay web wallet block my login</source>
+        <source url="../../../forum-archive/t/bitbay-web-wallet-block-my-login/2323.rss">Bitbay web wallet block my login</source>
       </item>
       <item>
         <title>Bitbay web wallet block my login</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>Hello,</p>
 <p>Thanks for reaching out to the support team. We are currently working on rebuilding the web wallet to accommodate the Dynamic Peg, which will also include a solution for your password issue.</p>
 <p>This is top priority for the devs, and a web wallet update will be coming soon. Please keep an eye out for an announcement in the coming weeks on BitBay’s social media channels.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/bitbay-web-wallet-block-my-login/2323/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/bitbay-web-wallet-block-my-login/2323/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/bitbay-web-wallet-block-my-login/2323/2</link>
+        <link>../../../forum-archive/t/bitbay-web-wallet-block-my-login/2323/2</link>
         <pubDate>Tue, 31 Mar 2020 16:47:00 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2323-2</guid>
-        <source url="..../forum-archive/t/bitbay-web-wallet-block-my-login/2323.rss">Bitbay web wallet block my login</source>
+        <source url="../../../forum-archive/t/bitbay-web-wallet-block-my-login/2323.rss">Bitbay web wallet block my login</source>
       </item>
       <item>
         <title>Bitbay web wallet block my login</title>
         <dc:creator><![CDATA[@anystrike]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/anystrike">@anystrike</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/anystrike">@anystrike</a> wrote:</p>
           <blockquote>
               <p>Hello,</p>
 <p>i’m using bitbay web wallet for a while, login as usual, today i tried to access to my founds and the system block me because i had a password less than 12char…so now how can access to my funds if i can not modify my credentials?</p>
@@ -63,12 +63,12 @@ Thanks in advance</description>
 <p>i’m waiting for some help.<br>
 Thanks in advance</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/bitbay-web-wallet-block-my-login/2323/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/bitbay-web-wallet-block-my-login/2323/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/bitbay-web-wallet-block-my-login/2323/1</link>
+        <link>../../../forum-archive/t/bitbay-web-wallet-block-my-login/2323/1</link>
         <pubDate>Mon, 30 Mar 2020 22:32:17 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2323-1</guid>
-        <source url="..../forum-archive/t/bitbay-web-wallet-block-my-login/2323.rss">Bitbay web wallet block my login</source>
+        <source url="../../../forum-archive/t/bitbay-web-wallet-block-my-login/2323.rss">Bitbay web wallet block my login</source>
       </item>
   </channel>
 </rss>

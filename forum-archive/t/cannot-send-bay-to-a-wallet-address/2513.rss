@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Cannot send BAY to a wallet address</title>
-    <link>..../forum-archive/t/cannot-send-bay-to-a-wallet-address/2513</link>
+    <link>../../../forum-archive/t/cannot-send-bay-to-a-wallet-address/2513</link>
     <description>I&#39;m writing on behalf of a friend who doesn&#39;t speak English well.
 He tells me that he cannot &#39;withdraw&#39; (send) BAY to another wallet address. He said that his BAY holding is frozen.
 
@@ -10,23 +10,23 @@ Can you please help me understand what this problem might be and how it can be r
     
     <lastBuildDate>Fri, 03 Jul 2020 14:44:50 +0000</lastBuildDate>
     <category>Uncategorized</category>
-    <atom:link href="..../forum-archive/t/cannot-send-bay-to-a-wallet-address/2513.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/cannot-send-bay-to-a-wallet-address/2513.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Cannot send BAY to a wallet address</title>
         <dc:creator><![CDATA[@Mattitude]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/mattitude">@Mattitude</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/mattitude">@Mattitude</a> wrote:</p>
           <blockquote>
               <p>I’m writing on behalf of a friend who doesn’t speak English well.<br>
 He tells me that he cannot ‘withdraw’ (send) BAY to another wallet address. He said that his BAY holding is frozen.</p>
 <p>Can you please help me understand what this problem might be and how it can be rectified as he is in desperate need.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/cannot-send-bay-to-a-wallet-address/2513/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/cannot-send-bay-to-a-wallet-address/2513/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/cannot-send-bay-to-a-wallet-address/2513/1</link>
+        <link>../../../forum-archive/t/cannot-send-bay-to-a-wallet-address/2513/1</link>
         <pubDate>Fri, 03 Jul 2020 14:44:50 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2513-1</guid>
-        <source url="..../forum-archive/t/cannot-send-bay-to-a-wallet-address/2513.rss">Cannot send BAY to a wallet address</source>
+        <source url="../../../forum-archive/t/cannot-send-bay-to-a-wallet-address/2513.rss">Cannot send BAY to a wallet address</source>
       </item>
   </channel>
 </rss>

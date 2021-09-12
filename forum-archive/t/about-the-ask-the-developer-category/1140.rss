@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>About the Ask the Developer category</title>
-    <link>..../forum-archive/t/about-the-ask-the-developer-category/1140</link>
+    <link>../../../forum-archive/t/about-the-ask-the-developer-category/1140</link>
     <description>We are introducing an ‘Ask the Developer Q &amp; A’ whereby people can ask questions no matter how big or small.
 
 Post your questions here and we’ll choose the best ones to feature on our monthly newsletter (anonymously of course!)</description>
     
     <lastBuildDate>Wed, 23 May 2018 05:47:57 +0000</lastBuildDate>
     <category>Ask the Developer</category>
-    <atom:link href="..../forum-archive/t/about-the-ask-the-developer-category/1140.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/about-the-ask-the-developer-category/1140.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>About the Ask the Developer category</title>
         <dc:creator><![CDATA[@sweetyvj2002 sweety]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sweetyvj2002">@sweetyvj2002</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sweetyvj2002">@sweetyvj2002</a> wrote:</p>
           <blockquote>
               <p>Hello,<br>
 Kindly try to help me.Please go through the following steps in order to understand my query<br>
@@ -57,28 +57,28 @@ Now I have executed the below command<br>
 <p>I just want some balance to “mj8CTgGPGHjab1iUipb7f2HS61KiiUQgK4” address</p>
 <p>Please help.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/about-the-ask-the-developer-category/1140/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/about-the-ask-the-developer-category/1140/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/about-the-ask-the-developer-category/1140/2</link>
+        <link>../../../forum-archive/t/about-the-ask-the-developer-category/1140/2</link>
         <pubDate>Wed, 23 May 2018 05:47:57 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1140-2</guid>
-        <source url="..../forum-archive/t/about-the-ask-the-developer-category/1140.rss">About the Ask the Developer category</source>
+        <source url="../../../forum-archive/t/about-the-ask-the-developer-category/1140.rss">About the Ask the Developer category</source>
       </item>
       <item>
         <title>About the Ask the Developer category</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               <p>We are introducing an ‘Ask the Developer Q &amp; A’ whereby people can ask questions no matter how big or small.</p>
 <p>Post your questions here and we’ll choose the best ones to feature on our monthly newsletter (anonymously of course!)</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/about-the-ask-the-developer-category/1140/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/about-the-ask-the-developer-category/1140/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/about-the-ask-the-developer-category/1140/1</link>
+        <link>../../../forum-archive/t/about-the-ask-the-developer-category/1140/1</link>
         <pubDate>Thu, 22 Feb 2018 20:48:09 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-1140-1</guid>
-        <source url="..../forum-archive/t/about-the-ask-the-developer-category/1140.rss">About the Ask the Developer category</source>
+        <source url="../../../forum-archive/t/about-the-ask-the-developer-category/1140.rss">About the Ask the Developer category</source>
       </item>
   </channel>
 </rss>

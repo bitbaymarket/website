@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Update desktop wallet from 32bit to 64 bit</title>
-    <link>..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315</link>
+    <link>../../../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315</link>
     <description>My system has the following specifications 
 
 QT Wallet, Client Wallet (and version) or Web wallet: QT Wallet last version
@@ -23,12 +23,12 @@ Pericle</description>
     
     <lastBuildDate>Mon, 30 Mar 2020 10:33:12 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Update desktop wallet from 32bit to 64 bit</title>
         <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
           <blockquote>
               <p>Pericle,</p>
 <p>Sorry for the delay.<br>
@@ -44,18 +44,18 @@ Place in the same folder as your wallet.dat file. This means you would only have
 6th) let it synchronize</p>
 <p>Let me know if you have any other questions</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315/2</link>
+        <link>../../../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315/2</link>
         <pubDate>Mon, 30 Mar 2020 10:33:12 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2315-2</guid>
-        <source url="..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315.rss">Update desktop wallet from 32bit to 64 bit</source>
+        <source url="../../../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315.rss">Update desktop wallet from 32bit to 64 bit</source>
       </item>
       <item>
         <title>Update desktop wallet from 32bit to 64 bit</title>
         <dc:creator><![CDATA[@Pericle]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/pericle">@Pericle</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/pericle">@Pericle</a> wrote:</p>
           <blockquote>
               <p>My system has the following specifications</p>
 <p>QT Wallet, Client Wallet (and version) or Web wallet: QT Wallet last version<br>
@@ -71,12 +71,12 @@ One thing I noticed in the Task Manager is that it starts the bitbay.exe 32 bit 
 <p>Thanks in advance,<br>
 Pericle</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315/1</link>
+        <link>../../../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315/1</link>
         <pubDate>Sat, 28 Mar 2020 20:26:53 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2315-1</guid>
-        <source url="..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315.rss">Update desktop wallet from 32bit to 64 bit</source>
+        <source url="../../../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315.rss">Update desktop wallet from 32bit to 64 bit</source>
       </item>
   </channel>
 </rss>

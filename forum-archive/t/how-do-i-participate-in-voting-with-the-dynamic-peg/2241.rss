@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>How do I participate in voting with the Dynamic Peg?</title>
-    <link>..../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241</link>
+    <link>../../../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241</link>
     <description>Since each vote is attached to a stake reward, any user who wishes to vote must run a full BitBay node. 
 
 To run a node, the latest version of either the **[BitBay Markets Client or QT wallet must be installed](https://bitbay.market/downloads/)** and synced prior to voting. 
@@ -41,17 +41,17 @@ For the **QT wallet**, there is no maximum number of votes, a reset will only be
     
     <lastBuildDate>Fri, 28 Feb 2020 13:44:59 +0000</lastBuildDate>
     <category>Dynamic Peg - FAQ</category>
-    <atom:link href="..../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>How do I participate in voting with the Dynamic Peg?</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p>Since each vote is attached to a stake reward, any user who wishes to vote must run a full BitBay node.</p>
 <p>To run a node, the latest version of either the <strong><a href="https://bitbay.market/downloads/">BitBay Markets Client or QT wallet must be installed</a></strong> and synced prior to voting.</p>
 <p>Once your wallet is installed, you can vote by going to the “staking tab” in both the Markets Client and Qt Wallet. There you will be able to select your vote preference:</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/1f4f1798c45046937581c475155012a1837f34e7.png" data-download-href="..../forum-archive/uploads/default/1f4f1798c45046937581c475155012a1837f34e7" title="Screen Shot 2020-02-18 at 4.32.55 AM.png"><img src="..../forum-archive/uploads/default/original/1X/1f4f1798c45046937581c475155012a1837f34e7.png" alt="55%20AM" width="690" height="311"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../../forum-archive/uploads/default/original/1X/1f4f1798c45046937581c475155012a1837f34e7.png" data-download-href="../../../forum-archive/uploads/default/1f4f1798c45046937581c475155012a1837f34e7" title="Screen Shot 2020-02-18 at 4.32.55 AM.png"><img src="../../../forum-archive/uploads/default/original/1X/1f4f1798c45046937581c475155012a1837f34e7.png" alt="55%20AM" width="690" height="311"><div class="meta">
 <span class="filename">Screen Shot 2020-02-18 at 4.32.55 AM.png</span><span class="informations">962x434 24.5 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h3>Automatic:</h3>
@@ -75,12 +75,12 @@ As a hard-coded rule in the Markets Client only, voters must remain active with 
 <p>For the <strong>QT wallet</strong>, there is no maximum number of votes, a reset will only be needed after 4,000 blocks.</p>
 <p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241/1</link>
+        <link>../../../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241/1</link>
         <pubDate>Tue, 18 Feb 2020 12:34:35 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2241-1</guid>
-        <source url="..../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241.rss">How do I participate in voting with the Dynamic Peg?</source>
+        <source url="../../../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241.rss">How do I participate in voting with the Dynamic Peg?</source>
       </item>
   </channel>
 </rss>

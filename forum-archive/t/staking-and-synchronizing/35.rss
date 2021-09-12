@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Staking and Synchronizing</title>
-    <link>..../forum-archive/t/staking-and-synchronizing/35</link>
+    <link>../../../forum-archive/t/staking-and-synchronizing/35</link>
     <description>## 1) How do I know if my Client is synchronized to the blockchain?
 
 At the bottom of the Home tab or the History tab is a synchronization status bar. If it’s at 100% then you are fully synchronized. You cannot perform transactions until you are fully synchronized. You will not see deposits to your Client until you are fully synchronized.
@@ -63,42 +63,42 @@ First, the Client needs to be synchronized 100% with coins in your wallet. Secon
     
     <lastBuildDate>Wed, 29 Nov 2017 10:29:30 +0000</lastBuildDate>
     <category>Get Started Guides</category>
-    <atom:link href="..../forum-archive/t/staking-and-synchronizing/35.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/staking-and-synchronizing/35.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Staking and Synchronizing</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               
           </blockquote>
-          <p><a href="..../forum-archive/t/staking-and-synchronizing/35/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/staking-and-synchronizing/35/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/staking-and-synchronizing/35/3</link>
+        <link>../../../forum-archive/t/staking-and-synchronizing/35/3</link>
         <pubDate>Wed, 29 Nov 2017 14:32:29 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-35-3</guid>
-        <source url="..../forum-archive/t/staking-and-synchronizing/35.rss">Staking and Synchronizing</source>
+        <source url="../../../forum-archive/t/staking-and-synchronizing/35.rss">Staking and Synchronizing</source>
       </item>
       <item>
         <title>Staking and Synchronizing</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               
           </blockquote>
-          <p><a href="..../forum-archive/t/staking-and-synchronizing/35/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/staking-and-synchronizing/35/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/staking-and-synchronizing/35/2</link>
+        <link>../../../forum-archive/t/staking-and-synchronizing/35/2</link>
         <pubDate>Wed, 29 Nov 2017 12:51:34 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-35-2</guid>
-        <source url="..../forum-archive/t/staking-and-synchronizing/35.rss">Staking and Synchronizing</source>
+        <source url="../../../forum-archive/t/staking-and-synchronizing/35.rss">Staking and Synchronizing</source>
       </item>
       <item>
         <title>Staking and Synchronizing</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               <h2>1) How do I know if my Client is synchronized to the blockchain?</h2>
 <p>At the bottom of the Home tab or the History tab is a synchronization status bar. If it’s at 100% then you are fully synchronized. You cannot perform transactions until you are fully synchronized. You will not see deposits to your Client until you are fully synchronized.<br>
@@ -147,12 +147,12 @@ This webpage how many coins are currently staking. Typically the amount of coins
 <h2>6) How do I stake?</h2>
 <p>First, the Client needs to be synchronized 100% with coins in your wallet. Second, you need enable staking in “Settings”. Then you unlock your wallet by going to the File tab of the Client and click on “Unlock Wallet”. For security reasons it’s best to unlock your wallet for staking only.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/staking-and-synchronizing/35/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/staking-and-synchronizing/35/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/staking-and-synchronizing/35/1</link>
+        <link>../../../forum-archive/t/staking-and-synchronizing/35/1</link>
         <pubDate>Wed, 29 Nov 2017 09:25:53 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-35-1</guid>
-        <source url="..../forum-archive/t/staking-and-synchronizing/35.rss">Staking and Synchronizing</source>
+        <source url="../../../forum-archive/t/staking-and-synchronizing/35.rss">Staking and Synchronizing</source>
       </item>
   </channel>
 </rss>

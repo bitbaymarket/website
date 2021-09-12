@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>What are the fees involved?</title>
-    <link>..../forum-archive/t/what-are-the-fees-involved/735</link>
+    <link>../../../forum-archive/t/what-are-the-fees-involved/735</link>
     <description>Sorry to post so many questions at once. The &quot;BitBay&quot; name collision made it difficult to google an answer, and also the lack of FAQ section on the frontpage~
 
 So I have a few questions:
@@ -17,61 +17,61 @@ P.S. It would be great if a comparison table is in the frontpage, and a FAQ is a
     
     <lastBuildDate>Wed, 27 Dec 2017 05:04:16 +0000</lastBuildDate>
     <category>The Lounge</category>
-    <atom:link href="..../forum-archive/t/what-are-the-fees-involved/735.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/what-are-the-fees-involved/735.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>What are the fees involved?</title>
         <dc:creator><![CDATA[@Mantrack]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
           <blockquote>
               <p>As of right now the fee is ridiculously low, almost free (0.02 BAY). As Bitbay uses Proof of Stake 3.0, I expect it to stay low like that even when the network will get bigger. What drives Bitcoin fees price is the fact that it uses Proof of Work which is literally a nightmare in terms of fees/time/decentralization, while our Proof of Stake solved such problems. For instance that’s exactly why Ethereum wants to switch to proof of stake like us.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/what-are-the-fees-involved/735/4">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/what-are-the-fees-involved/735/4">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/what-are-the-fees-involved/735/4</link>
+        <link>../../../forum-archive/t/what-are-the-fees-involved/735/4</link>
         <pubDate>Wed, 27 Dec 2017 05:04:16 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-735-4</guid>
-        <source url="..../forum-archive/t/what-are-the-fees-involved/735.rss">What are the fees involved?</source>
+        <source url="../../../forum-archive/t/what-are-the-fees-involved/735.rss">What are the fees involved?</source>
       </item>
       <item>
         <title>What are the fees involved?</title>
         <dc:creator><![CDATA[@lulalala Lulalala]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/lulalala">@lulalala</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/lulalala">@lulalala</a> wrote:</p>
           <blockquote>
               <p>Thanks!</p>
 <p>About the $BAY transaction fee, as I understand it, Bitcoin’s fee is expensive because its current price is so high. If $BAY is ever as expensive as Bitcoin, will the fee be considerably lower than Bitcoin?</p>
 <p>I ask because that ensure micro-transactions to be possible. For example if I ever sell a $5 secondhand book, the fee hopefully should still be only a few fraction of that f $BAY is as expensive as Bitcoin.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/what-are-the-fees-involved/735/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/what-are-the-fees-involved/735/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/what-are-the-fees-involved/735/3</link>
+        <link>../../../forum-archive/t/what-are-the-fees-involved/735/3</link>
         <pubDate>Wed, 27 Dec 2017 01:29:26 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-735-3</guid>
-        <source url="..../forum-archive/t/what-are-the-fees-involved/735.rss">What are the fees involved?</source>
+        <source url="../../../forum-archive/t/what-are-the-fees-involved/735.rss">What are the fees involved?</source>
       </item>
       <item>
         <title>What are the fees involved?</title>
         <dc:creator><![CDATA[@Munti Bjorn Alsos]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/munti">@Munti</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/munti">@Munti</a> wrote:</p>
           <blockquote>
               <p>Yes, BitBay market is fee-less</p>
 <p>Your second question requires a little more writing. Open source is both about the abillity to read the source code and permissions for others to use it. We are not granting any permissions for others to use it for now. As to readabillity, it is obfuscated. This means a good programer is able to audit the code to make sure there is nothing harmful in it or check for other concerns, but it is not possible to just clone it and use for your own purpose…</p>
 <p>Yes, there is a small transaction (anti-spam) fee like you find it in bitcoin and most other coins. But the size of the fee is only a fraction of bitcoin fee</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/what-are-the-fees-involved/735/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/what-are-the-fees-involved/735/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/what-are-the-fees-involved/735/2</link>
+        <link>../../../forum-archive/t/what-are-the-fees-involved/735/2</link>
         <pubDate>Tue, 26 Dec 2017 14:08:41 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-735-2</guid>
-        <source url="..../forum-archive/t/what-are-the-fees-involved/735.rss">What are the fees involved?</source>
+        <source url="../../../forum-archive/t/what-are-the-fees-involved/735.rss">What are the fees involved?</source>
       </item>
       <item>
         <title>What are the fees involved?</title>
         <dc:creator><![CDATA[@lulalala Lulalala]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/lulalala">@lulalala</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/lulalala">@lulalala</a> wrote:</p>
           <blockquote>
               <p>Sorry to post so many questions at once. The “BitBay” name collision made it difficult to google an answer, and also the lack of FAQ section on the frontpage~</p>
 <p>So I have a few questions:</p>
@@ -81,14 +81,14 @@ P.S. It would be great if a comparison table is in the frontpage, and a FAQ is a
 <li>BitBay the cryptocurrency, when transferred from wallet to wallet, does it require transfer fees like Bitcoin? (an example of fee-less is IOTA)</li>
 </ul>
 <p>Thanks.</p>
-<p>P.S. It would be great if a comparison table is in the frontpage, and a FAQ is available <img src="..../forum-archive/images/emoji/twitter/stuck_out_tongue.png?v=5" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+<p>P.S. It would be great if a comparison table is in the frontpage, and a FAQ is available <img src="../../../forum-archive/images/emoji/twitter/stuck_out_tongue.png?v=5" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/what-are-the-fees-involved/735/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/what-are-the-fees-involved/735/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/what-are-the-fees-involved/735/1</link>
+        <link>../../../forum-archive/t/what-are-the-fees-involved/735/1</link>
         <pubDate>Tue, 26 Dec 2017 12:54:35 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-735-1</guid>
-        <source url="..../forum-archive/t/what-are-the-fees-involved/735.rss">What are the fees involved?</source>
+        <source url="../../../forum-archive/t/what-are-the-fees-involved/735.rss">What are the fees involved?</source>
       </item>
   </channel>
 </rss>

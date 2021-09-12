@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>BitBay Community - Topics tagged tutorials</title>
-    <link>.../forum-archive/tags/tutorials</link>
+    <link>../../forum-archive/tags/tutorials</link>
     <description>Topics tagged tutorials</description>
     
       <lastBuildDate>Tue, 12 Nov 2019 06:30:58 +0000</lastBuildDate>
-      <atom:link href=".../forum-archive/tags/tutorials.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="../../forum-archive/tags/tutorials.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>Bitbay wallet 连接不上bitbay.conf</title>
           <dc:creator><![CDATA[@tang090304 tangjian]]></dc:creator>
           <category>Questions about BitBay</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/tang090304">@tang090304</a> wrote:</p>
+            <p><a href="../../forum-archive/u/tang090304">@tang090304</a> wrote:</p>
             <blockquote>
               <p>正式环境为什么这样配置不行，测试确可以<br>
 rpcuser=root<br>
@@ -23,22 +23,22 @@ listen=1</p>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bitbay-wallet-bitbay-conf/2089">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-wallet-bitbay-conf/2089">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-wallet-bitbay-conf/2089</link>
+          <link>../../forum-archive/t/bitbay-wallet-bitbay-conf/2089</link>
           <pubDate>Tue, 12 Nov 2019 06:30:58 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-2089</guid>
-          <source url=".../forum-archive/t/bitbay-wallet-bitbay-conf/2089.rss">Bitbay wallet 连接不上bitbay.conf</source>
+          <source url="../../forum-archive/t/bitbay-wallet-bitbay-conf/2089.rss">Bitbay wallet 连接不上bitbay.conf</source>
         </item>
         <item>
           <title>Multisig Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
           <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <p><a href="../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
             <blockquote>
               <p>The enhanced web wallet has the capability to create a multisig wallet with up to 15 participants. In simple terms, this is a joint account/wallet controlled by up to 15 individuals.</p>
 <p><em><strong>DISCLAIMER:</strong></em> You are advised to use this feature with small amounts of BAY until completely understanding the process and the implications. There is always a posibility to lose your funds if something is not done properly.</p>
@@ -50,7 +50,7 @@ public key2 <code>025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2
 public key3 <code>024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f912</code></p>
 <h2>1.</h2>
 <p>From the web wallet dropdown menu choose <strong>multisig address</strong> and fill in the 3 keys given. Leave the 2 <strong>required signatures</strong> in place and press submit.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/7289dec20e8fe4b10f1f221c0fcd738564f94d42.png" data-download-href=".../forum-archive/uploads/default/7289dec20e8fe4b10f1f221c0fcd738564f94d42" title="1.new.multisig.png"><img src=".../forum-archive/uploads/default/original/1X/7289dec20e8fe4b10f1f221c0fcd738564f94d42.png" alt="multisig" width="666" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/7289dec20e8fe4b10f1f221c0fcd738564f94d42.png" data-download-href="../../forum-archive/uploads/default/7289dec20e8fe4b10f1f221c0fcd738564f94d42" title="1.new.multisig.png"><img src="../../forum-archive/uploads/default/original/1X/7289dec20e8fe4b10f1f221c0fcd738564f94d42.png" alt="multisig" width="666" height="500"><div class="meta">
 <span class="filename">1.new.multisig.png</span><span class="informations">872x654 27.9 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>2.</h2>
@@ -58,11 +58,11 @@ public key3 <code>024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24
 <p><strong>Address</strong> <code>bUnqfZPjfcagU3XBLUpTGsEqA2urHt19Yn</code><br>
 <strong>Redeem Script</strong> <code>5221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253ae</code><br>
 <strong>Shareable URL</strong> <code>https://wallet.bitbay.market/_test123_/?verify=5221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253ae#verify</code></p>
-<p><img src=".../forum-archive/uploads/default/original/1X/aa3f98a766cd67064fe682a9878e5a45d10a1fec.png" alt="multisig" width="665" height="405"></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/aa3f98a766cd67064fe682a9878e5a45d10a1fec.png" alt="multisig" width="665" height="405"></p>
 <p><strong>NOTE:</strong> It is important to note that the <strong>redeem script</strong> or <strong>shareable URL</strong> have to be kept somewhere safe otherwise any funds that go into this account will not be able to be redeemed. The above info can be kept just in case by more than one participant in a safe place (text file, print, bookmark).</p>
 <h2>3.</h2>
 <p>You can verify the previous script using either the <strong>shareable URL</strong> above or pasting the <strong>redeem script</strong> using the <strong>verify</strong> panel from the drop down menu:</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/e47993a4077a767640a94fbff4bbe93a576c9e0a.png" data-download-href=".../forum-archive/uploads/default/e47993a4077a767640a94fbff4bbe93a576c9e0a" title="3.verify.multisig.png"><img src=".../forum-archive/uploads/default/original/1X/e47993a4077a767640a94fbff4bbe93a576c9e0a.png" alt="multisig" width="482" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/e47993a4077a767640a94fbff4bbe93a576c9e0a.png" data-download-href="../../forum-archive/uploads/default/e47993a4077a767640a94fbff4bbe93a576c9e0a" title="3.verify.multisig.png"><img src="../../forum-archive/uploads/default/original/1X/e47993a4077a767640a94fbff4bbe93a576c9e0a.png" alt="multisig" width="482" height="500"><div class="meta">
 <span class="filename">3.verify.multisig.png</span><span class="informations">707x733 49.5 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>4.</h2>
@@ -72,7 +72,7 @@ public key3 <code>024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24
 <h2>1.</h2>
 <p>On the web wallet we go to <em><strong>TRANSACTION</strong></em> from the <em><strong>DROP DOWN MENU</strong></em>, paste the <strong>redeem script</strong> that we have and press <strong>LOAD</strong>. After a few seconds the form will be filled with all relevant information pertaining to this multisig account. The input tab will say <strong>inputs 1.0000</strong> which means the wallet has 1 BAY in it.</p>
 <p>We have to specify the <strong>output(s)</strong> which means where the funds will go.  We could have multiple output addresses but for the purpose of this tutorial  we will only send the funds to 1 address.  We input the amount that the wallet(s) will receive.  We should not get the full amount but the amount after subtracting the transaction fee,  0.001 will suffice. <strong>Be careful</strong> as the transaction fee is autocalculated to be the remainder. For example, if we input 0.999 the fee becomes 0.001. After filling in this information we <em><strong>SUBMIT</strong></em> the form:</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/55244cfd5a442798fe17bf8122b4ca355552071a.png" data-download-href=".../forum-archive/uploads/default/55244cfd5a442798fe17bf8122b4ca355552071a" title="1.create.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/55244cfd5a442798fe17bf8122b4ca355552071a.png" alt="transaction" width="514" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/55244cfd5a442798fe17bf8122b4ca355552071a.png" data-download-href="../../forum-archive/uploads/default/55244cfd5a442798fe17bf8122b4ca355552071a" title="1.create.transaction.png"><img src="../../forum-archive/uploads/default/original/1X/55244cfd5a442798fe17bf8122b4ca355552071a.png" alt="transaction" width="514" height="500"><div class="meta">
 <span class="filename">1.create.transaction.png</span><span class="informations">712x692 21.7 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p><em>The wallet used to redeem the funds in this case: <code>B4w8iuDJ6iSpf1kzw3tcVFrChMtv1QEHeU</code></em></p>
@@ -81,25 +81,25 @@ public key3 <code>024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24
 <h2>2.</h2>
 <p>As a result of SUBMITTING the form we get the following <strong>RAW transaction</strong><br>
 <code>010000009d5a6b5a027539a82f516fb22a61a22c7acd8574ece8e154ac77aa120f7880365375ca9d9f00000000695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff5b85426233ba2ae502c759d3a433e5def655d1fbdf97c4b5059e77b9744ca23300000000695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff01605af405000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac00000000</code></p>
-<p><img src=".../forum-archive/uploads/default/original/1X/71d264ffb99f58502d25ea7698bdd96cb0fce8e8.png" alt="transaction" width="655" height="271"></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/71d264ffb99f58502d25ea7698bdd96cb0fce8e8.png" alt="transaction" width="655" height="271"></p>
 <h2>3.</h2>
 <p>We now go to the <strong>sign</strong> panel from the drop down menu and we use as inputs the transaction and the private key for 1 of the wallets involved (as we said we have 3 wallets / 3 participants). Below is the <strong>signed transaction</strong>.</p>
 <p><em><strong>NOTE</strong> The order we sign the transactions should be the same order we used to create the multisig address. For the purpose of this turorial we are using the 2nd wallet’s private key on this step.</em></p>
 <p><code>010000009d5a6b5a027539a82f516fb22a61a22c7acd8574ece8e154ac77aa120f7880365375ca9d9f00000000b500483045022100b5d746bcc0f9305f342a694cee67b504071a6313055cfd1c25db0101b2b79bcb022072791987c327900b1c657e4d98ceb7105e5e6755c3eaf74c2b22db583f35fa47014c695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff5b85426233ba2ae502c759d3a433e5def655d1fbdf97c4b5059e77b9744ca23300000000b40047304402207d2094abd103ec6e66ed6b16fc03fe3b87ed55de0e490a590079a76aec492ee90220374e127912d51fd5f905a0873e32a8daa27bda9c09a547f3cd81f56b718ee6f9014c695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff01605af405000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac00000000</code></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/421d0da92185b322fff87d824dc7e373b6fc9ae5.png" data-download-href=".../forum-archive/uploads/default/421d0da92185b322fff87d824dc7e373b6fc9ae5" title="3.signed.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/421d0da92185b322fff87d824dc7e373b6fc9ae5.png" alt="transaction" width="476" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/421d0da92185b322fff87d824dc7e373b6fc9ae5.png" data-download-href="../../forum-archive/uploads/default/421d0da92185b322fff87d824dc7e373b6fc9ae5" title="3.signed.transaction.png"><img src="../../forum-archive/uploads/default/original/1X/421d0da92185b322fff87d824dc7e373b6fc9ae5.png" alt="transaction" width="476" height="500"><div class="meta">
 <span class="filename">3.signed.transaction.png</span><span class="informations">707x742 35.3 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>4.</h2>
 <p>We send this signed transaction to one of the other participants to sign using the same process and we get this twice <strong>signed transaction</strong>:</p>
 <p><em><strong>NOTE</strong> The 2nd party involved in this step cannot change where the funds are redeemed and any intercepting parties cannot either so this transaction can also be transmitted through insecure channels.  The receiving party has the ability to verify (using the verify panel) that the funds are going to an agreed upon wallet.</em></p>
 <p><code>010000009d5a6b5a027539a82f516fb22a61a22c7acd8574ece8e154ac77aa120f7880365375ca9d9f00000000fdfe0000483045022100b5d746bcc0f9305f342a694cee67b504071a6313055cfd1c25db0101b2b79bcb022072791987c327900b1c657e4d98ceb7105e5e6755c3eaf74c2b22db583f35fa4701483045022100d580d92cd78bded467848f37bc2651035bb80e95c18759c65271eef1f2ca3f05022042a85cc6eb33e0f834dcc9b0310cbdbca84fe069b91ebdf38d516673a4ffaa9e014c695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff5b85426233ba2ae502c759d3a433e5def655d1fbdf97c4b5059e77b9744ca23300000000fc0047304402207d2094abd103ec6e66ed6b16fc03fe3b87ed55de0e490a590079a76aec492ee90220374e127912d51fd5f905a0873e32a8daa27bda9c09a547f3cd81f56b718ee6f90147304402200da015d23651d8f7ad2aa81374bf643664f6ce14e105fb69b263c74eb9ad42840220155f7c8f046a304f824f8e9eba00fa739c0b98f28c1d16ef21e89321be675da0014c695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff01605af405000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac00000000</code></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/c09d7a5068d1b1645d0cbb4020e016656af1067d.png" data-download-href=".../forum-archive/uploads/default/c09d7a5068d1b1645d0cbb4020e016656af1067d" title="4.signed.twice.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/c09d7a5068d1b1645d0cbb4020e016656af1067d.png" alt="transaction" width="472" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/c09d7a5068d1b1645d0cbb4020e016656af1067d.png" data-download-href="../../forum-archive/uploads/default/c09d7a5068d1b1645d0cbb4020e016656af1067d" title="4.signed.twice.transaction.png"><img src="../../forum-archive/uploads/default/original/1X/c09d7a5068d1b1645d0cbb4020e016656af1067d.png" alt="transaction" width="472" height="500"><div class="meta">
 <span class="filename">4.signed.twice.transaction.png</span><span class="informations">708x749 35.2 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>5.</h2>
 <p>We Broadcast the signed transaction and once everything is ok we receive the <a href="https://chainz.cryptoid.info/bay/search.dws?q=7b6109bef2ec8dfce4e0dac710c4ab5c2b7e91c48877c165667718a9cb4e5d29">TX ID</a> shown below:</p>
 <p><em><strong>NOTE:</strong> The time of the last signing to the broadcasting should not be too long otherwise we might receive a transaction error and the network would refuse our transaction.</em></p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/7e2f5c0b38a973e0d361b0f5d79335e86bb2aa6e.png" data-download-href=".../forum-archive/uploads/default/7e2f5c0b38a973e0d361b0f5d79335e86bb2aa6e" title="5.broadcast.signed.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/7e2f5c0b38a973e0d361b0f5d79335e86bb2aa6e.png" alt="transaction" width="690" height="408"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/7e2f5c0b38a973e0d361b0f5d79335e86bb2aa6e.png" data-download-href="../../forum-archive/uploads/default/7e2f5c0b38a973e0d361b0f5d79335e86bb2aa6e" title="5.broadcast.signed.transaction.png"><img src="../../forum-archive/uploads/default/original/1X/7e2f5c0b38a973e0d361b0f5d79335e86bb2aa6e.png" alt="transaction" width="690" height="408"><div class="meta">
 <span class="filename">5.broadcast.signed.transaction.png</span><span class="informations">711x421 19.1 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p><strong>CLOSING NOTES:</strong></p>
@@ -113,22 +113,22 @@ public key3 <code>024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/multisig-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1024">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/multisig-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1024">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/multisig-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1024</link>
+          <link>../../forum-archive/t/multisig-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1024</link>
           <pubDate>Thu, 25 Jan 2018 15:53:22 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1024</guid>
-          <source url=".../forum-archive/t/multisig-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1024.rss">Multisig Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
+          <source url="../../forum-archive/t/multisig-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1024.rss">Multisig Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
         </item>
         <item>
           <title>Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
           <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <p><a href="../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
             <blockquote>
               <p>This tutorial will walk you through how to create a time locked wallet that can hold funds to be released in the future.</p>
 <p><em><strong>DISCLAIMER 1:</strong></em> You are advised to use this feature with small amounts of BAY until you completely understand the process and the implications. There is always a possibility of <strong>losing your funds</strong> if the process is not followed correctly.</p>
@@ -141,17 +141,17 @@ public key3 <code>024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24
 <h1>TIME LOCKED WALLET CREATION</h1>
 <h2>1.</h2>
 <p>The beneficiary can create a <strong>regular wallet</strong> (if they don’t have one already). This is the wallet that will <strong>REDEEM</strong> the funds.  The wallet can be created from the client, or it can be an individual multisig wallet (2 of 2).</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" data-download-href=".../forum-archive/uploads/default/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a" title="01.wallet.create.png"><img src=".../forum-archive/uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" alt="create" width="514" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" data-download-href="../../forum-archive/uploads/default/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a" title="01.wallet.create.png"><img src="../../forum-archive/uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" alt="create" width="514" height="500"><div class="meta">
 <span class="filename">01.wallet.create.png</span><span class="informations">792x770 17.3 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>2.</h2>
 <p>Under the “<strong>Receive</strong>” tab, the beneficiary will copy the <strong>Public Key</strong> of the wallet created above, then <strong>logout</strong> and send the <strong>public key</strong> to the benefactor.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a.png" data-download-href=".../forum-archive/uploads/default/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a" title="02.wallet.public.key.png"><img src=".../forum-archive/uploads/default/original/1X/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a.png" alt="key" width="690" height="319"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a.png" data-download-href="../../forum-archive/uploads/default/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a" title="02.wallet.public.key.png"><img src="../../forum-archive/uploads/default/original/1X/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a.png" alt="key" width="690" height="319"><div class="meta">
 <span class="filename">02.wallet.public.key.png</span><span class="informations">835x387 11.1 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>3.</h2>
 <p>The benefactor selects <strong>Time Locked Address</strong> from the menu and pastes in the previously copied <strong>public key</strong>. Then select a date/time for funds release and then click <strong>Submit</strong>.  Alternatively, one can set the blockheight of release by checking the current block height using the <a href="https://chainz.cryptoid.info/bay/">explorer</a> and estimating 1 block per minute.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c.png" data-download-href=".../forum-archive/uploads/default/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c" title="03.wallet.time.locked.png"><img src=".../forum-archive/uploads/default/original/1X/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c.png" alt="locked" width="648" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c.png" data-download-href="../../forum-archive/uploads/default/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c" title="03.wallet.time.locked.png"><img src="../../forum-archive/uploads/default/original/1X/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c.png" alt="locked" width="648" height="500"><div class="meta">
 <span class="filename">03.wallet.time.locked.png</span><span class="informations">793x611 24.3 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>For the purpose of this tutorial, the date/time is only a few minutes into the future.</p>
@@ -160,7 +160,7 @@ public key3 <code>024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24
 <strong>date</strong> <code>01/23/2018 12:40</code></p>
 <h2>4.</h2>
 <p>After clicking <strong>Submit</strong>, you will get the following (example info below so you can verify)</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/9806a8bb940df4cb44a01447968db332a0719ae3.png" data-download-href=".../forum-archive/uploads/default/9806a8bb940df4cb44a01447968db332a0719ae3" title="04.wallet.time.locked.submit.png"><img src=".../forum-archive/uploads/default/original/1X/9806a8bb940df4cb44a01447968db332a0719ae3.png" alt="submit" width="690" height="475"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/9806a8bb940df4cb44a01447968db332a0719ae3.png" data-download-href="../../forum-archive/uploads/default/9806a8bb940df4cb44a01447968db332a0719ae3" title="04.wallet.time.locked.submit.png"><img src="../../forum-archive/uploads/default/original/1X/9806a8bb940df4cb44a01447968db332a0719ae3.png" alt="submit" width="690" height="475"><div class="meta">
 <span class="filename">04.wallet.time.locked.submit.png</span><span class="informations">691x476 17.2 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p><strong>Wallet to send the FUNDS to:</strong><br>
@@ -173,34 +173,34 @@ public key3 <code>024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24
 <h2>5.</h2>
 <p>The benefactor only needs to send the <strong>Shareable URL</strong> to the beneficiary, who should STORE the <strong>shareable url</strong> or <strong>redeem script</strong> code somewhere safe (print or write it down or bookmark it).  Its <strong>VERY IMPORTANT</strong> that the beneficiary understands the importance of saving the <strong>shareable url</strong> or <strong>redeem script</strong>, otherwise the funds would stay in the TimeLock address without anyone being able to release them.</p>
 <p>The beneficiary can paste into their browser and they will be able to verify the details of this action (wallets involved and date/time of release).</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/b2b4587cea2463664035df0d3b27241d15a578e2.png" data-download-href=".../forum-archive/uploads/default/b2b4587cea2463664035df0d3b27241d15a578e2" title="05.wallet.time.locked.verify.png"><img src=".../forum-archive/uploads/default/original/1X/b2b4587cea2463664035df0d3b27241d15a578e2.png" alt="verify" width="602" height="499"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/b2b4587cea2463664035df0d3b27241d15a578e2.png" data-download-href="../../forum-archive/uploads/default/b2b4587cea2463664035df0d3b27241d15a578e2" title="05.wallet.time.locked.verify.png"><img src="../../forum-archive/uploads/default/original/1X/b2b4587cea2463664035df0d3b27241d15a578e2.png" alt="verify" width="602" height="499"><div class="meta">
 <span class="filename">05.wallet.time.locked.verify.png</span><span class="informations">709x588 18.3 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h1>REDEEM FUNDS</h1>
 <p>Once the future release date passes, the beneficiary can redeem the funds using the following procedure:</p>
 <h2>1.</h2>
 <p>Beneficiary will create a transaction, (menu &gt; transaction) inputing the <strong>Redeem script</strong> and clicking <strong>Load</strong>. This will load all the details of the transaction. The Beneficiary then will need to input the wallet address that will receive the redeemed funds, and the amount which will have to be a little less (0.99) than the total. This compensates for the network fee (which is calculated automatically - the difference between outputs and inputs is always the fee). Click <strong>Enter</strong> when done.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/c18b44bbb99917b7eeac3eb6dbb2867c0149b067.png" data-download-href=".../forum-archive/uploads/default/c18b44bbb99917b7eeac3eb6dbb2867c0149b067" title="01.create.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/c18b44bbb99917b7eeac3eb6dbb2867c0149b067.png" alt="transaction" width="452" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/c18b44bbb99917b7eeac3eb6dbb2867c0149b067.png" data-download-href="../../forum-archive/uploads/default/c18b44bbb99917b7eeac3eb6dbb2867c0149b067" title="01.create.transaction.png"><img src="../../forum-archive/uploads/default/original/1X/c18b44bbb99917b7eeac3eb6dbb2867c0149b067.png" alt="transaction" width="452" height="500"><div class="meta">
 <span class="filename">01.create.transaction.png</span><span class="informations">720x796 23.6 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>2.</h2>
 <p>The transaction has been created and you can see the generated code to be used for the next step:</p>
-<p><img src=".../forum-archive/uploads/default/original/1X/e8f5e7b2a826f56e5da830fb71f747c89bdc6ca4.png" alt="transaction" width="686" height="290"></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/e8f5e7b2a826f56e5da830fb71f747c89bdc6ca4.png" alt="transaction" width="686" height="290"></p>
 <p><strong>transaction</strong> <code>010000000a1a675a0112de2b4a11579c146f43701eb05692a35ba48d4f095448117ccc77a8301a9773000000002a040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac0000000001c09ee605000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac0011675a</code></p>
 <h2>3.</h2>
 <p>Under menu &gt; sign, the Beneficiary will then <strong>sign the transaction</strong> with their own wallet private key. The<br>
 private key can be found under the <strong>Receive</strong> tab on web wallet.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/79cc2a656450cc7a495679751f3b5b6edd4ee11e.png" data-download-href=".../forum-archive/uploads/default/79cc2a656450cc7a495679751f3b5b6edd4ee11e" title="03.sign.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/79cc2a656450cc7a495679751f3b5b6edd4ee11e.png" alt="transaction" width="690" height="444"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/79cc2a656450cc7a495679751f3b5b6edd4ee11e.png" data-download-href="../../forum-archive/uploads/default/79cc2a656450cc7a495679751f3b5b6edd4ee11e" title="03.sign.transaction.png"><img src="../../forum-archive/uploads/default/original/1X/79cc2a656450cc7a495679751f3b5b6edd4ee11e.png" alt="transaction" width="690" height="444"><div class="meta">
 <span class="filename">03.sign.transaction.png</span><span class="informations">720x464 15.8 KB</span><span class="expand"></span>
 </div></a></div></p>
 <h2>4.</h2>
 <p>After signing the transaction the following information is created:</p>
-<p><img src=".../forum-archive/uploads/default/original/1X/f65f03da3960c6871f30dd36da037de56fd6d0a2.png" alt="transaction" width="662" height="242"></p>
+<p><img src="../../forum-archive/uploads/default/original/1X/f65f03da3960c6871f30dd36da037de56fd6d0a2.png" alt="transaction" width="662" height="242"></p>
 <p><strong>signed transaction</strong> <code>010000000a1a675a0112de2b4a11579c146f43701eb05692a35ba48d4f095448117ccc77a8301a97730000000074483045022100b98759bfeec796d7a9292ae18b6f0b591ed48dac49829356f3b002394c87ff4402203e7fd949357e493c6212aff84806560572afb236cb40c8fb924a1ba2ef7c09d4012a040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac0000000001c09ee605000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac0011675a</code></p>
 <p><em><strong>Note:</strong> One can also verify the <strong>signed transaction</strong> by going to <strong>menu &gt; verify</strong></em></p>
 <h2>5.</h2>
 <p>Lastly, under <strong>menu &gt; broadcast</strong>, the Beneficiary will broadcast the <strong>signed transaction</strong>.  If successful, this will produce a transaction ID. If not successful, simply wait a few moments and try again.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1.png" data-download-href=".../forum-archive/uploads/default/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1" title="05.broadcast.signed.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1.png" alt="transaction" width="690" height="399"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1.png" data-download-href="../../forum-archive/uploads/default/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1" title="05.broadcast.signed.transaction.png"><img src="../../forum-archive/uploads/default/original/1X/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1.png" alt="transaction" width="690" height="399"><div class="meta">
 <span class="filename">05.broadcast.signed.transaction.png</span><span class="informations">708x410 17.6 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>After it has been succesfully broadcast the funds will be released and the receiving address used in step 1 should see them shortly.</p>
@@ -215,28 +215,28 @@ private key can be found under the <strong>Receive</strong> tab on web wallet.</
             </blockquote>
             <p>Posts: 9</p>
             <p>Participants: 2</p>
-            <p><a href=".../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008</link>
+          <link>../../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008</link>
           <pubDate>Tue, 23 Jan 2018 11:10:10 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1008</guid>
-          <source url=".../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008.rss">Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
+          <source url="../../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008.rss">Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
         </item>
         <item>
           <title>How to find out the type of client and version</title>
           <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
           <category>Get Started Guides</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <p><a href="../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
             <blockquote>
               <p>When reporting an issue its very important to report the client and the version so someone can better support you</p>
 <h1>MARKET CLIENT</h1>
 <p>Here is how the <strong>client</strong> looks like<br>
 some people also call the <strong>market client</strong> as it contains the marketplace</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/faaf04c907e013e9c0213aa97e9a3232fc3cc161.png" data-download-href=".../forum-archive/uploads/default/faaf04c907e013e9c0213aa97e9a3232fc3cc161" title="bitbay.client.windows.png"><img src=".../forum-archive/uploads/default/optimized/1X/faaf04c907e013e9c0213aa97e9a3232fc3cc161_1_682x500.png" alt="windows" width="682" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/faaf04c907e013e9c0213aa97e9a3232fc3cc161.png" data-download-href="../../forum-archive/uploads/default/faaf04c907e013e9c0213aa97e9a3232fc3cc161" title="bitbay.client.windows.png"><img src="../../forum-archive/uploads/default/optimized/1X/faaf04c907e013e9c0213aa97e9a3232fc3cc161_1_682x500.png" alt="windows" width="682" height="500"><div class="meta">
 <span class="filename">bitbay.client.windows.png</span><span class="informations">993x727 144 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>The <strong>block number</strong> is on the bottom left corner of <strong>Home tab</strong> as seen on the screenshot above.<br>
@@ -244,7 +244,7 @@ For <strong>number of connections</strong>  go to <code>settings &gt; general se
 For <strong>version number</strong> go to <code>help &gt; about</code> it will say Halo version and a number 1.29</p>
 <h1>QT WALLET</h1>
 <p>Here is how the QT client looks like</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/9932973ac50c12e168601ecf0eaebd6e4a5a3864.png" data-download-href=".../forum-archive/uploads/default/9932973ac50c12e168601ecf0eaebd6e4a5a3864" title="bitbay.qt.wallet.png"><img src=".../forum-archive/uploads/default/optimized/1X/9932973ac50c12e168601ecf0eaebd6e4a5a3864_1_684x500.png" alt="wallet" width="684" height="500"><div class="meta">
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../forum-archive/uploads/default/original/1X/9932973ac50c12e168601ecf0eaebd6e4a5a3864.png" data-download-href="../../forum-archive/uploads/default/9932973ac50c12e168601ecf0eaebd6e4a5a3864" title="bitbay.qt.wallet.png"><img src="../../forum-archive/uploads/default/optimized/1X/9932973ac50c12e168601ecf0eaebd6e4a5a3864_1_684x500.png" alt="wallet" width="684" height="500"><div class="meta">
 <span class="filename">bitbay.qt.wallet.png</span><span class="informations">965x705 34.3 KB</span><span class="expand"></span>
 </div></a></div></p>
 <p>For the QT version go  to <code>help &gt; debug window</code> as seen on the screenshot above<br>
@@ -252,27 +252,27 @@ There you can also find the <strong>number of connections</strong> and <strong>c
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059</link>
+          <link>../../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059</link>
           <pubDate>Fri, 02 Feb 2018 20:25:49 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1059</guid>
-          <source url=".../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059.rss">How to find out the type of client and version</source>
+          <source url="../../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059.rss">How to find out the type of client and version</source>
         </item>
         <item>
           <title>How to write and display for RTL languages (Arabic, Hebrew etc) on the Forum</title>
           <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
           <category>Forum Feedback</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <p><a href="../../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
             <blockquote>
               <h2>1. input</h2>
 <p>For input to be properly seen as you type (meaning RTL)<br>
 for <strong>chrome</strong> right click and on the context menu choose <strong>Writing direction</strong><br>
-<img src=".../forum-archive/uploads/default/original/1X/f189cb8e0755c13118c213bb6bf7a2f90377c925.png" alt="input" width="442" height="318"></p>
+<img src="../../forum-archive/uploads/default/original/1X/f189cb8e0755c13118c213bb6bf7a2f90377c925.png" alt="input" width="442" height="318"></p>
 <p>for <strong>firefox</strong> just press <code>Ctrl-Shift-x</code> to toggle between LTR and RTL</p>
 <h2>2. output</h2>
 <p>For output you need to add <code>&lt;div dir="rtl"&gt;</code> before and <code>&lt;div&gt;</code> at the end of you RTL input<br>
@@ -287,15 +287,15 @@ sort of like this<br>
             </blockquote>
             <p>Posts: 1</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017</link>
+          <link>../../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017</link>
           <pubDate>Wed, 24 Jan 2018 15:56:30 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>No</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-1017</guid>
-          <source url=".../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017.rss">How to write and display for RTL languages (Arabic, Hebrew etc) on the Forum</source>
+          <source url="../../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017.rss">How to write and display for RTL languages (Arabic, Hebrew etc) on the Forum</source>
         </item>
   </channel>
 </rss>

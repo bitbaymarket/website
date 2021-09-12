@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Client and Wallet Troubleshooting</title>
-    <link>..../forum-archive/t/client-and-wallet-troubleshooting/37</link>
+    <link>../../../forum-archive/t/client-and-wallet-troubleshooting/37</link>
     <description>## 1) Why won’t the BAY client open properly on my Macbook?
 When using a Macbook, BAY operates in WINE rather than as a typical mac program. This results in some issues, as a Mac user myself I have found that BAY will not work properly without “Control Clicking” and then clicking Open. Despite the fact I am using my administrator account, I have found this is the only way to get BAY to work 100%. Don’t worry though, we will address this issue in due time! Also remember to use Control + V for paste instead of Command + V for paste in WINE, it took me a few minutes to realize this myself.
 &lt;br&gt;
@@ -71,42 +71,42 @@ If you previously deleted the wallet.dat file, you need to reload your address f
     
     <lastBuildDate>Wed, 29 Nov 2017 16:49:40 +0000</lastBuildDate>
     <category>Get Started Guides</category>
-    <atom:link href="..../forum-archive/t/client-and-wallet-troubleshooting/37.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/client-and-wallet-troubleshooting/37.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Client and Wallet Troubleshooting</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               
           </blockquote>
-          <p><a href="..../forum-archive/t/client-and-wallet-troubleshooting/37/5">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/client-and-wallet-troubleshooting/37/5">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/client-and-wallet-troubleshooting/37/5</link>
+        <link>../../../forum-archive/t/client-and-wallet-troubleshooting/37/5</link>
         <pubDate>Fri, 08 Dec 2017 18:36:17 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-37-5</guid>
-        <source url="..../forum-archive/t/client-and-wallet-troubleshooting/37.rss">Client and Wallet Troubleshooting</source>
+        <source url="../../../forum-archive/t/client-and-wallet-troubleshooting/37.rss">Client and Wallet Troubleshooting</source>
       </item>
       <item>
         <title>Client and Wallet Troubleshooting</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               
           </blockquote>
-          <p><a href="..../forum-archive/t/client-and-wallet-troubleshooting/37/4">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/client-and-wallet-troubleshooting/37/4">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/client-and-wallet-troubleshooting/37/4</link>
+        <link>../../../forum-archive/t/client-and-wallet-troubleshooting/37/4</link>
         <pubDate>Fri, 08 Dec 2017 18:36:02 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-37-4</guid>
-        <source url="..../forum-archive/t/client-and-wallet-troubleshooting/37.rss">Client and Wallet Troubleshooting</source>
+        <source url="../../../forum-archive/t/client-and-wallet-troubleshooting/37.rss">Client and Wallet Troubleshooting</source>
       </item>
       <item>
         <title>Client and Wallet Troubleshooting</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               <h2>1) Why won’t the BAY client open properly on my Macbook?</h2>
 <p>When using a Macbook, BAY operates in WINE rather than as a typical mac program. This results in some issues, as a Mac user myself I have found that BAY will not work properly without “Control Clicking” and then clicking Open. Despite the fact I am using my administrator account, I have found this is the only way to get BAY to work 100%. Don’t worry though, we will address this issue in due time! Also remember to use Control + V for paste instead of Command + V for paste in WINE, it took me a few minutes to realize this myself.<br>
@@ -160,12 +160,12 @@ solid performance: 4 – 8 GB. Also refer to the FAQ above and create/update you
 <h2>10) My coins don’t show up on my Bitbay Client despite having properly loaded my keys.</h2>
 <p>If you previously deleted the wallet.dat file, you need to reload your address from the file menu because it will add it again to the watchonly list, as the market client wallet.dat holds accounts to watch, so if it doesn’t know what to watch, it won’t get the inputs, which can happen if the file is ever deleted.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/client-and-wallet-troubleshooting/37/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/client-and-wallet-troubleshooting/37/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/client-and-wallet-troubleshooting/37/1</link>
+        <link>../../../forum-archive/t/client-and-wallet-troubleshooting/37/1</link>
         <pubDate>Wed, 29 Nov 2017 10:26:41 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-37-1</guid>
-        <source url="..../forum-archive/t/client-and-wallet-troubleshooting/37.rss">Client and Wallet Troubleshooting</source>
+        <source url="../../../forum-archive/t/client-and-wallet-troubleshooting/37.rss">Client and Wallet Troubleshooting</source>
       </item>
   </channel>
 </rss>

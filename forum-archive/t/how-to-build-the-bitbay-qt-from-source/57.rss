@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>How to build the BitBay QT from Source</title>
-    <link>..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57</link>
+    <link>../../../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57</link>
     <description>
 Linux QT wallet install for Debian Jessie
 
@@ -174,27 +174,27 @@ Then restart the qt wallet and you should get plenty of connections.</descriptio
     
     <lastBuildDate>Thu, 30 Nov 2017 11:40:28 +0000</lastBuildDate>
     <category>Get Started Guides</category>
-    <atom:link href="..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>How to build the BitBay QT from Source</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               
           </blockquote>
-          <p><a href="..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57/2</link>
+        <link>../../../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57/2</link>
         <pubDate>Sun, 03 Dec 2017 14:24:24 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-57-2</guid>
-        <source url="..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57.rss">How to build the BitBay QT from Source</source>
+        <source url="../../../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57.rss">How to build the BitBay QT from Source</source>
       </item>
       <item>
         <title>How to build the BitBay QT from Source</title>
         <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
           <blockquote>
               <p>Linux QT wallet install for Debian Jessie</p>
 <p>n.b. this does not work for Stretch at the moment and hasn’t been tried in ubuntu.</p>
@@ -206,7 +206,7 @@ Then restart the qt wallet and you should get plenty of connections.</descriptio
       <a href="https://www.privateinternetaccess.com/forum/discussion/18063/debian-8-1-0-jessie-sudo-fix-not-installed-by-default" target="_blank" rel="nofollow noopener">PIA</a>
   </header>
   <article class="onebox-body">
-    <img src="..../forum-archive/uploads/default/original/1X/030ab06de9907b4049e4fc9e7817e5f9bf39b32d.png" class="thumbnail onebox-avatar" width="200" height="200">
+    <img src="../../../forum-archive/uploads/default/original/1X/030ab06de9907b4049e4fc9e7817e5f9bf39b32d.png" class="thumbnail onebox-avatar" width="200" height="200">
 
 <h3><a href="https://www.privateinternetaccess.com/forum/discussion/18063/debian-8-1-0-jessie-sudo-fix-not-installed-by-default" target="_blank" rel="nofollow noopener">debian 8.1.0 jessie - sudo fix (not installed by default)</a></h3>
 
@@ -404,12 +404,12 @@ or<br>
 <a href="http://explorer.bitbay.market/network" class="onebox" target="_blank">http://explorer.bitbay.market/network</a></p>
 <p>Then restart the qt wallet and you should get plenty of connections.</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57/1</link>
+        <link>../../../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57/1</link>
         <pubDate>Thu, 30 Nov 2017 11:40:28 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-57-1</guid>
-        <source url="..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57.rss">How to build the BitBay QT from Source</source>
+        <source url="../../../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57.rss">How to build the BitBay QT from Source</source>
       </item>
   </channel>
 </rss>

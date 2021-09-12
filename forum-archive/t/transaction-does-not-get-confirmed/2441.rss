@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Transaction does not get confirmed</title>
-    <link>..../forum-archive/t/transaction-does-not-get-confirmed/2441</link>
+    <link>../../../forum-archive/t/transaction-does-not-get-confirmed/2441</link>
     <description>I made a transaction from my wallet to latoken ... it is pending but i am waiting for 2 days now:
 
 
@@ -20,42 +20,42 @@ How many confirmations do i need?</description>
     
     <lastBuildDate>Tue, 02 Jun 2020 10:04:14 +0000</lastBuildDate>
     <category>Support</category>
-    <atom:link href="..../forum-archive/t/transaction-does-not-get-confirmed/2441.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/transaction-does-not-get-confirmed/2441.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Transaction does not get confirmed</title>
         <dc:creator><![CDATA[@voidindex voidindex]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
           <blockquote>
               <p>thank you for nothing <span class="mention">@support</span></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/transaction-does-not-get-confirmed/2441/3">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/transaction-does-not-get-confirmed/2441/3">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/transaction-does-not-get-confirmed/2441/3</link>
+        <link>../../../forum-archive/t/transaction-does-not-get-confirmed/2441/3</link>
         <pubDate>Tue, 02 Jun 2020 10:04:14 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2441-3</guid>
-        <source url="..../forum-archive/t/transaction-does-not-get-confirmed/2441.rss">Transaction does not get confirmed</source>
+        <source url="../../../forum-archive/t/transaction-does-not-get-confirmed/2441.rss">Transaction does not get confirmed</source>
       </item>
       <item>
         <title>Transaction does not get confirmed</title>
         <dc:creator><![CDATA[@voidindex voidindex]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
           <blockquote>
               <p><span class="mention">@support</span> - hello? I reall could need some help … i am now at around 4000 (!) confirmations … still transaction is pending!</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/transaction-does-not-get-confirmed/2441/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/transaction-does-not-get-confirmed/2441/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/transaction-does-not-get-confirmed/2441/2</link>
+        <link>../../../forum-archive/t/transaction-does-not-get-confirmed/2441/2</link>
         <pubDate>Thu, 28 May 2020 10:27:29 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2441-2</guid>
-        <source url="..../forum-archive/t/transaction-does-not-get-confirmed/2441.rss">Transaction does not get confirmed</source>
+        <source url="../../../forum-archive/t/transaction-does-not-get-confirmed/2441.rss">Transaction does not get confirmed</source>
       </item>
       <item>
         <title>Transaction does not get confirmed</title>
         <dc:creator><![CDATA[@voidindex voidindex]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
           <blockquote>
               <p>I made a transaction from my wallet to latoken … it is pending but i am waiting for 2 days now:</p>
 <p>Status: 1406 confirmations, broadcast through 6 nodes<br>
@@ -68,12 +68,12 @@ Net amount: -12,650.0500559 BAY<br>
 Transaction ID: f0b4d48033bbd95f0e21abf2478dc118fb49068d6e187e9bd5283ccd6323abd2</p>
 <p>How many confirmations do i need?</p>
           </blockquote>
-          <p><a href="..../forum-archive/t/transaction-does-not-get-confirmed/2441/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/transaction-does-not-get-confirmed/2441/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/transaction-does-not-get-confirmed/2441/1</link>
+        <link>../../../forum-archive/t/transaction-does-not-get-confirmed/2441/1</link>
         <pubDate>Tue, 26 May 2020 09:52:07 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2441-1</guid>
-        <source url="..../forum-archive/t/transaction-does-not-get-confirmed/2441.rss">Transaction does not get confirmed</source>
+        <source url="../../../forum-archive/t/transaction-does-not-get-confirmed/2441.rss">Transaction does not get confirmed</source>
       </item>
   </channel>
 </rss>

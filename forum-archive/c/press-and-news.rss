@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Press - BitBay Community</title>
-    <link>.../forum-archive/c/press-and-news</link>
+    <link>../../forum-archive/c/press-and-news</link>
     <description>Topics in the &#39;Press&#39; category </description>
     
       <lastBuildDate>Thu, 30 Nov 2017 09:53:08 +0000</lastBuildDate>
-      <atom:link href=".../forum-archive/c/press-and-news.rss" rel="self" type="application/rss+xml" />
+      <atom:link href="../../forum-archive/c/press-and-news.rss" rel="self" type="application/rss+xml" />
         <item>
           <title>BitBay in the News</title>
           <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
           <category>Press</category>
           <description><![CDATA[
-            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <p><a href="../../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
             <blockquote>
               <p><a href="http://www.digitaljournal.com/pr/3234741" target="_blank">http://www.digitaljournal.com/pr/3234741</a></p>
 <p><a href="http://www.superbcrew.com/bitbay-aims-to-close-the-gap-between-digital-currency-and-real-purchases/" target="_blank">http://www.superbcrew.com/bitbay-aims-to-close-the-gap-between-digital-currency-and-real-purchases/</a></p>
@@ -31,15 +31,15 @@
             </blockquote>
             <p>Posts: 2</p>
             <p>Participants: 1</p>
-            <p><a href=".../forum-archive/t/bitbay-in-the-news/49">Read full topic</a></p>
+            <p><a href="../../forum-archive/t/bitbay-in-the-news/49">Read full topic</a></p>
           ]]></description>
-          <link>.../forum-archive/t/bitbay-in-the-news/49</link>
+          <link>../../forum-archive/t/bitbay-in-the-news/49</link>
           <pubDate>Thu, 30 Nov 2017 09:53:08 +0000</pubDate>
           <discourse:topicPinned>No</discourse:topicPinned>
           <discourse:topicClosed>Yes</discourse:topicClosed>
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forum.bitbay.market-topic-49</guid>
-          <source url=".../forum-archive/t/bitbay-in-the-news/49.rss">BitBay in the News</source>
+          <source url="../../forum-archive/t/bitbay-in-the-news/49.rss">BitBay in the News</source>
         </item>
   </channel>
 </rss>

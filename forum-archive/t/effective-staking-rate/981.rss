@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Effective staking rate</title>
-    <link>..../forum-archive/t/effective-staking-rate/981</link>
+    <link>../../../forum-archive/t/effective-staking-rate/981</link>
     <description>Here is a quick spreadsheet I made regarding the approximate effective stake weight based on the number of BAY being staked on the network. So at 50% of the total supply staking the effective stake rate for your coins is 2% &quot;APR&quot;. These numbers are based off the available specs for BAY. If I&#39;m not mistaken I do believe that the minimum 1% stake is based off of the current supply at the time, ie currently 1,009,138,145 so the actual yearly stake amount would be 10,091,381 and growing. 
 
 ![Staking|563x430](upload://3UZudlWSycwx1okLZ8MWpwQtQGt.JPG)</description>
     
     <lastBuildDate>Thu, 18 Jan 2018 19:48:03 +0000</lastBuildDate>
     <category>Get Started Guides</category>
-    <atom:link href="..../forum-archive/t/effective-staking-rate/981.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/effective-staking-rate/981.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Effective staking rate</title>
         <dc:creator><![CDATA[@Munti Bjorn Alsos]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/munti">@Munti</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/munti">@Munti</a> wrote:</p>
           <blockquote>
-              <p>Thank you for posting that <img src="..../forum-archive/images/emoji/twitter/heart_eyes.png?v=5" title=":heart_eyes:" class="emoji" alt=":heart_eyes:"></p>
+              <p>Thank you for posting that <img src="../../../forum-archive/images/emoji/twitter/heart_eyes.png?v=5" title=":heart_eyes:" class="emoji" alt=":heart_eyes:"></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/effective-staking-rate/981/2">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/effective-staking-rate/981/2">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/effective-staking-rate/981/2</link>
+        <link>../../../forum-archive/t/effective-staking-rate/981/2</link>
         <pubDate>Thu, 18 Jan 2018 19:48:03 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-981-2</guid>
-        <source url="..../forum-archive/t/effective-staking-rate/981.rss">Effective staking rate</source>
+        <source url="../../../forum-archive/t/effective-staking-rate/981.rss">Effective staking rate</source>
       </item>
       <item>
         <title>Effective staking rate</title>
         <dc:creator><![CDATA[@J-W-F JWF]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/j-w-f">@J-W-F</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/j-w-f">@J-W-F</a> wrote:</p>
           <blockquote>
               <p>Here is a quick spreadsheet I made regarding the approximate effective stake weight based on the number of BAY being staked on the network. So at 50% of the total supply staking the effective stake rate for your coins is 2% “APR”. These numbers are based off the available specs for BAY. If I’m not mistaken I do believe that the minimum 1% stake is based off of the current supply at the time, ie currently 1,009,138,145 so the actual yearly stake amount would be 10,091,381 and growing.</p>
-<p><img src="..../forum-archive/uploads/default/original/1X/1b77c3e0a30d62d0aa7434104797b394b456a1b1.JPG" alt="Staking" width="563" height="430"></p>
+<p><img src="../../../forum-archive/uploads/default/original/1X/1b77c3e0a30d62d0aa7434104797b394b456a1b1.JPG" alt="Staking" width="563" height="430"></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/effective-staking-rate/981/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/effective-staking-rate/981/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/effective-staking-rate/981/1</link>
+        <link>../../../forum-archive/t/effective-staking-rate/981/1</link>
         <pubDate>Thu, 18 Jan 2018 01:37:08 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-981-1</guid>
-        <source url="..../forum-archive/t/effective-staking-rate/981.rss">Effective staking rate</source>
+        <source url="../../../forum-archive/t/effective-staking-rate/981.rss">Effective staking rate</source>
       </item>
   </channel>
 </rss>

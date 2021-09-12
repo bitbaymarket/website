@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>When and how can I spend the different liquidities of BAY?</title>
-    <link>..../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181</link>
+    <link>../../../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181</link>
     <description>**When and how can I spend the different liquidities of BAY?**
 
 *(Liquid, Reserve, Frozen Reserve, and Frozen Liquid)*
@@ -27,12 +27,12 @@ The peg coding mimics a Layer 1 protocol, it works on top of UTXO, but it has ri
     
     <lastBuildDate>Tue, 18 Feb 2020 12:58:16 +0000</lastBuildDate>
     <category>Dynamic Peg - FAQ</category>
-    <atom:link href="..../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="../../../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>When and how can I spend the different liquidities of BAY?</title>
         <dc:creator><![CDATA[@tradersnow]]></dc:creator>
         <description><![CDATA[
-          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <p><a href="../../../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
           <blockquote>
               <p><strong>When and how can I spend the different liquidities of BAY?</strong></p>
 <p><em>(Liquid, Reserve, Frozen Reserve, and Frozen Liquid)</em></p>
@@ -46,12 +46,12 @@ The peg coding mimics a Layer 1 protocol, it works on top of UTXO, but it has ri
 <p>The peg coding mimics a Layer 1 protocol, it works on top of UTXO, but it has right to decline non-peg transactions. Any transaction that attempts to deviate from this protocol will be rejected by the network. This ensures that every network participant (including exchanges) must follow all the rules of the Dynamic Peg.</p>
 <p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
           </blockquote>
-          <p><a href="..../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181/1">Read full topic</a></p>
+          <p><a href="../../../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181/1">Read full topic</a></p>
         ]]></description>
-        <link>..../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181/1</link>
+        <link>../../../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181/1</link>
         <pubDate>Wed, 29 Jan 2020 14:19:17 +0000</pubDate>
         <guid isPermaLink="false">forum.bitbay.market-post-2181-1</guid>
-        <source url="..../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181.rss">When and how can I spend the different liquidities of BAY?</source>
+        <source url="../../../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181.rss">When and how can I spend the different liquidities of BAY?</source>
       </item>
   </channel>
 </rss>
