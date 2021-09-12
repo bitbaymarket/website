@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Why do Reserve and voluntarily frozen coins have value? Are there any benefits to holding them?</title>
+    <link>..../forum-archive/t/why-do-reserve-and-voluntarily-frozen-coins-have-value-are-there-any-benefits-to-holding-them/2186</link>
+    <description>### Why do Reserve and voluntarily frozen coins have value? Are there any benefits to holding them?
+
+Reserve (BAYR) and Frozen coins are valuable in several ways:
+
+* Due to a 1-month time delay when transferring, and the ability to be traded on a secondary market, Reserve BAY is a speculative vehicle for future trading. This is very similar to most “futures” markets of today.
+
+* Another incentive is the increased ability to earn stake rewards. Since Frozen coins have less voting power than Liquid BAY, a higher annual percentage in stake rewards helps balance demand.
+
+Also, when the two characteristics of a time delay and expected rewards are combined, a brand new set of asset classes is formed, creating even more value for BAYR.
+
+For example, two parties can trade liquid BAY for Reserve BAY, which creates a unique form of  **zero &quot;interest &quot;lending** :
+
+**Lender:**  Alice
+
+**Borrower:**  Bob
+
+— — — — — — — — — — — — — — — -
+
+**Loan Duration:**  1 month
+
+**Loan Amount:**  20 Liquid BAY
+
+**Collateral:**  20 Frozen Reserve BAY
+
+1. Alice sends Bob 20 Liquid BAY (loan)
+2. Bob voluntarily freezes 20 Reserve BAY, and sends the newly Frozen Reserve BAY to Alice (collateral)
+3. **Alice receives 3x higher rewards**  from staking the Frozen Reserve BAY for one month on the network, meanwhile Bob pays zero &quot;interest&quot; to Alice.
+4. After one month, Alice’s Frozen Reserve BAY turns back to Liquid BAY, so  **Bob doesn’t have to return any Liquid BAY back to Alice, and Alice doesn’t need to return any Frozen Reserve BAY to Bob** .
+
+****Disclaimer: Liquidity rate fluctuations may occur throughout the duration of any loan scenario, and any frozen coins that are traded may or may not become liquid upon unfreezing. To account for this, the borrower can be required to compensate for any differences upon time of “debt settlement”.*</description>
+    
+    <lastBuildDate>Sun, 23 Feb 2020 15:05:13 +0000</lastBuildDate>
+    <category>Dynamic Peg - FAQ</category>
+    <atom:link href="..../forum-archive/t/why-do-reserve-and-voluntarily-frozen-coins-have-value-are-there-any-benefits-to-holding-them/2186.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Why do Reserve and voluntarily frozen coins have value? Are there any benefits to holding them?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <h3>Why do Reserve and voluntarily frozen coins have value? Are there any benefits to holding them?</h3>
+<p>Reserve (BAYR) and Frozen coins are valuable in several ways:</p>
+<ul>
+<li>
+<p>Due to a 1-month time delay when transferring, and the ability to be traded on a secondary market, Reserve BAY is a speculative vehicle for future trading. This is very similar to most “futures” markets of today.</p>
+</li>
+<li>
+<p>Another incentive is the increased ability to earn stake rewards. Since Frozen coins have less voting power than Liquid BAY, a higher annual percentage in stake rewards helps balance demand.</p>
+</li>
+</ul>
+<p>Also, when the two characteristics of a time delay and expected rewards are combined, a brand new set of asset classes is formed, creating even more value for BAYR.</p>
+<p>For example, two parties can trade liquid BAY for Reserve BAY, which creates a unique form of  <strong>zero "interest "lending</strong> :</p>
+<p><strong>Lender:</strong>  Alice</p>
+<p><strong>Borrower:</strong>  Bob</p>
+<p>— — — — — — — — — — — — — — — -</p>
+<p><strong>Loan Duration:</strong>  1 month</p>
+<p><strong>Loan Amount:</strong>  20 Liquid BAY</p>
+<p><strong>Collateral:</strong>  20 Frozen Reserve BAY</p>
+<ol>
+<li>Alice sends Bob 20 Liquid BAY (loan)</li>
+<li>Bob voluntarily freezes 20 Reserve BAY, and sends the newly Frozen Reserve BAY to Alice (collateral)</li>
+<li>
+<strong>Alice receives 3x higher rewards</strong>  from staking the Frozen Reserve BAY for one month on the network, meanwhile Bob pays zero “interest” to Alice.</li>
+<li>After one month, Alice’s Frozen Reserve BAY turns back to Liquid BAY, so  <strong>Bob doesn’t have to return any Liquid BAY back to Alice, and Alice doesn’t need to return any Frozen Reserve BAY to Bob</strong> .</li>
+</ol>
+<p>***<em>Disclaimer: Liquidity rate fluctuations may occur throughout the duration of any loan scenario, and any frozen coins that are traded may or may not become liquid upon unfreezing. To account for this, the borrower can be required to compensate for any differences upon time of “debt settlement”.</em></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/why-do-reserve-and-voluntarily-frozen-coins-have-value-are-there-any-benefits-to-holding-them/2186/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/why-do-reserve-and-voluntarily-frozen-coins-have-value-are-there-any-benefits-to-holding-them/2186/1</link>
+        <pubDate>Wed, 29 Jan 2020 14:22:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2186-1</guid>
+        <source url="..../forum-archive/t/why-do-reserve-and-voluntarily-frozen-coins-have-value-are-there-any-benefits-to-holding-them/2186.rss">Why do Reserve and voluntarily frozen coins have value? Are there any benefits to holding them?</source>
+      </item>
+  </channel>
+</rss>

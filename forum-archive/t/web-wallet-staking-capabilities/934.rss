@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Web wallet staking capabilities</title>
+    <link>..../forum-archive/t/web-wallet-staking-capabilities/934</link>
+    <description>Is the enhanced Web Wallet going to have staking capabilities?</description>
+    
+    <lastBuildDate>Tue, 09 Jan 2018 23:44:39 +0000</lastBuildDate>
+    <category>The Lounge</category>
+    <atom:link href="..../forum-archive/t/web-wallet-staking-capabilities/934.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Web wallet staking capabilities</title>
+        <dc:creator><![CDATA[@Munti Bjorn Alsos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/munti">@Munti</a> wrote:</p>
+          <blockquote>
+              <p>The web wallet will never be able to stake. The reason is network security. More nodes=more secure network. The webwallet is only one node no matter how many users use it. So we need the stake reward as incentive for people to run desktop clients</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/web-wallet-staking-capabilities/934/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/web-wallet-staking-capabilities/934/3</link>
+        <pubDate>Tue, 09 Jan 2018 23:44:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-934-3</guid>
+        <source url="..../forum-archive/t/web-wallet-staking-capabilities/934.rss">Web wallet staking capabilities</source>
+      </item>
+      <item>
+        <title>Web wallet staking capabilities</title>
+        <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/2pan2bril2">@2Pan2Bril2</a><br>
+Not on the next release unfortunately<br>
+it’s not an easy task</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/web-wallet-staking-capabilities/934/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/web-wallet-staking-capabilities/934/2</link>
+        <pubDate>Tue, 09 Jan 2018 18:10:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-934-2</guid>
+        <source url="..../forum-archive/t/web-wallet-staking-capabilities/934.rss">Web wallet staking capabilities</source>
+      </item>
+      <item>
+        <title>Web wallet staking capabilities</title>
+        <dc:creator><![CDATA[@2Pan2Bril2]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/2pan2bril2">@2Pan2Bril2</a> wrote:</p>
+          <blockquote>
+              <p>Is the enhanced Web Wallet going to have staking capabilities?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/web-wallet-staking-capabilities/934/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/web-wallet-staking-capabilities/934/1</link>
+        <pubDate>Tue, 09 Jan 2018 17:41:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-934-1</guid>
+        <source url="..../forum-archive/t/web-wallet-staking-capabilities/934.rss">Web wallet staking capabilities</source>
+      </item>
+  </channel>
+</rss>

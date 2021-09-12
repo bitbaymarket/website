@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>LAToken is destroying the value of BAY</title>
+    <link>..../forum-archive/t/latoken-is-destroying-the-value-of-bay/2512</link>
+    <description>When my liquid BAY is being sent to LAToken it is either immediately converted back into BAYR (poof and its gone) or is converted into BAYR as soon as it is transferred from Wallet to Spot. 
+
+Anyone buying BAY to trade on LAToken will instantly look 99.8% of value - killing liquidity and destroying the reputation of BAY as a tradeable asset.
+
+The BAY team needs to communicate to them that the BAY deposits need to be segregated so that there is sufficient liquidity in the BAY market, otherwise BAY is likely to be delisted from our one and only exchange listing!</description>
+    
+    <lastBuildDate>Fri, 03 Jul 2020 13:48:20 +0000</lastBuildDate>
+    <category>Ask the Developer</category>
+    <atom:link href="..../forum-archive/t/latoken-is-destroying-the-value-of-bay/2512.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>LAToken is destroying the value of BAY</title>
+        <dc:creator><![CDATA[@oaktree ace]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/oaktree">@oaktree</a> wrote:</p>
+          <blockquote>
+              <p>When my liquid BAY is being sent to LAToken it is either immediately converted back into BAYR (poof and its gone) or is converted into BAYR as soon as it is transferred from Wallet to Spot.</p>
+<p>Anyone buying BAY to trade on LAToken will instantly look 99.8% of value - killing liquidity and destroying the reputation of BAY as a tradeable asset.</p>
+<p>The BAY team needs to communicate to them that the BAY deposits need to be segregated so that there is sufficient liquidity in the BAY market, otherwise BAY is likely to be delisted from our one and only exchange listing!</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/latoken-is-destroying-the-value-of-bay/2512/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/latoken-is-destroying-the-value-of-bay/2512/1</link>
+        <pubDate>Fri, 03 Jul 2020 13:48:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2512-1</guid>
+        <source url="..../forum-archive/t/latoken-is-destroying-the-value-of-bay/2512.rss">LAToken is destroying the value of BAY</source>
+      </item>
+  </channel>
+</rss>

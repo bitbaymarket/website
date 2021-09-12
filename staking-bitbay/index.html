@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<meta charset="UTF-8" />
+BitBay staking calculator<br/>
+With the tool below you can calculate your reward in $BAY coins for operating BITBAY nodes<br/><br/>
+<div id="calculator">
+    <tr>
+        <br>Amount of coins you are staking:<br>
+        <td colspan="2"><input class="textBox" id="amount" type="text" maxlength="50"    required/></td>
+    </tr>
+    <br/>
+    <select id="conversion">
+    <option>Frozen reserve - 20 coin reward (most common)</option>
+    <option>Majority liquid - 5 coin reward</option>
+    <option>Majority reserve - 10 coin reward</option>
+    <option>Frozen liquid - 40 coin reward</option>
+    </select>
+    <br/>
+    <tr>
+        <br>Percentage of all users staking(network weight):<br>
+        <td colspan="2"><input class="textBox" id="weight" type="text" maxlength="50" value="50"   required/></td>
+    </tr>
+    <br/>
+    <input type="button" value="Calculate" onclick="calculate()">
+    <br/><br/>
+</div>
+<div id="results">
+BAYYears
+Current Reward APR: 2.00%
+
+0.00
+Total BAY in 0 months
+0.00
+at current prices
+Total BAY in USD
+0.00
+Total coins you own
+</div>
+<script>
+    document.getElementById('results').innerHTML = "";
+    function calculate(){ 
+        document.getElementById('results').innerHTML = "";
+        val=20 //default
+        if (document.getElementById("conversion").value == "Majority liquid - 5 coin reward") {
+            val=5
+        }
+        if (document.getElementById("conversion").value == "Majority reserve - 10 coin reward") {
+            val=10
+        }
+        if (document.getElementById("conversion").value == "Frozen liquid - 40 coin reward") {
+            val=40
+        }
+        amount=document.getElementById("amount").value
+        weight=document.getElementById("weight").value
+        //493087 blocks in a year (seconds/average block time of 64 seconds)
+        stakedcoins=((parseFloat(1000000000)*parseFloat(weight))/parseFloat(100))
+        blocksperyear=((parseFloat(amount)/stakedcoins)*(493087)).toFixed(0)
+        document.getElementById('results').innerHTML = "Estimate:" + blocksperyear;
+        document.getElementById('results').innerHTML += "</br>Blocks won per year: " + blocksperyear;
+        document.getElementById('results').innerHTML += "</br>Coins per year: " + blocksperyear * val;
+        document.getElementById('results').innerHTML += "</br>Coins per month: " + (parseFloat(blocksperyear * val)/parseFloat(12)).toFixed(0);
+        document.getElementById('results').innerHTML += "</br>Coins per day: " + ((parseFloat(blocksperyear * val)/parseFloat(12))/parseFloat(30)).toFixed(0);
+    }
+</script>
+<div id="networkinfo">
+    <br/><br/>
+    Details: Proof of Stake 3.0 (POS3)<br/>
+    Coin supply: 1 billion<br/>
+    Block time: 64 seconds<br/>
+    Nominal stake interest: .5% to 2% annual<br/>
+    Min transaction fee: 0.00005500<br/>
+    Confirmations for approval(recommended): 10<br/>
+    Confirmations for maturity: 120<br/><br/>
+    Variable rewards for dynamic peg:<br/>
+    Input that is majority liquid - 5 coins<br/>
+    Input that is majority reserve - 10 coins<br/>
+    Input that is frozen reserve - 20 coins<br/>
+    Input that is frozen liquid - 40 coins<br/><br/>
+    Frozen reserve timelock - 1 month<br/>
+    Frozen liquid timelock - 4 months<br/><br/>
+</div>
+<div id="dynamic-peg">
+    <a href="https://chainz.cryptoid.info/bay/#!extraction">See more network information at chainz</a>
+    </br></br>
+</div>
+<div id="moreinfo">
+    Effective Stake Interest:<br/>
+    The amount of stakes a user wins depends on how many users are trying to stake at once. If you are holding mostly frozen reserve then the reward is at 20
+    coins which averages at 1% when 100% of the network is staking. However since usually less than half of the network funds are staking then the rewards can
+    be more frequent. For example, if 50% of the network is staking then it's logical to predict that you will get double the chance of a reward. However there
+    is no guarantee you will win stakes because it is random which inputs are selected. The stakers perform the service of protecting the network. Therefore the funds they get is in exchange for validating transactions in a block.
+</div>
+</br>
+</br>
+<div id="dynamic-peg">
+    For more info about the dynamic peg, see the <a href="../bitbay-dynamic-peg-visual-reference.pdf">dynamic peg visual explainer</a> in PDF format.
+</div>
+<html>

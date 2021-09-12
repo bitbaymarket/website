@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Client and Wallet Troubleshooting</title>
+    <link>..../forum-archive/t/client-and-wallet-troubleshooting/37</link>
+    <description>## 1) Why won’t the BAY client open properly on my Macbook?
+When using a Macbook, BAY operates in WINE rather than as a typical mac program. This results in some issues, as a Mac user myself I have found that BAY will not work properly without “Control Clicking” and then clicking Open. Despite the fact I am using my administrator account, I have found this is the only way to get BAY to work 100%. Don’t worry though, we will address this issue in due time! Also remember to use Control + V for paste instead of Command + V for paste in WINE, it took me a few minutes to realize this myself.
+&lt;br&gt;
+## 2) BitBay will not run on my Mac. What do I do?
+You may have to move the BitBay application from your &#39;downloads&#39; folder to &#39;Applications&#39; for it to run. Also sometimes Mac will require you to allow applications from publishers that are not from the Apple Store. This can be enabled in your system’s settings or by right-clicking on the app icon and selecting &#39;open&#39;.
+&lt;br&gt;
+## 3) BitBay runs slow on my Mac, what do I do?
+We are currently improving our Mac build. Chances are you are running the WineSkin VM build of BitBay. So you might need some extra RAM and speed to get the best performance. However we have a lot of happy users who have tested this successfully and please always keep posted for updates. If you disconnect while running the Mac build simply shut down the software and reboot. Please note, if you are running Mac please turn off sleep. In fact even on Windows this can cause unexpected behavior of the software.
+&lt;br&gt;
+## 4) BitBay is not loading and saying “bitbayd” is unable to load. What do I do?
+It is possible that something happened that crashed the blockchain database(for example not shutting down properly). This can happen on any coin and is not exclusive to BitBay. The software gives the option to “reindex” when this message is displayed. If that does not work, you might have to rebuild the blockchain from scratch. So in order to do this you must delete all the files(except wallet.dat) from the directory called “bitbaydata” and run the software again.
+&lt;br&gt;
+## 5) I see my transaction pending but nothing is happening! What do I do?
+First you should make sure you are fully synchronized. You can compare the current block to the one on https://chainz.cryptoid.info/bay/ . If the blockchain is not in sync please wait so the transaction can confirm. Next, you should check to see if you have both keys loaded. Remember, BitBay is a multisignature wallet meaning there are two keys. This means double the security! However sometimes people accidentally only load on key similar to a joint account. They forget to load the second. You can tell if the pending transaction is a “Two Step Send” transaction because it will say so in the “History Tab”. You are able to simply cancel the transaction by clicking on it. Realize that if you store one of your keys on USB or disc and forget to connect it, then the software will not be able to find it. Lastly, check the amount of connections you have to the network. You can go to the Settings menu and see if there is enough connections. Worst case scenario you are on a small network split(extremely unlikely). If you are on a split, contact us and we will most likely instruct you to synchronize the chain again.
+&lt;br&gt;
+## 6) I can’t get any network connections?
+Depending on geographics and your internet connection this can cause some Clients have issues finding BitBay network connections. The best way to alleviate this is to update the bitbay.conf file found inside the bitbaydata folder which is inside your Client’s main directory on your hard drive.
+
+To create or update the bitbay.conf file you need to download a text editor like Notepad ++ or Sublime text editor.
+https://notepad-plus-plus.org/download/v7.3.3.html
+https://www.sublimetext.com/3
+
+Once the text editor is open paste this info into at the beginning of the file:
+
+&lt;code&gt;server=1
+rpcuser=bitbayrpc rpcpassword=4c80db0bfc751aaadba16bb8ed2c9f050d00952b476b83cc96e24909c06625b3 rpcport=19915&lt;/code&gt;
+
+Then you can use this link for the most current list of network connections
+
+https://chainz.cryptoid.info/bay/#!network
+
+If you click on “node list” button you will see a list of all the current IP addresses that are connected.
+Copy and paste this list under the text script you have created above.
+Then save the file as bitbay.conf
+
+So the final configuration file should look similar to:
+
+&lt;code&gt;server=1
+rpcuser=bitbayrpc rpcpassword=4c80db0bfc751aaadba16bb8ed2c9f050d00952b476b83cc96e24909c06625b3 rpcport=19915
+addnode=103.66.79.11 addnode=103.66.79.46 addnode=104.131.132.223 addnode=104.237.4.33 addnode=104.245.111.33 addnode=105.110.51.175 addnode=103.66.79.11
+addnode=103.66.79.46&lt;/code&gt;
+
+It’s okay to list all the addnodes you find on the website link – the more the merrier. I’m just saving some space in my example above.
+
+For the Client you need to save this file in your BitBay directory in the bitbaydata folder.
+
+For the QT wallet you need to save it to your &#39;username/appdata/roaming/&#39; BitBay folder.
+If you are having trouble finding the folder for the QT wallet you can refer to this youtube tutorial on how to find a bitcoin folder. To find your BitBay folder it’s the same procedure. https://www.youtube.com/watch?v=jGXf2xFyWaE
+&lt;br&gt;
+## 7) My Client is loading and responding really slow, how can I speed it up?
+Check your free RAM while using the Client. Recommended RAM amount for
+solid performance: 4 – 8 GB. Also refer to the FAQ above and create/update your bitbay.conf file. Also you can try downloading a memory manager such as “CleanMEM mini monitor”. This software lets you know when memory is too high and allows you to clear up the file cache. Also be aware if you are running too many programs at once.
+&lt;br&gt;
+## 8) I downloaded the Client or I downloaded the QT wallet and sent coins to the address inside the wallet, but my balance is not showing any coins received.
+The Client and the QT wallet both need to be synchronized 100% to the blockchain before balances will show correctly. Think about it for a second – if you send coins through the network then the transaction is going to be stored on the most recent block at the moment of the transaction. If you are syncing up to block 50000 yet you made to the transaction on block 1,200,000 how is the Client or QT wallet supposed to know you made the transaction on that block. It still needs to catch up with all the transactions.
+&lt;br&gt;
+## 9) I have coins in my Client account, yet it won’t let me withdraw them.
+Make sure your blockchain is synchronized 100%. The Client won’t be usable until it’s synced 100%. Check to see the status of the synchronization bar found on the Home tab of the Client. If this bar says disconnected, close down and restart the Client.
+
+Make sure your account has both keys loaded up. A ‘normal’ account in the Client requires that the owner utilize 2 private keys for extra security. If you load only 1 private key, the Client will think a a joint account/2fa account is loaded and not function properly. You can check to see if you have 2 private keys loaded by clicking on the History tab of the Client. If you accidentally try to send with one key don’t worry you may cancel as only 1⁄2 of that transaction was signed and it was not broadcasted to the network.
+&lt;br&gt;
+
+## 10) My coins don&#39;t show up on my Bitbay Client despite having properly loaded my keys.
+
+If you previously deleted the wallet.dat file, you need to reload your address from the file menu because it will add it again to the watchonly list, as the market client wallet.dat holds accounts to watch, so if it doesn&#39;t know what to watch, it won&#39;t get the inputs, which can happen if the file is ever deleted.</description>
+    
+    <lastBuildDate>Wed, 29 Nov 2017 16:49:40 +0000</lastBuildDate>
+    <category>Get Started Guides</category>
+    <atom:link href="..../forum-archive/t/client-and-wallet-troubleshooting/37.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Client and Wallet Troubleshooting</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/client-and-wallet-troubleshooting/37/5">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/client-and-wallet-troubleshooting/37/5</link>
+        <pubDate>Fri, 08 Dec 2017 18:36:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-37-5</guid>
+        <source url="..../forum-archive/t/client-and-wallet-troubleshooting/37.rss">Client and Wallet Troubleshooting</source>
+      </item>
+      <item>
+        <title>Client and Wallet Troubleshooting</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/client-and-wallet-troubleshooting/37/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/client-and-wallet-troubleshooting/37/4</link>
+        <pubDate>Fri, 08 Dec 2017 18:36:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-37-4</guid>
+        <source url="..../forum-archive/t/client-and-wallet-troubleshooting/37.rss">Client and Wallet Troubleshooting</source>
+      </item>
+      <item>
+        <title>Client and Wallet Troubleshooting</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              <h2>1) Why won’t the BAY client open properly on my Macbook?</h2>
+<p>When using a Macbook, BAY operates in WINE rather than as a typical mac program. This results in some issues, as a Mac user myself I have found that BAY will not work properly without “Control Clicking” and then clicking Open. Despite the fact I am using my administrator account, I have found this is the only way to get BAY to work 100%. Don’t worry though, we will address this issue in due time! Also remember to use Control + V for paste instead of Command + V for paste in WINE, it took me a few minutes to realize this myself.<br>
+<br></p>
+<h2>2) BitBay will not run on my Mac. What do I do?</h2>
+<p>You may have to move the BitBay application from your ‘downloads’ folder to ‘Applications’ for it to run. Also sometimes Mac will require you to allow applications from publishers that are not from the Apple Store. This can be enabled in your system’s settings or by right-clicking on the app icon and selecting ‘open’.<br>
+<br></p>
+<h2>3) BitBay runs slow on my Mac, what do I do?</h2>
+<p>We are currently improving our Mac build. Chances are you are running the WineSkin VM build of BitBay. So you might need some extra RAM and speed to get the best performance. However we have a lot of happy users who have tested this successfully and please always keep posted for updates. If you disconnect while running the Mac build simply shut down the software and reboot. Please note, if you are running Mac please turn off sleep. In fact even on Windows this can cause unexpected behavior of the software.<br>
+<br></p>
+<h2>4) BitBay is not loading and saying “bitbayd” is unable to load. What do I do?</h2>
+<p>It is possible that something happened that crashed the blockchain database(for example not shutting down properly). This can happen on any coin and is not exclusive to BitBay. The software gives the option to “reindex” when this message is displayed. If that does not work, you might have to rebuild the blockchain from scratch. So in order to do this you must delete all the files(except wallet.dat) from the directory called “bitbaydata” and run the software again.<br>
+<br></p>
+<h2>5) I see my transaction pending but nothing is happening! What do I do?</h2>
+<p>First you should make sure you are fully synchronized. You can compare the current block to the one on <a href="https://chainz.cryptoid.info/bay/">https://chainz.cryptoid.info/bay/</a> . If the blockchain is not in sync please wait so the transaction can confirm. Next, you should check to see if you have both keys loaded. Remember, BitBay is a multisignature wallet meaning there are two keys. This means double the security! However sometimes people accidentally only load on key similar to a joint account. They forget to load the second. You can tell if the pending transaction is a “Two Step Send” transaction because it will say so in the “History Tab”. You are able to simply cancel the transaction by clicking on it. Realize that if you store one of your keys on USB or disc and forget to connect it, then the software will not be able to find it. Lastly, check the amount of connections you have to the network. You can go to the Settings menu and see if there is enough connections. Worst case scenario you are on a small network split(extremely unlikely). If you are on a split, contact us and we will most likely instruct you to synchronize the chain again.<br>
+<br></p>
+<h2>6) I can’t get any network connections?</h2>
+<p>Depending on geographics and your internet connection this can cause some Clients have issues finding BitBay network connections. The best way to alleviate this is to update the bitbay.conf file found inside the bitbaydata folder which is inside your Client’s main directory on your hard drive.</p>
+<p>To create or update the bitbay.conf file you need to download a text editor like Notepad ++ or Sublime text editor.<br>
+<a href="https://notepad-plus-plus.org/download/v7.3.3.html" class="onebox" target="_blank">https://notepad-plus-plus.org/download/v7.3.3.html</a><br>
+<a href="https://www.sublimetext.com/3" class="onebox" target="_blank">https://www.sublimetext.com/3</a></p>
+<p>Once the text editor is open paste this info into at the beginning of the file:</p>
+<p><code>server=1<br>
+rpcuser=bitbayrpc rpcpassword=4c80db0bfc751aaadba16bb8ed2c9f050d00952b476b83cc96e24909c06625b3 rpcport=19915</code></p>
+<p>Then you can use this link for the most current list of network connections</p>
+<p><a href="https://chainz.cryptoid.info/bay/#!network" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/#!network</a></p>
+<p>If you click on “node list” button you will see a list of all the current IP addresses that are connected.<br>
+Copy and paste this list under the text script you have created above.<br>
+Then save the file as bitbay.conf</p>
+<p>So the final configuration file should look similar to:</p>
+<p><code>server=1<br>
+rpcuser=bitbayrpc rpcpassword=4c80db0bfc751aaadba16bb8ed2c9f050d00952b476b83cc96e24909c06625b3 rpcport=19915<br>
+addnode=103.66.79.11 addnode=103.66.79.46 addnode=104.131.132.223 addnode=104.237.4.33 addnode=104.245.111.33 addnode=105.110.51.175 addnode=103.66.79.11<br>
+addnode=103.66.79.46</code></p>
+<p>It’s okay to list all the addnodes you find on the website link – the more the merrier. I’m just saving some space in my example above.</p>
+<p>For the Client you need to save this file in your BitBay directory in the bitbaydata folder.</p>
+<p>For the QT wallet you need to save it to your ‘username/appdata/roaming/’ BitBay folder.<br>
+If you are having trouble finding the folder for the QT wallet you can refer to this youtube tutorial on how to find a bitcoin folder. To find your BitBay folder it’s the same procedure. <a href="https://www.youtube.com/watch?v=jGXf2xFyWaE">https://www.youtube.com/watch?v=jGXf2xFyWaE</a><br>
+<br></p>
+<h2>7) My Client is loading and responding really slow, how can I speed it up?</h2>
+<p>Check your free RAM while using the Client. Recommended RAM amount for<br>
+solid performance: 4 – 8 GB. Also refer to the FAQ above and create/update your bitbay.conf file. Also you can try downloading a memory manager such as “CleanMEM mini monitor”. This software lets you know when memory is too high and allows you to clear up the file cache. Also be aware if you are running too many programs at once.<br>
+<br></p>
+<h2>8) I downloaded the Client or I downloaded the QT wallet and sent coins to the address inside the wallet, but my balance is not showing any coins received.</h2>
+<p>The Client and the QT wallet both need to be synchronized 100% to the blockchain before balances will show correctly. Think about it for a second – if you send coins through the network then the transaction is going to be stored on the most recent block at the moment of the transaction. If you are syncing up to block 50000 yet you made to the transaction on block 1,200,000 how is the Client or QT wallet supposed to know you made the transaction on that block. It still needs to catch up with all the transactions.<br>
+<br></p>
+<h2>9) I have coins in my Client account, yet it won’t let me withdraw them.</h2>
+<p>Make sure your blockchain is synchronized 100%. The Client won’t be usable until it’s synced 100%. Check to see the status of the synchronization bar found on the Home tab of the Client. If this bar says disconnected, close down and restart the Client.</p>
+<p>Make sure your account has both keys loaded up. A ‘normal’ account in the Client requires that the owner utilize 2 private keys for extra security. If you load only 1 private key, the Client will think a a joint account/2fa account is loaded and not function properly. You can check to see if you have 2 private keys loaded by clicking on the History tab of the Client. If you accidentally try to send with one key don’t worry you may cancel as only 1⁄2 of that transaction was signed and it was not broadcasted to the network.<br>
+<br></p>
+<h2>10) My coins don’t show up on my Bitbay Client despite having properly loaded my keys.</h2>
+<p>If you previously deleted the wallet.dat file, you need to reload your address from the file menu because it will add it again to the watchonly list, as the market client wallet.dat holds accounts to watch, so if it doesn’t know what to watch, it won’t get the inputs, which can happen if the file is ever deleted.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/client-and-wallet-troubleshooting/37/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/client-and-wallet-troubleshooting/37/1</link>
+        <pubDate>Wed, 29 Nov 2017 10:26:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-37-1</guid>
+        <source url="..../forum-archive/t/client-and-wallet-troubleshooting/37.rss">Client and Wallet Troubleshooting</source>
+      </item>
+  </channel>
+</rss>

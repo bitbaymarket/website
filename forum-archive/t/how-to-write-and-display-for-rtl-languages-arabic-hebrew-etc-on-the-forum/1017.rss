@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to write and display for RTL languages (Arabic, Hebrew etc) on the Forum</title>
+    <link>..../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017</link>
+    <description>## 1. input
+For input to be properly seen as you type (meaning RTL) 
+for **chrome** right click and on the context menu choose **Writing direction** 
+![input|442x318](upload://ysKiiluND1vTGGFOMSuazEDUSR7.png)
+
+for **firefox** just press `Ctrl-Shift-x` to toggle between LTR and RTL
+
+## 2. output 
+For output you need to add `&lt;div dir=&quot;rtl&quot;&gt;` before and `&lt;div&gt;` at the end of you RTL input
+sort of like this 
+`&lt;div dir=&quot;rtl&quot;&gt;`
+يوم جيد
+`&lt;/div&gt;`
+
+which will give you this 
+&lt;div dir=&quot;rtl&quot;&gt;
+يوم جيد
+&lt;/div&gt;</description>
+    
+    <lastBuildDate>Thu, 25 Jan 2018 05:59:39 +0000</lastBuildDate>
+    <category>Forum Feedback</category>
+    <atom:link href="..../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to write and display for RTL languages (Arabic, Hebrew etc) on the Forum</title>
+        <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <blockquote>
+              <h2>1. input</h2>
+<p>For input to be properly seen as you type (meaning RTL)<br>
+for <strong>chrome</strong> right click and on the context menu choose <strong>Writing direction</strong><br>
+<img src="..../forum-archive/uploads/default/original/1X/f189cb8e0755c13118c213bb6bf7a2f90377c925.png" alt="input" width="442" height="318"></p>
+<p>for <strong>firefox</strong> just press <code>Ctrl-Shift-x</code> to toggle between LTR and RTL</p>
+<h2>2. output</h2>
+<p>For output you need to add <code>&lt;div dir="rtl"&gt;</code> before and <code>&lt;div&gt;</code> at the end of you RTL input<br>
+sort of like this<br>
+<code>&lt;div dir="rtl"&gt;</code><br>
+يوم جيد<br>
+<code>&lt;/div&gt;</code></p>
+<p>which will give you this</p>
+<div dir="rtl">
+يوم جيد
+</div>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017/1</link>
+        <pubDate>Wed, 24 Jan 2018 15:56:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1017-1</guid>
+        <source url="..../forum-archive/t/how-to-write-and-display-for-rtl-languages-arabic-hebrew-etc-on-the-forum/1017.rss">How to write and display for RTL languages (Arabic, Hebrew etc) on the Forum</source>
+      </item>
+  </channel>
+</rss>

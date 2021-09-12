@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>QT Wallet synched, WebWallet Keys Importet but 0 Balance</title>
+    <link>..../forum-archive/t/qt-wallet-synched-webwallet-keys-importet-but-0-balance/2293</link>
+    <description>Hi
+I have done all the Steps to Import my Webwallet into to the QT Wallet.
+The Wallet is fully synched and i also see the adress in the &quot;Receive Tab&quot;
+
+BUT my balance is Still 0  --- How long does it takes, that the Coins are aviable and sendable?
+Did the Import 3 Days Ago
+
+Thanks for helping :slight_smile:</description>
+    
+    <lastBuildDate>Thu, 19 Mar 2020 12:44:19 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/qt-wallet-synched-webwallet-keys-importet-but-0-balance/2293.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>QT Wallet synched, WebWallet Keys Importet but 0 Balance</title>
+        <dc:creator><![CDATA[@CryptoGuru]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/cryptoguru">@CryptoGuru</a> wrote:</p>
+          <blockquote>
+              <p>Tank you - i will try this.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/qt-wallet-synched-webwallet-keys-importet-but-0-balance/2293/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/qt-wallet-synched-webwallet-keys-importet-but-0-balance/2293/3</link>
+        <pubDate>Thu, 19 Mar 2020 12:44:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2293-3</guid>
+        <source url="..../forum-archive/t/qt-wallet-synched-webwallet-keys-importet-but-0-balance/2293.rss">QT Wallet synched, WebWallet Keys Importet but 0 Balance</source>
+      </item>
+      <item>
+        <title>QT Wallet synched, WebWallet Keys Importet but 0 Balance</title>
+        <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <blockquote>
+              <p>Sorry for the issue.</p>
+<p>It should be alleviated with a “rescan” function.</p>
+<p>We will eventually add a rescan and reindex function to the qt debug console.</p>
+<p>For now you will need to refer to this article on how to manually rescan the wallet.<br>
+And remember to always make a backup of your wallet.dat and store in multiple safe locations.</p>
+<p>Let me know if you have any issues trying to rescan after reading this article</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="..../forum-archive/uploads/default/original/1X/d20bb991ef6bfc80febaa20005ff82d1cf11c46d.png" class="site-icon" width="32" height="32">
+      <a href="https://coinguides.org/rescan-reindex-wallet/" target="_blank" title="01:12PM - 16 October 2018" rel="nofollow noopener">Coin Guides – 16 Oct 18</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/361;"><img src="..../forum-archive/uploads/default/original/1X/16c1cb43cc23ecbac020507b305778ca5d5e72b2.jpeg" class="thumbnail"></div>
+
+<h3><a href="https://coinguides.org/rescan-reindex-wallet/" target="_blank" rel="nofollow noopener">What does -rescan, -reindex command do &amp; How to rescan/reindex wallet?</a></h3>
+
+<p>Rescan scans your blockchain for missing transaction &amp; reindex rebuilds the blockchain index. Know how to start wallet using these commands.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          </blockquote>
+          <p><a href="..../forum-archive/t/qt-wallet-synched-webwallet-keys-importet-but-0-balance/2293/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/qt-wallet-synched-webwallet-keys-importet-but-0-balance/2293/2</link>
+        <pubDate>Thu, 19 Mar 2020 09:48:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2293-2</guid>
+        <source url="..../forum-archive/t/qt-wallet-synched-webwallet-keys-importet-but-0-balance/2293.rss">QT Wallet synched, WebWallet Keys Importet but 0 Balance</source>
+      </item>
+      <item>
+        <title>QT Wallet synched, WebWallet Keys Importet but 0 Balance</title>
+        <dc:creator><![CDATA[@CryptoGuru]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/cryptoguru">@CryptoGuru</a> wrote:</p>
+          <blockquote>
+              <p>Hi<br>
+I have done all the Steps to Import my Webwallet into to the QT Wallet.<br>
+The Wallet is fully synched and i also see the adress in the “Receive Tab”</p>
+<p>BUT my balance is Still 0  — How long does it takes, that the Coins are aviable and sendable?<br>
+Did the Import 3 Days Ago</p>
+<p>Thanks for helping <img src="..../forum-archive/images/emoji/twitter/slight_smile.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/qt-wallet-synched-webwallet-keys-importet-but-0-balance/2293/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/qt-wallet-synched-webwallet-keys-importet-but-0-balance/2293/1</link>
+        <pubDate>Thu, 19 Mar 2020 07:56:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2293-1</guid>
+        <source url="..../forum-archive/t/qt-wallet-synched-webwallet-keys-importet-but-0-balance/2293.rss">QT Wallet synched, WebWallet Keys Importet but 0 Balance</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ask the Developer - BitBay Community</title>
+    <link>.../forum-archive/c/ask-the-developer</link>
+    <description>Topics in the &#39;Ask the Developer&#39; category We are introducing an ‘Ask the Developer Q &amp;amp; A’ whereby people can ask questions no matter how big or small.</description>
+    
+      <lastBuildDate>Fri, 03 Jul 2020 13:48:20 +0000</lastBuildDate>
+      <atom:link href=".../forum-archive/c/ask-the-developer.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>LAToken is destroying the value of BAY</title>
+          <dc:creator><![CDATA[@oaktree ace]]></dc:creator>
+          <category>Ask the Developer</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/oaktree">@oaktree</a> wrote:</p>
+            <blockquote>
+              <p>When my liquid BAY is being sent to LAToken it is either immediately converted back into BAYR (poof and its gone) or is converted into BAYR as soon as it is transferred from Wallet to Spot.</p>
+<p>Anyone buying BAY to trade on LAToken will instantly look 99.8% of value - killing liquidity and destroying the reputation of BAY as a tradeable asset.</p>
+<p>The BAY team needs to communicate to them that the BAY deposits need to be segregated so that there is sufficient liquidity in the BAY market, otherwise BAY is likely to be delisted from our one and only exchange listing!</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/latoken-is-destroying-the-value-of-bay/2512">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/latoken-is-destroying-the-value-of-bay/2512</link>
+          <pubDate>Fri, 03 Jul 2020 13:48:20 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-2512</guid>
+          <source url=".../forum-archive/t/latoken-is-destroying-the-value-of-bay/2512.rss">LAToken is destroying the value of BAY</source>
+        </item>
+        <item>
+          <title>I didn&#39;t receive any coins in my wallet</title>
+          <dc:creator><![CDATA[@scuzzle Robin]]></dc:creator>
+          <category>Ask the Developer</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/scuzzle">@scuzzle</a> wrote:</p>
+            <blockquote>
+              <p>Hello,</p>
+<p>I downloaded the bitbay qt wallet in the beginning of the year and transferred some BAY to the receiving address that is shown. I was in a hurry, because the exchange, where i bought the coins, said i had to move those, otherwise they would get lost. So i didn’t waste time and sent the coins to the qt wallet, while the blockchain was still downloading. After i downloaded it completely, the balance was 0. I read something about private keys, but didn’t have to create something like this in the beginning. So i just downloaded the wallet and the blockchain and sent coins to the receiving address. Can you help me finding my coins?<br>
+Thanks in advance!</p>
+            </blockquote>
+            <p>Posts: 8</p>
+            <p>Participants: 2</p>
+            <p><a href=".../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354</link>
+          <pubDate>Wed, 08 Apr 2020 18:50:29 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-2354</guid>
+          <source url=".../forum-archive/t/i-didnt-receive-any-coins-in-my-wallet/2354.rss">I didn&#39;t receive any coins in my wallet</source>
+        </item>
+        <item>
+          <title>Problem in installation</title>
+          <dc:creator><![CDATA[@sweetyvj2002 sweety]]></dc:creator>
+          <category>Ask the Developer</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sweetyvj2002">@sweetyvj2002</a> wrote:</p>
+            <blockquote>
+              <p>Hi,<br>
+I have installed bitbay to my server.Now whenever I am going to run the below command<br>
+./BitBay.sh<br>
+I am getting the following error<br>
+Fontconfig error: Cannot load default config file<br>
+Halo: cannot connect to X server<br>
+Can you please help.</p>
+            </blockquote>
+            <p>Posts: 7</p>
+            <p>Participants: 2</p>
+            <p><a href=".../forum-archive/t/problem-in-installation/1338">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/problem-in-installation/1338</link>
+          <pubDate>Thu, 24 May 2018 05:50:02 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1338</guid>
+          <source url=".../forum-archive/t/problem-in-installation/1338.rss">Problem in installation</source>
+        </item>
+        <item>
+          <title>How to add balance to testnet wallet</title>
+          <dc:creator><![CDATA[@sweetyvj2002 sweety]]></dc:creator>
+          <category>Ask the Developer</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sweetyvj2002">@sweetyvj2002</a> wrote:</p>
+            <blockquote>
+              <p>My system has the following specifications</p>
+<p>QT Wallet, Client Wallet (and version) or Web wallet: Client wallet for linux<br>
+Operating System and version: ubuntu 17<br>
+If web wallet browser name and version:<br>
+If desktop wallet (Qt or Client) block # of your client and # of connections:</p>
+<p>The problem I am having is … I  don not understand how will I get balance to my testnet wallet.Please reply.</p>
+            </blockquote>
+            <p>Posts: 9</p>
+            <p>Participants: 4</p>
+            <p><a href=".../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334</link>
+          <pubDate>Tue, 22 May 2018 13:03:53 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1334</guid>
+          <source url=".../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334.rss">How to add balance to testnet wallet</source>
+        </item>
+        <item>
+          <title>About the Ask the Developer category</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>Ask the Developer</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <p>We are introducing an ‘Ask the Developer Q &amp; A’ whereby people can ask questions no matter how big or small.</p>
+<p>Post your questions here and we’ll choose the best ones to feature on our monthly newsletter (anonymously of course!)</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href=".../forum-archive/t/about-the-ask-the-developer-category/1140">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/about-the-ask-the-developer-category/1140</link>
+          <pubDate>Thu, 22 Feb 2018 20:48:09 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1140</guid>
+          <source url=".../forum-archive/t/about-the-ask-the-developer-category/1140.rss">About the Ask the Developer category</source>
+        </item>
+        <item>
+          <title>BitBay AMA in the ARK Slack! [Transcript]</title>
+          <dc:creator><![CDATA[@BitBay_Guy BitBay Guy]]></dc:creator>
+          <category>Ask the Developer</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/bitbay_guy">@BitBay_Guy</a> wrote:</p>
+            <blockquote>
+              <aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png" class="site-icon" width="192" height="192">
+      <a href="https://www.reddit.com/r/BitBay/comments/742odg/log_of_ama_arkioslack_with_bitbaymarket_dzimbeck/" target="_blank">reddit</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:468/500;"><img src="https://external-preview.redd.it/NcVhITO-nIS4k2C54GhPAkp3IF0ymQi69lwM7yJqQD0.jpg?auto=webp&amp;s=67b88150e6bf7a7622d1a21575529306a83bfa76" class="thumbnail"></div>
+
+<h3><a href="https://www.reddit.com/r/BitBay/comments/742odg/log_of_ama_arkioslack_with_bitbaymarket_dzimbeck/" target="_blank">r/BitBay - Log of AMA @ ark.io/slack with bitbay.market - @dzimbeck (David...</a></h3>
+
+<p>13 votes and 5 comments so far on Reddit</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/bitbay-ama-in-the-ark-slack-transcript/326">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/bitbay-ama-in-the-ark-slack-transcript/326</link>
+          <pubDate>Wed, 20 Dec 2017 19:56:19 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-326</guid>
+          <source url=".../forum-archive/t/bitbay-ama-in-the-ark-slack-transcript/326.rss">BitBay AMA in the ARK Slack! [Transcript]</source>
+        </item>
+  </channel>
+</rss>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to add balance to testnet wallet</title>
+    <link>..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334</link>
+    <description>My system has the following specifications 
+
+QT Wallet, Client Wallet (and version) or Web wallet: Client wallet for linux
+Operating System and version: ubuntu 17
+If web wallet browser name and version:
+If desktop wallet (Qt or Client) block # of your client and # of connections: 
+
+The problem I am having is .... I  don not understand how will I get balance to my testnet wallet.Please reply.</description>
+    
+    <lastBuildDate>Thu, 27 Dec 2018 15:47:59 +0000</lastBuildDate>
+    <category>Ask the Developer</category>
+    <atom:link href="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to add balance to testnet wallet</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              <p>hi <a class="mention" href="/u/sweetyvj2002">@sweetyvj2002</a>- just to let you know we have a live testnet up and running now for the dynamic peg testing. Let me know if you need further info and I can send you a link to the testnet Qt wallet.</p>
+<p>Thanks,<br>
+Shorn | Project Manager</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/10">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/10</link>
+        <pubDate>Thu, 27 Dec 2018 15:47:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1334-10</guid>
+        <source url="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334.rss">How to add balance to testnet wallet</source>
+      </item>
+      <item>
+        <title>How to add balance to testnet wallet</title>
+        <dc:creator><![CDATA[@sweetyvj2002 sweety]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sweetyvj2002">@sweetyvj2002</a> wrote:</p>
+          <blockquote>
+              <p>ok quite risky for me.Thanks for the information.My request if possible please try to find out a way for testing purpose.It will make a developer’s life easy.<img src="..../forum-archive/images/emoji/twitter/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+Thanx a lot.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/9">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/9</link>
+        <pubDate>Wed, 23 May 2018 07:38:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1334-9</guid>
+        <source url="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334.rss">How to add balance to testnet wallet</source>
+      </item>
+      <item>
+        <title>How to add balance to testnet wallet</title>
+        <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/sweetyvj2002">@sweetyvj2002</a><br>
+since there is no proper testnet network in place I would suggest you should try regular LIVE network (start bitbayd without <code>-testnet</code>) but test things with very small amounts to be safe</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/8">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/8</link>
+        <pubDate>Wed, 23 May 2018 07:35:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1334-8</guid>
+        <source url="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334.rss">How to add balance to testnet wallet</source>
+      </item>
+      <item>
+        <title>How to add balance to testnet wallet</title>
+        <dc:creator><![CDATA[@sweetyvj2002 sweety]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sweetyvj2002">@sweetyvj2002</a> wrote:</p>
+          <blockquote>
+              <p>Hey thanks for reply.Actually I have configured it on my desktop.Now my task is to test the wallet transactions in testnet mode.But for insufficient balance I can not proceed.<br>
+Is there any way that I will be able to test the transactions ( using terminal ) ?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/7">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/7</link>
+        <pubDate>Wed, 23 May 2018 07:20:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1334-7</guid>
+        <source url="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334.rss">How to add balance to testnet wallet</source>
+      </item>
+      <item>
+        <title>How to add balance to testnet wallet</title>
+        <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/sweetyvj2002">@sweetyvj2002</a> i dont think there is any nodes running in testnet mode at this time thus its unusable … i will talk to other devs so we can add some nodes to testnet as we are probably going to need it for our upcoming releases</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/6">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/6</link>
+        <pubDate>Wed, 23 May 2018 07:04:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1334-6</guid>
+        <source url="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334.rss">How to add balance to testnet wallet</source>
+      </item>
+      <item>
+        <title>How to add balance to testnet wallet</title>
+        <dc:creator><![CDATA[@Mantrack]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+          <blockquote>
+              <p>I am not following what you want to achieve sorry. Why don’t you directly create a multi-signature account using the client’s gui? It will automatically generate you an address.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/4</link>
+        <pubDate>Tue, 22 May 2018 15:48:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1334-4</guid>
+        <source url="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334.rss">How to add balance to testnet wallet</source>
+      </item>
+      <item>
+        <title>How to add balance to testnet wallet</title>
+        <dc:creator><![CDATA[@sweetyvj2002 sweety]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sweetyvj2002">@sweetyvj2002</a> wrote:</p>
+          <blockquote>
+              <p>Hi,<br>
+My getinfo returns for testnet in my local machine<br>
+#####################################<br>
+./bitbayd -testnet getinfo<br>
+{<br>
+“version” : “v2.0.0.0-g32a928e”,<br>
+“protocolversion” : 60016,<br>
+“walletversion” : 60000,<br>
+“balance” : 0.00000000,<br>
+“newmint” : 0.00000000,<br>
+“stake” : 0.00000000,<br>
+“blocks” : 0,<br>
+“timeoffset” : 0,<br>
+“moneysupply” : 0.00000000,<br>
+“connections” : 0,<br>
+“proxy” : “”,<br>
+“ip” : “0.0.0.0”,<br>
+“difficulty” : {<br>
+“proof-of-work” : 0.00001526,<br>
+“proof-of-stake” : 0.00001526<br>
+},<br>
+“testnet” : true,<br>
+“keypoololdest” : 1526974556,<br>
+“keypoolsize” : 101,<br>
+“paytxfee” : 0.00010000,<br>
+“mininput” : 0.00000000,<br>
+“errors” : “”<br>
+}<br>
+Now I have executed the below command<br>
+###############################<br>
+./bitbayd -testnet getnewaddress</p>
+<p>This command returns the newv address "mj8CTgGPGHjab1iUipb7f2HS61KiiUQgK4"<br>
+Now I am trying to get some coin into this test net address.That later I will use the coins.Please help.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/3</link>
+        <pubDate>Tue, 22 May 2018 13:23:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1334-3</guid>
+        <source url="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334.rss">How to add balance to testnet wallet</source>
+      </item>
+      <item>
+        <title>How to add balance to testnet wallet</title>
+        <dc:creator><![CDATA[@Mantrack]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+          <blockquote>
+              <p>What do you mean? You mean you don’t understand how to get your coins from the exchange to your wallet?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/2</link>
+        <pubDate>Tue, 22 May 2018 13:12:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1334-2</guid>
+        <source url="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334.rss">How to add balance to testnet wallet</source>
+      </item>
+      <item>
+        <title>How to add balance to testnet wallet</title>
+        <dc:creator><![CDATA[@sweetyvj2002 sweety]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sweetyvj2002">@sweetyvj2002</a> wrote:</p>
+          <blockquote>
+              <p>My system has the following specifications</p>
+<p>QT Wallet, Client Wallet (and version) or Web wallet: Client wallet for linux<br>
+Operating System and version: ubuntu 17<br>
+If web wallet browser name and version:<br>
+If desktop wallet (Qt or Client) block # of your client and # of connections:</p>
+<p>The problem I am having is … I  don not understand how will I get balance to my testnet wallet.Please reply.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334/1</link>
+        <pubDate>Tue, 22 May 2018 13:03:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1334-1</guid>
+        <source url="..../forum-archive/t/how-to-add-balance-to-testnet-wallet/1334.rss">How to add balance to testnet wallet</source>
+      </item>
+  </channel>
+</rss>

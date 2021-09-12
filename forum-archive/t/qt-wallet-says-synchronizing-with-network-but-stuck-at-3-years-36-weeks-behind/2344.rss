@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Qt wallet says synchronizing with network but stuck at 3 years 36 weeks behind</title>
+    <link>..../forum-archive/t/qt-wallet-says-synchronizing-with-network-but-stuck-at-3-years-36-weeks-behind/2344</link>
+    <description>My system has the following specifications:
+- QT Wallet 2.0.0.1
+- Windows 10
+- I&#39;m not sure how to find block # of your client and # of connections
+
+My qt wallet says synchronizing with network but stuck at 3 years 36 weeks behind. 
+Can you please help me!
+
+Thank you! :)</description>
+    
+    <lastBuildDate>Wed, 08 Apr 2020 03:56:45 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/qt-wallet-says-synchronizing-with-network-but-stuck-at-3-years-36-weeks-behind/2344.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Qt wallet says synchronizing with network but stuck at 3 years 36 weeks behind</title>
+        <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+          <blockquote>
+              <p>Thanks!<br>
+I also just saw a post about a hard fork. I haven’t gone near my BitBay in nearly two years. Does this mean I’ve lost my Bay?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/qt-wallet-says-synchronizing-with-network-but-stuck-at-3-years-36-weeks-behind/2344/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/qt-wallet-says-synchronizing-with-network-but-stuck-at-3-years-36-weeks-behind/2344/3</link>
+        <pubDate>Wed, 08 Apr 2020 03:56:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2344-3</guid>
+        <source url="..../forum-archive/t/qt-wallet-says-synchronizing-with-network-but-stuck-at-3-years-36-weeks-behind/2344.rss">Qt wallet says synchronizing with network but stuck at 3 years 36 weeks behind</source>
+      </item>
+      <item>
+        <title>Qt wallet says synchronizing with network but stuck at 3 years 36 weeks behind</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Hi,</p>
+<p>Thanks for reaching out for support. It looks like you are running an old version of the QT Wallet, which is likely on the wrong chain. The latest version is <strong>3.0.2b</strong>. Please follow these directions to update your wallet and get back on the correct chain:</p>
+<aside class="quote quote-modified" data-post="1" data-topic="2317">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.bitbay.market/sh_rn/40/27_1.png" class="avatar">
+    <a href="..../forum-archive/t/how-to-fix-the-chain-split-issue-on-qt-wallet-mandatory-for-users/2317">How to fix the chain split issue on Qt wallet (**MANDATORY FOR USERS**)</a> <a class="badge-wrapper  bullet" href="/c/support"><span class="badge-category-bg" style="background-color: #3AB54A;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="The support section is here to help you solve any issues you encounter while using Bitbay’s wallets.
+To ensure efficient communication when you describe your problem, please provide the following informations:">Support</span></a>
+  </div>
+  <blockquote>
+    Please complete the following steps to download and install the new bootstrap and QT wallet.
+It is necessary to follow the steps in the correct order. 
+
+Back up your “wallet.dat” and “BitBay” folder before moving to step two. Depending on your operating system, the BitBay data folder can be found in these locations:
+
+
+
+Windows users: users/“yourusername”/appdata/roaming/Bitbay folder (make sure you have “show hidden files” selected) 
+
+
+Mac users: ~/Library &gt; Application Support &gt; BitBay 
+
+
+Linux…
+  </blockquote>
+</aside>
+
+<p>If you have any questions, let us know! <img src="..../forum-archive/images/emoji/twitter/slightly_smiling_face.png?v=6" title=":slightly_smiling_face:" class="emoji" alt=":slightly_smiling_face:"></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/qt-wallet-says-synchronizing-with-network-but-stuck-at-3-years-36-weeks-behind/2344/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/qt-wallet-says-synchronizing-with-network-but-stuck-at-3-years-36-weeks-behind/2344/2</link>
+        <pubDate>Mon, 06 Apr 2020 16:25:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2344-2</guid>
+        <source url="..../forum-archive/t/qt-wallet-says-synchronizing-with-network-but-stuck-at-3-years-36-weeks-behind/2344.rss">Qt wallet says synchronizing with network but stuck at 3 years 36 weeks behind</source>
+      </item>
+      <item>
+        <title>Qt wallet says synchronizing with network but stuck at 3 years 36 weeks behind</title>
+        <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+          <blockquote>
+              <p>My system has the following specifications:</p>
+<ul>
+<li>QT Wallet 2.0.0.1</li>
+<li>Windows 10</li>
+<li>I’m not sure how to find block # of your client and # of connections</li>
+</ul>
+<p>My qt wallet says synchronizing with network but stuck at 3 years 36 weeks behind.<br>
+Can you please help me!</p>
+<p>Thank you! <img src="..../forum-archive/images/emoji/twitter/slight_smile.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/qt-wallet-says-synchronizing-with-network-but-stuck-at-3-years-36-weeks-behind/2344/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/qt-wallet-says-synchronizing-with-network-but-stuck-at-3-years-36-weeks-behind/2344/1</link>
+        <pubDate>Mon, 06 Apr 2020 14:00:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2344-1</guid>
+        <source url="..../forum-archive/t/qt-wallet-says-synchronizing-with-network-but-stuck-at-3-years-36-weeks-behind/2344.rss">Qt wallet says synchronizing with network but stuck at 3 years 36 weeks behind</source>
+      </item>
+  </channel>
+</rss>

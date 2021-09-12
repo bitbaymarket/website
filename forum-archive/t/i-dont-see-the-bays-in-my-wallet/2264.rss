@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>I don&#39;t see the BAYs in my wallet</title>
+    <link>..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264</link>
+    <description>Hello Guys,
+
+i am experiencing a problem with the web wallet, i moved some BAY&#39;S but i can&#39;t the the amount in the wallet...it&#39;s always show 0.00
+
+here the transaction: https://chainz.cryptoid.info/bay/address.dws?B7BftL8dyLaB4eXXDN9iYedBGDkTit3SWS.htm
+
+someone can help me?</description>
+    
+    <lastBuildDate>Wed, 08 Apr 2020 17:56:20 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>I don&#39;t see the BAYs in my wallet</title>
+        <dc:creator><![CDATA[@proteanman Protean Man]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
+          <blockquote>
+              <p>I also have two receiving addresses. One of them is the same as the web wallet. Is the other one somehow selected as the wallet default and that’s why I see 0 Bay in my balance?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264/6">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264/6</link>
+        <pubDate>Wed, 08 Apr 2020 17:56:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2264-6</guid>
+        <source url="..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264.rss">I don&#39;t see the BAYs in my wallet</source>
+      </item>
+      <item>
+        <title>I don&#39;t see the BAYs in my wallet</title>
+        <dc:creator><![CDATA[@proteanman Protean Man]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
+          <blockquote>
+              <p>I have the same problem.<br>
+Imported the private key into the command line of QT wallet yet nothing is showing up. The only way to check is to go to the receive tab? - still nothing there. No error codes in command line either.</p>
+<p>Web wallet shows Bay balance, QT does not.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264/5">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264/5</link>
+        <pubDate>Wed, 08 Apr 2020 17:51:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2264-5</guid>
+        <source url="..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264.rss">I don&#39;t see the BAYs in my wallet</source>
+      </item>
+      <item>
+        <title>I don&#39;t see the BAYs in my wallet</title>
+        <dc:creator><![CDATA[@anystrike]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/anystrike">@anystrike</a> wrote:</p>
+          <blockquote>
+              <p>Hey Craig,</p>
+<p>i did what you suggest me, but nothing appear in the receive tabs…the qt wallet show me always 0 BAY…<br>
+what can i do?</p>
+<p>thanks<br>
+in advance</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264/4</link>
+        <pubDate>Sun, 05 Apr 2020 09:15:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2264-4</guid>
+        <source url="..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264.rss">I don&#39;t see the BAYs in my wallet</source>
+      </item>
+      <item>
+        <title>I don&#39;t see the BAYs in my wallet</title>
+        <dc:creator><![CDATA[@scuzzle Robin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/scuzzle">@scuzzle</a> wrote:</p>
+          <blockquote>
+              <p>Hello,</p>
+<p>I have a QT Wallet, dowloaded the blockchain, but dont see any BAY in the wallet, although i sent some months ago. What could i try to have access to my coins?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264/3</link>
+        <pubDate>Thu, 02 Apr 2020 14:48:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2264-3</guid>
+        <source url="..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264.rss">I don&#39;t see the BAYs in my wallet</source>
+      </item>
+      <item>
+        <title>I don&#39;t see the BAYs in my wallet</title>
+        <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <blockquote>
+              <p>Sorry for the delay response. For faster response times feel free to ask in the Discord or telegram channel</p>
+<p>The web wallet is in development stage to incorporate the dynamic peg index.<br>
+This means it is not usable until we complete the revised wallet build.</p>
+<p>While we wait for the devs to complete the update,<br>
+You can still gain access to your coins if you import your web wallet into a QT wallet.<br>
+You would need to download the entire QT wallet blockchain.</p>
+<p>Here are instructions to import a web wallet into a QT wallet.</p>
+<aside class="quote quote-modified" data-post="1" data-topic="2249">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.bitbay.market/tradersnow/40/523_1.png" class="avatar">
+    <a href="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-peg-enabled-qt-wallet/2249">How to import your BitBay Web Wallet private key into the peg-enabled QT wallet</a> <a class="badge-wrapper  bullet" href="/c/dynamic-peg-faq"><span class="badge-category-bg" style="background-color: #0088CC;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="All of your Dynamic Peg related questions answered here.">Dynamic Peg - FAQ</span></a>
+  </div>
+  <blockquote>
+    How to import your BitBay Web Wallet private key into the BitBay QT wallet:
+***Note: The web wallet is currently on an old fork of BitBay. To spend any funds from your web wallet address, you must FIRST import your web wallet private key into the BitBay QT wallet application. 
+This is MANDATORY until the web wallet is updated to work with the Dynamic Peg. 
+If you have any questions, please leave a comment below. 
+1. Enter your wallet log-in information, and click “Load/Create Wallet” to gain acc…
+  </blockquote>
+</aside>
+
+          </blockquote>
+          <p><a href="..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264/2</link>
+        <pubDate>Sun, 08 Mar 2020 10:50:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2264-2</guid>
+        <source url="..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264.rss">I don&#39;t see the BAYs in my wallet</source>
+      </item>
+      <item>
+        <title>I don&#39;t see the BAYs in my wallet</title>
+        <dc:creator><![CDATA[@anystrike]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/anystrike">@anystrike</a> wrote:</p>
+          <blockquote>
+              <p>Hello Guys,</p>
+<p>i am experiencing a problem with the web wallet, i moved some BAY’S but i can’t the the amount in the wallet…it’s always show 0.00</p>
+<p>here the transaction: <a href="https://chainz.cryptoid.info/bay/address.dws?B7BftL8dyLaB4eXXDN9iYedBGDkTit3SWS.htm" rel="nofollow noopener">https://chainz.cryptoid.info/bay/address.dws?B7BftL8dyLaB4eXXDN9iYedBGDkTit3SWS.htm</a></p>
+<p>someone can help me?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264/1</link>
+        <pubDate>Fri, 06 Mar 2020 08:19:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2264-1</guid>
+        <source url="..../forum-archive/t/i-dont-see-the-bays-in-my-wallet/2264.rss">I don&#39;t see the BAYs in my wallet</source>
+      </item>
+  </channel>
+</rss>

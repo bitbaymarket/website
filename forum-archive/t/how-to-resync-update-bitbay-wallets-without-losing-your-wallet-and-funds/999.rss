@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to Resync/update bitbay wallets without losing your wallet and FUNDS</title>
+    <link>..../forum-archive/t/how-to-resync-update-bitbay-wallets-without-losing-your-wallet-and-funds/999</link>
+    <description>This was originally written for the hard fork on  on 30th November 2017 that required everyone to update their client but the instructions should work for any wallet update/new fork.
+
+If you have not started the client lately or if you have but did not update it to latest version you might not see correct balance or even get 0 Balance on your client
+ 
+The following procedure will usually remedy the hard fork problem and many more problems with non correctly reported FUNDS inside your wallet.
+
+To continue see which client you have  
+..../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059
+
+If you feel that your client is just out of sync please follow this guide
+..../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736
+
+# FOR MARKET CLIENT 
+
+### 1. find your private keys
+You have to have the **2 private keys** that you saved when you first created the account.  If you don&#39;t have 2 keys try  `file &gt; backup wallet` on a regular account and it will ask you to save the 2 keys in a safe place 
+
+### 2. Reinstall the Client 
+- erase all the contents on the bitbay data folder except `wallet.dat`
+-- Windows default location `c:\bitbay\bitbaydata` folder 
+-- MAC default location `Applications &gt; BitBay (right click) &gt; Show package contents &gt; Drive C &gt; BitBay &gt; bitbaydata`
+- download the client from the [downloads section](https://bitbay.market/downloads) 
+- unzip and run it 
+- it should start syncing it might take from a few hours to 1-2 days to sync
+- go to `File &gt; open wallet` and follow the instructions (you will need the 2 keys found on previous step)
+
+
+# FOR QT WALLET
+### 1. Find your *bitbay data folder* 
+places where you usually find the bitbay data
+- Windows QT client `c:\Users\YOURUSERNAME\appdata\roaming\bitbay`
+- Linux QT client `~/.bitbay` 
+- MAC QT client `~/Library/Application Support/BitBay`
+
+Make sure this folder contains a file named `wallet.dat` which is the most important file on the QT wallet
+
+If you can&#39;t find/see the folders/files mentioned above perhaps you should turn the option on to see hidden files (more details on the NOTES sections)
+
+### 2. Backup your *bitbay data folder* found above
+- shutdown the client
+- backup/copy the *bitbay data folder* into a different disk or flash drive 
+- this backup can be used to restore your BAY in case something goes wrong
+so *don&#39;t modify this backup* until you make sure your wallet is working properly
+
+**NOTE:** `wallet.dat` is the most important file in this folder as it contains all **YOUR WALLET** information if you lose this you might lose your funds.  You can also use it to recover from hardware failures or client not starting or moving to a new system. **Remember**  If you have password protected your wallet the `wallet.dat` file is not enough to recover your funds, you have to remember your password as well. 
+
+
+### 3. Reinstall the Client 
+- erase all the contents on the bitbay data folder except `wallet.dat`
+- download the client from the [downloads section](https://bitbay.market/downloads) 
+- unzip and run it 
+- it should start synching it might take from a few hours to 1-2 days to synch
+
+
+
+### Need help ?
+If you want help please post a new topic in the support section with the issue and the steps you followed
+
+# NOTES 
+
+###  Speed up the synching process 
+For windows you can speed up the synching process by downloading one of the following
+- blockchain zip from the [downloads section](https://bitbay.market/downloads) which brings you a few weeks behind being fully synced
+- newer zip by a trusted member [here](https://mega.nz/#!8k8mjIbR!Y8o6lqbTalibOY3pdX8IiFiNW5-qURmKoYbbKe-6wnc)  which brings you to about one week behind being fully synced
+
+Then
+- shutdown the client 
+- drop the contents of the zip in the bitbay data folder
+- restart the client 
+- you will be closer to be fully synced 
+
+
+### Hidden files
+If you can&#39;t find the files/folders mentioned above perhaps you should turn on viewing of hidden files on your system 
+
+On **WINDOWS** you need to turn “view hidden files” or else you will not find `c:\Users\YOURUSERNAME\appdata\roaming\bitbay` 
+
+On **MAC**, you can just visit  `~/Library` from Finder, simply hit `shift + ⌘ (command) + G` which will GO to a folder, then paste in this location:</description>
+    
+    <lastBuildDate>Tue, 18 Feb 2020 07:39:44 +0000</lastBuildDate>
+    <category>Get Started Guides</category>
+    <atom:link href="..../forum-archive/t/how-to-resync-update-bitbay-wallets-without-losing-your-wallet-and-funds/999.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to Resync/update bitbay wallets without losing your wallet and FUNDS</title>
+        <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <blockquote>
+              <p>This was originally written for the hard fork on  on 30th November 2017 that required everyone to update their client but the instructions should work for any wallet update/new fork.</p>
+<p>If you have not started the client lately or if you have but did not update it to latest version you might not see correct balance or even get 0 Balance on your client</p>
+<p>The following procedure will usually remedy the hard fork problem and many more problems with non correctly reported FUNDS inside your wallet.</p>
+<p>To continue see which client you have<br>
+<aside class="quote quote-modified" data-post="1" data-topic="1059">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.bitbay.market/giorgosk/40/8_1.png" class="avatar">
+    <a href="..../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059">How to find out the type of client and version</a> <a class="badge-wrapper  bullet" href="/c/get-started-guides"><span class="badge-category-bg" style="background-color: #95d540;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">Get Started Guides</span></a>
+  </div>
+  <blockquote>
+    When reporting an issue its very important to report the client and the version so someone can better support you 
+MARKET CLIENT
+Here is how the client looks like 
+some people also call the market client as it contains the marketplace 
+ <a class="lightbox" href="..../forum-archive/uploads/default/original/1X/faaf04c907e013e9c0213aa97e9a3232fc3cc161.png" data-download-href="..../forum-archive/uploads/default/faaf04c907e013e9c0213aa97e9a3232fc3cc161" title="bitbay.client.windows.png">[windows]</a>
+The block number is on the bottom left corner of Home tab as seen on the screenshot above. 
+For number of connections  go to settings &gt; general settings 
+For version number go to help &gt; about it will say Halo version and a number 1.29 
+QT WALLET
+Here is…
+  </blockquote>
+</aside>
+</p>
+<p>If you feel that your client is just out of sync please follow this guide<br>
+<aside class="quote quote-modified" data-post="1" data-topic="736">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/letter_avatar_proxy/v2/letter/c/ed8c4c/40.png" class="avatar">
+    <a href="..../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736">Creating a bitbay.conf for better network connections</a> <a class="badge-wrapper  bullet" href="/c/get-started-guides"><span class="badge-category-bg" style="background-color: #95d540;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">Get Started Guides</span></a>
+  </div>
+  <blockquote>
+    The Client wallet already has a bitbay.conf file that can be found in your BitBay directory inside the bitbaydata folder 
+Default bitbay data folder locations 
+windows client C:\BitBay\bitbaydata 
+windows QT client c:\Users\YOURUSERNAME\appdata\roaming\bitbay 
+linux QT client ~/.bitbay 
+mac QT client ~/Library/Application Support/BitBay 
+If you are still having trouble connecting to the network with the Client, then you can update the addnode list from the block explorer. 
+<a href="https://chainz.cryptoid.info/bay/#!network" class="onebox" target="_blank">https://chainz.cryptoi…</a>
+  </blockquote>
+</aside>
+</p>
+<h1>FOR MARKET CLIENT</h1>
+<h3>1. find your private keys</h3>
+<p>You have to have the <strong>2 private keys</strong> that you saved when you first created the account.  If you don’t have 2 keys try  <code>file &gt; backup wallet</code> on a regular account and it will ask you to save the 2 keys in a safe place</p>
+<h3>2. Reinstall the Client</h3>
+<ul>
+<li>erase all the contents on the bitbay data folder except <code>wallet.dat</code><br>
+– Windows default location <code>c:\bitbay\bitbaydata</code> folder<br>
+– MAC default location <code>Applications &gt; BitBay (right click) &gt; Show package contents &gt; Drive C &gt; BitBay &gt; bitbaydata</code>
+</li>
+<li>download the client from the <a href="https://bitbay.market/downloads">downloads section</a>
+</li>
+<li>unzip and run it</li>
+<li>it should start syncing it might take from a few hours to 1-2 days to sync</li>
+<li>go to <code>File &gt; open wallet</code> and follow the instructions (you will need the 2 keys found on previous step)</li>
+</ul>
+<h1>FOR QT WALLET</h1>
+<h3>1. Find your <em>bitbay data folder</em>
+</h3>
+<p>places where you usually find the bitbay data</p>
+<ul>
+<li>Windows QT client <code>c:\Users\YOURUSERNAME\appdata\roaming\bitbay</code>
+</li>
+<li>Linux QT client <code>~/.bitbay</code>
+</li>
+<li>MAC QT client <code>~/Library/Application Support/BitBay</code>
+</li>
+</ul>
+<p>Make sure this folder contains a file named <code>wallet.dat</code> which is the most important file on the QT wallet</p>
+<p>If you can’t find/see the folders/files mentioned above perhaps you should turn the option on to see hidden files (more details on the NOTES sections)</p>
+<h3>2. Backup your <em>bitbay data folder</em> found above</h3>
+<ul>
+<li>shutdown the client</li>
+<li>backup/copy the <em>bitbay data folder</em> into a different disk or flash drive</li>
+<li>this backup can be used to restore your BAY in case something goes wrong<br>
+so <em>don’t modify this backup</em> until you make sure your wallet is working properly</li>
+</ul>
+<p><strong>NOTE:</strong> <code>wallet.dat</code> is the most important file in this folder as it contains all <strong>YOUR WALLET</strong> information if you lose this you might lose your funds.  You can also use it to recover from hardware failures or client not starting or moving to a new system. <strong>Remember</strong>  If you have password protected your wallet the <code>wallet.dat</code> file is not enough to recover your funds, you have to remember your password as well.</p>
+<h3>3. Reinstall the Client</h3>
+<ul>
+<li>erase all the contents on the bitbay data folder except <code>wallet.dat</code>
+</li>
+<li>download the client from the <a href="https://bitbay.market/downloads">downloads section</a>
+</li>
+<li>unzip and run it</li>
+<li>it should start synching it might take from a few hours to 1-2 days to synch</li>
+</ul>
+<h3>Need help ?</h3>
+<p>If you want help please post a new topic in the support section with the issue and the steps you followed</p>
+<h1>NOTES</h1>
+<h3>Speed up the synching process</h3>
+<p>For windows you can speed up the synching process by downloading one of the following</p>
+<ul>
+<li>blockchain zip from the <a href="https://bitbay.market/downloads">downloads section</a> which brings you a few weeks behind being fully synced</li>
+<li>newer zip by a trusted member <a href="https://mega.nz/#!8k8mjIbR!Y8o6lqbTalibOY3pdX8IiFiNW5-qURmKoYbbKe-6wnc">here</a>  which brings you to about one week behind being fully synced</li>
+</ul>
+<p>Then</p>
+<ul>
+<li>shutdown the client</li>
+<li>drop the contents of the zip in the bitbay data folder</li>
+<li>restart the client</li>
+<li>you will be closer to be fully synced</li>
+</ul>
+<h3>Hidden files</h3>
+<p>If you can’t find the files/folders mentioned above perhaps you should turn on viewing of hidden files on your system</p>
+<p>On <strong>WINDOWS</strong> you need to turn “view hidden files” or else you will not find <code>c:\Users\YOURUSERNAME\appdata\roaming\bitbay</code></p>
+<p>On <strong>MAC</strong>, you can just visit  <code>~/Library</code> from Finder, simply hit <code>shift + ⌘ (command) + G</code> which will GO to a folder, then paste in this location:</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-resync-update-bitbay-wallets-without-losing-your-wallet-and-funds/999/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-resync-update-bitbay-wallets-without-losing-your-wallet-and-funds/999/1</link>
+        <pubDate>Mon, 22 Jan 2018 06:53:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-999-1</guid>
+        <source url="..../forum-archive/t/how-to-resync-update-bitbay-wallets-without-losing-your-wallet-and-funds/999.rss">How to Resync/update bitbay wallets without losing your wallet and FUNDS</source>
+      </item>
+  </channel>
+</rss>

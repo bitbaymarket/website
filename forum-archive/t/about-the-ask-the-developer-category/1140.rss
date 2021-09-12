@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the Ask the Developer category</title>
+    <link>..../forum-archive/t/about-the-ask-the-developer-category/1140</link>
+    <description>We are introducing an ‘Ask the Developer Q &amp; A’ whereby people can ask questions no matter how big or small.
+
+Post your questions here and we’ll choose the best ones to feature on our monthly newsletter (anonymously of course!)</description>
+    
+    <lastBuildDate>Wed, 23 May 2018 05:47:57 +0000</lastBuildDate>
+    <category>Ask the Developer</category>
+    <atom:link href="..../forum-archive/t/about-the-ask-the-developer-category/1140.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the Ask the Developer category</title>
+        <dc:creator><![CDATA[@sweetyvj2002 sweety]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sweetyvj2002">@sweetyvj2002</a> wrote:</p>
+          <blockquote>
+              <p>Hello,<br>
+Kindly try to help me.Please go through the following steps in order to understand my query<br>
+Hi,<br>
+My getinfo returns for testnet in my local machine<br>
+#####################################<br>
+./bitbayd -testnet getinfo<br>
+{<br>
+“version” : “v2.0.0.0-g32a928e”,<br>
+“protocolversion” : 60016,<br>
+“walletversion” : 60000,<br>
+“balance” : 0.00000000,<br>
+“newmint” : 0.00000000,<br>
+“stake” : 0.00000000,<br>
+“blocks” : 0,<br>
+“timeoffset” : 0,<br>
+“moneysupply” : 0.00000000,<br>
+“connections” : 0,<br>
+“proxy” : “”,<br>
+“ip” : “0.0.0.0”,<br>
+“difficulty” : {<br>
+“proof-of-work” : 0.00001526,<br>
+“proof-of-stake” : 0.00001526<br>
+},<br>
+“testnet” : true,<br>
+“keypoololdest” : 1526974556,<br>
+“keypoolsize” : 101,<br>
+“paytxfee” : 0.00010000,<br>
+“mininput” : 0.00000000,<br>
+“errors” : “”<br>
+}<br>
+Now I have executed the below command<br>
+###############################<br>
+./bitbayd -testnet getnewaddress</p>
+<p>This command returns the new address “mj8CTgGPGHjab1iUipb7f2HS61KiiUQgK4”</p>
+<p>Now I am executing the below command for sending amount to the address</p>
+<p>./bitbayd -testnet sendtoaddress “mj8CTgGPGHjab1iUipb7f2HS61KiiUQgK4” 1000.15</p>
+<p>It gives me the following response</p>
+<p>error: {“code”:-4,“message”:“Insufficient funds”}</p>
+<p>I just want some balance to “mj8CTgGPGHjab1iUipb7f2HS61KiiUQgK4” address</p>
+<p>Please help.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/about-the-ask-the-developer-category/1140/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/about-the-ask-the-developer-category/1140/2</link>
+        <pubDate>Wed, 23 May 2018 05:47:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1140-2</guid>
+        <source url="..../forum-archive/t/about-the-ask-the-developer-category/1140.rss">About the Ask the Developer category</source>
+      </item>
+      <item>
+        <title>About the Ask the Developer category</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              <p>We are introducing an ‘Ask the Developer Q &amp; A’ whereby people can ask questions no matter how big or small.</p>
+<p>Post your questions here and we’ll choose the best ones to feature on our monthly newsletter (anonymously of course!)</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/about-the-ask-the-developer-category/1140/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/about-the-ask-the-developer-category/1140/1</link>
+        <pubDate>Thu, 22 Feb 2018 20:48:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1140-1</guid>
+        <source url="..../forum-archive/t/about-the-ask-the-developer-category/1140.rss">About the Ask the Developer category</source>
+      </item>
+  </channel>
+</rss>

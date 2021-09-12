@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The Geek Section</title>
+    <link>..../forum-archive/t/the-geek-section/46</link>
+    <description>### The Change System
+
+Bitbay’s Halo Client is unique in that it’s accounting system is far superior to the typical QT wallet bitcoin and other alt coins are utilize. The Client creates a “bill” system similar to fiat paper money. Yet with different sizes. Bitbay’s bills are broken out in integers of 50,000 – 10,000 – 5,000 – 1,000 – 100 – 50 – 10 – 5 – 1 – 0.5  any change left over is finally broken out into exact increments. So rather than having a bunch of deposits or “inputs” with random numbers and fractions of numbers, Bitbay’s Halo Client breaks them out into whole integers (like dollar bills) to minimize amounts of “chump change”. This is done for one important reason, it simplifies the accounting system and allows users to do large volumes of contracts.
+
+When you first get started using the software your deposits may arrive in one payment so that will not be broken into change until you spend it. However, “making change” is simple, all you have to do is send coins to yourself. This can be done as follows:
+
+1. Click on the “Home” tab in the client, copy “your Bitbay address”.
+
+2. Click on the “Send Bitbay” tab, paste your Bitbay address into the “Pay To” address box. Enter a small random amount of coins in the “Amount” box and click on the “Send” button.
+
+3. If your private keys are encrypted, you will be prompted to enter both your passwords to continue.
+
+Congratulations, your coins are now broken out into bills or change! You can review this amount by clicking on the client’s “History” tab. In that window simply click on the “Show Change” wording at the bottom of your “Account Details” history tracker.
+
+### Bitmessage
+
+Bitmessage was the worlds first decentralized email client and because of this David Zimbeck was the first person in the world to create decentralized markets. He saw the opportunity to avoid bloating the blockchain by implementing Bitmessage channels as a layer for serverless internet. This serves as a protocol for all kinds of services to exist without the liabilities of hosting a server. This also protects your IP address and allows you access to markets no matter where you are in the world. Since BitBay is not an escrow service, it is only a contracting platform so it was very important to keep the platform independent of third parties including the developer. The way Bitmessage works is a swarm of nodes connect to each other and pass messages around in a circle. This means messages “hop” from one user to another. This is similar to when kids sit in a circle and play a game of telephone, whispering a secret in each others ear. In the case of Bitmessage many users pass the messages and only those who have a decryption key can understand the message being passed. So users will check every message to see if they can decrypt it. Messages expire within a couple days so within BitBay users will send a message again and again until it gets acknowledged. This means not only does Bitmessage work as a serverless channel sort of like a Television station but it also works as a decentralized email.
+
+The messages in theory could be shared and stored in clusters and white lists so that the traffic can scale. This is important because we believe that blockchains were not meant to store bulky contracts or market data. If you see how hard of a challenge it is for Bitcoin to scale itself, imagine if they stored entire markets on the chain!
+
+David foresaw this problem which lurks over projects such as Ethereum as they let coin after coin put it’s platform on top of their chain slowly crushing it. This forces them to centralize and harms the core principals of decentralized internet. Although a sidechain solution would have been better, now many projects are faced with complex computer science arguments on how to properly scale a system which should have never been bloated to begin with.
+
+A blockchain should only be used for financial data, hashed contracts, payloads to contracts, title and notary. Consider when you combine programmable money with big data, you don’t want one system jeopardizing the other.
+
+Amazingly blockchain can be used to stop DDOS attacks on Bitmessage by having time-locks for each kilobyte of data sent over Bitmessage. This is not currently implemented but will eventually be a way to scale it. Currently Bitmessage requires users to perform a “Proof of Work” to stop them from spamming the markets. This is why you may experience a delay before sending a message. The proof of work gets harder the more data you send and there is also a limit to how much you can send. So we also use an anonymous pastebin to store larger data such as images.
+
+Because Bitmessage shares messages and because every message is encrypted this serves to protect the identity of the sender and receiver. We hope this information has been informative and you can find out more about Bitmessage on their wiki page.</description>
+    
+    <lastBuildDate>Thu, 30 Nov 2017 09:32:29 +0000</lastBuildDate>
+    <category>Get Started Guides</category>
+    <atom:link href="..../forum-archive/t/the-geek-section/46.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>The Geek Section</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/the-geek-section/46/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/the-geek-section/46/2</link>
+        <pubDate>Thu, 30 Nov 2017 09:44:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-46-2</guid>
+        <source url="..../forum-archive/t/the-geek-section/46.rss">The Geek Section</source>
+      </item>
+      <item>
+        <title>The Geek Section</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              <h3>The Change System</h3>
+<p>Bitbay’s Halo Client is unique in that it’s accounting system is far superior to the typical QT wallet bitcoin and other alt coins are utilize. The Client creates a “bill” system similar to fiat paper money. Yet with different sizes. Bitbay’s bills are broken out in integers of 50,000 – 10,000 – 5,000 – 1,000 – 100 – 50 – 10 – 5 – 1 – 0.5  any change left over is finally broken out into exact increments. So rather than having a bunch of deposits or “inputs” with random numbers and fractions of numbers, Bitbay’s Halo Client breaks them out into whole integers (like dollar bills) to minimize amounts of “chump change”. This is done for one important reason, it simplifies the accounting system and allows users to do large volumes of contracts.</p>
+<p>When you first get started using the software your deposits may arrive in one payment so that will not be broken into change until you spend it. However, “making change” is simple, all you have to do is send coins to yourself. This can be done as follows:</p>
+<ol>
+<li>
+<p>Click on the “Home” tab in the client, copy “your Bitbay address”.</p>
+</li>
+<li>
+<p>Click on the “Send Bitbay” tab, paste your Bitbay address into the “Pay To” address box. Enter a small random amount of coins in the “Amount” box and click on the “Send” button.</p>
+</li>
+<li>
+<p>If your private keys are encrypted, you will be prompted to enter both your passwords to continue.</p>
+</li>
+</ol>
+<p>Congratulations, your coins are now broken out into bills or change! You can review this amount by clicking on the client’s “History” tab. In that window simply click on the “Show Change” wording at the bottom of your “Account Details” history tracker.</p>
+<h3>Bitmessage</h3>
+<p>Bitmessage was the worlds first decentralized email client and because of this David Zimbeck was the first person in the world to create decentralized markets. He saw the opportunity to avoid bloating the blockchain by implementing Bitmessage channels as a layer for serverless internet. This serves as a protocol for all kinds of services to exist without the liabilities of hosting a server. This also protects your IP address and allows you access to markets no matter where you are in the world. Since BitBay is not an escrow service, it is only a contracting platform so it was very important to keep the platform independent of third parties including the developer. The way Bitmessage works is a swarm of nodes connect to each other and pass messages around in a circle. This means messages “hop” from one user to another. This is similar to when kids sit in a circle and play a game of telephone, whispering a secret in each others ear. In the case of Bitmessage many users pass the messages and only those who have a decryption key can understand the message being passed. So users will check every message to see if they can decrypt it. Messages expire within a couple days so within BitBay users will send a message again and again until it gets acknowledged. This means not only does Bitmessage work as a serverless channel sort of like a Television station but it also works as a decentralized email.</p>
+<p>The messages in theory could be shared and stored in clusters and white lists so that the traffic can scale. This is important because we believe that blockchains were not meant to store bulky contracts or market data. If you see how hard of a challenge it is for Bitcoin to scale itself, imagine if they stored entire markets on the chain!</p>
+<p>David foresaw this problem which lurks over projects such as Ethereum as they let coin after coin put it’s platform on top of their chain slowly crushing it. This forces them to centralize and harms the core principals of decentralized internet. Although a sidechain solution would have been better, now many projects are faced with complex computer science arguments on how to properly scale a system which should have never been bloated to begin with.</p>
+<p>A blockchain should only be used for financial data, hashed contracts, payloads to contracts, title and notary. Consider when you combine programmable money with big data, you don’t want one system jeopardizing the other.</p>
+<p>Amazingly blockchain can be used to stop DDOS attacks on Bitmessage by having time-locks for each kilobyte of data sent over Bitmessage. This is not currently implemented but will eventually be a way to scale it. Currently Bitmessage requires users to perform a “Proof of Work” to stop them from spamming the markets. This is why you may experience a delay before sending a message. The proof of work gets harder the more data you send and there is also a limit to how much you can send. So we also use an anonymous pastebin to store larger data such as images.</p>
+<p>Because Bitmessage shares messages and because every message is encrypted this serves to protect the identity of the sender and receiver. We hope this information has been informative and you can find out more about Bitmessage on their wiki page.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/the-geek-section/46/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/the-geek-section/46/1</link>
+        <pubDate>Thu, 30 Nov 2017 09:32:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-46-1</guid>
+        <source url="..../forum-archive/t/the-geek-section/46.rss">The Geek Section</source>
+      </item>
+  </channel>
+</rss>

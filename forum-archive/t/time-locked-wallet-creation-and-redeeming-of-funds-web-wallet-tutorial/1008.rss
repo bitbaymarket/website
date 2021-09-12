@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
+    <link>..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008</link>
+    <description>This tutorial will walk you through how to create a time locked wallet that can hold funds to be released in the future. 
+
+***DISCLAIMER 1:*** You are advised to use this feature with small amounts of BAY until you completely understand the process and the implications. There is always a possibility of **losing your funds** if the process is not followed correctly.
+
+***DISCLAIMER 2:*** The regular client in the [downloads section of the site](https://bitbay.market/downloads) can handle most of the details that follow. Nevertheless, this tutorial is perfect for understanding how transactions, wallets, public and private keys work.
+
+For the purpose of this tutorial we will use the following terms:
+
+**Time Release Address:** This is the address that will be holding the funds for a set amount of time until they are released. This is also known as **HODL**.
+
+**Benefactor:** This is the person sending/locking the funds.  
+
+**Beneficiary:** This is the person that will benefit/redeem the funds. They must send their **Public Key** to the Benefactor in order to redeem the funds. 
+
+
+For the purpose of this tutorial both persons&#39; actions can be carried out by one person. We will be using the [web wallet](https://wallet.bitbay.market/) 
+
+
+
+# TIME LOCKED WALLET CREATION
+
+## 1. 
+The beneficiary can create a **regular wallet** (if they don&#39;t have one already). This is the wallet that will **REDEEM** the funds.  The wallet can be created from the client, or it can be an individual multisig wallet (2 of 2).
+
+![create|514x500](upload://ooclBInWyqn5ZKfwk6wTJbhpvhU.png)
+
+
+## 2. 
+Under the &quot;**Receive**&quot; tab, the beneficiary will copy the **Public Key** of the wallet created above, then **logout** and send the **public key** to the benefactor.
+
+![key|690x319](upload://AnCp0tk688GnTLelqZo4zAS64Ea.png)
+
+
+## 3. 
+The benefactor selects **Time Locked Address** from the menu and pastes in the previously copied **public key**. Then select a date/time for funds release and then click **Submit**.  Alternatively, one can set the blockheight of release by checking the current block height using the [explorer](https://chainz.cryptoid.info/bay/) and estimating 1 block per minute.
+
+![locked|648x500](upload://2xebv7YJtsvIzoQLyrlB5zIdMUQ.png)
+
+For the purpose of this tutorial, the date/time is only a few minutes into the future.
+
+Here is what was used in this example, for verification:
+**public key** `038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab` 
+**date** `01/23/2018 12:40`
+
+
+## 4. 
+After clicking **Submit**, you will get the following (example info below so you can verify)
+
+![submit|690x475](upload://lGSQeUSDiNUsVfaLKa35ripEklJ.png)
+
+**Wallet to send the FUNDS to:**  
+`bUf1UAsfU7rZ7Js7TxCAXSpuxXVSXn94ZN`
+
+**Redeem script:**   `040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac`
+
+**Shareable URL:**  
+`https://wallet.bitbay.market/_test123_/?verify=040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac#verify`
+
+The benefactor can now send FUNDS to the wallet above so that the beneficiary has something to REDEEM. 
+
+For the purpose of this tutorial we will  send [1 BAY](https://chainz.cryptoid.info/bay/address.dws?bUf1UAsfU7rZ7Js7TxCAXSpuxXVSXn94ZN.htm) 
+
+
+## 5. 
+The benefactor only needs to send the **Shareable URL** to the beneficiary, who should STORE the **shareable url** or **redeem script** code somewhere safe (print or write it down or bookmark it).  Its **VERY IMPORTANT** that the beneficiary understands the importance of saving the **shareable url** or **redeem script**, otherwise the funds would stay in the TimeLock address without anyone being able to release them.
+
+The beneficiary can paste into their browser and they will be able to verify the details of this action (wallets involved and date/time of release).
+
+![verify|602x499](upload://puTnt3lpEh4klThagQfioyAke5k.png)
+
+
+
+
+# REDEEM FUNDS
+Once the future release date passes, the beneficiary can redeem the funds using the following procedure:
+
+## 1. 
+Beneficiary will create a transaction, (menu &gt; transaction) inputing the **Redeem script** and clicking **Load**. This will load all the details of the transaction. The Beneficiary then will need to input the wallet address that will receive the redeemed funds, and the amount which will have to be a little less (0.99) than the total. This compensates for the network fee (which is calculated automatically - the difference between outputs and inputs is always the fee). Click **Enter** when done.
+
+![transaction|452x500](upload://rCax3sLzY8Wlpd2Yn9MJlUSMJBt.png)
+
+
+## 2. 
+The transaction has been created and you can see the generated code to be used for the next step:
+
+![transaction|686x290](upload://xeRCAdPws3IrWKNkRtEAWMDy3vS.png)
+
+**transaction** `010000000a1a675a0112de2b4a11579c146f43701eb05692a35ba48d4f095448117ccc77a8301a9773000000002a040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac0000000001c09ee605000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac0011675a`
+
+
+## 3. 
+Under menu &gt; sign, the Beneficiary will then **sign the transaction** with their own wallet private key. The
+private key can be found under the **Receive** tab on web wallet.
+
+![transaction|690x444](upload://hntccdd5exykKvpF7rsXk8TlG0K.png)
+
+
+## 4. 
+After signing the transaction the following information is created:
+
+![transaction|662x242](upload://z9v1DZBFPQf5D4KAc2vlZceWDMm.png)
+
+**signed transaction** `010000000a1a675a0112de2b4a11579c146f43701eb05692a35ba48d4f095448117ccc77a8301a97730000000074483045022100b98759bfeec796d7a9292ae18b6f0b591ed48dac49829356f3b002394c87ff4402203e7fd949357e493c6212aff84806560572afb236cb40c8fb924a1ba2ef7c09d4012a040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac0000000001c09ee605000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac0011675a`
+
+_**Note:** One can also verify the **signed transaction** by going to **menu &gt; verify**_
+
+
+## 5. 
+Lastly, under **menu &gt; broadcast**, the Beneficiary will broadcast the **signed transaction**.  If successful, this will produce a transaction ID. If not successful, simply wait a few moments and try again.
+
+![transaction|690x399](upload://9dZQhg0Yi1ojF08XypfiWiEEpod.png)
+
+
+
+After it has been succesfully broadcast the funds will be released and the receiving address used in step 1 should see them shortly.
+
+## Final words
+It is **extremely important** for the Beneficiary to store the **shareable url** or **redeem script** in a secure place.
+**There is no possible way to release the funds without them.**
+
+The above procedure is a very elegant way to solve many use cases, all with a few steps and sending a URL to the other party.
+- Make a **WILL**, with the beneficiary only needing the **shareable url** and their own wallet&#39;s **private key** to unlock it when the time comes.
+- Lend someone FIAT or other currency/goods and get the **shareable URL**  (verifiable promise) to get BAY on a future date.</description>
+    
+    <lastBuildDate>Mon, 21 Jan 2019 09:51:49 +0000</lastBuildDate>
+    <category>Get Started Guides</category>
+    <atom:link href="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
+        <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/lexafan">@Lexafan</a>  Glad you were able to see it working properly</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/10">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/10</link>
+        <pubDate>Mon, 21 Jan 2019 09:51:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1008-10</guid>
+        <source url="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008.rss">Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
+      </item>
+      <item>
+        <title>Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
+        <dc:creator><![CDATA[@Lexafan Alexey]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/lexafan">@Lexafan</a> wrote:</p>
+          <blockquote>
+              <p>Everything turned out !!! Very cool feature! thank GiorgosK!</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/9">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/9</link>
+        <pubDate>Sat, 19 Jan 2019 19:02:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1008-9</guid>
+        <source url="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008.rss">Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
+      </item>
+      <item>
+        <title>Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
+        <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/lexafan">@Lexafan</a><br>
+there was indeed a problem with the communication with the block processor that we just fixed<br>
+you can try again now</p>
+<p>Also remember that the time hold address has to receive some funds in order to be able to complete the 2nd part of the tutorial</p>
+<p>NOTE make sure you refresh the page to get the newest code of the wallet (CTRL+F5 in windows)</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/8">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/8</link>
+        <pubDate>Sat, 19 Jan 2019 11:19:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1008-8</guid>
+        <source url="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008.rss">Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
+      </item>
+      <item>
+        <title>Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
+        <dc:creator><![CDATA[@Lexafan Alexey]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/lexafan">@Lexafan</a> wrote:</p>
+          <blockquote>
+              <p>I do strictly according to your instructions</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/7">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/7</link>
+        <pubDate>Thu, 17 Jan 2019 10:56:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1008-7</guid>
+        <source url="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008.rss">Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
+      </item>
+      <item>
+        <title>Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
+        <dc:creator><![CDATA[@Lexafan Alexey]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/lexafan">@Lexafan</a> wrote:</p>
+          <blockquote>
+              <p>and in the next step:</p>
+<p>"Transaction Create a new transaction<br>
+Use this page to create a raw transaction</p>
+<p>Address, WIF key or Redeem Script:</p>
+<p>04a9423f5cb1752103d0bceb9f29dd59dc56d47d84fba3467f8dee9afa259d6adde1f338a0a3618532ac</p>
+<p>Unexpected error, unable to retrieve unspent outputs!"</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/6">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/6</link>
+        <pubDate>Thu, 17 Jan 2019 10:54:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1008-6</guid>
+        <source url="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008.rss">Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
+      </item>
+      <item>
+        <title>Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
+        <dc:creator><![CDATA[@Lexafan Alexey]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/lexafan">@Lexafan</a> wrote:</p>
+          <blockquote>
+              <p>everything is fine here:</p>
+<p>"Verify transactions and other scripts<br>
+Enter the raw transaction, redeem script, pubkey, hd address or wif key to convert it into a readable format that can be verified manually.</p>
+<p>04a9423f5cb1752103d0bceb9f29dd59dc56d47d84fba3467f8dee9afa259d6adde1f338a0a3618532ac</p>
+<p>Redeem Script<br>
+The above redeem script has been decoded</p>
+<p>Hodl Address</p>
+<p>bZ2kBoEVy7f4NfAMgrL2mzLhBvx9i5Meek<br>
+Required Signature</p>
+<p>BPS9zprjXiSmiSRmbohHhYiSx7MDgXQbUX<br>
+Unlock Time UTC/GMT or BlockHeight</p>
+<p>01/16/2019 20:41"</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/5">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/5</link>
+        <pubDate>Thu, 17 Jan 2019 10:51:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1008-5</guid>
+        <source url="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008.rss">Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
+      </item>
+      <item>
+        <title>Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
+        <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/lexafan">@Lexafan</a> did you try the steps exactly as shown above ? its a tedious process and anything even like a missing letter or extra empty space can change the outcome of this process</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/4</link>
+        <pubDate>Thu, 17 Jan 2019 09:45:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1008-4</guid>
+        <source url="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008.rss">Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
+      </item>
+      <item>
+        <title>Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
+        <dc:creator><![CDATA[@Lexafan Alexey]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/lexafan">@Lexafan</a> wrote:</p>
+          <blockquote>
+              <p>writes error Unexpected error, unable to retrieve unspent outputs!</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/2</link>
+        <pubDate>Wed, 16 Jan 2019 17:30:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1008-2</guid>
+        <source url="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008.rss">Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
+      </item>
+      <item>
+        <title>Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
+        <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <blockquote>
+              <p>This tutorial will walk you through how to create a time locked wallet that can hold funds to be released in the future.</p>
+<p><em><strong>DISCLAIMER 1:</strong></em> You are advised to use this feature with small amounts of BAY until you completely understand the process and the implications. There is always a possibility of <strong>losing your funds</strong> if the process is not followed correctly.</p>
+<p><em><strong>DISCLAIMER 2:</strong></em> The regular client in the <a href="https://bitbay.market/downloads">downloads section of the site</a> can handle most of the details that follow. Nevertheless, this tutorial is perfect for understanding how transactions, wallets, public and private keys work.</p>
+<p>For the purpose of this tutorial we will use the following terms:</p>
+<p><strong>Time Release Address:</strong> This is the address that will be holding the funds for a set amount of time until they are released. This is also known as <strong>HODL</strong>.</p>
+<p><strong>Benefactor:</strong> This is the person sending/locking the funds.</p>
+<p><strong>Beneficiary:</strong> This is the person that will benefit/redeem the funds. They must send their <strong>Public Key</strong> to the Benefactor in order to redeem the funds.</p>
+<p>For the purpose of this tutorial both persons’ actions can be carried out by one person. We will be using the <a href="https://wallet.bitbay.market/">web wallet</a></p>
+<h1>TIME LOCKED WALLET CREATION</h1>
+<h2>1.</h2>
+<p>The beneficiary can create a <strong>regular wallet</strong> (if they don’t have one already). This is the wallet that will <strong>REDEEM</strong> the funds.  The wallet can be created from the client, or it can be an individual multisig wallet (2 of 2).</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" data-download-href="..../forum-archive/uploads/default/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a" title="01.wallet.create.png"><img src="..../forum-archive/uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" alt="create" width="514" height="500"><div class="meta">
+<span class="filename">01.wallet.create.png</span><span class="informations">792x770 17.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>2.</h2>
+<p>Under the “<strong>Receive</strong>” tab, the beneficiary will copy the <strong>Public Key</strong> of the wallet created above, then <strong>logout</strong> and send the <strong>public key</strong> to the benefactor.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a.png" data-download-href="..../forum-archive/uploads/default/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a" title="02.wallet.public.key.png"><img src="..../forum-archive/uploads/default/original/1X/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a.png" alt="key" width="690" height="319"><div class="meta">
+<span class="filename">02.wallet.public.key.png</span><span class="informations">835x387 11.1 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>3.</h2>
+<p>The benefactor selects <strong>Time Locked Address</strong> from the menu and pastes in the previously copied <strong>public key</strong>. Then select a date/time for funds release and then click <strong>Submit</strong>.  Alternatively, one can set the blockheight of release by checking the current block height using the <a href="https://chainz.cryptoid.info/bay/">explorer</a> and estimating 1 block per minute.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c.png" data-download-href="..../forum-archive/uploads/default/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c" title="03.wallet.time.locked.png"><img src="..../forum-archive/uploads/default/original/1X/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c.png" alt="locked" width="648" height="500"><div class="meta">
+<span class="filename">03.wallet.time.locked.png</span><span class="informations">793x611 24.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>For the purpose of this tutorial, the date/time is only a few minutes into the future.</p>
+<p>Here is what was used in this example, for verification:<br>
+<strong>public key</strong> <code>038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab</code><br>
+<strong>date</strong> <code>01/23/2018 12:40</code></p>
+<h2>4.</h2>
+<p>After clicking <strong>Submit</strong>, you will get the following (example info below so you can verify)</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/9806a8bb940df4cb44a01447968db332a0719ae3.png" data-download-href="..../forum-archive/uploads/default/9806a8bb940df4cb44a01447968db332a0719ae3" title="04.wallet.time.locked.submit.png"><img src="..../forum-archive/uploads/default/original/1X/9806a8bb940df4cb44a01447968db332a0719ae3.png" alt="submit" width="690" height="475"><div class="meta">
+<span class="filename">04.wallet.time.locked.submit.png</span><span class="informations">691x476 17.2 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p><strong>Wallet to send the FUNDS to:</strong><br>
+<code>bUf1UAsfU7rZ7Js7TxCAXSpuxXVSXn94ZN</code></p>
+<p><strong>Redeem script:</strong>   <code>040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac</code></p>
+<p><strong>Shareable URL:</strong><br>
+<code>https://wallet.bitbay.market/_test123_/?verify=040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac#verify</code></p>
+<p>The benefactor can now send FUNDS to the wallet above so that the beneficiary has something to REDEEM.</p>
+<p>For the purpose of this tutorial we will  send <a href="https://chainz.cryptoid.info/bay/address.dws?bUf1UAsfU7rZ7Js7TxCAXSpuxXVSXn94ZN.htm">1 BAY</a></p>
+<h2>5.</h2>
+<p>The benefactor only needs to send the <strong>Shareable URL</strong> to the beneficiary, who should STORE the <strong>shareable url</strong> or <strong>redeem script</strong> code somewhere safe (print or write it down or bookmark it).  Its <strong>VERY IMPORTANT</strong> that the beneficiary understands the importance of saving the <strong>shareable url</strong> or <strong>redeem script</strong>, otherwise the funds would stay in the TimeLock address without anyone being able to release them.</p>
+<p>The beneficiary can paste into their browser and they will be able to verify the details of this action (wallets involved and date/time of release).</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/b2b4587cea2463664035df0d3b27241d15a578e2.png" data-download-href="..../forum-archive/uploads/default/b2b4587cea2463664035df0d3b27241d15a578e2" title="05.wallet.time.locked.verify.png"><img src="..../forum-archive/uploads/default/original/1X/b2b4587cea2463664035df0d3b27241d15a578e2.png" alt="verify" width="602" height="499"><div class="meta">
+<span class="filename">05.wallet.time.locked.verify.png</span><span class="informations">709x588 18.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h1>REDEEM FUNDS</h1>
+<p>Once the future release date passes, the beneficiary can redeem the funds using the following procedure:</p>
+<h2>1.</h2>
+<p>Beneficiary will create a transaction, (menu &gt; transaction) inputing the <strong>Redeem script</strong> and clicking <strong>Load</strong>. This will load all the details of the transaction. The Beneficiary then will need to input the wallet address that will receive the redeemed funds, and the amount which will have to be a little less (0.99) than the total. This compensates for the network fee (which is calculated automatically - the difference between outputs and inputs is always the fee). Click <strong>Enter</strong> when done.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/c18b44bbb99917b7eeac3eb6dbb2867c0149b067.png" data-download-href="..../forum-archive/uploads/default/c18b44bbb99917b7eeac3eb6dbb2867c0149b067" title="01.create.transaction.png"><img src="..../forum-archive/uploads/default/original/1X/c18b44bbb99917b7eeac3eb6dbb2867c0149b067.png" alt="transaction" width="452" height="500"><div class="meta">
+<span class="filename">01.create.transaction.png</span><span class="informations">720x796 23.6 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>2.</h2>
+<p>The transaction has been created and you can see the generated code to be used for the next step:</p>
+<p><img src="..../forum-archive/uploads/default/original/1X/e8f5e7b2a826f56e5da830fb71f747c89bdc6ca4.png" alt="transaction" width="686" height="290"></p>
+<p><strong>transaction</strong> <code>010000000a1a675a0112de2b4a11579c146f43701eb05692a35ba48d4f095448117ccc77a8301a9773000000002a040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac0000000001c09ee605000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac0011675a</code></p>
+<h2>3.</h2>
+<p>Under menu &gt; sign, the Beneficiary will then <strong>sign the transaction</strong> with their own wallet private key. The<br>
+private key can be found under the <strong>Receive</strong> tab on web wallet.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/79cc2a656450cc7a495679751f3b5b6edd4ee11e.png" data-download-href="..../forum-archive/uploads/default/79cc2a656450cc7a495679751f3b5b6edd4ee11e" title="03.sign.transaction.png"><img src="..../forum-archive/uploads/default/original/1X/79cc2a656450cc7a495679751f3b5b6edd4ee11e.png" alt="transaction" width="690" height="444"><div class="meta">
+<span class="filename">03.sign.transaction.png</span><span class="informations">720x464 15.8 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>4.</h2>
+<p>After signing the transaction the following information is created:</p>
+<p><img src="..../forum-archive/uploads/default/original/1X/f65f03da3960c6871f30dd36da037de56fd6d0a2.png" alt="transaction" width="662" height="242"></p>
+<p><strong>signed transaction</strong> <code>010000000a1a675a0112de2b4a11579c146f43701eb05692a35ba48d4f095448117ccc77a8301a97730000000074483045022100b98759bfeec796d7a9292ae18b6f0b591ed48dac49829356f3b002394c87ff4402203e7fd949357e493c6212aff84806560572afb236cb40c8fb924a1ba2ef7c09d4012a040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac0000000001c09ee605000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac0011675a</code></p>
+<p><em><strong>Note:</strong> One can also verify the <strong>signed transaction</strong> by going to <strong>menu &gt; verify</strong></em></p>
+<h2>5.</h2>
+<p>Lastly, under <strong>menu &gt; broadcast</strong>, the Beneficiary will broadcast the <strong>signed transaction</strong>.  If successful, this will produce a transaction ID. If not successful, simply wait a few moments and try again.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1.png" data-download-href="..../forum-archive/uploads/default/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1" title="05.broadcast.signed.transaction.png"><img src="..../forum-archive/uploads/default/original/1X/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1.png" alt="transaction" width="690" height="399"><div class="meta">
+<span class="filename">05.broadcast.signed.transaction.png</span><span class="informations">708x410 17.6 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>After it has been succesfully broadcast the funds will be released and the receiving address used in step 1 should see them shortly.</p>
+<h2>Final words</h2>
+<p>It is <strong>extremely important</strong> for the Beneficiary to store the <strong>shareable url</strong> or <strong>redeem script</strong> in a secure place.<br>
+<strong>There is no possible way to release the funds without them.</strong></p>
+<p>The above procedure is a very elegant way to solve many use cases, all with a few steps and sending a URL to the other party.</p>
+<ul>
+<li>Make a <strong>WILL</strong>, with the beneficiary only needing the <strong>shareable url</strong> and their own wallet’s <strong>private key</strong> to unlock it when the time comes.</li>
+<li>Lend someone FIAT or other currency/goods and get the <strong>shareable URL</strong>  (verifiable promise) to get BAY on a future date.</li>
+</ul>
+          </blockquote>
+          <p><a href="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008/1</link>
+        <pubDate>Tue, 23 Jan 2018 11:10:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1008-1</guid>
+        <source url="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008.rss">Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
+      </item>
+  </channel>
+</rss>

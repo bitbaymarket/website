@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>A tech question,how can bitbay know customer recieve goods or not?</title>
+    <link>..../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967</link>
+    <description>as we can see ,the bitbay market has listed no goods on it,  i wonder when the market is developped, many people trade goods on it.how can the smart contracts know that customer recieve the goods or not.if people paid the sellers coins and the the seller cheat the customer and bitbay  and dont send goods ,or customer cheat seller and bitbay that he didnt recieve goods(actually he recieved), who can make an adjustment on this case?can the smart contracts recognize who is honest?i think its a complicated situation,so how can bitbay solve this problem?</description>
+    
+    <lastBuildDate>Thu, 18 Jan 2018 11:27:27 +0000</lastBuildDate>
+    <category>Questions about BitBay</category>
+    <atom:link href="..../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>A tech question,how can bitbay know customer recieve goods or not?</title>
+        <dc:creator><![CDATA[@lidd0512 lidd]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/lidd0512">@lidd0512</a> wrote:</p>
+          <blockquote>
+              <p>thx , i think it’s agood way to both promote bitbay and the deal~</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967/3</link>
+        <pubDate>Thu, 18 Jan 2018 11:27:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-967-3</guid>
+        <source url="..../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967.rss">A tech question,how can bitbay know customer recieve goods or not?</source>
+      </item>
+      <item>
+        <title>A tech question,how can bitbay know customer recieve goods or not?</title>
+        <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/lidd0512">@lidd0512</a><br>
+The smart contract is only a way to hold each person accountable for what they promised</p>
+<p>BitBay or any other smart contract  has no way of knowing if something was send or not, received or not, paid outside of BAY network or not because there is no programmatic way to know but I am sure in the future it can include such things if technology advances to this point.</p>
+<p>What BitBay has in place (which other systems as far as I am aware don’t have) is what its called a <a href="https://bitbay.market/double-deposit-escrow">Double Deposit Escrow</a> which will keep a collateral for both seller and buyer which will be lost in case they don’t BOTH agree that the purchase/sale went as promised</p>
+<p>here is simple example</p>
+<ul>
+<li>seller is selling product for 100 USD and sets collateral requirement 100 USD for it</li>
+<li>buyer wants to buy it so accepts the contract</li>
+<li>BitBay client locks 100 USD (equivalent in BAY) from both the Seller and the Buyer</li>
+<li>seller sends product</li>
+<li>buyer gets product and confirms in BitBay client product is OK</li>
+<li>seller confirms smooth sale in BitBay client</li>
+<li>both 100 USD collaterals are released back to their owners</li>
+</ul>
+<p>In case one of them does not honor the contract the other will never confirm the completion of the contract so its in the best interest of both of them to make up of what is required of them for the sale/purchase to be completed … this is done outside of BitBay system (with email or phone call etc) … if they finally settle on it they confirm the sale and collaterals are released but if they never settle on this the collaterals are lost / destroyed (and can not not be recovered)</p>
+<p>so its in both parties best interest to honor the contract</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967/2</link>
+        <pubDate>Sun, 14 Jan 2018 15:28:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-967-2</guid>
+        <source url="..../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967.rss">A tech question,how can bitbay know customer recieve goods or not?</source>
+      </item>
+      <item>
+        <title>A tech question,how can bitbay know customer recieve goods or not?</title>
+        <dc:creator><![CDATA[@lidd0512 lidd]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/lidd0512">@lidd0512</a> wrote:</p>
+          <blockquote>
+              <p>as we can see ,the bitbay market has listed no goods on it,  i wonder when the market is developped, many people trade goods on it.how can the smart contracts know that customer recieve the goods or not.if people paid the sellers coins and the the seller cheat the customer and bitbay  and dont send goods ,or customer cheat seller and bitbay that he didnt recieve goods(actually he recieved), who can make an adjustment on this case?can the smart contracts recognize who is honest?i think its a complicated situation,so how can bitbay solve this problem?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967/1</link>
+        <pubDate>Sun, 14 Jan 2018 14:22:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-967-1</guid>
+        <source url="..../forum-archive/t/a-tech-question-how-can-bitbay-know-customer-recieve-goods-or-not/967.rss">A tech question,how can bitbay know customer recieve goods or not?</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to update the Client and/or QT wallet to the latest version</title>
+    <link>..../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2235</link>
+    <description># How to update the Client and/or QT wallet to the latest version
+
+_***Note: All download links on the BitBay site point to the latest version_
+
+**How to update the BitBay QT Wallet:**
+
+Find the download link for your platform here:
+
+[ **https://bitbay.market/downloads** ](https://bitbay.market/downloads)
+
+1. Backup your wallet before doing anything!
+2. Once the update has been downloaded and installed, simply replace the previous QT wallet file with the new one. That’s it! You are now running the latest version, which has Dynamic Peg voting capabilities.
+
+**How to update the BitBay Markets Client:**
+
+To reduce update issues for this peg-enabled version,  **we strongly recommend**  that Markets Client users perform a  **brand new install**  of the program, instead of running a basic update.
+
+Find the download link for your platform here:
+
+[ **https://bitbay.market/downloads** ](https://bitbay.market/downloads)
+
+1. **YOU MUST BACK UP BOTH PRIVATE KEYS**  in a  **SECURE**  location before starting.
+2. Uninstall/remove all files related to the existing markets client.
+3. Find the correct download for your OS at the link above, download it then install.
+4. Next, open the new BitBay program.
+5. For  **faster syncing** , please see directions below for importing the new bootstrap file, with this bootstrap, syncing should only take a few hours.
+6. **Once you are synced 100%, Load your two (2) private keys from the file menu (file-&amp;gt;open-&amp;gt;normal account)** . For the first time, this must be done from the file menu only,. If you have multiple accounts load each one in any order.
+7. Once you finish loading the keys, it might show a zero balance until 100% synced.
+8. To be clear…  **you don’t need new keys for this update** . Your original two private keys represent your account (key1 and key.private). It is much easier (and safer) to back up your keys, wipe clean, and then do a fresh install. Simply running an
+
+# ******For advanced users only******
+
+Using the Markets Client updater (*without*  doing a fresh install):
+
+1. **BACK UP BOTH PRIVATE KEYS**  in a  **SECURE**  location before starting.
+2. Download the update here:
+
+[ **https://bitbay.market/downloads** ](https://bitbay.market/downloads)
+
+1. Run the updater, then close the program once finished.
+2. Rename “ **wallet.dat”**  to “ **wallet-original.dat”** .
+3. Open the BitBay Markets Client.
+4. **Once you are synced 100%, Load your two (2) private keys from the file menu (file-&amp;gt;open-&amp;gt;normal account)** . For the first time,  *this must be done from the file menu*   *only* ; if you have multiple accounts load each one in any order.
+5. Once you finish loading the keys, it might show a zero balance. To refresh, simply click the rescan button on the lower right corner. “ *Rescan* ” is different from “ *Re-sync* ” as it just rebuilds wallet.dat  *only* . Once that’s done you should be up to date, and your wallet balance will be current.
+
+# **Bootstrap Instructions:**
+
+## **If you are doing a fresh install for either QT Wallet or Markets Client, or do not have an existing version of the QT Wallet or Markets Client installed, here is a brand new bootstrap file which significantly speeds up the syncing process:**
+
+https://github.com/bitbaymarket/bitbay-bootstrap/releases/tag/v1
+
+****Note: This is bootstrap has not yet been heavily tested. If you experience any issues with it, please let the team know in Slack.*
+
+To use the bootstrap, first remove all files in the data folder (except wallet.dat, peers.dat, and any testnet files).
+
+Then simply drop the bootstrap file above into the following directories after installing the program:
+
+# **For Client users** , the directory is:
+
+**PC Users:**  C:/BitBay/bitbaydata
+
+**Linux Users:**  ~/BitBay/bitbaydata
+
+**Mac Users:**  ~/Library &amp;gt; Application Support &amp;gt; BitBayClient &amp;gt; bbaydata
+
+# **For QT users, the directory is:**
+
+**Mac users:**  ~/Library &amp;gt; Application Support &amp;gt; BitBay
+
+**Linux users:**  ~/.bitbay  *(make sure you have “show hidden files” selected)*
+
+**Windows users:**  ~/user/appdata/roaming/bitbay folder  *(make sure you have “show hidden files” selected)*
+
+Once the file has been added, restart the Client or Qt, and that’s it!
+
+**Questions, comments, concerns? Please post them in the comments below!**</description>
+    
+    <lastBuildDate>Sat, 16 May 2020 18:42:37 +0000</lastBuildDate>
+    <category>Dynamic Peg - FAQ</category>
+    <atom:link href="..../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2235.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to update the Client and/or QT wallet to the latest version</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <h1>How to update the Client and/or QT wallet to the latest version</h1>
+<p><em>***Note: All download links on the BitBay site point to the latest version</em></p>
+<p><strong>How to update the BitBay QT Wallet:</strong></p>
+<p>Find the download link for your platform here:</p>
+<p><a href="https://bitbay.market/downloads"> <strong>https://bitbay.market/downloads</strong> </a></p>
+<ol>
+<li>Backup your wallet before doing anything!</li>
+<li>Once the update has been downloaded and installed, simply replace the previous QT wallet file with the new one. That’s it! You are now running the latest version, which has Dynamic Peg voting capabilities.</li>
+</ol>
+<p><strong>How to update the BitBay Markets Client:</strong></p>
+<p>To reduce update issues for this peg-enabled version,  <strong>we strongly recommend</strong>  that Markets Client users perform a  <strong>brand new install</strong>  of the program, instead of running a basic update.</p>
+<p>Find the download link for your platform here:</p>
+<p><a href="https://bitbay.market/downloads"> <strong>https://bitbay.market/downloads</strong> </a></p>
+<ol>
+<li>
+<strong>YOU MUST BACK UP BOTH PRIVATE KEYS</strong>  in a  <strong>SECURE</strong>  location before starting.</li>
+<li>Uninstall/remove all files related to the existing markets client.</li>
+<li>Find the correct download for your OS at the link above, download it then install.</li>
+<li>Next, open the new BitBay program.</li>
+<li>For  <strong>faster syncing</strong> , please see directions below for importing the new bootstrap file, with this bootstrap, syncing should only take a few hours.</li>
+<li>
+<strong>Once you are synced 100%, Load your two (2) private keys from the file menu (file-&gt;open-&gt;normal account)</strong> . For the first time, this must be done from the file menu only,. If you have multiple accounts load each one in any order.</li>
+<li>Once you finish loading the keys, it might show a zero balance until 100% synced.</li>
+<li>To be clear…  <strong>you don’t need new keys for this update</strong> . Your original two private keys represent your account (key1 and key.private). It is much easier (and safer) to back up your keys, wipe clean, and then do a fresh install. Simply running an</li>
+</ol>
+<h1><strong><strong><strong>For advanced users only</strong></strong></strong></h1>
+<p>Using the Markets Client updater (<em>without</em>  doing a fresh install):</p>
+<ol>
+<li>
+<strong>BACK UP BOTH PRIVATE KEYS</strong>  in a  <strong>SECURE</strong>  location before starting.</li>
+<li>Download the update here:</li>
+</ol>
+<p><a href="https://bitbay.market/downloads"> <strong>https://bitbay.market/downloads</strong> </a></p>
+<ol>
+<li>Run the updater, then close the program once finished.</li>
+<li>Rename “ <strong>wallet.dat”</strong>  to “ <strong>wallet-original.dat”</strong> .</li>
+<li>Open the BitBay Markets Client.</li>
+<li>
+<strong>Once you are synced 100%, Load your two (2) private keys from the file menu (file-&gt;open-&gt;normal account)</strong> . For the first time,  <em>this must be done from the file menu</em>   <em>only</em> ; if you have multiple accounts load each one in any order.</li>
+<li>Once you finish loading the keys, it might show a zero balance. To refresh, simply click the rescan button on the lower right corner. “ <em>Rescan</em> ” is different from “ <em>Re-sync</em> ” as it just rebuilds wallet.dat  <em>only</em> . Once that’s done you should be up to date, and your wallet balance will be current.</li>
+</ol>
+<h1><strong>Bootstrap Instructions:</strong></h1>
+<h2><strong>If you are doing a fresh install for either QT Wallet or Markets Client, or do not have an existing version of the QT Wallet or Markets Client installed, here is a brand new bootstrap file which significantly speeds up the syncing process:</strong></h2>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://github.githubassets.com/favicons/favicon.svg" class="site-icon" width="32" height="32">
+      <a href="https://github.com/bitbaymarket/bitbay-bootstrap/releases/tag/v1" target="_blank">GitHub</a>
+  </header>
+  <article class="onebox-body">
+    <img src="..../forum-archive/uploads/default/original/1X/39c005a4f992d7d3f19e731098e5d205a16f89e5.png" class="thumbnail onebox-avatar" width="420" height="420">
+
+<h3><a href="https://github.com/bitbaymarket/bitbay-bootstrap/releases/tag/v1" target="_blank">bitbaymarket/bitbay-bootstrap</a></h3>
+
+<p>Contribute to bitbaymarket/bitbay-bootstrap development by creating an account on GitHub.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>***<em>Note: This is bootstrap has not yet been heavily tested. If you experience any issues with it, please let the team know in Slack.</em></p>
+<p>To use the bootstrap, first remove all files in the data folder (except wallet.dat, peers.dat, and any testnet files).</p>
+<p>Then simply drop the bootstrap file above into the following directories after installing the program:</p>
+<h1>
+<strong>For Client users</strong> , the directory is:</h1>
+<p><strong>PC Users:</strong>  C:/BitBay/bitbaydata</p>
+<p><strong>Linux Users:</strong>  ~/BitBay/bitbaydata</p>
+<p><strong>Mac Users:</strong>  ~/Library &gt; Application Support &gt; BitBayClient &gt; bbaydata</p>
+<h1><strong>For QT users, the directory is:</strong></h1>
+<p><strong>Mac users:</strong>  ~/Library &gt; Application Support &gt; BitBay</p>
+<p><strong>Linux users:</strong>  ~/.bitbay  <em>(make sure you have “show hidden files” selected)</em></p>
+<p><strong>Windows users:</strong>  ~/user/appdata/roaming/bitbay folder  <em>(make sure you have “show hidden files” selected)</em></p>
+<p>Once the file has been added, restart the Client or Qt, and that’s it!</p>
+<p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2235/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2235/1</link>
+        <pubDate>Sun, 16 Feb 2020 21:42:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2235-1</guid>
+        <source url="..../forum-archive/t/how-to-update-the-client-and-or-qt-wallet-to-the-latest-version/2235.rss">How to update the Client and/or QT wallet to the latest version</source>
+      </item>
+  </channel>
+</rss>

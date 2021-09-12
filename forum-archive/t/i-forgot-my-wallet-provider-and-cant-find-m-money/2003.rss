@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>I forgot my wallet provider and can&#39;t find m money</title>
+    <link>..../forum-archive/t/i-forgot-my-wallet-provider-and-cant-find-m-money/2003</link>
+    <description>My system has the following specifications 
+
+QT Wallet, Client Wallet (and version) or Web wallet:
+Operating System and version:
+If web wallet browser name and version:
+If desktop wallet (Qt or Client) block # of your client and # of connections: 
+
+The problem I am having is ....I  Computer crashed. Forgot wallet provider. Have bitcoin address and QR code. How do I find my money.</description>
+    
+    <lastBuildDate>Sun, 13 Oct 2019 13:21:36 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/i-forgot-my-wallet-provider-and-cant-find-m-money/2003.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>I forgot my wallet provider and can&#39;t find m money</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Just to confirm, is your issue with a <strong>Bitcoin</strong> address, or a <strong>BitBay (BAY)</strong> address? I can only help with BitBay related issues.</p>
+<p>If it is a BitBay (BAY) address, can you post it here please?</p>
+<p>Let me know.</p>
+<p>Thanks,<br>
+Matt</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/i-forgot-my-wallet-provider-and-cant-find-m-money/2003/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/i-forgot-my-wallet-provider-and-cant-find-m-money/2003/2</link>
+        <pubDate>Sun, 13 Oct 2019 13:21:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2003-2</guid>
+        <source url="..../forum-archive/t/i-forgot-my-wallet-provider-and-cant-find-m-money/2003.rss">I forgot my wallet provider and can&#39;t find m money</source>
+      </item>
+      <item>
+        <title>I forgot my wallet provider and can&#39;t find m money</title>
+        <dc:creator><![CDATA[@bskwright brian wright]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/bskwright">@bskwright</a> wrote:</p>
+          <blockquote>
+              <p>My system has the following specifications</p>
+<p>QT Wallet, Client Wallet (and version) or Web wallet:<br>
+Operating System and version:<br>
+If web wallet browser name and version:<br>
+If desktop wallet (Qt or Client) block # of your client and # of connections:</p>
+<p>The problem I am having is …I  Computer crashed. Forgot wallet provider. Have bitcoin address and QR code. How do I find my money.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/i-forgot-my-wallet-provider-and-cant-find-m-money/2003/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/i-forgot-my-wallet-provider-and-cant-find-m-money/2003/1</link>
+        <pubDate>Fri, 06 Sep 2019 12:46:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2003-1</guid>
+        <source url="..../forum-archive/t/i-forgot-my-wallet-provider-and-cant-find-m-money/2003.rss">I forgot my wallet provider and can&#39;t find m money</source>
+      </item>
+  </channel>
+</rss>

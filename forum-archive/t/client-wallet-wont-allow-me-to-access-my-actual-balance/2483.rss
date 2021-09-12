@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Client wallet won&#39;t allow me to access my &quot;Actual Balance&quot;</title>
+    <link>..../forum-archive/t/client-wallet-wont-allow-me-to-access-my-actual-balance/2483</link>
+    <description>My system has the following specifications 
+
+Client Wallet: downloaded this week
+Operating System and version: Win10
+If desktop wallet (Qt or Client) block # of your client and # of connections: 2644026
+
+The problem I am having is ....
+
+My full balance is showing in &quot;actual balance&quot; but the wallet won&#39;t allow me to send it. My &quot;Available balance&quot; shows just 0.6 BAY while my “Actual balance” is showing many 1000s of time more than that. When I try to send just 10 BAY it says “Not enough available funds”. How do I access my “Actual Balance” please? Thank you!</description>
+    
+    <lastBuildDate>Mon, 15 Jun 2020 09:38:31 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/client-wallet-wont-allow-me-to-access-my-actual-balance/2483.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Client wallet won&#39;t allow me to access my &quot;Actual Balance&quot;</title>
+        <dc:creator><![CDATA[@dzimbeck David Zimbeck]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/dzimbeck">@dzimbeck</a> wrote:</p>
+          <blockquote>
+              <p>Please read up on the dynamic peg. This is mentioned directly on our home page and can be visualized like this:<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="..../forum-archive/uploads/default/original/1X/eacc8339e6d867a883a70d1fe61b5e24dd1fd54f.png" class="site-icon" width="32" height="32">
+      <a href="https://www.docdroid.net/d5wcK4D/dynamic-peg-visual-technical-reference-20190528-pdf" target="_blank">docdroid.net</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/388;"><img src="..../forum-archive/uploads/default/original/1X/91049a853ac006805b34b771fd6d40c108103001.jpeg" class="thumbnail"></div>
+
+<h3><a href="https://www.docdroid.net/d5wcK4D/dynamic-peg-visual-technical-reference-20190528-pdf" target="_blank">Dynamic Peg - Visual Technical Reference-20190528.pdf</a></h3>
+
+<p>Dynamic Peg A Visual Guide for Exchanges. OVERVIEW. -. The Dynamic Peg works as an additional layer on top of the standard Bitcoin-style UTXO system. -. When the Dynamic Peg is inactive (Peg Index = 0), all coins maintain equal liquidity (current...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>To force a stable price, Bitbay users vote to keep a price for example 20 cents and then the liquid coins in the total economy are able to meet that price with a restricted supply.</p>
+<p>Go to the history panel, you will see you have .6 BAY LIQUID… this is 100% correct.<br>
+The rest of the coins you have are RESERVE. These are not going to be made “available” unless the supply inflates.</p>
+<p>On the history tab you can see the total supply of the entire BitBay economy. Right now it’s beyond 99.9% deflated. Inflation can potentially unlock some reserve coins. But that decision is made by all users via consensus. Parenthetically, deflation can cause your liquid coins to become reserve (and usually happens in response to the price of BAY dropping).</p>
+<p>The reserve coins CAN be sent however but with one restriction, the recipient will wait a month before they can be sent again… and they will still probably be reserve unless the system inflates and then they might be a ratio of reserve/liquid as the ratio of your reserve to liquid coins is constantly changing.</p>
+<p>If you plan on sending your reserve coins to the exchange consider they won’t trade at 20 cents, they will trade on the BAYR market where they are going for about a cent or two. The BAYR market operates similar to a future since in theory they may become liquid eventually. So a person trading it can make good money when it converts. If you send to the exchange you should expect that you won’t be able to trade them until the month long freezing period ends. So the exchange will see the deposit but won’t let you trade it until that month expires. And the exchange will also track the peg live so your ratio of BAYR/BAY is constantly changing. Hope that helps.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/client-wallet-wont-allow-me-to-access-my-actual-balance/2483/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/client-wallet-wont-allow-me-to-access-my-actual-balance/2483/2</link>
+        <pubDate>Mon, 15 Jun 2020 09:38:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2483-2</guid>
+        <source url="..../forum-archive/t/client-wallet-wont-allow-me-to-access-my-actual-balance/2483.rss">Client wallet won&#39;t allow me to access my &quot;Actual Balance&quot;</source>
+      </item>
+      <item>
+        <title>Client wallet won&#39;t allow me to access my &quot;Actual Balance&quot;</title>
+        <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+          <blockquote>
+              <p>My system has the following specifications</p>
+<p>Client Wallet: downloaded this week<br>
+Operating System and version: Win10<br>
+If desktop wallet (Qt or Client) block # of your client and # of connections: 2644026</p>
+<p>The problem I am having is …</p>
+<p>My full balance is showing in “actual balance” but the wallet won’t allow me to send it. My “Available balance” shows just 0.6 BAY while my “Actual balance” is showing many 1000s of time more than that. When I try to send just 10 BAY it says “Not enough available funds”. How do I access my “Actual Balance” please? Thank you!</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/client-wallet-wont-allow-me-to-access-my-actual-balance/2483/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/client-wallet-wont-allow-me-to-access-my-actual-balance/2483/1</link>
+        <pubDate>Sun, 14 Jun 2020 04:25:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2483-1</guid>
+        <source url="..../forum-archive/t/client-wallet-wont-allow-me-to-access-my-actual-balance/2483.rss">Client wallet won&#39;t allow me to access my &quot;Actual Balance&quot;</source>
+      </item>
+  </channel>
+</rss>

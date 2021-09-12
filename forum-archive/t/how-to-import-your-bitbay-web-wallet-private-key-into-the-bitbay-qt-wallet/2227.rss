@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to import your BitBay Web Wallet private key into the BitBay QT wallet</title>
+    <link>..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227</link>
+    <description># How to import your BitBay Web Wallet private key into the BitBay QT wallet:
+
+***Note: The web wallet is currently on an old fork of BitBay. To spend any funds from your web wallet address, you must FIRST import your web wallet private key into the BitBay QT wallet application. 
+
+_***Also note: The QT Wallet can only import one individual key. For those who have two (2) keys for their web-wallet address, please head over to this post for further instructions:_
+
+**&quot;_..../forum-archive/t/how-to-import-private-keys-from-a-multi-sig-web-wallet-address-into-the-bitbay-markets-client/2322_&quot;**
+
+**This is MANDATORY until the web wallet is updated to work with the Dynamic Peg.** 
+
+If you have any questions, please leave a comment below.
+
+### 1. Enter your wallet log-in information, and click **&quot;Load/Create Wallet&quot;** to gain access to your BitBay Web Wallet.
+![49%20AM|690x393](upload://tgWghxzuWZZzIqeUWbXg4G7ATsb.png) 
+
+### 2. Click on the &quot;**Wallet Backup**&quot; tab, then click on &quot;**Show**&quot; next to your private key. Then copy the private key.
+![24%20AM|690x449](upload://smD0vNHRRIc74PIIfVbCdZhNpnA.png) 
+
+### 3. Open the BitBay QT Wallet. If your wallet is encrypted with a password, go to Settings &gt; Unlock wallet. Enter your password to unlock the wallet, and make sure the &quot;for staking only&quot; box is unchecked.
+![05%20AM|690x251](upload://locQNUUqaIpLQmH7YWlxZZ3mrPe.png) 
+
+### 4. Within the application, go to Help &gt; Debug Window, and click on the &quot;Console&quot; tab. Then paste your copied private key into the following command prompt: 
+
+**importprivkey &quot;your private key&quot;** (without quotation marks or any other punctuation)
+
+If successful, you will see the command above in blue, without any errors. 
+![55%20AM|685x500](upload://AfQAWdGjMTCZ9MSE2DSnm72h6mq.png) 
+
+### 5. To confirm that the private key importation was a success, click on the &quot;**Receive** tab in the QT Wallet. You will see the associated receive address from your imported private key there. 
+
+
+If you have any questions, please leave a comment below.</description>
+    
+    <lastBuildDate>Sun, 12 Apr 2020 23:31:37 +0000</lastBuildDate>
+    <category>Get Started Guides</category>
+    <atom:link href="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to import your BitBay Web Wallet private key into the BitBay QT wallet</title>
+        <dc:creator><![CDATA[@proteanman Protean Man]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
+          <blockquote>
+              <p>Great. This worked well. Thank you</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227/6">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227/6</link>
+        <pubDate>Sun, 12 Apr 2020 23:31:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2227-6</guid>
+        <source url="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227.rss">How to import your BitBay Web Wallet private key into the BitBay QT wallet</source>
+      </item>
+      <item>
+        <title>How to import your BitBay Web Wallet private key into the BitBay QT wallet</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Okay, here are the instructions for rescanning on PC:<br>
+<aside class="quote quote-modified" data-post="1" data-topic="2327">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.bitbay.market/tradersnow/40/523_1.png" class="avatar">
+    <a href="..../forum-archive/t/how-to-rescan-within-the-bitbay-qt-wallet-pc/2327">How to rescan within the BitBay QT Wallet (PC)</a> <a class="badge-wrapper  bullet" href="/c/get-started-guides"><span class="badge-category-bg" style="background-color: #95d540;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">Get Started Guides</span></a>
+  </div>
+  <blockquote>
+    Initiating a “rescan” will allow your wallet to update your address’s history of inputs, possibly correcting any issues with your total coin balance. 
+PC:
+Follow these steps to initiate a “rescan” on PC: 
+1. Right click the QT app and select “Create shortcut”.
+[Create%20a%20shortcut] 
+2. Drag the newly created shortcut to your Desktop (to keep separate from parent app)
+[Drag%20the%20shurtcut%20to%20your%20Desktop%20just%20to%20seperate%20them] 
+3. Right click the new shortcut and click on “Prope…
+  </blockquote>
+</aside>
+</p>
+<p>If you have any questions about the process, let us know.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227/5">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227/5</link>
+        <pubDate>Sun, 12 Apr 2020 22:47:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2227-5</guid>
+        <source url="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227.rss">How to import your BitBay Web Wallet private key into the BitBay QT wallet</source>
+      </item>
+      <item>
+        <title>How to import your BitBay Web Wallet private key into the BitBay QT wallet</title>
+        <dc:creator><![CDATA[@proteanman Protean Man]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
+          <blockquote>
+              <p>I am using a PC.<br>
+Thank you</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227/4</link>
+        <pubDate>Sun, 12 Apr 2020 18:03:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2227-4</guid>
+        <source url="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227.rss">How to import your BitBay Web Wallet private key into the BitBay QT wallet</source>
+      </item>
+      <item>
+        <title>How to import your BitBay Web Wallet private key into the BitBay QT wallet</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Hi, you might have to do a rescan in order for the balance to show up. The wallet shows the total balance of all addresses combined, so no need to remove that second one (which was created by simply downloading and opening the wallet).</p>
+<p>Let me know if you are on PC or Mac, and I will send you instructions on how to rescan.</p>
+<p>Thanks</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227/3</link>
+        <pubDate>Sun, 12 Apr 2020 16:41:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2227-3</guid>
+        <source url="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227.rss">How to import your BitBay Web Wallet private key into the BitBay QT wallet</source>
+      </item>
+      <item>
+        <title>How to import your BitBay Web Wallet private key into the BitBay QT wallet</title>
+        <dc:creator><![CDATA[@proteanman Protean Man]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
+          <blockquote>
+              <p>I successfully imported a private key. No funds show up while the web wallet shows all of my funds.<br>
+There are two receiving addresses now in QT with one of them being correct.</p>
+<p>Could it be that the other address is the current showing balance? If so how do I remove it?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227/2</link>
+        <pubDate>Sat, 11 Apr 2020 21:21:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2227-2</guid>
+        <source url="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227.rss">How to import your BitBay Web Wallet private key into the BitBay QT wallet</source>
+      </item>
+      <item>
+        <title>How to import your BitBay Web Wallet private key into the BitBay QT wallet</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <h1>How to import your BitBay Web Wallet private key into the BitBay QT wallet:</h1>
+<p>***Note: The web wallet is currently on an old fork of BitBay. To spend any funds from your web wallet address, you must FIRST import your web wallet private key into the BitBay QT wallet application.</p>
+<p><em>***Also note: The QT Wallet can only import one individual key. For those who have two (2) keys for their web-wallet address, please head over to this post for further instructions:</em></p>
+<p><strong>"<em><a href="..../forum-archive/t/how-to-import-private-keys-from-a-multi-sig-web-wallet-address-into-the-bitbay-markets-client/2322">How to import private keys from a multi-sig web wallet address into the BitBay Markets Client</a></em>"</strong></p>
+<p><strong>This is MANDATORY until the web wallet is updated to work with the Dynamic Peg.</strong></p>
+<p>If you have any questions, please leave a comment below.</p>
+<h3>1. Enter your wallet log-in information, and click <strong>“Load/Create Wallet”</strong> to gain access to your BitBay Web Wallet.</h3>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf.png" data-download-href="..../forum-archive/uploads/default/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf" title="Screen Shot 2020-02-10 at 6.40.49 AM.png"><img src="..../forum-archive/uploads/default/optimized/1X/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf_1_690x393.png" alt="49%20AM" width="690" height="393" srcset="..../forum-archive/uploads/default/optimized/1X/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf_1_690x393.png, ..../forum-archive/uploads/default/optimized/1X/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf_1_1035x589.png 1.5x, ..../forum-archive/uploads/default/optimized/1X/cd29406a1802e6d48d0a7b1a92c976c2c2411cbf_1_1380x786.png 2x"><div class="meta">
+<span class="filename">Screen Shot 2020-02-10 at 6.40.49 AM.png</span><span class="informations">2410x1374 202 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h3>2. Click on the “<strong>Wallet Backup</strong>” tab, then click on “<strong>Show</strong>” next to your private key. Then copy the private key.</h3>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/c6cbb871a511275622bb7cf41e0b256000d81942.png" data-download-href="..../forum-archive/uploads/default/c6cbb871a511275622bb7cf41e0b256000d81942" title="Screen Shot 2020-02-10 at 6.44.24 AM.png"><img src="..../forum-archive/uploads/default/optimized/1X/c6cbb871a511275622bb7cf41e0b256000d81942_1_690x449.png" alt="24%20AM" width="690" height="449" srcset="..../forum-archive/uploads/default/optimized/1X/c6cbb871a511275622bb7cf41e0b256000d81942_1_690x449.png, ..../forum-archive/uploads/default/optimized/1X/c6cbb871a511275622bb7cf41e0b256000d81942_1_1035x673.png 1.5x, ..../forum-archive/uploads/default/optimized/1X/c6cbb871a511275622bb7cf41e0b256000d81942_1_1380x898.png 2x"><div class="meta">
+<span class="filename">Screen Shot 2020-02-10 at 6.44.24 AM.png</span><span class="informations">1572x1024 132 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h3>3. Open the BitBay QT Wallet. If your wallet is encrypted with a password, go to Settings &gt; Unlock wallet. Enter your password to unlock the wallet, and make sure the “for staking only” box is unchecked.</h3>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/95ea2bb8bd60da81d890ac1d8e296f48e2830f74.png" data-download-href="..../forum-archive/uploads/default/95ea2bb8bd60da81d890ac1d8e296f48e2830f74" title="Screen Shot 2020-02-10 at 6.54.05 AM.png"><img src="..../forum-archive/uploads/default/original/1X/95ea2bb8bd60da81d890ac1d8e296f48e2830f74.png" alt="05%20AM" width="690" height="251"><div class="meta">
+<span class="filename">Screen Shot 2020-02-10 at 6.54.05 AM.png</span><span class="informations">1190x434 43.4 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h3>4. Within the application, go to Help &gt; Debug Window, and click on the “Console” tab. Then paste your copied private key into the following command prompt:</h3>
+<p><strong>importprivkey “your private key”</strong> (without quotation marks or any other punctuation)</p>
+<p>If successful, you will see the command above in blue, without any errors.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/fe18e2d9b38a3fb0aed1fb56217779a75028273e.png" data-download-href="..../forum-archive/uploads/default/fe18e2d9b38a3fb0aed1fb56217779a75028273e" title="Screen Shot 2020-02-10 at 6.59.55 AM.png"><img src="..../forum-archive/uploads/default/optimized/1X/fe18e2d9b38a3fb0aed1fb56217779a75028273e_1_685x500.png" alt="55%20AM" width="685" height="500" srcset="..../forum-archive/uploads/default/optimized/1X/fe18e2d9b38a3fb0aed1fb56217779a75028273e_1_685x500.png, ..../forum-archive/uploads/default/optimized/1X/fe18e2d9b38a3fb0aed1fb56217779a75028273e_1_1027x750.png 1.5x, ..../forum-archive/uploads/default/optimized/1X/fe18e2d9b38a3fb0aed1fb56217779a75028273e_1_1370x1000.png 2x"><div class="meta">
+<span class="filename">Screen Shot 2020-02-10 at 6.59.55 AM.png</span><span class="informations">1466x1070 127 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h3>5. To confirm that the private key importation was a success, click on the "<strong>Receive</strong> tab in the QT Wallet. You will see the associated receive address from your imported private key there.</h3>
+<p>If you have any questions, please leave a comment below.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227/1</link>
+        <pubDate>Mon, 10 Feb 2020 15:10:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2227-1</guid>
+        <source url="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227.rss">How to import your BitBay Web Wallet private key into the BitBay QT wallet</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Get Started Guides - BitBay Community</title>
+    <link>.../forum-archive/c/get-started-guides</link>
+    <description>Topics in the &#39;Get Started Guides&#39; category </description>
+    
+      <lastBuildDate>Wed, 29 Nov 2017 09:25:53 +0000</lastBuildDate>
+      <atom:link href=".../forum-archive/c/get-started-guides.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Staking and Synchronizing</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <h2>1) How do I know if my Client is synchronized to the blockchain?</h2>
+<p>At the bottom of the Home tab or the History tab is a synchronization status bar. If it’s at 100% then you are fully synchronized. You cannot perform transactions until you are fully synchronized. You will not see deposits to your Client until you are fully synchronized.<br>
+<br></p>
+<h2>2) How long does the synchronization of the blockchain take?</h2>
+<p>It depends on multiple factors. Mainly being your OS:</p>
+<p><strong>Windows</strong> – pretty fast yet depends on processing chip and Ram and an updated bitbay.conf file should sync in about 12 to 18 hours.</p>
+<p><strong>Linux</strong> –</p>
+<ul>
+<li>Debian is super fast and has no known bugs</li>
+<li>Ubuntu has been known to have graphical issues</li>
+<li>Whonix – works like Debian</li>
+<li>Mint – Works possible graphics issues</li>
+</ul>
+<p><strong>Mac</strong> – This depends on Ram, we have synced a build in advance for some users. It can take a day or two otherwise.<br>
+<br></p>
+<h2>3) How does staking work and why does it generate value?</h2>
+<p>Proof of Stake (POS) was originated by Peercoin. It’s an eco-friendly alternative to Proof of Work (POW) coins like Bitcoin. It is similar to POW except that you don’t need mining hardware to mine new coins. You simply have to hold coins in your wallet and keep the wallet connected to the network. To keep staking fair it requires that the coins held in a wallet reach a maturity level before they can begin staking for newly minted coins.In order for coins to mature they must not leave the wallet or else they risk reseting their maturity level. BitBay’s maturity level is roughly 2 hours or (120 block confirmations at 64 second block time) – after that they begin the process of staking for the next newly found block on the blockchain. If they fail to stake the next block they gain miniscule advantage to potentially stake the next block, this repeats over and over until they finally stake a block, after which the coins must wait another 2 hours before they can become mature again.</p>
+<p>All of this is automated as long as you hold coins in your wallet and keep you computer online and unlocked (yet still password protected) to the network. The more mature coins you own the better the odds that you will stake the next block receiving the newly minted coins that are associated with that block.</p>
+<p>Proof of Stake holds many advantages over Proof of Work – mainly being:</p>
+<p>Bitcoin mining and POW is currently one of the most wasteful uses of electricity in history. The Bitcoin network is more powerful than all the world’s known supercomputers combined. This power could be contributed for research but instead it is completely wasted on the search for digital gold. Proof of Stake solves that issue and makes more sense as it is economically friendly.<br>
+Miners in POW always have the fear that their mining hardware will become obsolete premature of their breakeven point. New hardware can turn existing hardware worthless in just a matter of weeks. With Proof of Stake your coins are the mining hardware, they only risk is that someone wants to buy more coins to stake more than you, yet this creates a scarcity factor and drives the price of the coin up in value which does nothing but benefit your pocket!<br>
+In cryptocurrencies, any computer that supports a fully synchronized blockchain online is considered a “node” for the network. Currently with most POW coins like Bitcoin, there is no incentive for people to be a node for the network as all incentive goes to the miners. As their blockchain grows in size the number of nodes are diminishing as there is no reward for supporting it. POS coins provides incentive for people to synchronize to the blockchain which secures the network and helps provide a healthy decentralized atmosphere for the coin.<br>
+<br><br>
+<strong>BitBay staking schematics:</strong></p>
+<ul>
+<li>New block added to blockchain every 64 seconds.</li>
+<li>Coin maturity 120 confirmations at 64 second blocks = 128 minutes</li>
+<li>1% annual increase in coins supply enforced by POS 3.0 protocol (see below)</li>
+<li>Staking Protocol: POS 3.0 which is cloned from the Blackcoin developer known as “rat4”. POS 3.0’s whitepaper can be found here:<a href="https://bravenewcoin.com/assets/Whitepapers/Blackcoin-POS-3.pdf">https://bravenewcoin.com/assets/Whitepapers/Blackcoin-POS-3.pdf</a>
+</li>
+<li>It’s main upgrades are that it enforces a true APR of the coin supply.</li>
+<li>Mature coins can only stay mature if you keep your wallet running. There is no ‘coin age’ factor anymore.</li>
+</ul>
+<p>This is achieved by providing a block reward proportional to the APR. BitBay currently has a total supply of 1,007,545,000. With BitBay’s 64 second block time that equals 492,750 new blocks per year (60x60x24x365/64), which equals a current block value of 20 newly minted coins per block. With this in mind, we can actually create a much higher APR for staking wallets. It’s impossible for the community to stake every coin in the total supply for various reasons – some are locked in contracts, timelock bonds, held on exchanges for trading, etc. That being said, the APR is only awarded to those that participate. The coin supply will increase 1% no matter what, yet if only 30% of the entire coin supply is staking then that 30% will receive the 1% APR of 1 billion+ coins. We believe the actual APR’s will vary from 2% to 5% a year – not the advertised 1%.</p>
+<p>You can track your network ranking here: <a href="https://chainz.cryptoid.info/bay/#!extraction">https://chainz.cryptoid.info/bay/#!extraction</a><br>
+This webpage how many coins are currently staking. Typically the amount of coins staking averages around 25 – 35 percent of the entire coin supply, which equates to around 250 million to 350 million. Since only the staking coins can obtain the 1% APR, that mean the actual APR is much higher than 1%, but rather around 2.5 – 4% APR!</p>
+<p>Please understand that your APR doesn’t occur overnight. It is based on staking the entire year. So in order to understand the math behind staking, you need to understand how the block rewards fit into your APR. For example, if you own 12000 coins and start to stake. The minimum APR is 1% which equals 120 coins a year. Currently each block reward mints 20 new BitBay, therefore you would only need to find 7 blocks over the course of the entire year in order to reach your APR. That’s only 1 block every 2 months based on a 12000 coin wallet!<br>
+<br></p>
+<h2>4) How much RAM do I need for staking?</h2>
+<p>4 GB of RAM should be sufficient for staking BAY. Anything less and you begin to lose potential rewards due to processing power. I tried staking once on a raspberry pi (1 RAM) and couldn’t find a block on a healthy amount of coins even after 6 days of staking.<br>
+<br></p>
+<h2>5) Can you mine BitBay?</h2>
+<p>Staking is just another form of mining. See above for staking information<br>
+<br></p>
+<h2>6) How do I stake?</h2>
+<p>First, the Client needs to be synchronized 100% with coins in your wallet. Second, you need enable staking in “Settings”. Then you unlock your wallet by going to the File tab of the Client and click on “Unlock Wallet”. For security reasons it’s best to unlock your wallet for staking only.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/staking-and-synchronizing/35">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/staking-and-synchronizing/35</link>
+          <pubDate>Wed, 29 Nov 2017 09:25:53 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-35</guid>
+          <source url=".../forum-archive/t/staking-and-synchronizing/35.rss">Staking and Synchronizing</source>
+        </item>
+        <item>
+          <title>Client and Wallet Troubleshooting</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <h2>1) Why won’t the BAY client open properly on my Macbook?</h2>
+<p>When using a Macbook, BAY operates in WINE rather than as a typical mac program. This results in some issues, as a Mac user myself I have found that BAY will not work properly without “Control Clicking” and then clicking Open. Despite the fact I am using my administrator account, I have found this is the only way to get BAY to work 100%. Don’t worry though, we will address this issue in due time! Also remember to use Control + V for paste instead of Command + V for paste in WINE, it took me a few minutes to realize this myself.<br>
+<br></p>
+<h2>2) BitBay will not run on my Mac. What do I do?</h2>
+<p>You may have to move the BitBay application from your ‘downloads’ folder to ‘Applications’ for it to run. Also sometimes Mac will require you to allow applications from publishers that are not from the Apple Store. This can be enabled in your system’s settings or by right-clicking on the app icon and selecting ‘open’.<br>
+<br></p>
+<h2>3) BitBay runs slow on my Mac, what do I do?</h2>
+<p>We are currently improving our Mac build. Chances are you are running the WineSkin VM build of BitBay. So you might need some extra RAM and speed to get the best performance. However we have a lot of happy users who have tested this successfully and please always keep posted for updates. If you disconnect while running the Mac build simply shut down the software and reboot. Please note, if you are running Mac please turn off sleep. In fact even on Windows this can cause unexpected behavior of the software.<br>
+<br></p>
+<h2>4) BitBay is not loading and saying “bitbayd” is unable to load. What do I do?</h2>
+<p>It is possible that something happened that crashed the blockchain database(for example not shutting down properly). This can happen on any coin and is not exclusive to BitBay. The software gives the option to “reindex” when this message is displayed. If that does not work, you might have to rebuild the blockchain from scratch. So in order to do this you must delete all the files(except wallet.dat) from the directory called “bitbaydata” and run the software again.<br>
+<br></p>
+<h2>5) I see my transaction pending but nothing is happening! What do I do?</h2>
+<p>First you should make sure you are fully synchronized. You can compare the current block to the one on <a href="https://chainz.cryptoid.info/bay/">https://chainz.cryptoid.info/bay/</a> . If the blockchain is not in sync please wait so the transaction can confirm. Next, you should check to see if you have both keys loaded. Remember, BitBay is a multisignature wallet meaning there are two keys. This means double the security! However sometimes people accidentally only load on key similar to a joint account. They forget to load the second. You can tell if the pending transaction is a “Two Step Send” transaction because it will say so in the “History Tab”. You are able to simply cancel the transaction by clicking on it. Realize that if you store one of your keys on USB or disc and forget to connect it, then the software will not be able to find it. Lastly, check the amount of connections you have to the network. You can go to the Settings menu and see if there is enough connections. Worst case scenario you are on a small network split(extremely unlikely). If you are on a split, contact us and we will most likely instruct you to synchronize the chain again.<br>
+<br></p>
+<h2>6) I can’t get any network connections?</h2>
+<p>Depending on geographics and your internet connection this can cause some Clients have issues finding BitBay network connections. The best way to alleviate this is to update the bitbay.conf file found inside the bitbaydata folder which is inside your Client’s main directory on your hard drive.</p>
+<p>To create or update the bitbay.conf file you need to download a text editor like Notepad ++ or Sublime text editor.<br>
+<a href="https://notepad-plus-plus.org/download/v7.3.3.html" class="onebox" target="_blank">https://notepad-plus-plus.org/download/v7.3.3.html</a><br>
+<a href="https://www.sublimetext.com/3" class="onebox" target="_blank">https://www.sublimetext.com/3</a></p>
+<p>Once the text editor is open paste this info into at the beginning of the file:</p>
+<p><code>server=1<br>
+rpcuser=bitbayrpc rpcpassword=4c80db0bfc751aaadba16bb8ed2c9f050d00952b476b83cc96e24909c06625b3 rpcport=19915</code></p>
+<p>Then you can use this link for the most current list of network connections</p>
+<p><a href="https://chainz.cryptoid.info/bay/#!network" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/#!network</a></p>
+<p>If you click on “node list” button you will see a list of all the current IP addresses that are connected.<br>
+Copy and paste this list under the text script you have created above.<br>
+Then save the file as bitbay.conf</p>
+<p>So the final configuration file should look similar to:</p>
+<p><code>server=1<br>
+rpcuser=bitbayrpc rpcpassword=4c80db0bfc751aaadba16bb8ed2c9f050d00952b476b83cc96e24909c06625b3 rpcport=19915<br>
+addnode=103.66.79.11 addnode=103.66.79.46 addnode=104.131.132.223 addnode=104.237.4.33 addnode=104.245.111.33 addnode=105.110.51.175 addnode=103.66.79.11<br>
+addnode=103.66.79.46</code></p>
+<p>It’s okay to list all the addnodes you find on the website link – the more the merrier. I’m just saving some space in my example above.</p>
+<p>For the Client you need to save this file in your BitBay directory in the bitbaydata folder.</p>
+<p>For the QT wallet you need to save it to your ‘username/appdata/roaming/’ BitBay folder.<br>
+If you are having trouble finding the folder for the QT wallet you can refer to this youtube tutorial on how to find a bitcoin folder. To find your BitBay folder it’s the same procedure. <a href="https://www.youtube.com/watch?v=jGXf2xFyWaE">https://www.youtube.com/watch?v=jGXf2xFyWaE</a><br>
+<br></p>
+<h2>7) My Client is loading and responding really slow, how can I speed it up?</h2>
+<p>Check your free RAM while using the Client. Recommended RAM amount for<br>
+solid performance: 4 – 8 GB. Also refer to the FAQ above and create/update your bitbay.conf file. Also you can try downloading a memory manager such as “CleanMEM mini monitor”. This software lets you know when memory is too high and allows you to clear up the file cache. Also be aware if you are running too many programs at once.<br>
+<br></p>
+<h2>8) I downloaded the Client or I downloaded the QT wallet and sent coins to the address inside the wallet, but my balance is not showing any coins received.</h2>
+<p>The Client and the QT wallet both need to be synchronized 100% to the blockchain before balances will show correctly. Think about it for a second – if you send coins through the network then the transaction is going to be stored on the most recent block at the moment of the transaction. If you are syncing up to block 50000 yet you made to the transaction on block 1,200,000 how is the Client or QT wallet supposed to know you made the transaction on that block. It still needs to catch up with all the transactions.<br>
+<br></p>
+<h2>9) I have coins in my Client account, yet it won’t let me withdraw them.</h2>
+<p>Make sure your blockchain is synchronized 100%. The Client won’t be usable until it’s synced 100%. Check to see the status of the synchronization bar found on the Home tab of the Client. If this bar says disconnected, close down and restart the Client.</p>
+<p>Make sure your account has both keys loaded up. A ‘normal’ account in the Client requires that the owner utilize 2 private keys for extra security. If you load only 1 private key, the Client will think a a joint account/2fa account is loaded and not function properly. You can check to see if you have 2 private keys loaded by clicking on the History tab of the Client. If you accidentally try to send with one key don’t worry you may cancel as only 1⁄2 of that transaction was signed and it was not broadcasted to the network.<br>
+<br></p>
+<h2>10) My coins don’t show up on my Bitbay Client despite having properly loaded my keys.</h2>
+<p>If you previously deleted the wallet.dat file, you need to reload your address from the file menu because it will add it again to the watchonly list, as the market client wallet.dat holds accounts to watch, so if it doesn’t know what to watch, it won’t get the inputs, which can happen if the file is ever deleted.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/client-and-wallet-troubleshooting/37">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/client-and-wallet-troubleshooting/37</link>
+          <pubDate>Wed, 29 Nov 2017 10:26:41 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-37</guid>
+          <source url=".../forum-archive/t/client-and-wallet-troubleshooting/37.rss">Client and Wallet Troubleshooting</source>
+        </item>
+        <item>
+          <title>Getting Started with the Client</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <h3>1. Download the software</h3>
+<p>We recommend you download the BitBay Client which provides a wealth of features. As well as sending, storing and staking $Bay, the client has a wealth of other features including the BitBay decentralized marketplace.</p>
+<h3>2. Get started with the Market Client</h3>
+<p>The client comes with an installer that will get you up and running. Just run it and follow the instructions in the installer. For the windows version there is an update that you need to run too. Run the installer first, then the update.</p>
+<p>Your client will have to sync with the network before you can use it for transactions. This can take a while the first time, and also if you have not opened your wallet for a while.</p>
+<p>You might be a little overwelmed if this is all new to you, so keep the following in mind:</p>
+<p>Default is to use two keys. The installer will therefore ask you to create a key twice. Each key can have a unique password, and you will therefore be asked for password two times as well. The same goes for hiding your key in a picture. You can skip any or all steps related to the creation of keys and do it manually later, but we recommend you follow the setup if this is your first attempt to install the client.</p>
+<h3>Creating &amp; Adding Wallets</h3>
+<p>If you skipped the key creation in setup, or want to add more wallets, follow the guide below.</p>
+<p>Once you’ve downloaded and installed your Bitbay Halo Client program. You can either wait for the client to syncronize with the network (to 100%) or go ahead and begin creating a wallet inside the client while your computer is finishing syncronizing – it doesn’t matter either way. Bitbay’s Halo Client is both a wallet and a user interface (UI) marketplace. This client is years ahead of the normal bitcoin “QT” wallet on many fronts.</p>
+<ol>
+<li>
+<p>To start your first wallet in the client or add a wallet, simply click on the “File” tab at the top left of the client window.</p>
+</li>
+<li>
+<p>Then click on the “New Wallet” tab in the drop box menu. This will open up a new window that is simply asking where you want to store your 1st private key file. To better explain private keys please note the following:</p>
+<ol>
+<li>Private keys are your personal keys, each unique and in Bitbay’s client requires two to make any transactions happen.</li>
+<li>The Bitbay Client supports two private keys for the sake of providing maximum security to single entities and joint account entities. Think of the two private keys similar to having two locks on your front door of your house.</li>
+<li>These “locks” can be (but not required) encrypted with passwords, hence the terminology “multi-signature” technology. So as an analogy, in order for someone else to unlock your front door, they’d have to know where the two different locks (private keys) are located on the door as they would be hidden from site, and then they’d also need two different keys (passwords) to unlock them. (see Step 7 below)</li>
+<li>It is imperative that you protect your private key’s and their correlated encryption passwords! A great way to keep them safe is to keep a backup on a flash drive, DVD, or CD locked up in a safety deposit box or with family members you trust. Update regularly.</li>
+</ol>
+</li>
+<li>
+<p>Save your 1st private key to any location you wish on your computer or flash drive.</p>
+</li>
+<li>
+<p>The client will then pop up a window informing you: “Create your second key and store it in a different directory than the first. If you wish to create only one key, you can cancel and open a wallet with a second key later.” This is simply giving you the option to manually pair keys if you plan on opening a joint account with someone.</p>
+</li>
+<li>
+<p>Clicking on the “OK” tab on this window opens a new window giving you the option to save your 2nd private key to either your computer or a flash drive.</p>
+</li>
+<li>
+<p>Your client’s wallet is now fully functional and your client’s “Overview” tab should have a receiver address posted.</p>
+</li>
+<li>
+<p>Yet for maximum security, it’s best to also encrypt your keys with passwords or passphrases as mentioned above. To do this simply click on the “File” tab at the top left of the client window.</p>
+<ol>
+<li>Click on the “Encrypt Keyfile” tab in the drop box menu.</li>
+<li>This will open a window stating “You can give each private key a different password if you wish. If you forget any of your passwords the wallet will be useless. This is also true if you are on a joint account. If your partner forgets their password neither of you will be able to spend from your account! You can use the same password for both keys or you can choose to protect only one. Backing up the original keys in a safety deposit box is highly recommended! If you have backed up already, make sure those files don’t contain your unencrypted keys. Think carefully before proceeding. Passphrases are superior to passwords. (Hint: A line from your favorite book with a number on the end)”.</li>
+<li>Click OK  to proceed.</li>
+<li>This will open a window which is simply asking you where and what key you wish to encrypt with a password or passphrase.</li>
+<li>So for example find your location of key1, click on the OK tab and a new window will pop up asking for you to enter a password.</li>
+<li>After entering your password the client will ask you to re-enter it to make sure you typed the same password as your keystrokes will be obsured from viewing.</li>
+<li>Once complete, you now have your 1st private key encrypted with a password.</li>
+<li>In order to password encrypt the 2nd key, simply repeat steps “1” though “6” yet load up the location of the 2nd private key file from your computer or flash drive and enter a different (recommended) password or passphrase for it!</li>
+</ol>
+</li>
+</ol>
+<p>Your client’s wallet is now operational with multi-signature technology securing your money. Note: In the file locations of your private keys you should also notice that your private keys generate a “key1.share” or “key2.share” file (depending on what private key file you are in. So not only do you have two private keys that are utilized to secure your client, you also have 2 associating ‘public’ keys as well. They can be used to encrypt/decrypt and sign/verify messages and files. The share files are also used to set up joint accounts. These will be explained in detail in a later section (See Joint Account Wallets).</p>
+<p>Remember to write down your passwords somewhere safe, and make backups of your keys. Without them you will not be able to access your wallet, and no one will be able to help you.</p>
+<h3>Preparing for the Market</h3>
+<p>In order for you to use the market, there must be a way to communicate with other participants. The Market Client provides two methods of doing this: Bitmessage or Email.</p>
+<p>Bitmessage is used to post offers to the market, and has to be enabled if you want to trade. It is the safest option, and also provides total anonymity, but can be slow at times. Email is faster,  but not as safe because it depends on the servers of your email provider.</p>
+<p>We recommend you enable both unless you have a reason to not do so. You can create an email address that you only use for the Bitbay Market if you like. You also need email enabled if you want to use Pay to Mail.</p>
+<h4>Bitmessage</h4>
+<p>To enable Bitmessage you only have to tick off the box. Your address will be generated by the software.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/cb6e41a1ba98ad592f400a03cf67023af9131920.png" data-download-href=".../forum-archive/uploads/default/cb6e41a1ba98ad592f400a03cf67023af9131920" title="bitmessage.png"><img src=".../forum-archive/uploads/default/optimized/1X/cb6e41a1ba98ad592f400a03cf67023af9131920_1_662x500.png" alt="bitmessage" width="662" height="500"><div class="meta">
+<span class="filename">bitmessage.png</span><span class="informations">1010x762 106 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>For more information about Bitmessage head to the geek section.</p>
+<h4>Email</h4>
+<p>The Client allows for users to add a typical, standard email address (gmail, hotmail, outlook, AOL, and <a href="http://mail.com">mail.com</a>), however some email providers are not yet compatible but will be added on future updates. This is a faster way for communication purposes  and less risk of loss of correspondence. For example, if you or your counterparties computer losses internet connection  while in contract negotiation via bitmessage you could potentially lose that correspondence as bitmessage has no server to backup the information. With a standard email address incorporated into your client, we can bypass this risk. In summary, the bitmessage network is necessary to protect the contract, marketplace, and the transactions between contracts, while standard emails can be utilized to simplify negotiation correspondence.</p>
+<p>To add your email address into your Bitbay Halo Client:</p>
+<ol>
+<li>
+<p>Simply click on the “Receive BitBay” tab at the top left of the client window.</p>
+</li>
+<li>
+<p>In this window template you will see blank field where you can enter your email address. Do so and then click on the “Add/Change” box.</p>
+<ul>
+<li>Again, currently there are only a few email providers that are compatible with the client but more will be added on upcoming updates. The providers are listed in the clients “Receive Bitbay” tab’s “?” box.</li>
+</ul>
+</li>
+<li>
+<p>The client will ask you to enter your password.</p>
+<ul>
+<li>This is the password that you use to log-in to your email account – not your bitbay private key passwords.</li>
+</ul>
+</li>
+<li>
+<p>The client will then let you know if it was able to sync with your email address. A window will pop up stating, “Authentication Success! However, please check your inbox and see if the test message arrives before giving out your Email for contracts and payments.”</p>
+</li>
+<li>
+<p>Do so and check to see if you’ve received an email sent from “me” with a title “NightTrader – test”. If you see this email in your inbox the syncronization is complete.</p>
+<ol>
+<li>Note: If you have two factor authentication (2FA) enabled on gmail  you will get an error. To fix this issue click on your google account’s picture icon in <a href="http://gmail.com">gmail.com</a> – this will open up another window where you will click on the “My Account” icon.</li>
+<li>This loads up your account settings page. On this page find and click on the “Connected apps and sites” setting found below the “Sign In and Security” menu.</li>
+<li>This loads up a page that allows you to change your “Allow less secure apps:” setting. Turn this setting to “ON”</li>
+<li>You will be given a password to use in your client. Copy/paste this to the Bay client.</li>
+<li>Now your gmail address should sync up with the client.</li>
+</ol>
+</li>
+<li>
+<p>For extra security we recommend having the “Enable Encrypted Email” feature turned on.<br>
+Note: If you decide to change your email address in the future. It’s highly recommended that you wait until all open contracts with counter-parties are completed as they might not be able to contact you.</p>
+</li>
+</ol>
+<p>Congratulations, your email address is synced up with the client.</p>
+<h3>Ready to move on?</h3>
+<p>If you have completed the steps above, you are ready to move on to the next section, where you will learn about all the great stuff you can do with the Market Client.</p>
+<p>Using the Marketplace Client</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/getting-started-with-the-client/44">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/getting-started-with-the-client/44</link>
+          <pubDate>Thu, 30 Nov 2017 09:18:24 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-44</guid>
+          <source url=".../forum-archive/t/getting-started-with-the-client/44.rss">Getting Started with the Client</source>
+        </item>
+        <item>
+          <title>Using the Marketplace Client</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <h3>Buying on the market</h3>
+<p>Now that your client is set up you can begin buying and selling items. To buy or bid on items you need to enter the “Market” tab window. This is the marketplace. It has many features and to better understand these features feel free to click on the “?” icon for more information.</p>
+<p>To buy or bid on an item:</p>
+<ol>
+<li>
+<p>Click on the item of interest – a new window will pop up showing more details about the contract. This shows the sellers bitmessage address, preferred method of contact for negotiating, price of item, and escrow deposit to be applied/matched. In the upcoming client update, you will also have a built-in feature to communicate with the seller.</p>
+</li>
+<li>
+<p>This window also gives you two options icons to choose from. You can either “Accept Offer” (buy as is) or “Counter-offer” (ask to buy for a lower price). In beta version 1.2 the “Counter-offer” icon isn’t functionable. This will be activated with the next update. With that being said, click on the “Accept Offer” icon. A new window will pop-up providing all the details of your contract proposal (again, once the client is updated much of this will change with the new templates). If you are happy with the proposal click the “Ok” button.</p>
+</li>
+<li>
+<p>If your private keys are encrypted you will be prompted to enter your passwords to all for the transaction to proceed.</p>
+</li>
+<li>
+<p>Upon completion of these steps, the contract offer will be sent to the seller’s “Pending Offer” tab. If he accepts you will receive a notification that you have an “Open Contract”. Click on the “Open Contract” tab and click on the contract and negotiate your terms.</p>
+</li>
+<li>
+<p>Once you’ve received your item in the mail and content with its condition. You have the option to fulfill the contract and both escrow deposits are returned to you and the seller along with your payment to the seller.</p>
+</li>
+</ol>
+<p>Congratulations! You’ve just purchased an item on Bitbay! Remember, once the templates are released, there will be quite a few changes to the system. This however, is being created to provide a much easier UI platform.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/using-the-marketplace-client/45">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/using-the-marketplace-client/45</link>
+          <pubDate>Thu, 30 Nov 2017 09:30:54 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-45</guid>
+          <source url=".../forum-archive/t/using-the-marketplace-client/45.rss">Using the Marketplace Client</source>
+        </item>
+        <item>
+          <title>The Geek Section</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <h3>The Change System</h3>
+<p>Bitbay’s Halo Client is unique in that it’s accounting system is far superior to the typical QT wallet bitcoin and other alt coins are utilize. The Client creates a “bill” system similar to fiat paper money. Yet with different sizes. Bitbay’s bills are broken out in integers of 50,000 – 10,000 – 5,000 – 1,000 – 100 – 50 – 10 – 5 – 1 – 0.5  any change left over is finally broken out into exact increments. So rather than having a bunch of deposits or “inputs” with random numbers and fractions of numbers, Bitbay’s Halo Client breaks them out into whole integers (like dollar bills) to minimize amounts of “chump change”. This is done for one important reason, it simplifies the accounting system and allows users to do large volumes of contracts.</p>
+<p>When you first get started using the software your deposits may arrive in one payment so that will not be broken into change until you spend it. However, “making change” is simple, all you have to do is send coins to yourself. This can be done as follows:</p>
+<ol>
+<li>
+<p>Click on the “Home” tab in the client, copy “your Bitbay address”.</p>
+</li>
+<li>
+<p>Click on the “Send Bitbay” tab, paste your Bitbay address into the “Pay To” address box. Enter a small random amount of coins in the “Amount” box and click on the “Send” button.</p>
+</li>
+<li>
+<p>If your private keys are encrypted, you will be prompted to enter both your passwords to continue.</p>
+</li>
+</ol>
+<p>Congratulations, your coins are now broken out into bills or change! You can review this amount by clicking on the client’s “History” tab. In that window simply click on the “Show Change” wording at the bottom of your “Account Details” history tracker.</p>
+<h3>Bitmessage</h3>
+<p>Bitmessage was the worlds first decentralized email client and because of this David Zimbeck was the first person in the world to create decentralized markets. He saw the opportunity to avoid bloating the blockchain by implementing Bitmessage channels as a layer for serverless internet. This serves as a protocol for all kinds of services to exist without the liabilities of hosting a server. This also protects your IP address and allows you access to markets no matter where you are in the world. Since BitBay is not an escrow service, it is only a contracting platform so it was very important to keep the platform independent of third parties including the developer. The way Bitmessage works is a swarm of nodes connect to each other and pass messages around in a circle. This means messages “hop” from one user to another. This is similar to when kids sit in a circle and play a game of telephone, whispering a secret in each others ear. In the case of Bitmessage many users pass the messages and only those who have a decryption key can understand the message being passed. So users will check every message to see if they can decrypt it. Messages expire within a couple days so within BitBay users will send a message again and again until it gets acknowledged. This means not only does Bitmessage work as a serverless channel sort of like a Television station but it also works as a decentralized email.</p>
+<p>The messages in theory could be shared and stored in clusters and white lists so that the traffic can scale. This is important because we believe that blockchains were not meant to store bulky contracts or market data. If you see how hard of a challenge it is for Bitcoin to scale itself, imagine if they stored entire markets on the chain!</p>
+<p>David foresaw this problem which lurks over projects such as Ethereum as they let coin after coin put it’s platform on top of their chain slowly crushing it. This forces them to centralize and harms the core principals of decentralized internet. Although a sidechain solution would have been better, now many projects are faced with complex computer science arguments on how to properly scale a system which should have never been bloated to begin with.</p>
+<p>A blockchain should only be used for financial data, hashed contracts, payloads to contracts, title and notary. Consider when you combine programmable money with big data, you don’t want one system jeopardizing the other.</p>
+<p>Amazingly blockchain can be used to stop DDOS attacks on Bitmessage by having time-locks for each kilobyte of data sent over Bitmessage. This is not currently implemented but will eventually be a way to scale it. Currently Bitmessage requires users to perform a “Proof of Work” to stop them from spamming the markets. This is why you may experience a delay before sending a message. The proof of work gets harder the more data you send and there is also a limit to how much you can send. So we also use an anonymous pastebin to store larger data such as images.</p>
+<p>Because Bitmessage shares messages and because every message is encrypted this serves to protect the identity of the sender and receiver. We hope this information has been informative and you can find out more about Bitmessage on their wiki page.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/the-geek-section/46">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/the-geek-section/46</link>
+          <pubDate>Thu, 30 Nov 2017 09:32:29 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-46</guid>
+          <source url=".../forum-archive/t/the-geek-section/46.rss">The Geek Section</source>
+        </item>
+        <item>
+          <title>How to get $BAY</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <h3>1. Buy BitBay on the Exchanges</h3>
+<p>You can currently buy $BAY on the following exchanges:</p>
+<p>Bittrex: <a href="https://bittrex.com/Market/?MarketName=BTC-BAY">https://bittrex.com/Market/?MarketName=BTC-BAY</a></p>
+<p>C-Cex: <a href="https://c-cex.com/?p=bay-btc">https://c-cex.com/?p=bay-btc</a></p>
+<p>Cryptopia: <a href="https://www.cryptopia.co.nz/Exchange/?market=BAY_BTC">https://www.cryptopia.co.nz/Exchange/?market=BAY_BTC</a></p>
+<p>UPbit: <a href="https://upbit.com/exchange?code=CRIX.UPBIT.BTC-BAY">https://upbit.com/exchange?code=CRIX.UPBIT.BTC-BAY</a></p>
+<h3>2. Purchase coins in the BitBay client</h3>
+<p>Thanks to our unbreakable contracts, users can purchase coins right in the client peer to peer. Sellers do their own KYC (know your customer) and now everyone has the perfect alternative to centralized institutions. No need to buy Bitcoin to acquire BitBay and no meeting in person or dealing with risky escrow agencies like LocalBitcoins.</p>
+<p>The Buy/Sell coins templates is available on the programs home page. When you open it, there is options to set a specific price or track the market price. This makes everything extremely easy. Buyers can post offers and quickly find sellers. You can also locate sellers in the BitBay marketplace. The template sets recommended deposits and time limits so you don’t have to. Payment options such as Western Union, MoneyGram, Bank Wire, Prepaid Cards, and other options are available for one of the most secure fiat gateways in the world.</p>
+<h3>3. Staking in your wallet</h3>
+<p>You can earn BitBay by finding blocks and helping secure out network. Both our QT wallet and Markets wallet supports this. The Markets wallet also supports cold staking which is a much higher security staking system similar to two-factor authentication.</p>
+<p>In the markets wallet, simply have your coins in your unlocked wallet and make sure staking is enabled in the program settings. Once coins are sent to the wallet, you should break for change so you can stake consecutive blocks. Two hours after your coins mature, they will become eligible for staking and finding blocks. The time it takes to find a block depends on the amount of coins you are staking. You can estimate this by assuming you will receive 1% per year. So 700,000 coins should receive 7000 coins per year securing you a block every day. However, this reward can be much greater if less people are connected. Statistically, usually less than half the network is staking so a user may receive up to 5% interest per year.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/how-to-get-bay/47">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/how-to-get-bay/47</link>
+          <pubDate>Thu, 30 Nov 2017 09:43:46 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-47</guid>
+          <source url=".../forum-archive/t/how-to-get-bay/47.rss">How to get $BAY</source>
+        </item>
+        <item>
+          <title>How to build the BitBay QT from Source</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <p>Linux QT wallet install for Debian Jessie</p>
+<p>n.b. this does not work for Stretch at the moment and hasn’t been tried in ubuntu.</p>
+<p>To start:</p>
+<p>Go here to set up your super user<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://www.privateinternetaccess.com/favicon.ico" class="site-icon" width="16" height="16">
+      <a href="https://www.privateinternetaccess.com/forum/discussion/18063/debian-8-1-0-jessie-sudo-fix-not-installed-by-default" target="_blank" rel="nofollow noopener">PIA</a>
+  </header>
+  <article class="onebox-body">
+    <img src=".../forum-archive/uploads/default/original/1X/030ab06de9907b4049e4fc9e7817e5f9bf39b32d.png" class="thumbnail onebox-avatar" width="200" height="200">
+
+<h3><a href="https://www.privateinternetaccess.com/forum/discussion/18063/debian-8-1-0-jessie-sudo-fix-not-installed-by-default" target="_blank" rel="nofollow noopener">debian 8.1.0 jessie - sudo fix (not installed by default)</a></h3>
+
+<p>Debian seems to not have sudo installed by default.  Here is how to install sudo and add your username to the sudoers file.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>Then here for referrence<br>
+<aside class="onebox githubblob">
+  <header class="source">
+      <a href="https://github.com/dzimbeck/BitBay/blob/master/BUILD-Readme.txt" target="_blank" rel="nofollow noopener">github.com</a>
+  </header>
+  <article class="onebox-body">
+    <h4><a href="https://github.com/dzimbeck/BitBay/blob/master/BUILD-Readme.txt" target="_blank" rel="nofollow noopener">dzimbeck/BitBay/blob/master/BUILD-Readme.txt</a></h4>
+<pre><code class="lang-txt">If any of the patches don't work, then you can simply read the emails
+and apply the patch manually by adding and removing the lines they
+recommend in each file.
+
+If leveldb fails, just use the files in the included folders for your platform
+to replace the built ones in the src/leveldb directory
+
+These scripts were tested on the following OS below, they can and should
+work on many other OS. If you are running a different OS, simply remove
+the check for it in the SH file.
+
+== Prerequisite ==
+
+needed OS:
+
+win32: Debian 8 (jessie) x86_64 (VM or chroot)
+
+linux32: Debian 7 (wheezy) i386 (VM or chroot)
+
+linux64: Debian 7 (wheezy) x86_64 (VM or chroot)
+</code></pre>
+
+  This file has been truncated. <a href="https://github.com/dzimbeck/BitBay/blob/master/BUILD-Readme.txt" target="_blank" rel="nofollow noopener">show original</a>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>Then follow these commands in terminal</p>
+<pre><code>sudo apt-get install git
+
+git clone https://github.com/dzimbeck/BitBay.git
+
+cd BitBay
+
+chmod +x linux64BitBay.sh
+
+./linux64BitBay.sh --reset --force --build
+
+cd ..
+
+cd bitbay/bitbay
+
+
+chmod +x linux-qt-dependencies.sh
+./linux-qt-dependencies.sh
+
+chmod +x makeqt-linux.sh
+./makeqt-linux.sh
+</code></pre>
+<p>This process takes about 10-30 minutes depending on speed of computer</p>
+<p>Once complete in same directory…</p>
+<p><code>./bitbay-qt</code></p>
+<p>Your blockchain and data folder can be found in the home directory as a hidden .bitbay directory</p>
+<p>The program doesn’t come with a bitbay.conf file to help you connect to network</p>
+<p>Create a file  called bitbay.conf<br>
+Open gedit and create new file with this text in it:</p>
+<pre><code>server=1
+rpcuser=bitbayrpc
+rpcpassword=4c80db0bfc751aaadba16bb8ed2c9f050d00952b476b83cc96e24909c06625b3
+rpcport=19915
+addnode=104.238.169.84
+addnode=107.218.48.181
+addnode=113.59.206.19
+addnode=128.235.139.77
+addnode=135.23.125.66
+addnode=142.255.92.227
+addnode=146.255.175.131
+addnode=151.80.186.24
+addnode=162.72.254.164
+addnode=165.91.13.135
+addnode=172.116.88.221
+addnode=174.24.242.81
+addnode=174.50.118.218
+addnode=176.150.146.190
+addnode=189.5.212.211
+addnode=199.189.26.13
+addnode=199.189.26.19
+addnode=212.3.193.47
+addnode=213.87.225.214
+addnode=216.6.183.201
+addnode=24.162.248.106
+addnode=24.166.59.144
+addnode=24.225.204.112
+addnode=40.112.149.192
+addnode=46.59.49.71
+addnode=50.41.214.229
+addnode=65.128.85.110
+addnode=67.173.120.250
+addnode=68.100.192.184
+addnode=68.147.112.31
+addnode=68.46.238.155
+addnode=69.250.107.102
+addnode=71.234.232.8
+addnode=72.227.170.97
+addnode=72.239.3.80
+addnode=73.222.225.197
+addnode=75.83.248.12
+addnode=76.23.125.0
+addnode=76.69.65.236
+addnode=77.172.214.202
+addnode=77.86.197.94
+addnode=78.132.1.64
+addnode=78.132.77.65
+addnode=78.144.66.42
+addnode=78.20.105.124
+addnode=80.89.75.231
+addnode=82.101.198.115
+addnode=82.129.126.185
+addnode=82.20.109.111
+addnode=82.217.167.158
+addnode=88.130.57.51
+addnode=88.130.57.88
+addnode=91.192.135.98
+addnode=93.48.88.129
+addnode=94.192.163.164
+addnode=95.104.62.203
+addnode=95.21.169.102
+addnode=95.211.95.247
+addnode=95.211.95.248
+addnode=95.211.95.249
+addnode=95.90.205.127
+addnode=95.91.230.26
+addnode=99.103.18.242
+addnode=99.20.141.243
+addnode=99.237.236.193
+addnode=45.28.140.116
+addnode=46.208.58.217
+addnode=46.233.215.30
+addnode=46.235.32.6
+addnode=46.4.37.190
+addnode=49.50.218.215
+addnode=5.189.156.99
+addnode=5.198.101.104
+addnode=50.41.223.118
+addnode=51.254.45.117
+addnode=51.7.254.198
+addnode=60.242.23.7
+addnode=62.178.40.4
+addnode=62.238.180.236
+addnode=62.57.193.29
+addnode=65.128.85.110
+addnode=67.165.94.226
+addnode=67.173.120.250
+addnode=67.183.29.189
+addnode=68.197.208.77
+addnode=68.46.238.155
+addnode=69.197.188.186
+addnode=69.203.109.7
+addnode=69.250.107.102
+addnode=69.61.169.124
+addnode=70.119.124.134
+addnode=70.122.32.5
+addnode=70.127.184.55
+addnode=70.71.157.109
+addnode=71.197.52.238
+addnode=72.199.168.135
+addnode=72.22.151.109
+addnode=73.162.63.60
+addnode=73.172.109.27
+addnode=73.222.225.197
+addnode=73.241.114.206
+addnode=73.241.24.24
+addnode=73.54.180.205
+</code></pre>
+<p>Save this bitbay.conf file in your ‘hidden’ /.bitbay directory</p>
+<p>You can get a fresh copy of nodes at</p>
+<p><a href="https://chainz.cryptoid.info/bay/#!network" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/#!network</a><br>
+or<br>
+<a href="http://explorer.bitbay.market/network" class="onebox" target="_blank">http://explorer.bitbay.market/network</a></p>
+<p>Then restart the qt wallet and you should get plenty of connections.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57</link>
+          <pubDate>Thu, 30 Nov 2017 11:40:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-57</guid>
+          <source url=".../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57.rss">How to build the BitBay QT from Source</source>
+        </item>
+        <item>
+          <title>Video Tutorials</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <p><a href="#toc"></a></p>
+<h2>1 - How to Install the BitBay Market Client</h2>
+<p><div class="lazyYT" data-youtube-id="CIU4s2G8jU8" data-youtube-title="01 How to Install the BitBay Market Client" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br></p><hr>
+<h2>2 - How to Create Your First Account Quick Version</h2>
+<p><div class="lazyYT" data-youtube-id="JknnJXZfLRU" data-youtube-title="02 How to Create Your First Account Quick Version" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br></p><hr>
+<h2>3 - How to Create Your First Account In depth version</h2>
+<p><div class="lazyYT" data-youtube-id="YAxbQTQD4Ic" data-youtube-title="03 How to Create Your First Account In depth version" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br></p><hr>
+<h2>4 - Downloading Blockchain To Speed Synchronize</h2>
+<p><div class="lazyYT" data-youtube-id="NrCsCPAIV0g" data-youtube-title="04 Downloading Blockchain To Speed Synchronize" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br></p><hr>
+<h2>5 - Understanding Private Keys and Creating Paper Wallet Backups</h2>
+<p><div class="lazyYT" data-youtube-id="oOlckOxr-4k" data-youtube-title="05 Understanding Private Keys and Creating Paper Wallet Backups" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br></p><hr>
+<h2>6 - Wallet Backups, Encryptions &amp; Key to Image Tutorial</h2>
+<p><div class="lazyYT" data-youtube-id="yc9w9NBkqU0" data-youtube-title="06 Wallet Backups, Encryptions &amp; Key to Image Tutorial" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br></p><hr>
+<h2>7 - Important Client Data Backup Files</h2>
+<p><div class="lazyYT" data-youtube-id="Scpd2mMBHZI" data-youtube-title="07 Important Client Data Backup Files" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br></p><hr>
+<h2>8 - Explaining the Change System</h2>
+<p><div class="lazyYT" data-youtube-id="gJfxHWJ576c" data-youtube-title="08 Explaining the Change System" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br></p><hr>
+<h2>9 - Basic Walkthrough of the Client’s Layout</h2>
+<p><div class="lazyYT" data-youtube-id="xl8IznmJsoo" data-youtube-title="09 Basic Walkthrough of the Client's Layout" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br></p><hr>
+<h2>10 - Basic Walkthrough of a BuySell Coin Template</h2>
+<p><div class="lazyYT" data-youtube-id="jQM2L1Qt_BM" data-youtube-title="10 Basic Walkthrough of a BuySell Coin Template" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br></p><hr>
+<h2>11 - Creating a Custom Contract</h2>
+<p><div class="lazyYT" data-youtube-id="FZ_kmop5iDw" data-youtube-title="11 Creating a Custom Contract" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br></p><hr>
+<h2>12 - Accepting Faucet</h2>
+<p><div class="lazyYT" data-youtube-id="Xuep90XsHBE" data-youtube-title="12 Accepting Faucet" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br></p><hr>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/video-tutorials/38">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/video-tutorials/38</link>
+          <pubDate>Wed, 29 Nov 2017 12:18:59 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-38</guid>
+          <source url=".../forum-archive/t/video-tutorials/38.rss">Video Tutorials</source>
+        </item>
+        <item>
+          <title>Encrypted wallets in images for practice</title>
+          <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <blockquote>
+              <p>The following images contain encrypted wallets that were used in the christmas 2017 giveaway contest</p>
+<p>we upload them here just for people that want to practice</p>
+<p>you will need the client (not QT)<br>
+then go to <code>file &gt; key to image &gt; extract file key from image</code><br>
+then you will get a zip file which if you unzip will contain the private keys to a wallet</p>
+<p>the BAY is withdrawn from them though <img src=".../forum-archive/images/emoji/twitter/wink.png?v=5" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>1st<br>
+<a href="https://chainz.cryptoid.info/bay/address.dws?bSDuPz5h6ZWGa2KUR5kY1aAJh4VJ5LakBf.htm" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/address.dws?bSDuPz5h6ZWGa2KUR5kY1aAJh4VJ5LakBf.htm</a><br>
+<img src=".../forum-archive/uploads/default/original/1X/a6c0a9986c6d140e60bc8ed525c3cc61011a14a0.png" alt="dzimbeck" width="319" height="319"></p>
+<p>2nd<br>
+<a href="https://chainz.cryptoid.info/bay/address.dws?bVmjK42hGjPLJEgYPc9c3aR8sJayR8ZWfR.htm" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/address.dws?bVmjK42hGjPLJEgYPc9c3aR8sJayR8ZWfR.htm</a><br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/9263b14c47f843b3f5dcb06138c968b26f3ca4fd.png" data-download-href=".../forum-archive/uploads/default/9263b14c47f843b3f5dcb06138c968b26f3ca4fd" title="How-to-claim-christmas-surprise.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/9263b14c47f843b3f5dcb06138c968b26f3ca4fd_1_666x500.jpg" alt="How-to-claim-christmas-surprise" width="666" height="500"><div class="meta">
+<span class="filename">How-to-claim-christmas-surprise.jpg</span><span class="informations">800x600 115 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>3rd<br>
+<a href="https://chainz.cryptoid.info/bay/address.dws?bXNiYnqiFpo2n4HnbQG9nCyYRezzLLke9U.htm" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/address.dws?bXNiYnqiFpo2n4HnbQG9nCyYRezzLLke9U.htm</a><br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/75befd36db4aab7fb1eac3a399aeda26464f6549.png" data-download-href=".../forum-archive/uploads/default/75befd36db4aab7fb1eac3a399aeda26464f6549" title="BitBay-King.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/75befd36db4aab7fb1eac3a399aeda26464f6549_1_320x499.jpg" alt="BitBay-King" width="320" height="499"><div class="meta">
+<span class="filename">BitBay-King.jpg</span><span class="informations">600x937 406 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>4th<br>
+<a href="https://chainz.cryptoid.info/bay/address.dws?bE67VLbmEgjrCyDxuMcwfFfrrQJDtUvYrM.htm" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/address.dws?bE67VLbmEgjrCyDxuMcwfFfrrQJDtUvYrM.htm</a><br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/4dc9797dcd2023c6d121217d50b510a93c79f525.png" data-download-href=".../forum-archive/uploads/default/4dc9797dcd2023c6d121217d50b510a93c79f525" title="Multisig-Poker-Table-1000px.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/4dc9797dcd2023c6d121217d50b510a93c79f525_1_690x390.jpg" alt="Multisig-Poker-Table-1000px" width="690" height="390"><div class="meta">
+<span class="filename">Multisig-Poker-Table-1000px.jpg</span><span class="informations">1000x566 282 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>5th  has a private key in each of the following images<br>
+<a href="https://chainz.cryptoid.info/bay/address.dws?bUgcfw7Qa9bnrzHTB3jNUMhvMTKKv7kKhf.htm" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/address.dws?bUgcfw7Qa9bnrzHTB3jNUMhvMTKKv7kKhf.htm</a><br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/b6a4d2d8682f87c2df00a8656739d9d5222edf34.png" data-download-href=".../forum-archive/uploads/default/b6a4d2d8682f87c2df00a8656739d9d5222edf34" title="clubs-4.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/b6a4d2d8682f87c2df00a8656739d9d5222edf34_1_340x500.jpg" alt="clubs-4" width="340" height="500"><div class="meta">
+<span class="filename">clubs-4.jpg</span><span class="informations">396x581 23.5 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/ac70545ad2364243a188f602d0675cc602737773.png" data-download-href=".../forum-archive/uploads/default/ac70545ad2364243a188f602d0675cc602737773" title="hearts-12.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/ac70545ad2364243a188f602d0675cc602737773_1_340x500.jpg" alt="hearts-12" width="340" height="500"><div class="meta">
+<span class="filename">hearts-12.jpg</span><span class="informations">396x581 144 KB</span><span class="expand"></span>
+</div></a></div></p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href=".../forum-archive/t/encrypted-wallets-in-images-for-practice/895">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/encrypted-wallets-in-images-for-practice/895</link>
+          <pubDate>Thu, 04 Jan 2018 16:20:29 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-895</guid>
+          <source url=".../forum-archive/t/encrypted-wallets-in-images-for-practice/895.rss">Encrypted wallets in images for practice</source>
+        </item>
+        <item>
+          <title>Effective staking rate</title>
+          <dc:creator><![CDATA[@J-W-F JWF]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/j-w-f">@J-W-F</a> wrote:</p>
+            <blockquote>
+              <p>Here is a quick spreadsheet I made regarding the approximate effective stake weight based on the number of BAY being staked on the network. So at 50% of the total supply staking the effective stake rate for your coins is 2% “APR”. These numbers are based off the available specs for BAY. If I’m not mistaken I do believe that the minimum 1% stake is based off of the current supply at the time, ie currently 1,009,138,145 so the actual yearly stake amount would be 10,091,381 and growing.</p>
+<p><img src=".../forum-archive/uploads/default/original/1X/1b77c3e0a30d62d0aa7434104797b394b456a1b1.JPG" alt="Staking" width="563" height="430"></p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href=".../forum-archive/t/effective-staking-rate/981">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/effective-staking-rate/981</link>
+          <pubDate>Thu, 18 Jan 2018 01:37:07 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-981</guid>
+          <source url=".../forum-archive/t/effective-staking-rate/981.rss">Effective staking rate</source>
+        </item>
+        <item>
+          <title>How to find out the type of client and version</title>
+          <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <blockquote>
+              <p>When reporting an issue its very important to report the client and the version so someone can better support you</p>
+<h1>MARKET CLIENT</h1>
+<p>Here is how the <strong>client</strong> looks like<br>
+some people also call the <strong>market client</strong> as it contains the marketplace</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/faaf04c907e013e9c0213aa97e9a3232fc3cc161.png" data-download-href=".../forum-archive/uploads/default/faaf04c907e013e9c0213aa97e9a3232fc3cc161" title="bitbay.client.windows.png"><img src=".../forum-archive/uploads/default/optimized/1X/faaf04c907e013e9c0213aa97e9a3232fc3cc161_1_682x500.png" alt="windows" width="682" height="500"><div class="meta">
+<span class="filename">bitbay.client.windows.png</span><span class="informations">993x727 144 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>The <strong>block number</strong> is on the bottom left corner of <strong>Home tab</strong> as seen on the screenshot above.<br>
+For <strong>number of connections</strong>  go to <code>settings &gt; general settings</code><br>
+For <strong>version number</strong> go to <code>help &gt; about</code> it will say Halo version and a number 1.29</p>
+<h1>QT WALLET</h1>
+<p>Here is how the QT client looks like</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/9932973ac50c12e168601ecf0eaebd6e4a5a3864.png" data-download-href=".../forum-archive/uploads/default/9932973ac50c12e168601ecf0eaebd6e4a5a3864" title="bitbay.qt.wallet.png"><img src=".../forum-archive/uploads/default/optimized/1X/9932973ac50c12e168601ecf0eaebd6e4a5a3864_1_684x500.png" alt="wallet" width="684" height="500"><div class="meta">
+<span class="filename">bitbay.qt.wallet.png</span><span class="informations">965x705 34.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>For the QT version go  to <code>help &gt; debug window</code> as seen on the screenshot above<br>
+There you can also find the <strong>number of connections</strong> and <strong>current block</strong></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059</link>
+          <pubDate>Fri, 02 Feb 2018 20:25:49 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1059</guid>
+          <source url=".../forum-archive/t/how-to-find-out-the-type-of-client-and-version/1059.rss">How to find out the type of client and version</source>
+        </item>
+        <item>
+          <title>How to generate debug files through the BitBay Markets Client</title>
+          <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <blockquote>
+              <p>When a problem with the client occurs, it can be very helpful to create a debug file for it. This clarifies the issue and allows the program’s developers to find or create a solution to that problem.</p>
+<h2>Step 1:</h2>
+<p>First, you must activate the debugger within the client. To do this, go to the client homepage and click settings &gt; general settings.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/5e1c575942297eb7e1d5a2fb04d42e3b173699ce.png" data-download-href=".../forum-archive/uploads/default/5e1c575942297eb7e1d5a2fb04d42e3b173699ce" title="1.png"><img src=".../forum-archive/uploads/default/optimized/1X/5e1c575942297eb7e1d5a2fb04d42e3b173699ce_1_690x471.png" alt="1" width="690" height="471"><div class="meta">
+<span class="filename">1.png</span><span class="informations">1318x900 36.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>Next, click the <strong>Create Debug File on Exit</strong> box.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/da131b4c0cfa389c7530bd3a0f776d367fc49e38.png" data-download-href=".../forum-archive/uploads/default/da131b4c0cfa389c7530bd3a0f776d367fc49e38" title="2.png"><img src=".../forum-archive/uploads/default/optimized/1X/da131b4c0cfa389c7530bd3a0f776d367fc49e38_1_690x429.png" alt="2" width="690" height="429"><div class="meta">
+<span class="filename">2.png</span><span class="informations">1328x826 18.6 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>Step 2:</h2>
+<p>Next, you must restart the client for the changes to take effect. Simply close out of BitBay, wait a few moments for it to properly shut down, then re-open it.</p>
+<h2>Step 3:</h2>
+<p>Now that the debugger is activated, you must recreate the original problem that was encountered. Make sure the client is 100% synced after reopening, then follow the original steps that were taken leading up to the problem you first encountered.</p>
+<h2>Step 4:</h2>
+<p>Once you have successfully recreated the problem, you can close out of the client to create the <code>debug.txt</code> and <code>debug.log</code> files.</p>
+<h2>Step 5:</h2>
+<p>Now that the <code>debug.txt</code> and <code>debug.log</code> files have been created, you can find them here:</p>
+<p><strong>debug.txt:</strong><br>
+– Windows default location <code>c:\bitbay</code> folder<br>
+– MAC default location <code>Applications &gt; BitBay (right click) &gt; Show package contents &gt; Drive C &gt; BitBay</code></p>
+<p><strong>debug.log:</strong><br>
+– Windows default location <code>c:\bitbay\bitbaydata</code> folder<br>
+– MAC default location <code>Applications &gt; BitBay (right click) &gt; Show package contents &gt; Drive C &gt; BitBay &gt; bitbaydata</code></p>
+<h2>NOTES</h2>
+<p><strong><em>You may be wondering, how are the debug.txt and debug.log files different from each other?</em></strong></p>
+<p><strong>Debug.txt</strong> is a file that contains contains information on any bugs that are affecting the BitBay client. This file is solely related to the software itself, and not the blockchain.</p>
+<p><strong>Debug.log:</strong> contains information that is specifically related to the blockchain, such as syncing, sending/receiving transactions, and staking.</p>
+<p>With both of these files, the developers can see what sort of bugs are occurring, and fix them.</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096</link>
+          <pubDate>Tue, 13 Feb 2018 02:41:52 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1096</guid>
+          <source url=".../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096.rss">How to generate debug files through the BitBay Markets Client</source>
+        </item>
+        <item>
+          <title>How do I install mobile wallet APK on android</title>
+          <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <blockquote>
+              <p>Until the google play store releases the wallet for download we have made it available for download on our own downloads section.</p>
+<p>Download the APK to your phone</p>
+<p>Go to the android <strong>downloads</strong> folder (default folder where downloads go)</p>
+<p>Click on the .apk you just download</p>
+<p>If you get a <strong>unknown sources</strong> problem please do the following steps first and click on .apk file again</p>
+<p>For newer version of Android OS<br>
+Step 1 – Go to Settings.<br>
+Step 2 – Go to Security.<br>
+Step 3 – Scroll down and check “Unknown sources” box.<br>
+Step 4 – Tap “OK” when it show the warning.</p>
+<p>The above steps might differ from the above depending on the actual distribution or modifications done on your phone.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/how-do-i-install-mobile-wallet-apk-on-android/1100">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/how-do-i-install-mobile-wallet-apk-on-android/1100</link>
+          <pubDate>Wed, 14 Feb 2018 18:33:30 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1100</guid>
+          <source url=".../forum-archive/t/how-do-i-install-mobile-wallet-apk-on-android/1100.rss">How do I install mobile wallet APK on android</source>
+        </item>
+        <item>
+          <title>How to buy anything using the “Buy/Sell Anything” Template</title>
+          <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <blockquote>
+              <p><strong><em>This template is great for buying or selling crypto and fiat currencies, goods, or anything of value - All peer-to-peer, without middlemen or high fees.</em></strong></p>
+<h1>***<strong>Note: Before creating any contract, please make sure your client has synced 100%, and both keys are loaded.</strong>
+</h1>
+<h1><strong>Step 1:</strong></h1>
+<p>First click on the “Buy/Sell Anything” icon, located on the homepage of the client.<br>
+Then select the “Buy Something” option within the following pop-up window.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/be88970e9133e601138bc6d6dc7665a43a2143fd.png" data-download-href=".../forum-archive/uploads/default/be88970e9133e601138bc6d6dc7665a43a2143fd" title="#1.png"><img src=".../forum-archive/uploads/default/optimized/1X/be88970e9133e601138bc6d6dc7665a43a2143fd_1_686x500.png" alt="%231" width="686" height="500"><div class="meta">
+<span class="filename">#1.png</span><span class="informations">1978x1440 171 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h1><strong>Step 2:</strong></h1>
+<p>Enter the description of the item you wish to buy, and upload an image. Be specific. The more<br>
+information you provide, the easier it is for seller’s to know exactly what you are looking for.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/0b9108e9ad404d6d2439fbaaf63b14c7fc307b29.png" data-download-href=".../forum-archive/uploads/default/0b9108e9ad404d6d2439fbaaf63b14c7fc307b29" title="#2.png"><img src=".../forum-archive/uploads/default/optimized/1X/0b9108e9ad404d6d2439fbaaf63b14c7fc307b29_1_502x500.png" alt="%232" width="502" height="500"><div class="meta">
+<span class="filename">#2.png</span><span class="informations">1394x1386 32.5 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h1><strong>Step 3:</strong></h1>
+<p>Select “Normal Sale”, and enter the amount that you would like for payment. You can either<br>
+enter an amount in $BAY or USD, depending on your preference. The contract will automatically<br>
+convert it to $BAY for completion of the contract.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/5473cdfa4288abac902cec877f6ed50f8c99742b.png" data-download-href=".../forum-archive/uploads/default/5473cdfa4288abac902cec877f6ed50f8c99742b" title="#3.png"><img src=".../forum-archive/uploads/default/optimized/1X/5473cdfa4288abac902cec877f6ed50f8c99742b_1_690x167.png" alt="%233" width="690" height="167"><div class="meta">
+<span class="filename">#3.png</span><span class="informations">758x184 14.8 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h1><strong>Step 4:</strong></h1>
+<p><strong><em>This is very important</em></strong> . Choose how you want to arrange the deposits. There are <strong>four</strong> options .</p>
+<p><strong>First Option:</strong> You can have the client use a <strong><em>recommended setting</em></strong> . The recommended setting makes<br>
+each party deposit an amount equal to the value of the item being purchased. There is a set duration<br>
+of 45 days to complete the transaction. In most cases, this is a great way to structure the deposits.<br>
+<img src=".../forum-archive/uploads/default/original/1X/2d2a8b090194350cbcf3bf422ee02b5c6cb77b9c.png" alt="%234" width="430" height="182"></p>
+<p><strong><em>Second option:</em></strong> You may also select a <strong><em>custom deposits</em></strong> option. This will allow you to structure the<br>
+two deposits individually based on you or the seller’s risk tolerance. It will also allow you to set a<br>
+specific time duration for completion of the transaction. (this option can be useful if one party<br>
+doesn’t own enough BAY to cover the purchase amount)</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/cdd0acf6be469de0c57b3f01c73505548061a9d1.png" data-download-href=".../forum-archive/uploads/default/cdd0acf6be469de0c57b3f01c73505548061a9d1" title="#5.png"><img src=".../forum-archive/uploads/default/optimized/1X/cdd0acf6be469de0c57b3f01c73505548061a9d1_1_690x318.png" alt="%235" width="690" height="318"><div class="meta">
+<span class="filename">#5.png</span><span class="informations">740x342 4.03 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p><strong>Third option:</strong> If the seller does not own any BAY for a deposit, simply select <strong><em>“Make Me A Guarantor”</em></strong>.<br>
+With this scenario, you (the buyer) will lock in a deposit of BAY equal to the item’s value, and the<br>
+seller will send you the item first.</p>
+<p><img src=".../forum-archive/uploads/default/original/1X/dca44f02384b4c88e05ff05987b4ce26dcc6e190.png" alt="%236" width="430" height="180"></p>
+<p>Fourth option: If you (the buyer) do not currently own any BAY for a deposit, simply select <em><strong>“Make</strong></em><br>
+<em><strong>Them A Guarantor”</strong></em>. With this scenario, the seller will lock in a deposit of BAY equal to the payment<br>
+amount you are sending, and you will send them your payment first.</p>
+<p><img src=".../forum-archive/uploads/default/original/1X/d18a82ea22f0bb0857d12816ec6f942820ae6838.png" alt="image4" width="430" height="182"></p>
+<p>***<strong>Note: Setting up contracts with custom deposits and/or Guarantors places more risk on either</strong><br>
+<strong>the buyer or seller. We strongly suggest that both parties fully understand these risks before</strong><br>
+<strong>proceeding. If these risks are unclear, the “Recommended Deposits and Settings” option should be</strong><br>
+<strong>used.</strong></p>
+<h1><strong>Step 5:</strong></h1>
+<p>Review the information for your contract. You have the option post your contract to the BitBay<br>
+marketplace, or create your own private marketplace. The BitBay marketplace is public and will give<br>
+your contract the most exposure to potential sellers. The private marketplace can only be visible to<br>
+those you share it with. Click <strong><em>“Confirm Order”</em></strong> to proceed.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/b0b994ca32c39dcbd61bb6cdd4603f09a9bcb5f8.png" data-download-href=".../forum-archive/uploads/default/b0b994ca32c39dcbd61bb6cdd4603f09a9bcb5f8" title="#8.png"><img src=".../forum-archive/uploads/default/optimized/1X/b0b994ca32c39dcbd61bb6cdd4603f09a9bcb5f8_1_507x500.png" alt="%238" width="507" height="500"><div class="meta">
+<span class="filename">#8.png</span><span class="informations">1414x1394 18 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h1><strong>Step 6:</strong></h1>
+<p>After clicking <strong><em>“Confirm Order”</em></strong>, You will have a chance to review the exchange rates one last<br>
+time, and will be asked to enter the passwords for both keys. The contract will show up in the<br>
+BitBay marketplace shortly after.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/e8057bd5e32f1f3142ff51bfe62adb9418d53b9d.png" data-download-href=".../forum-archive/uploads/default/e8057bd5e32f1f3142ff51bfe62adb9418d53b9d" title="#9.png"><img src=".../forum-archive/uploads/default/optimized/1X/e8057bd5e32f1f3142ff51bfe62adb9418d53b9d_1_690x346.png" alt="%239" width="690" height="346"><div class="meta">
+<span class="filename">#9.png</span><span class="informations">2818x1416 314 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h1><strong>Step 7:</strong></h1>
+<p>When somebody sends you an offer, the client will notify you (and even send an email if desired).<br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/3481678cbfcb4139bade4467a1202ae967c5840c.png" data-download-href=".../forum-archive/uploads/default/3481678cbfcb4139bade4467a1202ae967c5840c" title="#10.png"><img src=".../forum-archive/uploads/default/optimized/1X/3481678cbfcb4139bade4467a1202ae967c5840c_1_690x345.png" alt="%2310" width="690" height="345"><div class="meta">
+<span class="filename">#10.png</span><span class="informations">2834x1420 191 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>Then, you can accept the offer under the “pending offers” tab.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/a50d9e20746f344b2bdabd6b272af397950bb15c.png" data-download-href=".../forum-archive/uploads/default/a50d9e20746f344b2bdabd6b272af397950bb15c" title="#11.png"><img src=".../forum-archive/uploads/default/optimized/1X/a50d9e20746f344b2bdabd6b272af397950bb15c_1_690x195.png" alt="%2311" width="690" height="195"><div class="meta">
+<span class="filename">#11.png</span><span class="informations">1926x546 46.6 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p><strong>Then:</strong></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/712c65a9ed7d8cb41da82dbf7bc9de2eba07eeec.png" data-download-href=".../forum-archive/uploads/default/712c65a9ed7d8cb41da82dbf7bc9de2eba07eeec" title="#12.png"><img src=".../forum-archive/uploads/default/optimized/1X/712c65a9ed7d8cb41da82dbf7bc9de2eba07eeec_1_506x500.png" alt="%2312" width="506" height="500"><div class="meta">
+<span class="filename">#12.png</span><span class="informations">1428x1410 94.2 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h1><strong>Step 8:</strong></h1>
+<p>Once you have accepted the offer, the seller will then ship you the item. After you receive the<br>
+item, both parties will have to complete the contract on either end.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/679eda8329d415306906a206273bf636f8555782.png" data-download-href=".../forum-archive/uploads/default/679eda8329d415306906a206273bf636f8555782" title="#13.png"><img src=".../forum-archive/uploads/default/optimized/1X/679eda8329d415306906a206273bf636f8555782_1_690x132.png" alt="%2313" width="690" height="132"><div class="meta">
+<span class="filename">#13.png</span><span class="informations">1960x376 22.4 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/c9358f86831bdc5323beebe32a9da5232ec26bc8.png" data-download-href=".../forum-archive/uploads/default/c9358f86831bdc5323beebe32a9da5232ec26bc8" title="#13.png"><img src=".../forum-archive/uploads/default/optimized/1X/c9358f86831bdc5323beebe32a9da5232ec26bc8_1_690x345.png" alt="%2313" width="690" height="345"><div class="meta">
+<span class="filename">#13.png</span><span class="informations">2818x1412 186 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>At this point, the transaction is complete. You can also check under history tab for transaction<br>
+confirmation.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/how-to-buy-anything-using-the-buy-sell-anything-template/1128">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/how-to-buy-anything-using-the-buy-sell-anything-template/1128</link>
+          <pubDate>Mon, 19 Feb 2018 22:58:45 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1128</guid>
+          <source url=".../forum-archive/t/how-to-buy-anything-using-the-buy-sell-anything-template/1128.rss">How to buy anything using the “Buy/Sell Anything” Template</source>
+        </item>
+        <item>
+          <title>Installation and Updating</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <h2>1) How do you install and load the Client on linux?</h2>
+<p>Download the tar.gz file found on the <a href="https://bitbay.market/downloads">website downloads page</a>. Extract the file with an app like Archive Manager.<br>
+Then open a terminal and navigate to the BitBay directory. On some Linux systems you are able to click on BitBay.sh or else you can go to the command prompt type:<br>
+./BitBay.sh<br>
+<br></p>
+<h2>2) Can I migrate from the QT wallet to the Market wallet?</h2>
+<p>No. You need to install the Market client, sync it, and send your coins from your QT wallet to your new account you create in your Client. The Client does not utilize the wallet.dat file found in the QT wallet to backup your account!<br>
+<br></p>
+<h2>3) How do I backup my wallet?</h2>
+<p>Everything you need to know about backing up your QT wallet can be found here: <a href="https://www.youtube.com/watch?v=jGXf2xFyWaE&amp;t=2s">https://www.youtube.com/watch?v=jGXf2xFyWaE&amp;t=2s</a><br>
+<br></p>
+<h2>4) Where is my wallet on my Mac? I saved the keys but now I can’t find them.</h2>
+<p>Your blockchain files and program files are stored INSIDE the application package. For this reason you should always pay attention to where you save your keys. And ALWAYS back-up your account. Remember, your account is your responsibility. To see inside the application package just right click on it and go to “Show package contents”.<br>
+<br></p>
+<h2>5) How do I update to a newer version on the Mac client?</h2>
+<p>When an update is ready, you will be asked to downloads the windows updater. Then you navigate to the Mac application and “Show Package contents”. Run WineSkin inside of it. Then have WineSkin run the installer you just downloaded. It will update normally. Then it may tell you that no “new executables” were found. You can ignore that message as your software is now up to date.<br>
+<br></p>
+<h2>6) Is there any way to get around downloading the entire Blockchain through the client?</h2>
+<p>Yes! Check out bitbay.market/downloads and find the “bootstrap” blockchain download. Note: this doesn’t work for Mac users however you can contact us for a prebuilt package that will save you time synchronizing.<br>
+<br></p>
+<h2>7) How is the market moderated?</h2>
+<p>There is only one ‘default’ marketplace called “BitBay”. Everyone by default becomes a member to this market when they install the Client. This market will be kept clean of any illegal activity like selling drugs to the best of the abilities of volunteer mods and users. Remember just like the internet, this is a protocol with a user interface. We also do not escrow transactions. This means you must be familiar with the laws pertaining to the contracts you create, the exact same way you would do so with any contract you make on paper.<br>
+If you want to create a private market, by all means, create as many as you want. If you create a private market called “Bob’s market” then you probably run the risk of it not being so private as anyone else who creates “Bob’s market” will also be on that market and can post items on it. Yet if you create a market called “Kskg89f6wDKGU7s9hjs&amp;DKBF78sgjn” the odds are that no one else will know that market exists unless you tell them it exists.<br>
+We want this protocol to provide a way for e-commerce to function in a serveress environment on a global scale. Therefore, we want to keep it clean of illegal activity, yet at the same time we can’t moderate what we can’t see. We can issue moderation keys available by request to any person or agency interested in removing markets. We hope that this will make it self-governing. Also your IP address is encrypted and sent in every offer. This means anyone else subscribed to the markets could decrypt it if they are holding one of these keys. This is meant to prove our intent that we truly want to popularize serverless commercial internet services.<br>
+We can program this protocol design to anything we desire (majority consensus of course). Users could easily set up public markets that are specific to geographics. For example, if there is a country where different laws apply, then they could create a market eccentric to that country and moderated by the merchants from that market (they could be voted into power by the voting consensus feature built into the Client). So merchants from a specific country could create a market called “BitBay Netherlands” These merchants could sell whatever is legal in the Netherlands to clientele in the Netherlands. It would be up to them to take the risk if they transact with clientele outside of the country that could potentially be illegal elsewhere.</p>
+<p>The private markets are decentralized and cannot be moderated if we can’t see them. If something is brought to our attention we can give out the moderation key to parties interested in volunteering to keep the markets commercial. The public markets like “BitBay” are decentralized for legal commerce and monitored for illegal activity by the users themselves. A moderator cannot prevent a post before it happens although a moderator can remove a market, ban a user’s IP address, their wallet and various other identifying information such as their public key.<br>
+<br></p>
+<h2>8) Is there a feature list of BitBay Client somewhere?</h2>
+<p>Yes. You can find the latest feature list at <a href="https://bitbay.market/features/">https://bitbay.market/features/</a><br>
+<br></p>
+<h2>9) Is there a way to generate paper wallet for Bay?</h2>
+<p>Yes. And the beauty of it – there’s no need for 3rd party software! Just print out your key1.private and key2.private files. Easy to follow video tutorial: <a href="https://youtu.be/MmjW0lp6hCE">https://youtu.be/MmjW0lp6hCE</a><br>
+<br></p>
+<h2>10) What will be the price of 1 Bay in x time?</h2>
+<p>No one knows for sure. Bay team does not speculate on price. Bay is one of<br>
+the safest long term holds you can find. Many projects are priced based on roadmaps. And you can never know if they will be fulfilled. We have already developed more than most other coins have on their roadmap. <a href="https://bitbay.market/roadmap">https://bitbay.market/roadmap</a><br>
+<br></p>
+<h2>11) Is there a block explorer for Bay?</h2>
+<p>Yes we have our own block explorer which you can find at <a href="https://explorer.bitbay.market">https://explorer.bitbay.market</a><br>
+<br></p>
+<h2>12) What is a dynamic rolling peg?</h2>
+<p>Think of the rolling peg like a stabiliser. It will make the price of Bay behave<br>
+much more like a big mature market like commodities, blue chip stocks, forex. This is done by controlling the coin supply. If there is too much sell pressure, we freeze a certain percent of the coin supply. This creates two balances for most users. Liquid and Frozen. The amount you have frozen depends on the time you received and spent the coins. This makes it fair for everyone. You can move frozen coins however the exchange will not let you sell them. To move a frozen it is “slowed” down by forcing a delay of one month per movement. This creates a wonderful advantage of being able to use the frozen coins as a sort of bond, future, trustless loan and so forth.<br>
+<br></p>
+<h2>13) After the release of the rolling peg, is it possible to sell frozen coins?</h2>
+<p>Yes, as explained above the coins can be moved with a one month delay. The value/price of a frozen coin may not be the same as a liquid one, however it can be an excellent way to get coins at a discount or exchange for liquid coins.<br>
+<br></p>
+<h2>14) Will selling frozen coins create a futures market?</h2>
+<p>Yes, the rolling peg will create one of the most lucrative trading games in the entire exchange industry! This will create a great opportunity for speculators and investors to buy cheap coins in hopes that upon maturity, the time-locked coins will reward profits.<br>
+<br></p>
+<h2>15) What is the total coin supply for BitBay?</h2>
+<p>At the initial launch of BitBay the total coin supply was 1 billion. This increases over time as the coin increases in coin supply by 1% annually. To find the current total coin supply you can visit: <a href="http://coinmarketcap.com/currencies/bitbay/">http://coinmarketcap.com/currencies/bitbay/</a><br>
+<br></p>
+<h2>16) What is market cap and what is the current market cap of BitBay?</h2>
+<p>Market cap is determined by this formula: price * supply = market cap<br>
+You can find the current market cap here: <a href="http://coinmarketcap.com/currencies/bitbay/">http://coinmarketcap.com/currencies/bitbay/</a><br>
+<br></p>
+<h2>17) What exchanges is BitBay listed on?</h2>
+<p>You can see this at the bottom of our homepage <a href="https://bitbay.market/">https://bitbay.market/</a>.<br>
+<br></p>
+<h2>18) What is a smart contract?</h2>
+<p>There is not one definition that everyone agrees on. But “a contract that executes itself” is one common definition. BitBay does not require the need for a 3rd party escrow service for the marketplace to function. The “Double Deposit Escrow” system in BitBay is controlled solely through the Client’s protocol. Without the middleman needed anymore – everyone wins! Double deposit escrow shares similarities with old game theory ideas like Nash equilibrium, mutually assured destruction, ultimatum game, etc. But it had never in history been accomplished in a way that people could use it until now.<br>
+<br></p>
+<h2>19) Is BAY the sole coin that has double escrow deposit?</h2>
+<p>David Zimbeck is the creator of the Halo Client, which is the only software to date that utilizes an escrow system that doesn’t require a middleman to manage. He first began the project by working on BitHalo (Bitcoin based) and BlackHalo (Blackcoin based). When BitBay was created he was to license the Halo protocol to the original founders. After they abandoned the coin David took full reigns of developing BitBay. All new features to the Halo Client will be exclusive to BitBay. BitBay will be the only coin to implementing the decentralized rolling peg. BitHalo/BlackHalo will only utilize the contract templates (after BitBay has released all its remaining features and allowed for maximum impact for investors) and receive bug fixes.</p>
+<p>All new features will be exclusive to BitBay since this is where the community is. BitHalo does have a large following but not as many users. So it may be years until they are given the remaining templates and everything will be contingent on the success of the BitBay project. It should be noted that Halo is still the ONLY protocol in the world that does smart contracts.<br>
+<br></p>
+<h2>20) Does BitBay scale well?</h2>
+<p>Scalability is probably the most important aspects of any cryptocurrency. Ethereum’s blockchain currently increases by many gigs a day and that number is growing by the week. At this rate they could surpass Bitcoin’s chain data size. Ethereum currently has no solution to scale their system in a decentralized manner, yet investors believe it to be worth over a 30 billion dollar market cap. One of the main aspects of cryptocurrency is to provide to the world with the ability to transact with others in a decentralized environment! David foresaw the dangers of blockchain bloat before he even began to code Halo. He is a firm believer that the blockchain should be utilized only as an accounting ledger. Therefore, when he was coding Halo, he devised a way in which he utilizes the bitmessage protocol <a href="https://bitmessage.org">https://bitmessage.org</a> to carry the weight of hosting the marketplace. Bitmessage is trustless and decentralized and arguably more anonymous than tor. This way we can keep our blockchain bloat free from unnecessary items that have no reason to be stored on the blockchain. As cryptocurrency technology evolves the issue of blockchain bloat will become less of a concern. The segwit lightning network is a perfect example. With the lightning network cryptocurrency can now complete transactions off the blockchain. Granted there are a few security issues that still need to be addressed, but for the most part, in the near future we will see this technology evolve to a point where it can help crypto remain under the Moore’s law principle (except for Ethereum :). It may be possible once we see a strong lightning implementation to leverage our frozen coins to scale a much more decentralized and fair lightning network. In addition to our own research, we are waiting for research to mature in this field.<br>
+<br></p>
+<h2>21) Will BitBay run into the same political gridlock issue that Bitcoin is currently facing?</h2>
+<p>No – BitBay is the first coin to implement a user friendly decentralized voting consensus built into the Client. The majority vote can dictate the future of the coin, since it utilizes the staking protocol by attaching votes to stake rewards, the majority vote is determined by the most powerful stake mining consensus, therefore, there is no fear of a fork being created by the minority and disrupting the coin.<br>
+<br></p>
+<h2>22) How is the fiat price of BitBay truly determined? What is a buy or sell wall?</h2>
+<p>The price of almost everything in this world is determined by supply and demand. The lower supply and the higher demand drives a high price. The larger the size of the BitBay community and the larger the volume the more this drives demand. Currently, BitBay can be bought peer to peer through the software and that doesn’t affect the market price greatly. On different cryptocurrency exchanges, you can see people who bid on the price on BitBay in exchange for Bitcoin for example. They may keep their coins off the exchange and only deposit for purchases or sales. However some people who trade the currency full time will place orders or sometimes called “walls”. These orders may be lower than the current price or higher than the current price. If someone wants to buy 10 Bitcoins of BitBay at 5% lower than the current market price that would create a “wall” because in order to drop the price of the currency, someone would need that much BitBay to fill their entire order. This is why the rolling peg will be so effective. As we can set a dynamic supply that adjusts properly to the volume, orders and demand.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/installation-and-updating/36">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/installation-and-updating/36</link>
+          <pubDate>Wed, 29 Nov 2017 09:40:03 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-36</guid>
+          <source url=".../forum-archive/t/installation-and-updating/36.rss">Installation and Updating</source>
+        </item>
+        <item>
+          <title>Voting Tutorial for BitBay&#39;s Client</title>
+          <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <blockquote>
+              <p><strong>BitBay’s Decentralized Voting UI marks yet another amazing feature of the advanced BitBay Client.  The voting works thanks to blockchain technology so votes are 100% transparent and trustworthy.</strong></p>
+<p><em>***Note: The <strong>BitBay Markets Client</strong> must be <strong>downloaded</strong> and <strong>100% synchronized to the blockchain</strong>.  In order to vote, you must be holding coins in the Client wallet, and that wallet must be unlocked with staking enabled (<a href=".../forum-archive/t/staking-and-synchronizing/35">see staking tutorial</a>).  Anyone can vote; the more coins you have stored on your Client the stronger your voting power becomes. This is due because all votes attach themselves to staked block rewards (which are received at random intervals based on coin balance).</em></p>
+<h1>Step 1:</h1>
+<p>Within the Client simply go to the Settings tab -&gt; General Settings -&gt; Mining/Staking and Voting (tab).</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/f76b0432b0d7ee660520063eef3de1c7e5b6f8a8.png" data-download-href=".../forum-archive/uploads/default/f76b0432b0d7ee660520063eef3de1c7e5b6f8a8" title="Screen Shot 2018-03-26 at 1.48.37 PM.png"><img src=".../forum-archive/uploads/default/optimized/1X/f76b0432b0d7ee660520063eef3de1c7e5b6f8a8_1_512x500.png" alt="37%20PM" width="512" height="500"><div class="meta">
+<span class="filename">Screen Shot 2018-03-26 at 1.48.37 PM.png</span><span class="informations">1360x1328 13.5 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h1>Step 2:</h1>
+<p>Next, click the “Add Vote” button and enter the subject of your vote.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/398919b02b2143764fba654a93f83a9cbe0a2cbb.png" data-download-href=".../forum-archive/uploads/default/398919b02b2143764fba654a93f83a9cbe0a2cbb" title="Screen Shot 2018-03-26 at 1.53.02 PM.png"><img src=".../forum-archive/uploads/default/optimized/1X/398919b02b2143764fba654a93f83a9cbe0a2cbb_1_690x481.png" alt="02%20PM" width="690" height="481"><div class="meta">
+<span class="filename">Screen Shot 2018-03-26 at 1.53.02 PM.png</span><span class="informations">1354x944 27.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>As an example: If a vote was taking place to answer a “yes/no question”, then the people who vote for “yes” would enter “yes” and those who vote “no” would enter “no”. It is a maximum of 20 characters (lower cases only, it is case sensitive). Everyone must vote using an <strong>identical string of characters</strong> so that it gets counted.</p>
+<p>It helps to make the character string unique, because the burn address that counts the votes is generated based on that string. So the string must be as unique as possible to not have your poll affected by other concurrent open polls of other Bitbay users (in case they do a nearly identical poll with similar vote strings).</p>
+<p>An example of a character string would be write “yes” or “no” + other unique characters to differentiate your votes like “yes175feUndw456sefeG” &amp; “no175feUndw456sefeGb”. Also make note of when the voting period begins and ends so that you can later count the votes accurately.</p>
+<p><img src=".../forum-archive/uploads/default/original/1X/f4d16380c53d0bb36bdb30375e5e0e4a3c06ef5c.png" alt="20%20AM" width="562" height="232"></p>
+<h1>Step 3:</h1>
+<p>The Client will then ask you how many times you wish to vote.  <strong>All votes cost 0.000005554 BAY</strong>.</p>
+<p>Enter the desired amount of votes to cast and you are complete.  Remember, your Client must be staking in order to cast votes (<a href=".../forum-archive/t/staking-and-synchronizing/35">see staking tutorial</a>). Votes do not immediately tally into the system.  Once you’ve cast the total of votes you wish to add, these votes will attach themselves to any future blocks you find while your Client stakes.</p>
+<p>You must keep you Client <strong>open and staking</strong> in order for it to continue to add votes to your choice.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/ec740183e7df5aa343b3d4f340e33281ccb13c17.png" data-download-href=".../forum-archive/uploads/default/ec740183e7df5aa343b3d4f340e33281ccb13c17" title="Screen Shot 2018-03-27 at 4.13.48 AM.png"><img src=".../forum-archive/uploads/default/optimized/1X/ec740183e7df5aa343b3d4f340e33281ccb13c17_1_690x384.png" alt="48%20AM" width="690" height="384"><div class="meta">
+<span class="filename">Screen Shot 2018-03-27 at 4.13.48 AM.png</span><span class="informations">1356x756 13.4 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h1>Step 4:</h1>
+<p>You will be able to count the votes applied to each option by clicking on the “Count Vote” option in the same window.  Make a note of which block starts and ends in the previously agreed voting duration to see the most accurate count. You can use the blockchain explorer to track everyone’s votes, as all votes are transferred to a burn address on the blockchain.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/voting-tutorial-for-bitbays-client/1241">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/voting-tutorial-for-bitbays-client/1241</link>
+          <pubDate>Tue, 27 Mar 2018 11:16:38 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1241</guid>
+          <source url=".../forum-archive/t/voting-tutorial-for-bitbays-client/1241.rss">Voting Tutorial for BitBay&#39;s Client</source>
+        </item>
+        <item>
+          <title>Creating a bitbay.conf for better network connections</title>
+          <dc:creator><![CDATA[@Craig Craig]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/craig">@Craig</a> wrote:</p>
+            <blockquote>
+              <p>The Client wallet already has a bitbay.conf file that can be found in your BitBay directory inside the bitbaydata folder<br>
+Default bitbay data folder locations<br>
+windows client <code>C:\BitBay\bitbaydata</code><br>
+windows QT client <code>c:\Users\YOURUSERNAME\appdata\roaming\bitbay</code><br>
+linux QT client <code>~/.bitbay</code><br>
+mac QT client <code>~/Library/Application Support/BitBay</code></p>
+<p>If you are still having trouble connecting to the network with the Client, then you can update the addnode list from the block explorer.<br>
+<a href="https://chainz.cryptoid.info/bay/#!network" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/#!network</a><br>
+Click on the ‘node list’ from BitBay 2.0.0  and copy and paste those ‘fresh’ nodes to your bitbay.conf file (replacing the old addnodes) then save the file.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/cc88b828b9b4f66d19872c092b146e3e1519b894.png" data-download-href=".../forum-archive/uploads/default/cc88b828b9b4f66d19872c092b146e3e1519b894" title="node.list.png"><img src=".../forum-archive/uploads/default/optimized/1X/cc88b828b9b4f66d19872c092b146e3e1519b894_1_673x500.png" alt="list" width="673" height="500"><div class="meta">
+<span class="filename">node.list.png</span><span class="informations">1149x853 108 KB</span><span class="expand"></span>
+</div></a></div></p>
+<hr>
+<p>The QT wallet doesn’t come with a bitbay.conf file by default. You have to add it manually.<br>
+You can do this with a text editor.</p>
+<p>Copy this text (below) into a text editor and then add the nodes from the instructions above to have a fresh list of nodes connected to the network The final configuration file should look something like this:</p>
+<p>server=1<br>
+rpcuser=bitbayrpc<br>
+rpcpassword=4c80db0bfc751aaadba16bb8ed2c9f050d00952b476b83cc96e24909c06625b3<br>
+rpcport=19915<br>
+addnode=106.68.83.218<br>
+addnode=107.218.48.181<br>
+addnode=108.241.58.211<br>
+addnode=108.248.114.128<br>
+addnode=108.61.163.182<br>
+addnode=109.192.193.55<br>
+addnode=110.140.10.208<br>
+addnode=110.140.113.210<br>
+addnode=111.61.66.8<br>
+addnode=112.134.181.123<br>
+addnode=112.134.181.150<br>
+addnode=112.134.181.158<br>
+addnode=112.134.196.39<br>
+addnode=115.189.83.223<br>
+addnode=115.189.87.4<br>
+addnode=123.231.121.218<br>
+addnode=131.217.255.204<br>
+addnode=134.146.0.4<br>
+addnode=134.17.133.106<br>
+addnode=139.195.109.233<br>
+addnode=143.159.89.215<br>
+addnode=145.130.170.169<br>
+addnode=146.199.80.250<br>
+addnode=151.80.186.24<br>
+addnode=165.227.101.30<br>
+addnode=172.116.88.221<br>
+addnode=173.244.48.20<br>
+addnode=173.245.67.21<br>
+addnode=173.52.218.100<br>
+addnode=174.24.225.141<br>
+addnode=174.50.118.218<br>
+addnode=174.87.230.250<br>
+addnode=176.150.146.190<br>
+addnode=176.250.209.173<br>
+addnode=178.190.17.123<br>
+addnode=178.63.60.137<br>
+addnode=178.78.92.212<br>
+addnode=180.191.81.79<br>
+addnode=180.230.181.176<br>
+addnode=183.197.36.121<br>
+addnode=185.34.230.143<br>
+addnode=188.113.196.196<br>
+addnode=188.113.202.168<br>
+addnode=188.113.206.224<br>
+addnode=188.138.200.113<br>
+addnode=188.241.58.126<br>
+addnode=195.181.242.206<br>
+addnode=196.54.41.17<br>
+addnode=196.54.41.27<br>
+addnode=196.54.41.32<br>
+addnode=196.54.41.4<br>
+addnode=196.54.41.49<br>
+addnode=196.54.41.53<br>
+addnode=199.167.137.82<br>
+addnode=199.66.91.231<br>
+addnode=2.84.121.244<br>
+addnode=201.166.110.82<br>
+addnode=202.51.88.8<br>
+addnode=203.220.93.76<br>
+addnode=203.247.211.83<br>
+addnode=206.231.121.84<br>
+addnode=208.157.168.106<br>
+addnode=212.251.180.141<br>
+addnode=213.152.161.117<br>
+addnode=213.226.252.11<br>
+addnode=213.87.126.131<br>
+addnode=217.101.38.151<br>
+addnode=217.121.104.80<br>
+addnode=219.249.42.189<br>
+addnode=219.75.59.105<br>
+addnode=222.99.69.142<br>
+addnode=223.73.234.222<br>
+addnode=24.18.144.218<br>
+addnode=24.48.51.217<br>
+addnode=24.96.192.15<br>
+addnode=31.35.224.182<br>
+addnode=35.176.20.98<br>
+addnode=36.84.29.113<br>
+addnode=36.84.29.84<br>
+addnode=37.201.224.31<br>
+addnode=37.33.66.123<br>
+addnode=37.48.116.236<br>
+addnode=39.109.134.176<br>
+addnode=40.112.149.192<br>
+addnode=45.32.49.83<br>
+addnode=45.33.105.195<br>
+addnode=46.10.119.50<br>
+addnode=46.10.13.19<br>
+addnode=46.125.41.60<br>
+addnode=46.4.37.190<br>
+addnode=47.11.11.183<br>
+addnode=47.11.13.46<br>
+addnode=47.11.14.72<br>
+addnode=47.11.5.54<br>
+addnode=47.62.147.11<br>
+addnode=47.89.188.41<br>
+addnode=5.147.42.220<br>
+addnode=5.148.127.94<br>
+addnode=5.80.197.123<br>
+addnode=50.192.87.174<br>
+addnode=50.41.196.34<br>
+addnode=61.43.49.2<br>
+addnode=62.116.48.97<br>
+addnode=62.96.91.202</p>
+<p>Save this bitbay.conf file to bitbay data folder mentioned above</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736</link>
+          <pubDate>Tue, 26 Dec 2017 14:59:37 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-736</guid>
+          <source url=".../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736.rss">Creating a bitbay.conf for better network connections</source>
+        </item>
+        <item>
+          <title>Linux Dependencies For Ubuntu Client Users</title>
+          <dc:creator><![CDATA[@Craig Craig]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/craig">@Craig</a> wrote:</p>
+            <blockquote>
+              <p>Ubuntu users require these dependencies in order for the Client to load up properly.</p>
+<p>Steps<br>
+To install openssl  - type command &gt;sudo apt install libssl1.0&lt;<br>
+Then type command  &gt;sudo apt -y install libgconf2-4&lt;</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/linux-dependencies-for-ubuntu-client-users/1647">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/linux-dependencies-for-ubuntu-client-users/1647</link>
+          <pubDate>Wed, 12 Dec 2018 21:23:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1647</guid>
+          <source url=".../forum-archive/t/linux-dependencies-for-ubuntu-client-users/1647.rss">Linux Dependencies For Ubuntu Client Users</source>
+        </item>
+        <item>
+          <title>Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
+          <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <blockquote>
+              <p>This tutorial will walk you through how to create a time locked wallet that can hold funds to be released in the future.</p>
+<p><em><strong>DISCLAIMER 1:</strong></em> You are advised to use this feature with small amounts of BAY until you completely understand the process and the implications. There is always a possibility of <strong>losing your funds</strong> if the process is not followed correctly.</p>
+<p><em><strong>DISCLAIMER 2:</strong></em> The regular client in the <a href="https://bitbay.market/downloads">downloads section of the site</a> can handle most of the details that follow. Nevertheless, this tutorial is perfect for understanding how transactions, wallets, public and private keys work.</p>
+<p>For the purpose of this tutorial we will use the following terms:</p>
+<p><strong>Time Release Address:</strong> This is the address that will be holding the funds for a set amount of time until they are released. This is also known as <strong>HODL</strong>.</p>
+<p><strong>Benefactor:</strong> This is the person sending/locking the funds.</p>
+<p><strong>Beneficiary:</strong> This is the person that will benefit/redeem the funds. They must send their <strong>Public Key</strong> to the Benefactor in order to redeem the funds.</p>
+<p>For the purpose of this tutorial both persons’ actions can be carried out by one person. We will be using the <a href="https://wallet.bitbay.market/">web wallet</a></p>
+<h1>TIME LOCKED WALLET CREATION</h1>
+<h2>1.</h2>
+<p>The beneficiary can create a <strong>regular wallet</strong> (if they don’t have one already). This is the wallet that will <strong>REDEEM</strong> the funds.  The wallet can be created from the client, or it can be an individual multisig wallet (2 of 2).</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" data-download-href=".../forum-archive/uploads/default/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a" title="01.wallet.create.png"><img src=".../forum-archive/uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" alt="create" width="514" height="500"><div class="meta">
+<span class="filename">01.wallet.create.png</span><span class="informations">792x770 17.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>2.</h2>
+<p>Under the “<strong>Receive</strong>” tab, the beneficiary will copy the <strong>Public Key</strong> of the wallet created above, then <strong>logout</strong> and send the <strong>public key</strong> to the benefactor.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a.png" data-download-href=".../forum-archive/uploads/default/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a" title="02.wallet.public.key.png"><img src=".../forum-archive/uploads/default/original/1X/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a.png" alt="key" width="690" height="319"><div class="meta">
+<span class="filename">02.wallet.public.key.png</span><span class="informations">835x387 11.1 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>3.</h2>
+<p>The benefactor selects <strong>Time Locked Address</strong> from the menu and pastes in the previously copied <strong>public key</strong>. Then select a date/time for funds release and then click <strong>Submit</strong>.  Alternatively, one can set the blockheight of release by checking the current block height using the <a href="https://chainz.cryptoid.info/bay/">explorer</a> and estimating 1 block per minute.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c.png" data-download-href=".../forum-archive/uploads/default/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c" title="03.wallet.time.locked.png"><img src=".../forum-archive/uploads/default/original/1X/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c.png" alt="locked" width="648" height="500"><div class="meta">
+<span class="filename">03.wallet.time.locked.png</span><span class="informations">793x611 24.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>For the purpose of this tutorial, the date/time is only a few minutes into the future.</p>
+<p>Here is what was used in this example, for verification:<br>
+<strong>public key</strong> <code>038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab</code><br>
+<strong>date</strong> <code>01/23/2018 12:40</code></p>
+<h2>4.</h2>
+<p>After clicking <strong>Submit</strong>, you will get the following (example info below so you can verify)</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/9806a8bb940df4cb44a01447968db332a0719ae3.png" data-download-href=".../forum-archive/uploads/default/9806a8bb940df4cb44a01447968db332a0719ae3" title="04.wallet.time.locked.submit.png"><img src=".../forum-archive/uploads/default/original/1X/9806a8bb940df4cb44a01447968db332a0719ae3.png" alt="submit" width="690" height="475"><div class="meta">
+<span class="filename">04.wallet.time.locked.submit.png</span><span class="informations">691x476 17.2 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p><strong>Wallet to send the FUNDS to:</strong><br>
+<code>bUf1UAsfU7rZ7Js7TxCAXSpuxXVSXn94ZN</code></p>
+<p><strong>Redeem script:</strong>   <code>040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac</code></p>
+<p><strong>Shareable URL:</strong><br>
+<code>https://wallet.bitbay.market/_test123_/?verify=040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac#verify</code></p>
+<p>The benefactor can now send FUNDS to the wallet above so that the beneficiary has something to REDEEM.</p>
+<p>For the purpose of this tutorial we will  send <a href="https://chainz.cryptoid.info/bay/address.dws?bUf1UAsfU7rZ7Js7TxCAXSpuxXVSXn94ZN.htm">1 BAY</a></p>
+<h2>5.</h2>
+<p>The benefactor only needs to send the <strong>Shareable URL</strong> to the beneficiary, who should STORE the <strong>shareable url</strong> or <strong>redeem script</strong> code somewhere safe (print or write it down or bookmark it).  Its <strong>VERY IMPORTANT</strong> that the beneficiary understands the importance of saving the <strong>shareable url</strong> or <strong>redeem script</strong>, otherwise the funds would stay in the TimeLock address without anyone being able to release them.</p>
+<p>The beneficiary can paste into their browser and they will be able to verify the details of this action (wallets involved and date/time of release).</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/b2b4587cea2463664035df0d3b27241d15a578e2.png" data-download-href=".../forum-archive/uploads/default/b2b4587cea2463664035df0d3b27241d15a578e2" title="05.wallet.time.locked.verify.png"><img src=".../forum-archive/uploads/default/original/1X/b2b4587cea2463664035df0d3b27241d15a578e2.png" alt="verify" width="602" height="499"><div class="meta">
+<span class="filename">05.wallet.time.locked.verify.png</span><span class="informations">709x588 18.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h1>REDEEM FUNDS</h1>
+<p>Once the future release date passes, the beneficiary can redeem the funds using the following procedure:</p>
+<h2>1.</h2>
+<p>Beneficiary will create a transaction, (menu &gt; transaction) inputing the <strong>Redeem script</strong> and clicking <strong>Load</strong>. This will load all the details of the transaction. The Beneficiary then will need to input the wallet address that will receive the redeemed funds, and the amount which will have to be a little less (0.99) than the total. This compensates for the network fee (which is calculated automatically - the difference between outputs and inputs is always the fee). Click <strong>Enter</strong> when done.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/c18b44bbb99917b7eeac3eb6dbb2867c0149b067.png" data-download-href=".../forum-archive/uploads/default/c18b44bbb99917b7eeac3eb6dbb2867c0149b067" title="01.create.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/c18b44bbb99917b7eeac3eb6dbb2867c0149b067.png" alt="transaction" width="452" height="500"><div class="meta">
+<span class="filename">01.create.transaction.png</span><span class="informations">720x796 23.6 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>2.</h2>
+<p>The transaction has been created and you can see the generated code to be used for the next step:</p>
+<p><img src=".../forum-archive/uploads/default/original/1X/e8f5e7b2a826f56e5da830fb71f747c89bdc6ca4.png" alt="transaction" width="686" height="290"></p>
+<p><strong>transaction</strong> <code>010000000a1a675a0112de2b4a11579c146f43701eb05692a35ba48d4f095448117ccc77a8301a9773000000002a040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac0000000001c09ee605000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac0011675a</code></p>
+<h2>3.</h2>
+<p>Under menu &gt; sign, the Beneficiary will then <strong>sign the transaction</strong> with their own wallet private key. The<br>
+private key can be found under the <strong>Receive</strong> tab on web wallet.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/79cc2a656450cc7a495679751f3b5b6edd4ee11e.png" data-download-href=".../forum-archive/uploads/default/79cc2a656450cc7a495679751f3b5b6edd4ee11e" title="03.sign.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/79cc2a656450cc7a495679751f3b5b6edd4ee11e.png" alt="transaction" width="690" height="444"><div class="meta">
+<span class="filename">03.sign.transaction.png</span><span class="informations">720x464 15.8 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>4.</h2>
+<p>After signing the transaction the following information is created:</p>
+<p><img src=".../forum-archive/uploads/default/original/1X/f65f03da3960c6871f30dd36da037de56fd6d0a2.png" alt="transaction" width="662" height="242"></p>
+<p><strong>signed transaction</strong> <code>010000000a1a675a0112de2b4a11579c146f43701eb05692a35ba48d4f095448117ccc77a8301a97730000000074483045022100b98759bfeec796d7a9292ae18b6f0b591ed48dac49829356f3b002394c87ff4402203e7fd949357e493c6212aff84806560572afb236cb40c8fb924a1ba2ef7c09d4012a040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac0000000001c09ee605000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac0011675a</code></p>
+<p><em><strong>Note:</strong> One can also verify the <strong>signed transaction</strong> by going to <strong>menu &gt; verify</strong></em></p>
+<h2>5.</h2>
+<p>Lastly, under <strong>menu &gt; broadcast</strong>, the Beneficiary will broadcast the <strong>signed transaction</strong>.  If successful, this will produce a transaction ID. If not successful, simply wait a few moments and try again.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1.png" data-download-href=".../forum-archive/uploads/default/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1" title="05.broadcast.signed.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1.png" alt="transaction" width="690" height="399"><div class="meta">
+<span class="filename">05.broadcast.signed.transaction.png</span><span class="informations">708x410 17.6 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>After it has been succesfully broadcast the funds will be released and the receiving address used in step 1 should see them shortly.</p>
+<h2>Final words</h2>
+<p>It is <strong>extremely important</strong> for the Beneficiary to store the <strong>shareable url</strong> or <strong>redeem script</strong> in a secure place.<br>
+<strong>There is no possible way to release the funds without them.</strong></p>
+<p>The above procedure is a very elegant way to solve many use cases, all with a few steps and sending a URL to the other party.</p>
+<ul>
+<li>Make a <strong>WILL</strong>, with the beneficiary only needing the <strong>shareable url</strong> and their own wallet’s <strong>private key</strong> to unlock it when the time comes.</li>
+<li>Lend someone FIAT or other currency/goods and get the <strong>shareable URL</strong>  (verifiable promise) to get BAY on a future date.</li>
+</ul>
+            </blockquote>
+            <p>Posts: 9</p>
+            <p>Participants: 2</p>
+            <p><a href=".../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008</link>
+          <pubDate>Tue, 23 Jan 2018 11:10:10 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1008</guid>
+          <source url=".../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008.rss">Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
+        </item>
+        <item>
+          <title>How to purchase BAY through BitBay&#39;s marketplace</title>
+          <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <blockquote>
+              <h2>Step 1:</h2>
+<p>Download and install Bitbay client software here: <a href="https://bitbay.market/downloads">https://bitbay.market/downloads</a><br>
+***<strong>NOTE: Please create multiple backups of your keys immediately after installation!</strong></p>
+<h2>Step 2:</h2>
+<p>Once the client has been downloaded, and synced 100% with the blockchain, click on the “Buy/Sell Coins” icon, located on the home tab of the client.</p>
+<p>Then select the “Buy Coins” option in following the pop-up window.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd.png" data-download-href=".../forum-archive/uploads/default/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd" title="1.png"><img src=".../forum-archive/uploads/default/optimized/1X/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd_1_690x490.png" alt="1" width="690" height="490" srcset=".../forum-archive/uploads/default/optimized/1X/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd_1_690x490.png, .../forum-archive/uploads/default/optimized/1X/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd_1_1035x735.png 1.5x, .../forum-archive/uploads/default/optimized/1X/0255e2f10b58ed9bb39e3e0b6aa4d1110f059ecd_1_1380x980.png 2x"><div class="meta">
+<span class="filename">1.png</span><span class="informations">1948x1386 162 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>Step 3:</h2>
+<p>Select either “Market Price” or “Price per coin”. Market Price will automatically calculate current exchange rates, while Price per coin will allow you to enter a custom exchange rate.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/287212dd5c2c7d4b425a002e373da51aa16fe129.png" data-download-href=".../forum-archive/uploads/default/287212dd5c2c7d4b425a002e373da51aa16fe129" title="2.png"><img src=".../forum-archive/uploads/default/original/1X/287212dd5c2c7d4b425a002e373da51aa16fe129.png" alt="2" width="519" height="500"><div class="meta">
+<span class="filename">2.png</span><span class="informations">1416x1364 30.4 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>Step 4:</h2>
+<p>Enter the amount of coins you would like to purchase. (You can also request a specific amount in US Dollars) Then set a maximum service charge that the seller pays for being a guarantor (see step 6 for full explanation)<br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/b173361457996d168eaac6b7e47a12454884545a.png" data-download-href=".../forum-archive/uploads/default/b173361457996d168eaac6b7e47a12454884545a" title="3.png"><img src=".../forum-archive/uploads/default/original/1X/b173361457996d168eaac6b7e47a12454884545a.png" alt="3" width="690" height="332"><div class="meta">
+<span class="filename">3.png</span><span class="informations">1358x654 18.5 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>Step 5</h2>
+<p><em>This is very important</em>. Choose how you want to arrange the deposits. If you do not currently own any BAY for a deposit, simply select “Request a Guarantor”. With this scenario, the seller will lock in a deposit of BAY equal to the payment amount you are sending, and you will send them your payment first. If either party cheats, both will lose, which removes economic incentives for dishonesty. Also with this scenario, the first-time buyer does take on more risk. You (the buyer) can adjust the service charge to compensate for this.</p>
+<p>It is also highly recommended that you perform your own “Know Your Customer” (KYC) verification for the other party. This can be done through requesting a copy of their ID/Driver’s License, verifying contact information, viewing their previous BitBay contract reputation, or even checking social media profiles etc.</p>
+<p>If you already own some BAY to use as a deposit, you may select the recommended option (which is an equal amount for both parties), or tailor custom deposits depending on your risk tolerance.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/984c54c95c8ecfb565959b4a593797d253c8c2b3.png" data-download-href=".../forum-archive/uploads/default/984c54c95c8ecfb565959b4a593797d253c8c2b3" title="4.png"><img src=".../forum-archive/uploads/default/original/1X/984c54c95c8ecfb565959b4a593797d253c8c2b3.png" alt="4" width="690" height="372"><div class="meta">
+<span class="filename">4.png</span><span class="informations">1384x748 19 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>Step 6:</h2>
+<p>Select your preferred payment methods. If you have any additional comments or requests regarding the transaction or other payment options, you may enter them here. Then click “Save and Continue” to review everything.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/6155d98f5534955fd8fb93ac8998f69f316a0fa5.png" data-download-href=".../forum-archive/uploads/default/6155d98f5534955fd8fb93ac8998f69f316a0fa5" title="5.png"><img src=".../forum-archive/uploads/default/original/1X/6155d98f5534955fd8fb93ac8998f69f316a0fa5.png" alt="5" width="500" height="500"><div class="meta">
+<span class="filename">5.png</span><span class="informations">1384x1382 37.4 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>Step 7:</h2>
+<p>Review the information for your contract. You have the option place your contract in the BitBay marketplace, or create a custom marketplace. The BitBay marketplace is most common and will give your contract the most exposure to potential sellers.</p>
+<p>For buying/selling coins, it is strongly recommended that you do not automatically accept valid offers. This will allow you to obtain the proper KYC information from the seller before accepting their offer.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/ec85d2c0dedf97352e546b45949676fe8b759f96.png" data-download-href=".../forum-archive/uploads/default/ec85d2c0dedf97352e546b45949676fe8b759f96" title="6.png"><img src=".../forum-archive/uploads/default/original/1X/ec85d2c0dedf97352e546b45949676fe8b759f96.png" alt="6" width="514" height="500"><div class="meta">
+<span class="filename">6.png</span><span class="informations">1388x1350 40.9 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>Step 8:</h2>
+<p>Click “Confirm Order” to send out the contract. You will be asked to enter the passwords for both of your keys. The contract will show up in the BitBay marketplace shortly after.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/458229c9dda335ed7c7cae249c41130449f5b06c.png" data-download-href=".../forum-archive/uploads/default/458229c9dda335ed7c7cae249c41130449f5b06c" title="7.png"><img src=".../forum-archive/uploads/default/optimized/1X/458229c9dda335ed7c7cae249c41130449f5b06c_1_690x452.png" alt="7" width="690" height="452" srcset=".../forum-archive/uploads/default/optimized/1X/458229c9dda335ed7c7cae249c41130449f5b06c_1_690x452.png, .../forum-archive/uploads/default/optimized/1X/458229c9dda335ed7c7cae249c41130449f5b06c_1_1035x678.png 1.5x, .../forum-archive/uploads/default/optimized/1X/458229c9dda335ed7c7cae249c41130449f5b06c_1_1380x904.png 2x"><div class="meta">
+<span class="filename">7.png</span><span class="informations">1964x1288 220 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>Step 9:</h2>
+<p>When somebody sends you an offer, the client will notify you (and even send an email if desired). At this point, you can complete your KYC verification and exchange all necessary information from the seller. Then, you can accept the offer under the “pending offers” tab.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/43843b023dcf87354da1a59ae26f51050b078e2c.jpg" data-download-href=".../forum-archive/uploads/default/43843b023dcf87354da1a59ae26f51050b078e2c" title="8.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/43843b023dcf87354da1a59ae26f51050b078e2c_1_690x345.jpg" alt="8" width="690" height="345" srcset=".../forum-archive/uploads/default/optimized/1X/43843b023dcf87354da1a59ae26f51050b078e2c_1_690x345.jpg, .../forum-archive/uploads/default/optimized/1X/43843b023dcf87354da1a59ae26f51050b078e2c_1_1035x517.jpg 1.5x, .../forum-archive/uploads/default/optimized/1X/43843b023dcf87354da1a59ae26f51050b078e2c_1_1380x690.jpg 2x"><div class="meta">
+<span class="filename">8.jpg</span><span class="informations">2528x1266 303 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/f381baa2bf3f90d7b19a18591f0480698119a011.jpg" data-download-href=".../forum-archive/uploads/default/f381baa2bf3f90d7b19a18591f0480698119a011" title="9.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/f381baa2bf3f90d7b19a18591f0480698119a011_1_690x194.jpg" alt="9" width="690" height="194" srcset=".../forum-archive/uploads/default/optimized/1X/f381baa2bf3f90d7b19a18591f0480698119a011_1_690x194.jpg, .../forum-archive/uploads/default/optimized/1X/f381baa2bf3f90d7b19a18591f0480698119a011_1_1035x291.jpg 1.5x, .../forum-archive/uploads/default/optimized/1X/f381baa2bf3f90d7b19a18591f0480698119a011_1_1380x388.jpg 2x"><div class="meta">
+<span class="filename">9.jpg</span><span class="informations">2746x774 444 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>Step 10:</h2>
+<p>Send the seller your funds via your preferred method (Western Union, cash in the mail, wire transfer etc.). With their deposit now locked up in escrow, there is no incentive for them to be dishonest during the transaction.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/847ba2a3016c082f21111ba996ffa626ce01aff5.jpg" data-download-href=".../forum-archive/uploads/default/847ba2a3016c082f21111ba996ffa626ce01aff5" title="image.jpg"><img src=".../forum-archive/uploads/default/original/1X/847ba2a3016c082f21111ba996ffa626ce01aff5.jpg" alt="image" width="687" height="500"><div class="meta">
+<span class="filename">image.jpg</span><span class="informations">780x567 84.9 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>Step 11:</h2>
+<p>Once the seller receives your funds, you both will have to complete the contract on either end. At this point, your new BAY will be sent directly to your client wallet, and the transaction is complete. You can also check under history tab for transaction confirmation.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/b0dc9d930a63893cb74df964ad39ce2c39589f04.jpg" data-download-href=".../forum-archive/uploads/default/b0dc9d930a63893cb74df964ad39ce2c39589f04" title="image.jpg"><img src=".../forum-archive/uploads/default/original/1X/b0dc9d930a63893cb74df964ad39ce2c39589f04.jpg" alt="image" width="690" height="499"><div class="meta">
+<span class="filename">image.jpg</span><span class="informations">780x565 85 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>You can also view a video explanation of this entire process <a href="https://youtu.be/jQM2L1Qt_BM"><strong>here</strong></a>.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/how-to-purchase-bay-through-bitbays-marketplace/1010">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/how-to-purchase-bay-through-bitbays-marketplace/1010</link>
+          <pubDate>Wed, 24 Jan 2018 00:43:26 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1010</guid>
+          <source url=".../forum-archive/t/how-to-purchase-bay-through-bitbays-marketplace/1010.rss">How to purchase BAY through BitBay&#39;s marketplace</source>
+        </item>
+        <item>
+          <title>Multisig Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</title>
+          <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <blockquote>
+              <p>The enhanced web wallet has the capability to create a multisig wallet with up to 15 participants. In simple terms, this is a joint account/wallet controlled by up to 15 individuals.</p>
+<p><em><strong>DISCLAIMER:</strong></em> You are advised to use this feature with small amounts of BAY until completely understanding the process and the implications. There is always a posibility to lose your funds if something is not done properly.</p>
+<p>For the purpose of this tutorial we are going to create a ‘2 of 3’ multisig wallet. This means 3 participants and requires 2 of them to sign to unlock the funds. For this we will be using the <a href="https://wallet.bitbay.market/">web wallet</a></p>
+<h1>Create Multisig Wallet address</h1>
+<p>We assume we already have 3 wallets created from 3 different individuals and they have sent us their <strong>public keys</strong>. We are also going to paste the information in here so you can follow this example step by step:</p>
+<p>public key1 <code>038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab</code><br>
+public key2 <code>025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d</code><br>
+public key3 <code>024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f912</code></p>
+<h2>1.</h2>
+<p>From the web wallet dropdown menu choose <strong>multisig address</strong> and fill in the 3 keys given. Leave the 2 <strong>required signatures</strong> in place and press submit.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/7289dec20e8fe4b10f1f221c0fcd738564f94d42.png" data-download-href=".../forum-archive/uploads/default/7289dec20e8fe4b10f1f221c0fcd738564f94d42" title="1.new.multisig.png"><img src=".../forum-archive/uploads/default/original/1X/7289dec20e8fe4b10f1f221c0fcd738564f94d42.png" alt="multisig" width="666" height="500"><div class="meta">
+<span class="filename">1.new.multisig.png</span><span class="informations">872x654 27.9 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>2.</h2>
+<p>You should get the following info (here is what we get for the above keys):</p>
+<p><strong>Address</strong> <code>bUnqfZPjfcagU3XBLUpTGsEqA2urHt19Yn</code><br>
+<strong>Redeem Script</strong> <code>5221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253ae</code><br>
+<strong>Shareable URL</strong> <code>https://wallet.bitbay.market/_test123_/?verify=5221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253ae#verify</code></p>
+<p><img src=".../forum-archive/uploads/default/original/1X/aa3f98a766cd67064fe682a9878e5a45d10a1fec.png" alt="multisig" width="665" height="405"></p>
+<p><strong>NOTE:</strong> It is important to note that the <strong>redeem script</strong> or <strong>shareable URL</strong> have to be kept somewhere safe otherwise any funds that go into this account will not be able to be redeemed. The above info can be kept just in case by more than one participant in a safe place (text file, print, bookmark).</p>
+<h2>3.</h2>
+<p>You can verify the previous script using either the <strong>shareable URL</strong> above or pasting the <strong>redeem script</strong> using the <strong>verify</strong> panel from the drop down menu:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/e47993a4077a767640a94fbff4bbe93a576c9e0a.png" data-download-href=".../forum-archive/uploads/default/e47993a4077a767640a94fbff4bbe93a576c9e0a" title="3.verify.multisig.png"><img src=".../forum-archive/uploads/default/original/1X/e47993a4077a767640a94fbff4bbe93a576c9e0a.png" alt="multisig" width="482" height="500"><div class="meta">
+<span class="filename">3.verify.multisig.png</span><span class="informations">707x733 49.5 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>4.</h2>
+<p>Lets assume also for the purpose of this tutorial that we send <a href="https://chainz.cryptoid.info/bay/address.dws?bUnqfZPjfcagU3XBLUpTGsEqA2urHt19Yn.htm">1 BAY</a>  to this joint (multisig) account. Note that 0.001 was the spend in an intermediate redeem transaction so 0,999 will be used on the rest of the tutorial.</p>
+<p><strong>NOTE:</strong> if we don’t have any BAY in the account we will get an error when we try to redeem using the following steps.</p>
+<h1>Redeem the FUNDS in the joint (multisig) account</h1>
+<h2>1.</h2>
+<p>On the web wallet we go to <em><strong>TRANSACTION</strong></em> from the <em><strong>DROP DOWN MENU</strong></em>, paste the <strong>redeem script</strong> that we have and press <strong>LOAD</strong>. After a few seconds the form will be filled with all relevant information pertaining to this multisig account. The input tab will say <strong>inputs 1.0000</strong> which means the wallet has 1 BAY in it.</p>
+<p>We have to specify the <strong>output(s)</strong> which means where the funds will go.  We could have multiple output addresses but for the purpose of this tutorial  we will only send the funds to 1 address.  We input the amount that the wallet(s) will receive.  We should not get the full amount but the amount after subtracting the transaction fee,  0.001 will suffice. <strong>Be careful</strong> as the transaction fee is autocalculated to be the remainder. For example, if we input 0.999 the fee becomes 0.001. After filling in this information we <em><strong>SUBMIT</strong></em> the form:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/55244cfd5a442798fe17bf8122b4ca355552071a.png" data-download-href=".../forum-archive/uploads/default/55244cfd5a442798fe17bf8122b4ca355552071a" title="1.create.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/55244cfd5a442798fe17bf8122b4ca355552071a.png" alt="transaction" width="514" height="500"><div class="meta">
+<span class="filename">1.create.transaction.png</span><span class="informations">712x692 21.7 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p><em>The wallet used to redeem the funds in this case: <code>B4w8iuDJ6iSpf1kzw3tcVFrChMtv1QEHeU</code></em></p>
+<p><strong>IMPORTANT</strong> All the funds currently in the wallet have to be redeemed otherwise they become the transaction fee automatically which is why the fee is auto-calculated as the remainder. There is a popup warning if you have left too much BAY as the transaction fee which will prevent you from losing funds without realizing.</p>
+<p><strong>HINT</strong> If this address needs to be operated like a regular wallet and only send parts of the funds to a third party one can just send the remaining funds back to the multisig address, so instead of 1 output specify a 2nd output (multisig address with remaining funds)</p>
+<h2>2.</h2>
+<p>As a result of SUBMITTING the form we get the following <strong>RAW transaction</strong><br>
+<code>010000009d5a6b5a027539a82f516fb22a61a22c7acd8574ece8e154ac77aa120f7880365375ca9d9f00000000695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff5b85426233ba2ae502c759d3a433e5def655d1fbdf97c4b5059e77b9744ca23300000000695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff01605af405000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac00000000</code></p>
+<p><img src=".../forum-archive/uploads/default/original/1X/71d264ffb99f58502d25ea7698bdd96cb0fce8e8.png" alt="transaction" width="655" height="271"></p>
+<h2>3.</h2>
+<p>We now go to the <strong>sign</strong> panel from the drop down menu and we use as inputs the transaction and the private key for 1 of the wallets involved (as we said we have 3 wallets / 3 participants). Below is the <strong>signed transaction</strong>.</p>
+<p><em><strong>NOTE</strong> The order we sign the transactions should be the same order we used to create the multisig address. For the purpose of this turorial we are using the 2nd wallet’s private key on this step.</em></p>
+<p><code>010000009d5a6b5a027539a82f516fb22a61a22c7acd8574ece8e154ac77aa120f7880365375ca9d9f00000000b500483045022100b5d746bcc0f9305f342a694cee67b504071a6313055cfd1c25db0101b2b79bcb022072791987c327900b1c657e4d98ceb7105e5e6755c3eaf74c2b22db583f35fa47014c695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff5b85426233ba2ae502c759d3a433e5def655d1fbdf97c4b5059e77b9744ca23300000000b40047304402207d2094abd103ec6e66ed6b16fc03fe3b87ed55de0e490a590079a76aec492ee90220374e127912d51fd5f905a0873e32a8daa27bda9c09a547f3cd81f56b718ee6f9014c695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff01605af405000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac00000000</code></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/421d0da92185b322fff87d824dc7e373b6fc9ae5.png" data-download-href=".../forum-archive/uploads/default/421d0da92185b322fff87d824dc7e373b6fc9ae5" title="3.signed.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/421d0da92185b322fff87d824dc7e373b6fc9ae5.png" alt="transaction" width="476" height="500"><div class="meta">
+<span class="filename">3.signed.transaction.png</span><span class="informations">707x742 35.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>4.</h2>
+<p>We send this signed transaction to one of the other participants to sign using the same process and we get this twice <strong>signed transaction</strong>:</p>
+<p><em><strong>NOTE</strong> The 2nd party involved in this step cannot change where the funds are redeemed and any intercepting parties cannot either so this transaction can also be transmitted through insecure channels.  The receiving party has the ability to verify (using the verify panel) that the funds are going to an agreed upon wallet.</em></p>
+<p><code>010000009d5a6b5a027539a82f516fb22a61a22c7acd8574ece8e154ac77aa120f7880365375ca9d9f00000000fdfe0000483045022100b5d746bcc0f9305f342a694cee67b504071a6313055cfd1c25db0101b2b79bcb022072791987c327900b1c657e4d98ceb7105e5e6755c3eaf74c2b22db583f35fa4701483045022100d580d92cd78bded467848f37bc2651035bb80e95c18759c65271eef1f2ca3f05022042a85cc6eb33e0f834dcc9b0310cbdbca84fe069b91ebdf38d516673a4ffaa9e014c695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff5b85426233ba2ae502c759d3a433e5def655d1fbdf97c4b5059e77b9744ca23300000000fc0047304402207d2094abd103ec6e66ed6b16fc03fe3b87ed55de0e490a590079a76aec492ee90220374e127912d51fd5f905a0873e32a8daa27bda9c09a547f3cd81f56b718ee6f90147304402200da015d23651d8f7ad2aa81374bf643664f6ce14e105fb69b263c74eb9ad42840220155f7c8f046a304f824f8e9eba00fa739c0b98f28c1d16ef21e89321be675da0014c695221038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab21025b66887300c850a559cced396f2fde7db3d12df821c4927c1b177ab6f3d2430d21024e15bcf446bd90489de58502887eea57286df0a29dce7b3f5703ff2b2c24f91253aeffffffff01605af405000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac00000000</code></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/c09d7a5068d1b1645d0cbb4020e016656af1067d.png" data-download-href=".../forum-archive/uploads/default/c09d7a5068d1b1645d0cbb4020e016656af1067d" title="4.signed.twice.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/c09d7a5068d1b1645d0cbb4020e016656af1067d.png" alt="transaction" width="472" height="500"><div class="meta">
+<span class="filename">4.signed.twice.transaction.png</span><span class="informations">708x749 35.2 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>5.</h2>
+<p>We Broadcast the signed transaction and once everything is ok we receive the <a href="https://chainz.cryptoid.info/bay/search.dws?q=7b6109bef2ec8dfce4e0dac710c4ab5c2b7e91c48877c165667718a9cb4e5d29">TX ID</a> shown below:</p>
+<p><em><strong>NOTE:</strong> The time of the last signing to the broadcasting should not be too long otherwise we might receive a transaction error and the network would refuse our transaction.</em></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/7e2f5c0b38a973e0d361b0f5d79335e86bb2aa6e.png" data-download-href=".../forum-archive/uploads/default/7e2f5c0b38a973e0d361b0f5d79335e86bb2aa6e" title="5.broadcast.signed.transaction.png"><img src=".../forum-archive/uploads/default/original/1X/7e2f5c0b38a973e0d361b0f5d79335e86bb2aa6e.png" alt="transaction" width="690" height="408"><div class="meta">
+<span class="filename">5.broadcast.signed.transaction.png</span><span class="informations">711x421 19.1 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p><strong>CLOSING NOTES:</strong></p>
+<ul>
+<li>All funds have to be withdrawn on one transaction. Anything left over will be considered a transaction fee (which you will be warned about in advance)</li>
+<li>The last signature and the actual broadcasting should not have too much time between them as it can lead to the network not accepting the transaction</li>
+<li>The order of the signatures is significant. They must be put in the same order the multisig was created. If this process is not followed the signatures might seem OK but the network will reject the broadcast.</li>
+<li>The passing of the once signed transaction can be done through insecure channels because no one can change the redeeming wallet and amount</li>
+<li>The 2nd signatory can verify the transaction is what was agreed upon and sign and broadcast</li>
+</ul>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/multisig-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1024">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/multisig-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1024</link>
+          <pubDate>Thu, 25 Jan 2018 15:53:22 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1024</guid>
+          <source url=".../forum-archive/t/multisig-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1024.rss">Multisig Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</source>
+        </item>
+        <item>
+          <title>Creating wallet within the BitBAY Web-based Marketplace (WMP)</title>
+          <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <blockquote>
+              <h1><strong>Creating a new WMP wallet</strong></h1>
+<p><strong>1. Go to <a href="https://beta.bitbay.market/wallet/create">https://beta.bitbay.market/wallet/create</a></strong><br>
+<br>
+<br>
+<strong>2. Read the terms of use (pop-up window), and click “Understood”.</strong></p>
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/b1dde21845c32d4c43504dcb91994d0a1b9acd9f.png" data-download-href=".../forum-archive/uploads/default/b1dde21845c32d4c43504dcb91994d0a1b9acd9f" title="InKAL6lGifpfM0TTbWf4T-wQtd59qjCDr0Q3fwGn6FLBrIcsfC6YIyWvy-qirfutef2yjfy0-n9hfk1I3p3dPpVCVHxQix0VukBLPvSRl_lDuRTVspya2KAIpZv3nDpXhG78KAZH.png"><img src=".../forum-archive/uploads/default/optimized/1X/b1dde21845c32d4c43504dcb91994d0a1b9acd9f_1_365x237.png" alt width="365" height="237" srcset=".../forum-archive/uploads/default/optimized/1X/b1dde21845c32d4c43504dcb91994d0a1b9acd9f_1_365x237.png, .../forum-archive/uploads/default/optimized/1X/b1dde21845c32d4c43504dcb91994d0a1b9acd9f_1_547x355.png 1.5x, .../forum-archive/uploads/default/optimized/1X/b1dde21845c32d4c43504dcb91994d0a1b9acd9f_1_730x474.png 2x"><div class="meta">
+<span class="filename">InKAL6lGifpfM0TTbWf4T-wQtd59qjCDr0Q3fwGn6FLBrIcsfC6YIyWvy-qirfutef2yjfy0-n9hfk1I3p3dPpVCVHxQix0VukBLPvSRl_lDuRTVspya2KAIpZv3nDpXhG78KAZH.png</span><span class="informations">1112x716 80.5 KB</span><span class="expand"></span>
+</div></a></div></strong><br>
+<br>
+<br>
+<strong>3. Then, click “Generate Unique Passphrase”.</strong></p>
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/1cfb264003e3901f6aa30d09c0bab3fa9d197818.png" data-download-href=".../forum-archive/uploads/default/1cfb264003e3901f6aa30d09c0bab3fa9d197818" title="vf2afD3tUxTQ27LefO2cLoqpdsaoqVloxT9UNAYbaNagoU07WwLrWMFtMsyCyUjDtLmNQ4QBkjr7Iyf5P3nJzZohGD9yx7eY-ptYsUUXUADqN_s7lNu5Owe077fMy-i198BNQnL3.png"><img src=".../forum-archive/uploads/default/optimized/1X/1cfb264003e3901f6aa30d09c0bab3fa9d197818_1_528x204.png" alt width="528" height="204" srcset=".../forum-archive/uploads/default/optimized/1X/1cfb264003e3901f6aa30d09c0bab3fa9d197818_1_528x204.png, .../forum-archive/uploads/default/optimized/1X/1cfb264003e3901f6aa30d09c0bab3fa9d197818_1_792x306.png 1.5x, .../forum-archive/uploads/default/optimized/1X/1cfb264003e3901f6aa30d09c0bab3fa9d197818_1_1056x408.png 2x"><div class="meta">
+<span class="filename">vf2afD3tUxTQ27LefO2cLoqpdsaoqVloxT9UNAYbaNagoU07WwLrWMFtMsyCyUjDtLmNQ4QBkjr7Iyf5P3nJzZohGD9yx7eY-ptYsUUXUADqN_s7lNu5Owe077fMy-i198BNQnL3.png</span><span class="informations">1600x571 109 KB</span><span class="expand"></span>
+</div></a></div></strong><br>
+<br>
+<br>
+<strong>4. Write down each of the 12 keywords that appear <a href="https://en.bitcoin.it/wiki/Seed_phrase">(mnemonic seed phrase)</a>, in exact order, and each line from left to right. Alternatively, you can simply click within the box to copy them, and manually paste into a text file or document.</strong></p>
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/1a89e46fccba3d38b0186f9a1b3b04408e07382f.png" data-download-href=".../forum-archive/uploads/default/1a89e46fccba3d38b0186f9a1b3b04408e07382f" title="GIq1qmBgLeq_hnKcahUreHfZuY1OFeX-gT0WmIZv2zY0MkeYMSKNakA_5CXEq7t-a8-i7RJogmUppVSQixYzUpEMa_1yKB9f-9kJAN6Q73zpaq6NAIHghoPtV90YatVUOpL58YQW.png"><img src=".../forum-archive/uploads/default/optimized/1X/1a89e46fccba3d38b0186f9a1b3b04408e07382f_1_451x148.png" alt width="451" height="148" srcset=".../forum-archive/uploads/default/optimized/1X/1a89e46fccba3d38b0186f9a1b3b04408e07382f_1_451x148.png, .../forum-archive/uploads/default/optimized/1X/1a89e46fccba3d38b0186f9a1b3b04408e07382f_1_676x222.png 1.5x, .../forum-archive/uploads/default/optimized/1X/1a89e46fccba3d38b0186f9a1b3b04408e07382f_1_902x296.png 2x"><div class="meta">
+<span class="filename">GIq1qmBgLeq_hnKcahUreHfZuY1OFeX-gT0WmIZv2zY0MkeYMSKNakA_5CXEq7t-a8-i7RJogmUppVSQixYzUpEMa_1yKB9f-9kJAN6Q73zpaq6NAIHghoPtV90YatVUOpL58YQW.png</span><span class="informations">1600x541 139 KB</span><span class="expand"></span>
+</div></a></div></strong></p>
+<p><em>***Note: Keep this seed phrase in a safe place! If you lose access to it, recovering your funds and listings will be impossible.</em><br>
+<br>
+<br>
+<strong>5. Next, you will be asked to confirm your backing up of this phrase. Click the words in the order they were written down, and then click “Confirm”</strong></p>
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/2447af6448f79cd01322213d50e28e1104921929.png" data-download-href=".../forum-archive/uploads/default/2447af6448f79cd01322213d50e28e1104921929" title="iW380e3HRdhCqxBw_gPc_Ehb9KaSB9j89agdP3v9wrskp2d_6XShCUQB3HkP47XCq-yAnJbJXPM9_2KiXK6ksAq9dvAcHycz_G8p-6tXCK315qWSKC2S3PiFfvgN-RI-o7OAzXW9.png"><img src=".../forum-archive/uploads/default/optimized/1X/2447af6448f79cd01322213d50e28e1104921929_1_467x228.png" alt width="467" height="228" srcset=".../forum-archive/uploads/default/optimized/1X/2447af6448f79cd01322213d50e28e1104921929_1_467x228.png, .../forum-archive/uploads/default/optimized/1X/2447af6448f79cd01322213d50e28e1104921929_1_700x342.png 1.5x, .../forum-archive/uploads/default/optimized/1X/2447af6448f79cd01322213d50e28e1104921929_1_934x456.png 2x"><div class="meta">
+<span class="filename">iW380e3HRdhCqxBw_gPc_Ehb9KaSB9j89agdP3v9wrskp2d_6XShCUQB3HkP47XCq-yAnJbJXPM9_2KiXK6ksAq9dvAcHycz_G8p-6tXCK315qWSKC2S3PiFfvgN-RI-o7OAzXW9.png</span><span class="informations">1600x779 106 KB</span><span class="expand"></span>
+</div></a></div></strong></p>
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/9b1254af4e8666a5caad37981d18a27efbcd9649.png" data-download-href=".../forum-archive/uploads/default/9b1254af4e8666a5caad37981d18a27efbcd9649" title="OmBZNnzUhTrTZodjesST-F8xTPwBqlh2eUIOqhtmuWhH7Kn5xmuXhP0ZPVym3Bi_6dNmUOHzwIJzgT-aFCnrkvt8crFtGf6k71-gNJY9Zz4X_CBv7iPFkO-hnoQ7OZ7yrKrTKuPo.png"><img src=".../forum-archive/uploads/default/optimized/1X/9b1254af4e8666a5caad37981d18a27efbcd9649_1_344x267.png" alt width="344" height="267" srcset=".../forum-archive/uploads/default/optimized/1X/9b1254af4e8666a5caad37981d18a27efbcd9649_1_344x267.png, .../forum-archive/uploads/default/optimized/1X/9b1254af4e8666a5caad37981d18a27efbcd9649_1_516x400.png 1.5x, .../forum-archive/uploads/default/optimized/1X/9b1254af4e8666a5caad37981d18a27efbcd9649_1_688x534.png 2x"><div class="meta">
+<span class="filename">OmBZNnzUhTrTZodjesST-F8xTPwBqlh2eUIOqhtmuWhH7Kn5xmuXhP0ZPVym3Bi_6dNmUOHzwIJzgT-aFCnrkvt8crFtGf6k71-gNJY9Zz4X_CBv7iPFkO-hnoQ7OZ7yrKrTKuPo.png</span><span class="informations">828x644 22 KB</span><span class="expand"></span>
+</div></a></div></strong><br>
+<br>
+<br>
+<strong>6. Then click “Set up easy access” to create a simple username and password for the account. This will allow you to login easily, without having to complete a full “wallet restore” using the 12 word seed phrase.</strong></p>
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/932250bc1c6a80472f69e8ccfa750aa390323301.png" data-download-href=".../forum-archive/uploads/default/932250bc1c6a80472f69e8ccfa750aa390323301" title="z0rwLIh5pnMAPp4T0LKRl3pM1GWX6qESyMf4lji3feAdV0GtDurN4lONDsiOBBxkNZfY4hALxDB_ZM6YQ-f0ckRymJTelrtUvjF0QaSoe0n_6zIQXKWLh6jFIVAm4v9X69RdJHMB.png"><img src=".../forum-archive/uploads/default/optimized/1X/932250bc1c6a80472f69e8ccfa750aa390323301_1_466x205.png" alt width="466" height="205" srcset=".../forum-archive/uploads/default/optimized/1X/932250bc1c6a80472f69e8ccfa750aa390323301_1_466x205.png, .../forum-archive/uploads/default/optimized/1X/932250bc1c6a80472f69e8ccfa750aa390323301_1_699x307.png 1.5x, .../forum-archive/uploads/default/optimized/1X/932250bc1c6a80472f69e8ccfa750aa390323301_1_932x410.png 2x"><div class="meta">
+<span class="filename">z0rwLIh5pnMAPp4T0LKRl3pM1GWX6qESyMf4lji3feAdV0GtDurN4lONDsiOBBxkNZfY4hALxDB_ZM6YQ-f0ckRymJTelrtUvjF0QaSoe0n_6zIQXKWLh6jFIVAm4v9X69RdJHMB.png</span><span class="informations">1600x704 184 KB</span><span class="expand"></span>
+</div></a></div></strong><br>
+<br>
+<br>
+<strong>7. Then, enter a custom username of your choice, and click “Continue”.</strong></p>
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/3f7570677d6e430a2d40f632151b7332bbd5d2d1.png" data-download-href=".../forum-archive/uploads/default/3f7570677d6e430a2d40f632151b7332bbd5d2d1" title="yPy2b0Jsn5uwKYGqDJi5YRNERr30us86b7U9kBrxefFwzHLVCg5p9Wg6TL-B2PbFmMUHLvpWPaKC_p6B4LSyeFp6nWOSS5qtvFRff9DAurz-YSlgf0X1jYPL8D7c6_GZGR9r0I65.png"><img src=".../forum-archive/uploads/default/optimized/1X/3f7570677d6e430a2d40f632151b7332bbd5d2d1_1_583x148.png" alt width="583" height="148" srcset=".../forum-archive/uploads/default/optimized/1X/3f7570677d6e430a2d40f632151b7332bbd5d2d1_1_583x148.png, .../forum-archive/uploads/default/optimized/1X/3f7570677d6e430a2d40f632151b7332bbd5d2d1_1_874x222.png 1.5x, .../forum-archive/uploads/default/optimized/1X/3f7570677d6e430a2d40f632151b7332bbd5d2d1_1_1166x296.png 2x"><div class="meta">
+<span class="filename">yPy2b0Jsn5uwKYGqDJi5YRNERr30us86b7U9kBrxefFwzHLVCg5p9Wg6TL-B2PbFmMUHLvpWPaKC_p6B4LSyeFp6nWOSS5qtvFRff9DAurz-YSlgf0X1jYPL8D7c6_GZGR9r0I65.png</span><span class="informations">1600x408 111 KB</span><span class="expand"></span>
+</div></a></div></strong><br>
+<br>
+<br>
+<strong>8. Next, enter and confirm a new password that meets the minimum requirements, then click “Save Password”.</strong></p>
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/4950674212f8f333a7a5d256ee6956851ee36f6b.jpeg" data-download-href=".../forum-archive/uploads/default/4950674212f8f333a7a5d256ee6956851ee36f6b" title="AAK4ht1NUcpuRabkAc6s6I1ylXCPlzDT3CEWpV_3bAPgC__UzT3O894GzUjH8tt8MTeIGrWxQ9nrGoMMgpms5eUdZIIwFlgBTW6TZ02Qe4zU2-RaiYDfzvj7KFjnv9hNXVLFUdes.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/4950674212f8f333a7a5d256ee6956851ee36f6b_1_507x227.jpeg" alt width="507" height="227" srcset=".../forum-archive/uploads/default/optimized/1X/4950674212f8f333a7a5d256ee6956851ee36f6b_1_507x227.jpeg, .../forum-archive/uploads/default/optimized/1X/4950674212f8f333a7a5d256ee6956851ee36f6b_1_760x340.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/4950674212f8f333a7a5d256ee6956851ee36f6b_1_1014x454.jpeg 2x"><div class="meta">
+<span class="filename">AAK4ht1NUcpuRabkAc6s6I1ylXCPlzDT3CEWpV_3bAPgC__UzT3O894GzUjH8tt8MTeIGrWxQ9nrGoMMgpms5eUdZIIwFlgBTW6TZ02Qe4zU2-RaiYDfzvj7KFjnv9hNXVLFUdes.jpg</span><span class="informations">1600x717 129 KB</span><span class="expand"></span>
+</div></a></div></strong><br>
+<br>
+<br>
+<strong>9. Finally, read the quick review of the BitBay terms of use. Then click “Understood”.</strong></p>
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53.png" data-download-href=".../forum-archive/uploads/default/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53" title="DSc_T-cLK68Dz_7rCITLlhsVP_fJRAq94UeI9tP97eBdIpA9XLFAbey6lreiYujfwK5Ec1r8rqz_w6BIyPtA4FjweKf0GAOysAmXmGMDLKzE6lnfti_bqI6onjcXVx_KQ0zIGgVL.png"><img src=".../forum-archive/uploads/default/optimized/1X/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53_1_361x178.png" alt width="361" height="178" srcset=".../forum-archive/uploads/default/optimized/1X/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53_1_361x178.png, .../forum-archive/uploads/default/optimized/1X/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53_1_541x267.png 1.5x, .../forum-archive/uploads/default/optimized/1X/e750b45d1ac3c65d5396f9a3b8d1da5dbe27ed53_1_722x356.png 2x"><div class="meta">
+<span class="filename">DSc_T-cLK68Dz_7rCITLlhsVP_fJRAq94UeI9tP97eBdIpA9XLFAbey6lreiYujfwK5Ec1r8rqz_w6BIyPtA4FjweKf0GAOysAmXmGMDLKzE6lnfti_bqI6onjcXVx_KQ0zIGgVL.png</span><span class="informations">1128x560 56.7 KB</span><span class="expand"></span>
+</div></a></div></strong></p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/creating-wallet-within-the-bitbay-web-based-marketplace-wmp/1946">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/creating-wallet-within-the-bitbay-web-based-marketplace-wmp/1946</link>
+          <pubDate>Tue, 30 Jul 2019 14:56:55 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1946</guid>
+          <source url=".../forum-archive/t/creating-wallet-within-the-bitbay-web-based-marketplace-wmp/1946.rss">Creating wallet within the BitBAY Web-based Marketplace (WMP)</source>
+        </item>
+        <item>
+          <title>How to Access / Change personal settings within BitBay&#39;s Web-based Marketplace (WMP)</title>
+          <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <blockquote>
+              <h1>How to access / change personal settings</h1>
+<p>**1. Within the header of any page, click on the “Person icon” in the top right corner. Then select “Account”.</p>
+<p>There, you will be able to edit all of your personal information, add a profile picture, switch to “Dark Mode”, change network fees and currency conversion preferences etc.**<br>
+<br>
+<br>
+<div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/ca19d1c957f1934bc088320767cd400210a915de.png" data-download-href=".../forum-archive/uploads/default/ca19d1c957f1934bc088320767cd400210a915de" title="fGTVnf91UHdGyys-VBif4V0V5h2qEB48H3y2aGjRZ7azrt2lpzsFWKafqGwA51PzqiUKJGTKHC7HmvsIWdop7Og6UyzIg7Uq3YLk3zaZBTsHp1OLvnINoqyBSfXGNuW1rA6qvAOT.png"><img src=".../forum-archive/uploads/default/optimized/1X/ca19d1c957f1934bc088320767cd400210a915de_1_353x153.png" alt width="353" height="153" srcset=".../forum-archive/uploads/default/optimized/1X/ca19d1c957f1934bc088320767cd400210a915de_1_353x153.png, .../forum-archive/uploads/default/optimized/1X/ca19d1c957f1934bc088320767cd400210a915de_1_529x229.png 1.5x, .../forum-archive/uploads/default/original/1X/ca19d1c957f1934bc088320767cd400210a915de.png 2x"><div class="meta">
+<span class="filename">fGTVnf91UHdGyys-VBif4V0V5h2qEB48H3y2aGjRZ7azrt2lpzsFWKafqGwA51PzqiUKJGTKHC7HmvsIWdop7Og6UyzIg7Uq3YLk3zaZBTsHp1OLvnINoqyBSfXGNuW1rA6qvAOT.png</span><span class="informations">692x346 97.7 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/edb342fe96064551e230c273a55a4f61988da134.jpeg" data-download-href=".../forum-archive/uploads/default/edb342fe96064551e230c273a55a4f61988da134" title="6aEJGISOevNTsJeSzexSGf0o9Sj9SR44DHXlE7S7jztZ4VBLZTbdIXRkADIe7SN3Xa4po5keJpjelf9Pg8-mc8ihds3e-GSLPARohzPX7n7FVDmAHATMfDQGtSYBNWkyXCzykGrp.jpg"><img src=".../forum-archive/uploads/default/optimized/1X/edb342fe96064551e230c273a55a4f61988da134_1_452x230.jpeg" alt width="452" height="230" srcset=".../forum-archive/uploads/default/optimized/1X/edb342fe96064551e230c273a55a4f61988da134_1_452x230.jpeg, .../forum-archive/uploads/default/optimized/1X/edb342fe96064551e230c273a55a4f61988da134_1_678x345.jpeg 1.5x, .../forum-archive/uploads/default/optimized/1X/edb342fe96064551e230c273a55a4f61988da134_1_904x460.jpeg 2x"><div class="meta">
+<span class="filename">6aEJGISOevNTsJeSzexSGf0o9Sj9SR44DHXlE7S7jztZ4VBLZTbdIXRkADIe7SN3Xa4po5keJpjelf9Pg8-mc8ihds3e-GSLPARohzPX7n7FVDmAHATMfDQGtSYBNWkyXCzykGrp.jpg</span><span class="informations">1600x814 126 KB</span><span class="expand"></span>
+</div></a></div></p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/how-to-access-change-personal-settings-within-bitbays-web-based-marketplace-wmp/1947">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/how-to-access-change-personal-settings-within-bitbays-web-based-marketplace-wmp/1947</link>
+          <pubDate>Tue, 30 Jul 2019 15:08:30 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1947</guid>
+          <source url=".../forum-archive/t/how-to-access-change-personal-settings-within-bitbays-web-based-marketplace-wmp/1947.rss">How to Access / Change personal settings within BitBay&#39;s Web-based Marketplace (WMP)</source>
+        </item>
+        <item>
+          <title>How to send &amp; receive BAY with Web-based Marketplace (WMP) wallet</title>
+          <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <blockquote>
+              <h1>How to send &amp; receive BAY with Web-based Marketplace (WMP) wallet</h1>
+<h3><strong>How to receive BAY</strong></h3>
+<ol>
+<li>
+<p>From the “<strong>Account</strong>” page, click the “<strong>Addresses</strong>” tab on the left side of the page. Here, you will see your “Primary Address” (aka public key), which can be copied and pasted for sending funds to the wallet.</p>
+<p><em>Alternatively, you can also click the “Balance” icon in the upper left corner of any page, and then click “Copy address”.</em></p>
+</li>
+</ol>
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/bd8058542ed18a543a865c6e274352761ea4de78.png" data-download-href=".../forum-archive/uploads/default/bd8058542ed18a543a865c6e274352761ea4de78" title="ei5MCduFOVnCX7y3gkjd99tk1v0R1Db1TPW_KFPTBV-_3FJ2rnSMm8kzIfKe1VyWLUGFFAfvm_mbgNwQMyBv9iDUPmVPYNfiitPFb41CVrDv_THOm4pzBavo6eoryYOvt3IIafIn.png"><img src=".../forum-archive/uploads/default/optimized/1X/bd8058542ed18a543a865c6e274352761ea4de78_1_547x158.png" alt width="547" height="158" srcset=".../forum-archive/uploads/default/optimized/1X/bd8058542ed18a543a865c6e274352761ea4de78_1_547x158.png, .../forum-archive/uploads/default/optimized/1X/bd8058542ed18a543a865c6e274352761ea4de78_1_820x237.png 1.5x, .../forum-archive/uploads/default/optimized/1X/bd8058542ed18a543a865c6e274352761ea4de78_1_1094x316.png 2x"><div class="meta">
+<span class="filename">ei5MCduFOVnCX7y3gkjd99tk1v0R1Db1TPW_KFPTBV-_3FJ2rnSMm8kzIfKe1VyWLUGFFAfvm_mbgNwQMyBv9iDUPmVPYNfiitPFb41CVrDv_THOm4pzBavo6eoryYOvt3IIafIn.png</span><span class="informations">1600x457 124 KB</span><span class="expand"></span>
+</div></a></div></strong></p>
+<h3>How to send BAY</h3>
+<p>To send funds out of your web marketplace wallet, click the “<strong>Balance</strong>” icon in the upper left corner of any page.</p>
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0.png" data-download-href=".../forum-archive/uploads/default/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0" title="kd0Lo9bwbXexpYyAfaLpw6brr61pncGy2FfRE2KK3gpq2yz8kHuwdRo2w0bKVAFwXkMmcYK5g-7i1fmPWTcw_5xTq96YxfqVZssBM9ycNbYss2dAn6wYUfv5FeFoDxKVlkYtZubx.png"><img src=".../forum-archive/uploads/default/optimized/1X/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0_1_307x182.png" alt width="307" height="182" srcset=".../forum-archive/uploads/default/optimized/1X/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0_1_307x182.png, .../forum-archive/uploads/default/optimized/1X/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0_1_460x273.png 1.5x, .../forum-archive/uploads/default/optimized/1X/6d89ecce573e16ba0e5f2b4cc2c02ec22c16b5f0_1_614x364.png 2x"><div class="meta">
+<span class="filename">kd0Lo9bwbXexpYyAfaLpw6brr61pncGy2FfRE2KK3gpq2yz8kHuwdRo2w0bKVAFwXkMmcYK5g-7i1fmPWTcw_5xTq96YxfqVZssBM9ycNbYss2dAn6wYUfv5FeFoDxKVlkYtZubx.png</span><span class="informations">1148x680 303 KB</span><span class="expand"></span>
+</div></a></div></strong><br>
+<br>
+<br>
+Then click, “<strong>Make Transfer</strong>."</p>
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae.png" data-download-href=".../forum-archive/uploads/default/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae" title="l0xpFUZak_a36m3JNQAyicf44f_XMiiippThOheb76SmWY1-G5Srxnp4SopY-H5X4QSXU1Oj5n9RNx-oYgPcDtAWcR0WwLvcCflUZBluYgNBZ39YuXIJnHBOJIk3E0oxe4uv2Yqu.png"><img src=".../forum-archive/uploads/default/optimized/1X/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae_1_248x233.png" alt width="248" height="233" srcset=".../forum-archive/uploads/default/optimized/1X/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae_1_248x233.png, .../forum-archive/uploads/default/optimized/1X/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae_1_372x349.png 1.5x, .../forum-archive/uploads/default/optimized/1X/7c0c73e0d878bf1902375ba1e2dc908f2392f5ae_1_496x466.png 2x"><div class="meta">
+<span class="filename">l0xpFUZak_a36m3JNQAyicf44f_XMiiippThOheb76SmWY1-G5Srxnp4SopY-H5X4QSXU1Oj5n9RNx-oYgPcDtAWcR0WwLvcCflUZBluYgNBZ39YuXIJnHBOJIk3E0oxe4uv2Yqu.png</span><span class="informations">586x552 25.1 KB</span><span class="expand"></span>
+</div></a></div></strong><br>
+<br>
+<br>
+Next, enter/paste in a compatible BAY receive address, and also enter the amount of BAY you would like to send. Then click, “<strong>Send coins</strong>”.</p>
+<p><strong><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e.png" data-download-href=".../forum-archive/uploads/default/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e" title="IrvOrq7rkQH9mBo2_QJUEfC3CcTO3Bsfby4Ko66EuilDRpLaQ0uuopBoccgc7OU9SUNPc5sBoGH0rkeBSuP2MNb9re9-TWHv7lOXqctABSZodlmFnIRhLD4z7OpOsxcl7y-EYWxP.png"><img src=".../forum-archive/uploads/default/optimized/1X/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e_1_363x264.png" alt width="363" height="264" srcset=".../forum-archive/uploads/default/optimized/1X/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e_1_363x264.png, .../forum-archive/uploads/default/optimized/1X/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e_1_544x396.png 1.5x, .../forum-archive/uploads/default/optimized/1X/75c1a01b0e8c152cd9e4c1d6138f3ec92d0b845e_1_726x528.png 2x"><div class="meta">
+<span class="filename">IrvOrq7rkQH9mBo2_QJUEfC3CcTO3Bsfby4Ko66EuilDRpLaQ0uuopBoccgc7OU9SUNPc5sBoGH0rkeBSuP2MNb9re9-TWHv7lOXqctABSZodlmFnIRhLD4z7OpOsxcl7y-EYWxP.png</span><span class="informations">1072x778 50.9 KB</span><span class="expand"></span>
+</div></a></div></strong></p>
+<p>You can view all transactions (including pending) at <a href="https://chainz.cryptoid.info/bay/">https://chainz.cryptoid.info/bay/</a>.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/how-to-send-receive-bay-with-web-based-marketplace-wmp-wallet/1948">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/how-to-send-receive-bay-with-web-based-marketplace-wmp-wallet/1948</link>
+          <pubDate>Tue, 30 Jul 2019 15:27:36 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1948</guid>
+          <source url=".../forum-archive/t/how-to-send-receive-bay-with-web-based-marketplace-wmp-wallet/1948.rss">How to send &amp; receive BAY with Web-based Marketplace (WMP) wallet</source>
+        </item>
+        <item>
+          <title>How to purchase BAY quickly and easily</title>
+          <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+          <category>Get Started Guides</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <blockquote>
+              <h1>How to purchase BAY quickly and easily</h1>
+<ol>
+<li>Within the header of any page, click on “<strong>Get coins</strong>” in the upper left corner. You will then be taken to BitBay’s third-party partner exchange, where you can fill out a form to purchase $BAY with a credit card.</li>
+</ol>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6.png" data-download-href=".../forum-archive/uploads/default/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6" title="6ckjy7H0LVcbcGatwTJINDQAtsLZLG9Dj7RhaV9tElFRiVqyOar37Mfru-x2yApSCY9tR8Ge5JzeQn0qgOF2Mk3Trbw0vC81tuomKJ-OV93gtIY5cDu0X34Mf4uq9_5Z2jxWoCVv.png"><img src=".../forum-archive/uploads/default/optimized/1X/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6_1_378x262.png" alt width="378" height="262" srcset=".../forum-archive/uploads/default/optimized/1X/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6_1_378x262.png, .../forum-archive/uploads/default/optimized/1X/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6_1_567x393.png 1.5x, .../forum-archive/uploads/default/optimized/1X/e37eef8d047ef97d760ecdf0c5e14a2b1b6716c6_1_756x524.png 2x"><div class="meta">
+<span class="filename">6ckjy7H0LVcbcGatwTJINDQAtsLZLG9Dj7RhaV9tElFRiVqyOar37Mfru-x2yApSCY9tR8Ge5JzeQn0qgOF2Mk3Trbw0vC81tuomKJ-OV93gtIY5cDu0X34Mf4uq9_5Z2jxWoCVv.png</span><span class="informations">1074x748 278 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/537f8f664ab140900e0104911d13146359a39925.png" data-download-href=".../forum-archive/uploads/default/537f8f664ab140900e0104911d13146359a39925" title="7hvCE64v8Oo2hUgf7IJ-kxJmeapTHzNaYwYuWyp-HBp6tJgi5IwbqxRJf5ixTE6n-nxU7ggs80xpnuh_PYGZN34beMuGoFKekr-mctSOC0Z_QtIumoKdxNiQczG-7vQSf5xA33D7.png"><img src=".../forum-archive/uploads/default/optimized/1X/537f8f664ab140900e0104911d13146359a39925_1_436x332.png" alt width="436" height="332" srcset=".../forum-archive/uploads/default/optimized/1X/537f8f664ab140900e0104911d13146359a39925_1_436x332.png, .../forum-archive/uploads/default/optimized/1X/537f8f664ab140900e0104911d13146359a39925_1_654x498.png 1.5x, .../forum-archive/uploads/default/optimized/1X/537f8f664ab140900e0104911d13146359a39925_1_872x664.png 2x"><div class="meta">
+<span class="filename">7hvCE64v8Oo2hUgf7IJ-kxJmeapTHzNaYwYuWyp-HBp6tJgi5IwbqxRJf5ixTE6n-nxU7ggs80xpnuh_PYGZN34beMuGoFKekr-mctSOC0Z_QtIumoKdxNiQczG-7vQSf5xA33D7.png</span><span class="informations">1562x1192 73.7 KB</span><span class="expand"></span>
+</div></a></div></p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/how-to-purchase-bay-quickly-and-easily/1949">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/how-to-purchase-bay-quickly-and-easily/1949</link>
+          <pubDate>Tue, 30 Jul 2019 15:29:53 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1949</guid>
+          <source url=".../forum-archive/t/how-to-purchase-bay-quickly-and-easily/1949.rss">How to purchase BAY quickly and easily</source>
+        </item>
+  </channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>What determines the amount of BAY received for stake rewards?</title>
+    <link>..../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226</link>
+    <description>The amount received as a stake reward is dependent upon the status of liquidity for the input that is staked.
+
+* If the staking input is **Liquid or &quot;Spendable&quot;**,  then it will receive a **5 coin reward**.
+
+* If the staking input is **Reserve**,  then it will receive a **10 coin reward**.
+
+* If the staking input is **Voluntarily Frozen Reserve**,  then it will receive a **20 coin reward**.
+
+* If the staking input is **Voluntarily Frozen Liquid**,  then it will receive a **40 coin reward**.
+
+Keep in mind, the Dynamic Peg index is frequently changing the total coin supply&#39;s ratio of Liquid to Reserve
+
+![02%20AM|274x108](upload://vCRE7KJFLGsLvvckB7nZQq6Po1m.png) 
+
+If the Peg index (shown above) is **between 50 and 100**, you will have a **higher ratio of Liquid (Spendable)** coins, and therefore have a higher chance of earning **5 BAY** rewards.
+
+If the Peg index meter (shown above) is **between 0 and 50**, you will have a **higher ratio of Reserve** coins, and therefore have a higher chance of earning **10 BAY** rewards.
+
+***Note:
+The stake rewards that are earned from voluntarily frozen inputs will be received as frozen, pro-rated to match the timelock of it&#39;s staked input. 
+
+For example: 
+1. Bob voluntarily freezes 100,000 Liquid BAY _(spendable)_ as one single input.
+2. The date of voluntary freezing is on **January 1**, and the input will remain frozen until **May 1**. (4 months)
+3. On **March 1**, Bob&#39;s 100,000 frozen BAY input earns a 40 BAY stake reward.
+4. This 40 BAY stake reward will also remain frozen (along with Bob&#39;s 100,000 frozen BAY input) until **May 1**. 
+
+
+**_If Bob checks the &quot;Reward to Address&quot;_** option in the Staking tab of the QT Wallet, and sends his reward to a separate address, the 40 BAY will not be frozen. Instead, it will be a mix of liquid (_spendable_) and reserve, depending on what the current peg index is at the time of receiving it. 
+
+![27%20AM|690x59](upload://FfSCCGZwJ9YouN0P6NKngypNlI.png)
+
+**Questions, comments, concerns? Please post them in the comments below!**</description>
+    
+    <lastBuildDate>Mon, 23 Mar 2020 12:14:47 +0000</lastBuildDate>
+    <category>Dynamic Peg - FAQ</category>
+    <atom:link href="..../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>What determines the amount of BAY received for stake rewards?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>The amount received as a stake reward is dependent upon the status of liquidity for the input that is staked.</p>
+<ul>
+<li>
+<p>If the staking input is <strong>Liquid or “Spendable”</strong>,  then it will receive a <strong>5 coin reward</strong>.</p>
+</li>
+<li>
+<p>If the staking input is <strong>Reserve</strong>,  then it will receive a <strong>10 coin reward</strong>.</p>
+</li>
+<li>
+<p>If the staking input is <strong>Voluntarily Frozen Reserve</strong>,  then it will receive a <strong>20 coin reward</strong>.</p>
+</li>
+<li>
+<p>If the staking input is <strong>Voluntarily Frozen Liquid</strong>,  then it will receive a <strong>40 coin reward</strong>.</p>
+</li>
+</ul>
+<p>Keep in mind, the Dynamic Peg index is frequently changing the total coin supply’s ratio of Liquid to Reserve</p>
+<p><img src="..../forum-archive/uploads/default/original/1X/dda81672ace54e3b9d1ae270b75a23cf049f70bc.png" alt="02%20AM" width="274" height="108"></p>
+<p>If the Peg index (shown above) is <strong>between 50 and 100</strong>, you will have a <strong>higher ratio of Liquid (Spendable)</strong> coins, and therefore have a higher chance of earning <strong>5 BAY</strong> rewards.</p>
+<p>If the Peg index meter (shown above) is <strong>between 0 and 50</strong>, you will have a <strong>higher ratio of Reserve</strong> coins, and therefore have a higher chance of earning <strong>10 BAY</strong> rewards.</p>
+<p>***Note:<br>
+The stake rewards that are earned from voluntarily frozen inputs will be received as frozen, pro-rated to match the timelock of it’s staked input.</p>
+<p>For example:</p>
+<ol>
+<li>Bob voluntarily freezes 100,000 Liquid BAY <em>(spendable)</em> as one single input.</li>
+<li>The date of voluntary freezing is on <strong>January 1</strong>, and the input will remain frozen until <strong>May 1</strong>. (4 months)</li>
+<li>On <strong>March 1</strong>, Bob’s 100,000 frozen BAY input earns a 40 BAY stake reward.</li>
+<li>This 40 BAY stake reward will also remain frozen (along with Bob’s 100,000 frozen BAY input) until <strong>May 1</strong>.</li>
+</ol>
+<p><strong><em>If Bob checks the “Reward to Address”</em></strong> option in the Staking tab of the QT Wallet, and sends his reward to a separate address, the 40 BAY will not be frozen. Instead, it will be a mix of liquid (<em>spendable</em>) and reserve, depending on what the current peg index is at the time of receiving it.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e.png" data-download-href="..../forum-archive/uploads/default/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e" title="Screen Shot 2020-02-10 at 6.33.27 AM.png"><img src="..../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_690x59.png" alt="27%20AM" width="690" height="59" srcset="..../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_690x59.png, ..../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_1035x88.png 1.5x, ..../forum-archive/uploads/default/optimized/1X/04a9e1ddf1e26419e4505bda0db5fac4516a7f1e_1_1380x118.png 2x"><div class="meta">
+<span class="filename">Screen Shot 2020-02-10 at 6.33.27 AM.png</span><span class="informations">1674x144 9.13 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226/1</link>
+        <pubDate>Mon, 10 Feb 2020 14:36:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2226-1</guid>
+        <source url="..../forum-archive/t/what-determines-the-amount-of-bay-received-for-stake-rewards/2226.rss">What determines the amount of BAY received for stake rewards?</source>
+      </item>
+  </channel>
+</rss>

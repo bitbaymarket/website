@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<!-- Mirrored from forum.bitbay.market/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Sep 2020 10:22:59 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial) - Get Started Guides - BitBay Community</title>
+    <meta name="description" content="This tutorial will walk you through how to create a time locked wallet that can hold funds to be released in the future. 
+DISCLAIMER 1: You are advised to use this feature with small amounts of BAY until you completely u&amp;hellip;">
+    <meta name="author" content="">
+<meta name="generator" content="Discourse 2.2.0.beta4 - https://github.com/discourse/discourse version b39d949a8eb5a9c70c33adbe17eb4f8b8e1e02ef">
+<link rel="icon" type="image/png" href="../../uploads/default/original/1X/d06511d7ad17e341031cb6f75d121f5e34e89215.png">
+<link rel="apple-touch-icon" type="image/png" href="../../uploads/default/original/1X/0c67df35e8d0772b12017fd21e576c3d030a22d8.png">
+<link rel="icon" type="image/png" sizes="144x144" href="../../uploads/default/original/1X/0c67df35e8d0772b12017fd21e576c3d030a22d8.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+<link rel="canonical" href="1008.html" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"..../forum-archive","potentialAction":{"@type":"SearchAction","target":"..../forum-archive/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="../../opensearch.xml" title="BitBay Community Search">
+
+      <link href="../../stylesheets/desktop_2f1f8599efd84bbbcbb60613ecbbc7a5f1c7d35dfd7c.css?__ws=..../forum-archive" media="all" rel="stylesheet" data-target="desktop" data-theme-id="3"/>
+      <link href="../../stylesheets/desktop_theme_3_1261561f4ed964d15d6f7796f9363e8d6c39cee2fd7c.css?__ws=..../forum-archive" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="3"/>
+    <script src="../../ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js" type="text/javascript"></script>
+<script src="../../theme-javascripts/e5f50adb15f3efef34fac9bbc866e60998e106b3fd7c.js?__ws=..../forum-archive"></script>
+    <meta id="data-ga-universal-analytics" data-tracking-code="UA-3386745-35" data-json="{&quot;cookieDomain&quot;:&quot;auto&quot;}" data-auto-link-domains="">
+
+<link rel='preload' href='../../assets/google-universal-analytics-f35b4da49411e6f5559073523aab983da483976a3954c79c756f8579f6fbd6ef.js' as='script'/>
+<script src='../../assets/google-universal-analytics-f35b4da49411e6f5559073523aab983da483976a3954c79c756f8579f6fbd6ef.js'></script>
+
+      <link rel="alternate" type="application/rss+xml" title="RSS feed of &#39;Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)&#39;" href="1008.rss" />
+  <meta property="og:site_name" content="BitBay Community" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="..../forum-archive/uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" />
+<meta property="og:image" content="..../forum-archive/uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" />
+<meta property="og:url" content="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008" />
+<meta name="twitter:url" content="..../forum-archive/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008" />
+<meta property="og:title" content="Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)" />
+<meta name="twitter:title" content="Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)" />
+<meta property="og:description" content="This tutorial will walk you through how to create a time locked wallet that can hold funds to be released in the future.  DISCLAIMER 1: You are advised to use this feature with small amounts of BAY until you completely understand the process and the implications. There is always a possibility of losing your funds if the process is not followed correctly.  DISCLAIMER 2: The regular client in the downloads section of the site can handle most of the details that follow. Nevertheless, this tutorial ..." />
+<meta name="twitter:description" content="This tutorial will walk you through how to create a time locked wallet that can hold funds to be released in the future.  DISCLAIMER 1: You are advised to use this feature with small amounts of BAY until you completely understand the process and the implications. There is always a possibility of losing your funds if the process is not followed correctly.  DISCLAIMER 2: The regular client in the downloads section of the site can handle most of the details that follow. Nevertheless, this tutorial ..." />
+<meta name="twitter:label1" value="Reading time" />
+<meta name="twitter:data1" value="2 mins 🕑" />
+<meta name="twitter:label2" value="Likes" />
+<meta name="twitter:data2" value="3 ❤" />
+<meta property="article:published_time" content="2018-01-23T11:10:10+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+
+
+
+    
+  </head>
+  <body class="crawler">
+    <div id="aboveheader" class="customcontainer w-clearfix">
+    <a class="logo w-clearfix w-nav-brand" href="../../index.html">
+        <img alt="home" class="logoimage" src="../../uploads/default/original/1X/a1e532ebc9baad3f476ce22b0324c0c31e0f09e6.png" height="40">
+    </a>
+    <nav class="nav-menu w-nav-menu" role="navigation">
+      <a class="navlink w-nav-link" href="../../c/get-started-guides.html">Guides</a>
+      <a class="navlink w-nav-link" href="../../c/support.html">Support</a>
+      <a class="navlink w-nav-link" href="../../c/about-bitbay.html">About BitBay</a>
+      <a class="navlink w-nav-link" href="../../../wallet.bitbay.market/index.html" target="_blank">Wallet</a> 
+      <a class="navlink w-nav-link" href="https://blog.bitbay.market/" target="_blank">Blog</a>
+      <a class="navlink w-nav-link" href="http://explorer.bitbay.market/" target="_blank">Explorer</a>
+      <a class="navlink w-nav-link" href="https://bitbay.market/" target="_blank">BitBay Website</a>
+    </nav>
+  </div>
+    <header>
+      <a href="../../index.html">
+          <img src="../../uploads/default/original/1X/c3ed3becd0be62a269541e33a842a0301c20cd51.svg" alt="BitBay Community" id="site-logo" style="max-width: 150px;">
+      </a>
+    </header>
+    <div id="main-outlet" class="wrap">
+      <h1>
+  <a href="1008.html">Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)</a>
+</h1>
+
+<div id='breadcrumbs'>
+    <div id="breadcrumb-0" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"
+>
+      <a href="../../c/get-started-guides.html" itemprop="url">
+        <span itemprop="title">Get Started Guides</span>
+      </a>
+    </div>
+</div>
+
+    <div class='tags-list' itemscope itemtype='http://schema.org/ItemList'>
+        <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+          <meta itemprop='url' content='../../tags/tutorials.html'>
+          <a href="../../tags/tutorials.html" itemprop='item'>
+            <span itemprop='name'>tutorials</span>
+          </a>
+        </div>
+    </div>
+
+
+
+
+<hr>
+
+
+  <div itemscope itemtype='http://schema.org/DiscussionForumPosting'>
+      <div class='creator'>
+        <span>
+          <a href='../../u/GiorgosK.html'><b itemprop='author'>GiorgosK</b></a>
+           
+           <time datetime='2018-01-23T11:10:10Z' itemprop='datePublished'>
+             2018-01-23 11:10:10 UTC
+           </time>
+        </span>
+        <span itemprop='position'>#1</span>
+      </div>
+      <div class='post' itemprop='articleBody'>
+        <p>This tutorial will walk you through how to create a time locked wallet that can hold funds to be released in the future.</p>
+<p><em><strong>DISCLAIMER 1:</strong></em> You are advised to use this feature with small amounts of BAY until you completely understand the process and the implications. There is always a possibility of <strong>losing your funds</strong> if the process is not followed correctly.</p>
+<p><em><strong>DISCLAIMER 2:</strong></em> The regular client in the <a href="https://bitbay.market/downloads">downloads section of the site</a> can handle most of the details that follow. Nevertheless, this tutorial is perfect for understanding how transactions, wallets, public and private keys work.</p>
+<p>For the purpose of this tutorial we will use the following terms:</p>
+<p><strong>Time Release Address:</strong> This is the address that will be holding the funds for a set amount of time until they are released. This is also known as <strong>HODL</strong>.</p>
+<p><strong>Benefactor:</strong> This is the person sending/locking the funds.</p>
+<p><strong>Beneficiary:</strong> This is the person that will benefit/redeem the funds. They must send their <strong>Public Key</strong> to the Benefactor in order to redeem the funds.</p>
+<p>For the purpose of this tutorial both persons’ actions can be carried out by one person. We will be using the <a href="../../../wallet.bitbay.market/index.html">web wallet</a></p>
+<h1>TIME LOCKED WALLET CREATION</h1>
+<h2>1.</h2>
+<p>The beneficiary can create a <strong>regular wallet</strong> (if they don’t have one already). This is the wallet that will <strong>REDEEM</strong> the funds.  The wallet can be created from the client, or it can be an individual multisig wallet (2 of 2).</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" data-download-href="..../forum-archive/uploads/default/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a" title="01.wallet.create.png"><img src="../../uploads/default/original/1X/aaf07534f6c21fa6fe9a7a111e7eb008d917f77a.png" alt="create" width="514" height="500"><div class="meta">
+<span class="filename">01.wallet.create.png</span><span class="informations">792x770 17.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>2.</h2>
+<p>Under the “<strong>Receive</strong>” tab, the beneficiary will copy the <strong>Public Key</strong> of the wallet created above, then <strong>logout</strong> and send the <strong>public key</strong> to the benefactor.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a.png" data-download-href="..../forum-archive/uploads/default/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a" title="02.wallet.public.key.png"><img src="../../uploads/default/original/1X/fef9c4a75b2c79c5d16db11e945a179dfdad4b3a.png" alt="key" width="690" height="319"><div class="meta">
+<span class="filename">02.wallet.public.key.png</span><span class="informations">835x387 11.1 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>3.</h2>
+<p>The benefactor selects <strong>Time Locked Address</strong> from the menu and pastes in the previously copied <strong>public key</strong>. Then select a date/time for funds release and then click <strong>Submit</strong>.  Alternatively, one can set the blockheight of release by checking the current block height using the <a href="https://chainz.cryptoid.info/bay/">explorer</a> and estimating 1 block per minute.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c.png" data-download-href="..../forum-archive/uploads/default/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c" title="03.wallet.time.locked.png"><img src="../../uploads/default/original/1X/11c5eebb33f91fbfbc459ed4dbdf736fcc765d3c.png" alt="locked" width="648" height="500"><div class="meta">
+<span class="filename">03.wallet.time.locked.png</span><span class="informations">793x611 24.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>For the purpose of this tutorial, the date/time is only a few minutes into the future.</p>
+<p>Here is what was used in this example, for verification:<br>
+<strong>public key</strong> <code>038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4bab</code><br>
+<strong>date</strong> <code>01/23/2018 12:40</code></p>
+<h2>4.</h2>
+<p>After clicking <strong>Submit</strong>, you will get the following (example info below so you can verify)</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/9806a8bb940df4cb44a01447968db332a0719ae3.png" data-download-href="..../forum-archive/uploads/default/9806a8bb940df4cb44a01447968db332a0719ae3" title="04.wallet.time.locked.submit.png"><img src="../../uploads/default/original/1X/9806a8bb940df4cb44a01447968db332a0719ae3.png" alt="submit" width="690" height="475"><div class="meta">
+<span class="filename">04.wallet.time.locked.submit.png</span><span class="informations">691x476 17.2 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p><strong>Wallet to send the FUNDS to:</strong><br>
+<code>bUf1UAsfU7rZ7Js7TxCAXSpuxXVSXn94ZN</code></p>
+<p><strong>Redeem script:</strong>   <code>040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac</code></p>
+<p><strong>Shareable URL:</strong><br>
+<code>https://wallet.bitbay.market/_test123_/?verify=040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac#verify</code></p>
+<p>The benefactor can now send FUNDS to the wallet above so that the beneficiary has something to REDEEM.</p>
+<p>For the purpose of this tutorial we will  send <a href="https://chainz.cryptoid.info/bay/address.dws?bUf1UAsfU7rZ7Js7TxCAXSpuxXVSXn94ZN.htm">1 BAY</a></p>
+<h2>5.</h2>
+<p>The benefactor only needs to send the <strong>Shareable URL</strong> to the beneficiary, who should STORE the <strong>shareable url</strong> or <strong>redeem script</strong> code somewhere safe (print or write it down or bookmark it).  Its <strong>VERY IMPORTANT</strong> that the beneficiary understands the importance of saving the <strong>shareable url</strong> or <strong>redeem script</strong>, otherwise the funds would stay in the TimeLock address without anyone being able to release them.</p>
+<p>The beneficiary can paste into their browser and they will be able to verify the details of this action (wallets involved and date/time of release).</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/b2b4587cea2463664035df0d3b27241d15a578e2.png" data-download-href="..../forum-archive/uploads/default/b2b4587cea2463664035df0d3b27241d15a578e2" title="05.wallet.time.locked.verify.png"><img src="../../uploads/default/original/1X/b2b4587cea2463664035df0d3b27241d15a578e2.png" alt="verify" width="602" height="499"><div class="meta">
+<span class="filename">05.wallet.time.locked.verify.png</span><span class="informations">709x588 18.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h1>REDEEM FUNDS</h1>
+<p>Once the future release date passes, the beneficiary can redeem the funds using the following procedure:</p>
+<h2>1.</h2>
+<p>Beneficiary will create a transaction, (menu &gt; transaction) inputing the <strong>Redeem script</strong> and clicking <strong>Load</strong>. This will load all the details of the transaction. The Beneficiary then will need to input the wallet address that will receive the redeemed funds, and the amount which will have to be a little less (0.99) than the total. This compensates for the network fee (which is calculated automatically - the difference between outputs and inputs is always the fee). Click <strong>Enter</strong> when done.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/c18b44bbb99917b7eeac3eb6dbb2867c0149b067.png" data-download-href="..../forum-archive/uploads/default/c18b44bbb99917b7eeac3eb6dbb2867c0149b067" title="01.create.transaction.png"><img src="../../uploads/default/original/1X/c18b44bbb99917b7eeac3eb6dbb2867c0149b067.png" alt="transaction" width="452" height="500"><div class="meta">
+<span class="filename">01.create.transaction.png</span><span class="informations">720x796 23.6 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>2.</h2>
+<p>The transaction has been created and you can see the generated code to be used for the next step:</p>
+<p><img src="../../uploads/default/original/1X/e8f5e7b2a826f56e5da830fb71f747c89bdc6ca4.png" alt="transaction" width="686" height="290"></p>
+<p><strong>transaction</strong> <code>010000000a1a675a0112de2b4a11579c146f43701eb05692a35ba48d4f095448117ccc77a8301a9773000000002a040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac0000000001c09ee605000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac0011675a</code></p>
+<h2>3.</h2>
+<p>Under menu &gt; sign, the Beneficiary will then <strong>sign the transaction</strong> with their own wallet private key. The<br>
+private key can be found under the <strong>Receive</strong> tab on web wallet.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/79cc2a656450cc7a495679751f3b5b6edd4ee11e.png" data-download-href="..../forum-archive/uploads/default/79cc2a656450cc7a495679751f3b5b6edd4ee11e" title="03.sign.transaction.png"><img src="../../uploads/default/original/1X/79cc2a656450cc7a495679751f3b5b6edd4ee11e.png" alt="transaction" width="690" height="444"><div class="meta">
+<span class="filename">03.sign.transaction.png</span><span class="informations">720x464 15.8 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>4.</h2>
+<p>After signing the transaction the following information is created:</p>
+<p><img src="../../uploads/default/original/1X/f65f03da3960c6871f30dd36da037de56fd6d0a2.png" alt="transaction" width="662" height="242"></p>
+<p><strong>signed transaction</strong> <code>010000000a1a675a0112de2b4a11579c146f43701eb05692a35ba48d4f095448117ccc77a8301a97730000000074483045022100b98759bfeec796d7a9292ae18b6f0b591ed48dac49829356f3b002394c87ff4402203e7fd949357e493c6212aff84806560572afb236cb40c8fb924a1ba2ef7c09d4012a040011675ab17521038024c9365f8f810891735ba152ece8464e317aa30ee72a5c4237a1b2bf1d4babac0000000001c09ee605000000001976a914054e3d7f9acff76037ebb8836f255a411bc3798e88ac0011675a</code></p>
+<p><em><strong>Note:</strong> One can also verify the <strong>signed transaction</strong> by going to <strong>menu &gt; verify</strong></em></p>
+<h2>5.</h2>
+<p>Lastly, under <strong>menu &gt; broadcast</strong>, the Beneficiary will broadcast the <strong>signed transaction</strong>.  If successful, this will produce a transaction ID. If not successful, simply wait a few moments and try again.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="../../uploads/default/original/1X/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1.png" data-download-href="..../forum-archive/uploads/default/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1" title="05.broadcast.signed.transaction.png"><img src="../../uploads/default/original/1X/40a8a0eb5be2fdc5347c2287f0b993e4563a2ec1.png" alt="transaction" width="690" height="399"><div class="meta">
+<span class="filename">05.broadcast.signed.transaction.png</span><span class="informations">708x410 17.6 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>After it has been succesfully broadcast the funds will be released and the receiving address used in step 1 should see them shortly.</p>
+<h2>Final words</h2>
+<p>It is <strong>extremely important</strong> for the Beneficiary to store the <strong>shareable url</strong> or <strong>redeem script</strong> in a secure place.<br>
+<strong>There is no possible way to release the funds without them.</strong></p>
+<p>The above procedure is a very elegant way to solve many use cases, all with a few steps and sending a URL to the other party.</p>
+<ul>
+<li>Make a <strong>WILL</strong>, with the beneficiary only needing the <strong>shareable url</strong> and their own wallet’s <strong>private key</strong> to unlock it when the time comes.</li>
+<li>Lend someone FIAT or other currency/goods and get the <strong>shareable URL</strong>  (verifiable promise) to get BAY on a future date.</li>
+</ul>
+      </div>
+      <meta itemprop='interactionCount' content='UserLikes:2'>
+      <meta itemprop='interactionCount' content='UserComments:0'>
+      <meta itemprop='headline' content='Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)'>
+      <hr>
+            <a href="../community-update-04-02-2018/1065.html">Community Update 04\02\2018 تحديث المجتمع الأسبوعي</a>
+            <hr>
+            <a href="../bitbay-community-update-feb-4th-2018/1064.html">BitBay Community Update - Feb. 4th, 2018</a>
+            <hr>
+            <a href="../community-update-04-02-2018-en-francais/1066.html">Community Update 04/02/2018 en Français</a>
+            <hr>
+  </div>
+  <div itemscope itemtype='http://schema.org/DiscussionForumPosting'>
+      <div class='creator'>
+        <span>
+          <a href='../../u/Lexafan.html'><b itemprop='author'>Lexafan</b></a>
+           
+           <time datetime='2019-01-16T17:30:51Z' itemprop='datePublished'>
+             2019-01-16 17:30:51 UTC
+           </time>
+        </span>
+        <span itemprop='position'>#2</span>
+      </div>
+      <div class='post' itemprop='articleBody'>
+        <p>writes error Unexpected error, unable to retrieve unspent outputs!</p>
+      </div>
+      <meta itemprop='interactionCount' content='UserLikes:0'>
+      <meta itemprop='interactionCount' content='UserComments:0'>
+      <meta itemprop='headline' content='Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)'>
+      <hr>
+  </div>
+  <div itemscope itemtype='http://schema.org/DiscussionForumPosting'>
+      <div class='creator'>
+        <span>
+          <a href='../../u/GiorgosK.html'><b itemprop='author'>GiorgosK</b></a>
+           
+           <time datetime='2019-01-17T09:45:12Z' itemprop='datePublished'>
+             2019-01-17 09:45:12 UTC
+           </time>
+        </span>
+        <span itemprop='position'>#4</span>
+      </div>
+      <div class='post' itemprop='articleBody'>
+        <p><a class="mention" href="../../u/lexafan-2.html">@Lexafan</a> did you try the steps exactly as shown above ? its a tedious process and anything even like a missing letter or extra empty space can change the outcome of this process</p>
+      </div>
+      <meta itemprop='interactionCount' content='UserLikes:0'>
+      <meta itemprop='interactionCount' content='UserComments:1'>
+      <meta itemprop='headline' content='Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)'>
+      <hr>
+  </div>
+  <div itemscope itemtype='http://schema.org/DiscussionForumPosting'>
+      <div class='creator'>
+        <span>
+          <a href='../../u/Lexafan.html'><b itemprop='author'>Lexafan</b></a>
+           
+           <time datetime='2019-01-17T10:51:06Z' itemprop='datePublished'>
+             2019-01-17 10:51:06 UTC
+           </time>
+        </span>
+        <span itemprop='position'>#5</span>
+      </div>
+      <div class='post' itemprop='articleBody'>
+        <p>everything is fine here:</p>
+<p>"Verify transactions and other scripts<br>
+Enter the raw transaction, redeem script, pubkey, hd address or wif key to convert it into a readable format that can be verified manually.</p>
+<p>04a9423f5cb1752103d0bceb9f29dd59dc56d47d84fba3467f8dee9afa259d6adde1f338a0a3618532ac</p>
+<p>Redeem Script<br>
+The above redeem script has been decoded</p>
+<p>Hodl Address</p>
+<p>bZ2kBoEVy7f4NfAMgrL2mzLhBvx9i5Meek<br>
+Required Signature</p>
+<p>BPS9zprjXiSmiSRmbohHhYiSx7MDgXQbUX<br>
+Unlock Time UTC/GMT or BlockHeight</p>
+<p>01/16/2019 20:41"</p>
+      </div>
+      <meta itemprop='interactionCount' content='UserLikes:0'>
+      <meta itemprop='interactionCount' content='UserComments:0'>
+      <meta itemprop='headline' content='Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)'>
+      <hr>
+  </div>
+  <div itemscope itemtype='http://schema.org/DiscussionForumPosting'>
+      <div class='creator'>
+        <span>
+          <a href='../../u/Lexafan.html'><b itemprop='author'>Lexafan</b></a>
+           
+           <time datetime='2019-01-17T10:54:12Z' itemprop='datePublished'>
+             2019-01-17 10:54:12 UTC
+           </time>
+        </span>
+        <span itemprop='position'>#6</span>
+      </div>
+      <div class='post' itemprop='articleBody'>
+        <p>and in the next step:</p>
+<p>"Transaction Create a new transaction<br>
+Use this page to create a raw transaction</p>
+<p>Address, WIF key or Redeem Script:</p>
+<p>04a9423f5cb1752103d0bceb9f29dd59dc56d47d84fba3467f8dee9afa259d6adde1f338a0a3618532ac</p>
+<p>Unexpected error, unable to retrieve unspent outputs!"</p>
+      </div>
+      <meta itemprop='interactionCount' content='UserLikes:0'>
+      <meta itemprop='interactionCount' content='UserComments:0'>
+      <meta itemprop='headline' content='Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)'>
+      <hr>
+  </div>
+  <div itemscope itemtype='http://schema.org/DiscussionForumPosting'>
+      <div class='creator'>
+        <span>
+          <a href='../../u/Lexafan.html'><b itemprop='author'>Lexafan</b></a>
+           
+           <time datetime='2019-01-17T10:56:19Z' itemprop='datePublished'>
+             2019-01-17 10:56:19 UTC
+           </time>
+        </span>
+        <span itemprop='position'>#7</span>
+      </div>
+      <div class='post' itemprop='articleBody'>
+        <p>I do strictly according to your instructions</p>
+      </div>
+      <meta itemprop='interactionCount' content='UserLikes:0'>
+      <meta itemprop='interactionCount' content='UserComments:0'>
+      <meta itemprop='headline' content='Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)'>
+      <hr>
+  </div>
+  <div itemscope itemtype='http://schema.org/DiscussionForumPosting'>
+      <div class='creator'>
+        <span>
+          <a href='../../u/GiorgosK.html'><b itemprop='author'>GiorgosK</b></a>
+           
+           <time datetime='2019-01-19T11:19:07Z' itemprop='datePublished'>
+             2019-01-19 11:19:07 UTC
+           </time>
+        </span>
+        <span itemprop='position'>#8</span>
+      </div>
+      <div class='post' itemprop='articleBody'>
+        <p><a class="mention" href="../../u/lexafan-2.html">@Lexafan</a><br>
+there was indeed a problem with the communication with the block processor that we just fixed<br>
+you can try again now</p>
+<p>Also remember that the time hold address has to receive some funds in order to be able to complete the 2nd part of the tutorial</p>
+<p>NOTE make sure you refresh the page to get the newest code of the wallet (CTRL+F5 in windows)</p>
+      </div>
+      <meta itemprop='interactionCount' content='UserLikes:0'>
+      <meta itemprop='interactionCount' content='UserComments:1'>
+      <meta itemprop='headline' content='Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)'>
+      <hr>
+  </div>
+  <div itemscope itemtype='http://schema.org/DiscussionForumPosting'>
+      <div class='creator'>
+        <span>
+          <a href='../../u/Lexafan.html'><b itemprop='author'>Lexafan</b></a>
+           
+           <time datetime='2019-01-19T19:02:14Z' itemprop='datePublished'>
+             2019-01-19 19:02:14 UTC
+           </time>
+        </span>
+        <span itemprop='position'>#9</span>
+      </div>
+      <div class='post' itemprop='articleBody'>
+        <p>Everything turned out !!! Very cool feature! thank GiorgosK!</p>
+      </div>
+      <meta itemprop='interactionCount' content='UserLikes:1'>
+      <meta itemprop='interactionCount' content='UserComments:0'>
+      <meta itemprop='headline' content='Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)'>
+      <hr>
+  </div>
+  <div itemscope itemtype='http://schema.org/DiscussionForumPosting'>
+      <div class='creator'>
+        <span>
+          <a href='../../u/GiorgosK.html'><b itemprop='author'>GiorgosK</b></a>
+           
+           <time datetime='2019-01-21T09:51:49Z' itemprop='datePublished'>
+             2019-01-21 09:51:49 UTC
+           </time>
+        </span>
+        <span itemprop='position'>#10</span>
+      </div>
+      <div class='post' itemprop='articleBody'>
+        <p><a class="mention" href="../../u/lexafan-2.html">@Lexafan</a>  Glad you were able to see it working properly</p>
+      </div>
+      <meta itemprop='interactionCount' content='UserLikes:0'>
+      <meta itemprop='interactionCount' content='UserComments:0'>
+      <meta itemprop='headline' content='Time Locked Wallet Creation and Redeeming of Funds (Web Wallet Tutorial)'>
+      <hr>
+  </div>
+
+
+
+
+
+
+    </div>
+    <footer class="container">
+      <nav class='crawler-nav' itemscope itemtype='http://schema.org/SiteNavigationElement'>
+        <a href='../../index.html'>Home</a>
+        <a href="../../categories.html">Categories</a>
+        <a href="../../guidelines.html">FAQ/Guidelines</a>
+        <a href="../../tos.html">Terms of Service</a>
+        <a href="../../privacy.html">Privacy Policy</a>
+      </nav>
+      <p class='powered-by-link'>Powered by <a href="https://www.discourse.org/">Discourse</a>, best viewed with JavaScript enabled</p>
+    </footer>
+    <script src="../../theme-javascripts/ba5a3ec0ca3c6ef9f2d4e6452094423fc2e29790fd7c.js?__ws=..../forum-archive"></script>
+  </body>
+  
+
+<!-- Mirrored from forum.bitbay.market/t/time-locked-wallet-creation-and-redeeming-of-funds-web-wallet-tutorial/1008 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Sep 2020 10:23:12 GMT -->
+</html>

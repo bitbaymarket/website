@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>When and how can I spend the different liquidities of BAY?</title>
+    <link>..../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181</link>
+    <description>**When and how can I spend the different liquidities of BAY?**
+
+*(Liquid, Reserve, Frozen Reserve, and Frozen Liquid)*
+
+Each liquidity class can be transferred at a different speed.
+
+**Liquid (BAY)**  can be moved instantly, at any time.
+
+Liquid coins can also be voluntarily frozen, which gives it “Frozen Liquid” status. Freezing liquid coins places a 4-month time lock on the coin input. The receiving address will have to wait 4 months before these coins become spendable, however the coins can stake as soon as they enter the recipients wallet (earning 40 coin stake rewards).
+
+**Reserve (BAYR)**  can only be moved on the blockchain with a 1-month time lock.
+
+When reserve BAYR are moved on the blockchain, they are marked as “Frozen Reserve” status, and are not spendable again until a 1-month time lock matures. However, the receiving address will be allowed to stake the coins while they are time locked (earning 20 coin stake rewards).
+
+Once time locks mature for either frozen (BAY) or frozen (BAYR), these coins will remain marked as “frozen”. This will allow the coin holder to continue to stake for the higher stake reward (40 coins for frozen BAY, 20 coins for frozen BAYR), while still being spendable. Once coins are spent from the frozen marked coin, they lose their frozen marked status and return to normal stake rewards (5 coins for liquid BAY, 10 coins for reserve BAYR).
+
+****Note: Exchanges that use IOU accounting systems (transactions off-chain) are not bound by this rule. Reserve BAYR on exchanges can be traded without any time lock restrictions.*
+
+The peg coding mimics a Layer 1 protocol, it works on top of UTXO, but it has right to decline non-peg transactions. Any transaction that attempts to deviate from this protocol will be rejected by the network. This ensures that every network participant (including exchanges) must follow all the rules of the Dynamic Peg.
+
+**Questions, comments, concerns? Please post them in the comments below!**</description>
+    
+    <lastBuildDate>Tue, 18 Feb 2020 12:58:16 +0000</lastBuildDate>
+    <category>Dynamic Peg - FAQ</category>
+    <atom:link href="..../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>When and how can I spend the different liquidities of BAY?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p><strong>When and how can I spend the different liquidities of BAY?</strong></p>
+<p><em>(Liquid, Reserve, Frozen Reserve, and Frozen Liquid)</em></p>
+<p>Each liquidity class can be transferred at a different speed.</p>
+<p><strong>Liquid (BAY)</strong>  can be moved instantly, at any time.</p>
+<p>Liquid coins can also be voluntarily frozen, which gives it “Frozen Liquid” status. Freezing liquid coins places a 4-month time lock on the coin input. The receiving address will have to wait 4 months before these coins become spendable, however the coins can stake as soon as they enter the recipients wallet (earning 40 coin stake rewards).</p>
+<p><strong>Reserve (BAYR)</strong>  can only be moved on the blockchain with a 1-month time lock.</p>
+<p>When reserve BAYR are moved on the blockchain, they are marked as “Frozen Reserve” status, and are not spendable again until a 1-month time lock matures. However, the receiving address will be allowed to stake the coins while they are time locked (earning 20 coin stake rewards).</p>
+<p>Once time locks mature for either frozen (BAY) or frozen (BAYR), these coins will remain marked as “frozen”. This will allow the coin holder to continue to stake for the higher stake reward (40 coins for frozen BAY, 20 coins for frozen BAYR), while still being spendable. Once coins are spent from the frozen marked coin, they lose their frozen marked status and return to normal stake rewards (5 coins for liquid BAY, 10 coins for reserve BAYR).</p>
+<p>***<em>Note: Exchanges that use IOU accounting systems (transactions off-chain) are not bound by this rule. Reserve BAYR on exchanges can be traded without any time lock restrictions.</em></p>
+<p>The peg coding mimics a Layer 1 protocol, it works on top of UTXO, but it has right to decline non-peg transactions. Any transaction that attempts to deviate from this protocol will be rejected by the network. This ensures that every network participant (including exchanges) must follow all the rules of the Dynamic Peg.</p>
+<p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181/1</link>
+        <pubDate>Wed, 29 Jan 2020 14:19:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2181-1</guid>
+        <source url="..../forum-archive/t/when-and-how-can-i-spend-the-different-liquidities-of-bay/2181.rss">When and how can I spend the different liquidities of BAY?</source>
+      </item>
+  </channel>
+</rss>

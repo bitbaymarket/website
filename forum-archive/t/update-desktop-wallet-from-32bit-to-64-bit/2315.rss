@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Update desktop wallet from 32bit to 64 bit</title>
+    <link>..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315</link>
+    <description>My system has the following specifications 
+
+QT Wallet, Client Wallet (and version) or Web wallet: QT Wallet last version
+Operating System and version: Windows 10 64 bit
+If web wallet browser name and version:
+If desktop wallet (Qt or Client) block # of your client and # of connections: NA
+
+The problem I am having is: 
+I have reopened my QT wallet after a long period of inactivity and as I had an old version, I have got a message to upgrade. Clicked on the link provided and downloaded an BitbayUpdateWin.zip file
+I run and file and made the update. 
+But now the wallet does not load anymore, it starts and nothing happens.
+One thing I noticed in the Task Manager is that it starts the bitbay.exe 32 bit version.  I don&#39;t know, it changed maybe via update to 32 (from 64) or I had it since the beginning like this. 
+
+How can I convert my wallet to the 64 bit version from 32 bit?
+
+Thanks in advance,
+Pericle</description>
+    
+    <lastBuildDate>Mon, 30 Mar 2020 10:33:12 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Update desktop wallet from 32bit to 64 bit</title>
+        <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <blockquote>
+              <p>Pericle,</p>
+<p>Sorry for the delay.<br>
+Understand that we had an issue with the blockchain splitting between the longest chain and the most trusted chain. We are almost done resolving the issue. Your coins are safe as long as you haven’t tried transferring them during the split.</p>
+<p>You will most likely have to synchronize to the blockchain from the very beginning due to this chain split.</p>
+<p>So the easiest way to fix your situation where you want to change from 32 bit windows to 64 bit windows is as follows:<br>
+1st) make sure you know the location of your wallet.dat file. Have it stored in multiple safe locations.</p>
+<p>2nd) Locate your qt folder that stores all your data (not the .exe file). You can find the location of this folder by reviewing this video: <a href="https://www.youtube.com/watch?v=jGXf2xFyWaE" rel="nofollow noopener">https://www.youtube.com/watch?v=jGXf2xFyWaE</a></p>
+<p>3rd) delete all content in this folder EXCEPT FOR your wallet.dat file. Also… delete your old 32bit qt wallet .exe</p>
+<p>4th) download the bootstrap file found here: <a href="https://github.com/bitbaymarket/bitbay-bootstrap/releases/tag/v1" rel="nofollow noopener">https://github.com/bitbaymarket/bitbay-bootstrap/releases/tag/v1</a><br>
+Place in the same folder as your wallet.dat file. This means you would only have 2 files in that folder. The wallet.dat and the bootstrap.dat file</p>
+<p>5th)download and install the new QT wallet 64 bit version. Once extracted you can start the new .exe.<br>
+6th) let it synchronize</p>
+<p>Let me know if you have any other questions</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315/2</link>
+        <pubDate>Mon, 30 Mar 2020 10:33:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2315-2</guid>
+        <source url="..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315.rss">Update desktop wallet from 32bit to 64 bit</source>
+      </item>
+      <item>
+        <title>Update desktop wallet from 32bit to 64 bit</title>
+        <dc:creator><![CDATA[@Pericle]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/pericle">@Pericle</a> wrote:</p>
+          <blockquote>
+              <p>My system has the following specifications</p>
+<p>QT Wallet, Client Wallet (and version) or Web wallet: QT Wallet last version<br>
+Operating System and version: Windows 10 64 bit<br>
+If web wallet browser name and version:<br>
+If desktop wallet (Qt or Client) block # of your client and # of connections: NA</p>
+<p>The problem I am having is:<br>
+I have reopened my QT wallet after a long period of inactivity and as I had an old version, I have got a message to upgrade. Clicked on the link provided and downloaded an BitbayUpdateWin.zip file<br>
+I run and file and made the update.<br>
+But now the wallet does not load anymore, it starts and nothing happens.<br>
+One thing I noticed in the Task Manager is that it starts the bitbay.exe 32 bit version.  I don’t know, it changed maybe via update to 32 (from 64) or I had it since the beginning like this.</p>
+<p>How can I convert my wallet to the 64 bit version from 32 bit?</p>
+<p>Thanks in advance,<br>
+Pericle</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315/1</link>
+        <pubDate>Sat, 28 Mar 2020 20:26:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2315-1</guid>
+        <source url="..../forum-archive/t/update-desktop-wallet-from-32bit-to-64-bit/2315.rss">Update desktop wallet from 32bit to 64 bit</source>
+      </item>
+  </channel>
+</rss>

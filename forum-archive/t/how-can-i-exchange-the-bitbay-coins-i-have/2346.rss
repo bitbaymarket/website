@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How can I exchange the Bitbay coins I have?</title>
+    <link>..../forum-archive/t/how-can-i-exchange-the-bitbay-coins-i-have/2346</link>
+    <description>I can&#39;t find an exchange who accept the bitbay coins:
+I tried to send to Latoken, but it don&#39;t allow bitbay deposits;
+I tried Blocknet but it have no market for Bitbay.
+
+Could you help me please?</description>
+    
+    <lastBuildDate>Tue, 07 Apr 2020 12:27:30 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/how-can-i-exchange-the-bitbay-coins-i-have/2346.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How can I exchange the Bitbay coins I have?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Currently, LA Token or OTC transactions are the only places to trade BAY.</p>
+<p>LA Token link: <a href="https://exchange.latoken.com/exchange/BAY-BTC">https://exchange.latoken.com/exchange/BAY-BTC</a></p>
+<p>Since Blocknet is a decentralized exchange, they will require some additional work to integrate the dynamic peg before users can trade BAY there.</p>
+<p>Like <a class="mention" href="/u/craig_claussen">@Craig_Claussen</a> mentioned, LA Token’s deposits are currently paused while they fix a small issue today. They should be reopened again soon.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-can-i-exchange-the-bitbay-coins-i-have/2346/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-can-i-exchange-the-bitbay-coins-i-have/2346/4</link>
+        <pubDate>Tue, 07 Apr 2020 12:27:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2346-4</guid>
+        <source url="..../forum-archive/t/how-can-i-exchange-the-bitbay-coins-i-have/2346.rss">How can I exchange the Bitbay coins I have?</source>
+      </item>
+      <item>
+        <title>How can I exchange the Bitbay coins I have?</title>
+        <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <blockquote>
+              <p><a href="http://LATOKEN.com" rel="nofollow noopener">LATOKEN.com</a> has had some issues with deposits. We are waiting for an update from them hopefully by the end of the day (Europe time)</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-can-i-exchange-the-bitbay-coins-i-have/2346/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-can-i-exchange-the-bitbay-coins-i-have/2346/3</link>
+        <pubDate>Tue, 07 Apr 2020 11:54:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2346-3</guid>
+        <source url="..../forum-archive/t/how-can-i-exchange-the-bitbay-coins-i-have/2346.rss">How can I exchange the Bitbay coins I have?</source>
+      </item>
+      <item>
+        <title>How can I exchange the Bitbay coins I have?</title>
+        <dc:creator><![CDATA[@proteanman Protean Man]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
+          <blockquote>
+              <p>Agreed. What’s going on here?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-can-i-exchange-the-bitbay-coins-i-have/2346/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-can-i-exchange-the-bitbay-coins-i-have/2346/2</link>
+        <pubDate>Tue, 07 Apr 2020 06:57:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2346-2</guid>
+        <source url="..../forum-archive/t/how-can-i-exchange-the-bitbay-coins-i-have/2346.rss">How can I exchange the Bitbay coins I have?</source>
+      </item>
+      <item>
+        <title>How can I exchange the Bitbay coins I have?</title>
+        <dc:creator><![CDATA[@carlaotoni Carla]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/carlaotoni">@carlaotoni</a> wrote:</p>
+          <blockquote>
+              <p>I can’t find an exchange who accept the bitbay coins:<br>
+I tried to send to Latoken, but it don’t allow bitbay deposits;<br>
+I tried Blocknet but it have no market for Bitbay.</p>
+<p>Could you help me please?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-can-i-exchange-the-bitbay-coins-i-have/2346/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-can-i-exchange-the-bitbay-coins-i-have/2346/1</link>
+        <pubDate>Tue, 07 Apr 2020 02:57:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2346-1</guid>
+        <source url="..../forum-archive/t/how-can-i-exchange-the-bitbay-coins-i-have/2346.rss">How can I exchange the Bitbay coins I have?</source>
+      </item>
+  </channel>
+</rss>

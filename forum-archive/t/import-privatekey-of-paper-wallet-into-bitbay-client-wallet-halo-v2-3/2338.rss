@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Import Privatekey of Paper Wallet into Bitbay Client Wallet halo v2.3</title>
+    <link>..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338</link>
+    <description>My system has the following specifications 
+
+QT Wallet, Client Wallet (and version) or Web wallet: Client Wallet halo v2.3
+Operating System and version: Windows 10
+If web wallet browser name and version: -
+If desktop wallet (Qt or Client) block # of your client and # of connections: 2538764 / 24
+
+The problem I am having is: I dont know how to import my private key (paper wallet) into Client wallet.
+
+Thanks for help!!!</description>
+    
+    <lastBuildDate>Tue, 07 Apr 2020 12:22:37 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Import Privatekey of Paper Wallet into Bitbay Client Wallet halo v2.3</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>If you only have one private key, you can easily import it into the QT wallet.</p>
+<p><strong>Here is the tutorial for that:</strong><br>
+<aside class="quote quote-modified" data-post="1" data-topic="2227">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.bitbay.market/tradersnow/40/523_1.png" class="avatar">
+    <a href="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227">How to import your BitBay Web Wallet private key into the BitBay QT wallet</a> <a class="badge-wrapper  bullet" href="/c/get-started-guides"><span class="badge-category-bg" style="background-color: #95d540;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">Get Started Guides</span></a>
+  </div>
+  <blockquote>
+    How to import your BitBay Web Wallet private key into the BitBay QT wallet:
+***Note: The web wallet is currently on an old fork of BitBay. To spend any funds from your web wallet address, you must FIRST import your web wallet private key into the BitBay QT wallet application. 
+***Also note: The QT Wallet can only import one individual key. For those who have two (2) keys for their web-wallet address, please head over to this post for further instructions: 
+"<a href="..../forum-archive/t/how-to-import-private-keys-from-a-multi-sig-web-wallet-address-into-the-bitbay-markets-client/2322">How to import private keys from a mult…</a>
+  </blockquote>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338/6">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338/6</link>
+        <pubDate>Tue, 07 Apr 2020 12:22:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2338-6</guid>
+        <source url="..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338.rss">Import Privatekey of Paper Wallet into Bitbay Client Wallet halo v2.3</source>
+      </item>
+      <item>
+        <title>Import Privatekey of Paper Wallet into Bitbay Client Wallet halo v2.3</title>
+        <dc:creator><![CDATA[@paschind]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/paschind">@paschind</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for reply.<br>
+My problem: I’ve only got ONE private key for my BAY, so this procedure is for TWO privatekeys, and so there is the difficulty.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338/5">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338/5</link>
+        <pubDate>Mon, 06 Apr 2020 18:22:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2338-5</guid>
+        <source url="..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338.rss">Import Privatekey of Paper Wallet into Bitbay Client Wallet halo v2.3</source>
+      </item>
+      <item>
+        <title>Import Privatekey of Paper Wallet into Bitbay Client Wallet halo v2.3</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Also, here is a tutorial on importing web wallet keys into the client (it is the same process for paper keys also):<br>
+<aside class="quote quote-modified" data-post="1" data-topic="2322">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.bitbay.market/tradersnow/40/523_1.png" class="avatar">
+    <a href="..../forum-archive/t/how-to-import-private-keys-from-a-multi-sig-web-wallet-address-into-the-bitbay-markets-client/2322">How to import private keys from a multi-sig web wallet address into the BitBay Markets Client</a> <a class="badge-wrapper  bullet" href="/c/get-started-guides"><span class="badge-category-bg" style="background-color: #95d540;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">Get Started Guides</span></a>
+  </div>
+  <blockquote>
+    Please note: If you have a multi-sig account (two private keys), those keys can only be imported into the Markets Client, as the QT wallet import only works for single private key addresses.
+First, you must download and install the latest version of the BitBay Markets Client, which can be found here:
+<a href="https://bitbay.market/downloads">https://bitbay.market/downloads</a> 
+Once you are running the current version and it is synced 100%, you can then start the import process. 
+This process consists creating two separate text files, named…
+  </blockquote>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338/4</link>
+        <pubDate>Mon, 06 Apr 2020 16:36:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2338-4</guid>
+        <source url="..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338.rss">Import Privatekey of Paper Wallet into Bitbay Client Wallet halo v2.3</source>
+      </item>
+      <item>
+        <title>Import Privatekey of Paper Wallet into Bitbay Client Wallet halo v2.3</title>
+        <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <blockquote>
+              <p>            <iframe width="480" height="360" src="https://www.youtube.com/embed/oOlckOxr-4k?feature=oembed&amp;wmode=opaque&amp;list=PL4MGGKJn4DizGw7oBXwzETMVLNCZ6G2_t" frameborder="0" allowfullscreen="" seamless="seamless" sandbox="allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox allow-presentation">
+            </iframe>
+</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338/3</link>
+        <pubDate>Sun, 05 Apr 2020 11:46:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2338-3</guid>
+        <source url="..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338.rss">Import Privatekey of Paper Wallet into Bitbay Client Wallet halo v2.3</source>
+      </item>
+      <item>
+        <title>Import Privatekey of Paper Wallet into Bitbay Client Wallet halo v2.3</title>
+        <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <blockquote>
+              <p>Does this video help?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338/2</link>
+        <pubDate>Sun, 05 Apr 2020 11:46:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2338-2</guid>
+        <source url="..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338.rss">Import Privatekey of Paper Wallet into Bitbay Client Wallet halo v2.3</source>
+      </item>
+      <item>
+        <title>Import Privatekey of Paper Wallet into Bitbay Client Wallet halo v2.3</title>
+        <dc:creator><![CDATA[@paschind]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/paschind">@paschind</a> wrote:</p>
+          <blockquote>
+              <p>My system has the following specifications</p>
+<p>QT Wallet, Client Wallet (and version) or Web wallet: Client Wallet halo v2.3<br>
+Operating System and version: Windows 10<br>
+If web wallet browser name and version: -<br>
+If desktop wallet (Qt or Client) block # of your client and # of connections: 2538764 / 24</p>
+<p>The problem I am having is: I dont know how to import my private key (paper wallet) into Client wallet.</p>
+<p>Thanks for help!!!</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338/1</link>
+        <pubDate>Sat, 04 Apr 2020 17:56:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2338-1</guid>
+        <source url="..../forum-archive/t/import-privatekey-of-paper-wallet-into-bitbay-client-wallet-halo-v2-3/2338.rss">Import Privatekey of Paper Wallet into Bitbay Client Wallet halo v2.3</source>
+      </item>
+  </channel>
+</rss>

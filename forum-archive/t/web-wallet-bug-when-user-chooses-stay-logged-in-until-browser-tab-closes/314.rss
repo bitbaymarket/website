@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Web wallet bug when user chooses &quot;Stay Logged in (until browser tab closes)&quot;</title>
+    <link>..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314</link>
+    <description>when user stays logged in &quot;Stay Logged in (until browser tab closes)&quot; option 
+and refreshes the page (F5) 
+the login info are lost and the &quot;backup wallet&quot; is not working 
+
+looking for a solution</description>
+    
+    <lastBuildDate>Fri, 29 Dec 2017 07:48:21 +0000</lastBuildDate>
+    <category>BitBay Feedback</category>
+    <atom:link href="..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Web wallet bug when user chooses &quot;Stay Logged in (until browser tab closes)&quot;</title>
+        <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <blockquote>
+              <p>3 posts were split to a new topic: <a href="/t/cant-login-to-the-web-wallet/816">Can’t login to the web wallet</a></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314/5">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314/5</link>
+        <pubDate>Fri, 29 Dec 2017 07:58:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-314-5</guid>
+        <source url="..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314.rss">Web wallet bug when user chooses &quot;Stay Logged in (until browser tab closes)&quot;</source>
+      </item>
+      <item>
+        <title>Web wallet bug when user chooses &quot;Stay Logged in (until browser tab closes)&quot;</title>
+        <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <blockquote>
+              <p>An update that fixes this problem was uploaded today<br>
+however if anyone notices anything unusuall please report</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314/4</link>
+        <pubDate>Wed, 27 Dec 2017 15:47:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-314-4</guid>
+        <source url="..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314.rss">Web wallet bug when user chooses &quot;Stay Logged in (until browser tab closes)&quot;</source>
+      </item>
+      <item>
+        <title>Web wallet bug when user chooses &quot;Stay Logged in (until browser tab closes)&quot;</title>
+        <dc:creator><![CDATA[@Mantrack]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+          <blockquote>
+              <p>Nice, thank you for your work!</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314/3</link>
+        <pubDate>Wed, 20 Dec 2017 23:25:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-314-3</guid>
+        <source url="..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314.rss">Web wallet bug when user chooses &quot;Stay Logged in (until browser tab closes)&quot;</source>
+      </item>
+      <item>
+        <title>Web wallet bug when user chooses &quot;Stay Logged in (until browser tab closes)&quot;</title>
+        <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <blockquote>
+              <p>This bug was found after someone on discord reported a similar bug on chrome mac<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/ad221fda38339492016cd06218b9bcee94ec2ba8.png" data-download-href="..../forum-archive/uploads/default/ad221fda38339492016cd06218b9bcee94ec2ba8" title="webwallet-chrome-mac-bug.png"><img src="..../forum-archive/uploads/default/optimized/1X/ad221fda38339492016cd06218b9bcee94ec2ba8_1_690x408.png" alt="webwallet-chrome-mac-bug" width="690" height="408"><div class="meta">
+<span class="filename">webwallet-chrome-mac-bug.png</span><span class="informations">1500x887 200 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>I think I have found a solution will implement and upload for testing hopefully today</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314/2</link>
+        <pubDate>Wed, 20 Dec 2017 08:55:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-314-2</guid>
+        <source url="..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314.rss">Web wallet bug when user chooses &quot;Stay Logged in (until browser tab closes)&quot;</source>
+      </item>
+      <item>
+        <title>Web wallet bug when user chooses &quot;Stay Logged in (until browser tab closes)&quot;</title>
+        <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <blockquote>
+              <p>when user stays logged in “Stay Logged in (until browser tab closes)” option<br>
+and refreshes the page (F5)<br>
+the login info are lost and the “backup wallet” is not working</p>
+<p>looking for a solution</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314/1</link>
+        <pubDate>Wed, 20 Dec 2017 08:46:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-314-1</guid>
+        <source url="..../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314.rss">Web wallet bug when user chooses &quot;Stay Logged in (until browser tab closes)&quot;</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Is bitbay the open-source project?</title>
+    <link>..../forum-archive/t/is-bitbay-the-open-source-project/832</link>
+    <description>hi, can i expore bibay project&#39;s code anywhere, i don&#39;t see any links</description>
+    
+    <lastBuildDate>Sun, 31 Dec 2017 02:37:01 +0000</lastBuildDate>
+    <category>Questions about BitBay</category>
+    <atom:link href="..../forum-archive/t/is-bitbay-the-open-source-project/832.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Is bitbay the open-source project?</title>
+        <dc:creator><![CDATA[@Munti Bjorn Alsos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/munti">@Munti</a> wrote:</p>
+          <blockquote>
+              <p>Yes and no. You find obfuscated source code here: <a href="https://www.davtonia.com/bithalo/haloobf.zip">https://www.davtonia.com/bithalo/haloobf.zip</a></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/is-bitbay-the-open-source-project/832/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/is-bitbay-the-open-source-project/832/2</link>
+        <pubDate>Sun, 31 Dec 2017 02:37:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-832-2</guid>
+        <source url="..../forum-archive/t/is-bitbay-the-open-source-project/832.rss">Is bitbay the open-source project?</source>
+      </item>
+      <item>
+        <title>Is bitbay the open-source project?</title>
+        <dc:creator><![CDATA[@antropogen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/antropogen">@antropogen</a> wrote:</p>
+          <blockquote>
+              <p>hi, can i expore bibay project’s code anywhere, i don’t see any links</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/is-bitbay-the-open-source-project/832/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/is-bitbay-the-open-source-project/832/1</link>
+        <pubDate>Sun, 31 Dec 2017 00:01:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-832-1</guid>
+        <source url="..../forum-archive/t/is-bitbay-the-open-source-project/832.rss">Is bitbay the open-source project?</source>
+      </item>
+  </channel>
+</rss>

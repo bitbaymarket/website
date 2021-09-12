@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Why are my deposits and withdrawals taking so long on the exchange?</title>
+    <link>..../forum-archive/t/why-are-my-deposits-and-withdrawals-taking-so-long-on-the-exchange/2250</link>
+    <description>### Why are my deposits and withdrawals taking so long with LA Token? 
+
+To ensure accurate liquidity calculations, LA Token only completes deposits within a 20 block time buffer before each peg index interval, and will show as &quot;pending&quot; until this buffer is reached.
+
+Withdrawals are sent approximately within the _first 10 blocks after the start of a new interval_, and also will show as &quot;pending&quot; until this buffer is reached.
+
+**The Dynamic Peg index interval occurs every 200 blocks.**
+
+## Examples:
+### Deposits
+If a user initiates a deposit, and it is mined within the buffer zone (i.e. between block #180 and block #200), the transaction will register with LA Token immediately.
+
+However, if a user initiates a deposit, **and it is mined after the buffer zone (block #201)**, they will have to **wait 179 more blocks (until the beginning of the next buffer zone - block #380)** for the transaction to be registered with LA Token.
+
+**Withdrawals can be initiated and mined at any time; however, LA Token sends all withdrawals at the beginning (approx within the first 10 blocks) of each peg interval** 
+
+**_NOTE:_** This above deposit timeframe is subject to be change, once it has seen more testing in a live trading environment, and user feedback has been collected.</description>
+    
+    <lastBuildDate>Tue, 25 Feb 2020 02:09:00 +0000</lastBuildDate>
+    <category>Dynamic Peg - FAQ</category>
+    <atom:link href="..../forum-archive/t/why-are-my-deposits-and-withdrawals-taking-so-long-on-the-exchange/2250.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Why are my deposits and withdrawals taking so long on the exchange?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <h3>Why are my deposits and withdrawals taking so long with LA Token?</h3>
+<p>To ensure accurate liquidity calculations, LA Token only completes deposits within a 20 block time buffer before each peg index interval, and will show as “pending” until this buffer is reached.</p>
+<p>Withdrawals are sent approximately within the <em>first 10 blocks after the start of a new interval</em>, and also will show as “pending” until this buffer is reached.</p>
+<p><strong>The Dynamic Peg index interval occurs every 200 blocks.</strong></p>
+<h2>Examples:</h2>
+<h3>Deposits</h3>
+<p>If a user initiates a deposit, and it is mined within the buffer zone (i.e. between block <span class="hashtag">#180</span> and block <span class="hashtag">#200</span>), the transaction will register with LA Token immediately.</p>
+<p>However, if a user initiates a deposit, <strong>and it is mined after the buffer zone (block <span class="hashtag">#201</span>)</strong>, they will have to <strong>wait 179 more blocks (until the beginning of the next buffer zone - block <span class="hashtag">#380</span>)</strong> for the transaction to be registered with LA Token.</p>
+<p><strong>Withdrawals can be initiated and mined at any time; however, LA Token sends all withdrawals at the beginning (approx within the first 10 blocks) of each peg interval</strong></p>
+<p><strong><em>NOTE:</em></strong> This above deposit timeframe is subject to be change, once it has seen more testing in a live trading environment, and user feedback has been collected.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/why-are-my-deposits-and-withdrawals-taking-so-long-on-the-exchange/2250/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/why-are-my-deposits-and-withdrawals-taking-so-long-on-the-exchange/2250/1</link>
+        <pubDate>Mon, 24 Feb 2020 13:33:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2250-1</guid>
+        <source url="..../forum-archive/t/why-are-my-deposits-and-withdrawals-taking-so-long-on-the-exchange/2250.rss">Why are my deposits and withdrawals taking so long on the exchange?</source>
+      </item>
+  </channel>
+</rss>

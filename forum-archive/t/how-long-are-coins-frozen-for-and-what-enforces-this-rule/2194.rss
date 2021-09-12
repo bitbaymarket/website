@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How long are coins frozen for, and what enforces this rule?</title>
+    <link>..../forum-archive/t/how-long-are-coins-frozen-for-and-what-enforces-this-rule/2194</link>
+    <description>**How long are coins frozen for, and what enforces this rule?**
+
+There are three (3) different timelines for freezing, which is hard-coded into the Dynamic Peg protocol, using checklocktimeverify. This ensures that spending cannot occur until after the allotted time has expired.
+
+The freezing schedule is as follows:
+
+**Reserve:**  These will maintain Reserve status or become Liquid depending on the results of daily Dynamic Peg voting. 
+
+- Voting is done by stakers, and consensus is calculated every 200 blocks 
+- The peg can adjust it&#39;s supply ratio anywhere from 1-3% per voting session (depending on how strong consensus is)
+
+**Frozen Reserve:**  1 Month (from time of initial freezing)
+
+**Frozen Liquid:**  4 Months (from time of initial freezing)
+
+****Once Frozen Liquid BAY unfreeze and become Liquid BAY, they will retain their high interest staking privileges until moved. This feature allows users to “ladder” their Frozen BAY, maximizing the benefits of high interest and premium liquidity as each rung of the ladder unfreezes.*
+
+**Questions, comments, concerns? Please post them in the comments below!**</description>
+    
+    <lastBuildDate>Tue, 18 Feb 2020 12:58:51 +0000</lastBuildDate>
+    <category>Dynamic Peg - FAQ</category>
+    <atom:link href="..../forum-archive/t/how-long-are-coins-frozen-for-and-what-enforces-this-rule/2194.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How long are coins frozen for, and what enforces this rule?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p><strong>How long are coins frozen for, and what enforces this rule?</strong></p>
+<p>There are three (3) different timelines for freezing, which is hard-coded into the Dynamic Peg protocol, using checklocktimeverify. This ensures that spending cannot occur until after the allotted time has expired.</p>
+<p>The freezing schedule is as follows:</p>
+<p><strong>Reserve:</strong>  These will maintain Reserve status or become Liquid depending on the results of daily Dynamic Peg voting.</p>
+<ul>
+<li>Voting is done by stakers, and consensus is calculated every 200 blocks</li>
+<li>The peg can adjust it’s supply ratio anywhere from 1-3% per voting session (depending on how strong consensus is)</li>
+</ul>
+<p><strong>Frozen Reserve:</strong>  1 Month (from time of initial freezing)</p>
+<p><strong>Frozen Liquid:</strong>  4 Months (from time of initial freezing)</p>
+<p>***<em>Once Frozen Liquid BAY unfreeze and become Liquid BAY, they will retain their high interest staking privileges until moved. This feature allows users to “ladder” their Frozen BAY, maximizing the benefits of high interest and premium liquidity as each rung of the ladder unfreezes.</em></p>
+<p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-long-are-coins-frozen-for-and-what-enforces-this-rule/2194/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-long-are-coins-frozen-for-and-what-enforces-this-rule/2194/1</link>
+        <pubDate>Wed, 29 Jan 2020 14:30:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2194-1</guid>
+        <source url="..../forum-archive/t/how-long-are-coins-frozen-for-and-what-enforces-this-rule/2194.rss">How long are coins frozen for, and what enforces this rule?</source>
+      </item>
+  </channel>
+</rss>

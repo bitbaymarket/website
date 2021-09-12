@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>BitBay Feedback - BitBay Community</title>
+    <link>.../forum-archive/c/bitbay-feedback</link>
+    <description>Topics in the &#39;BitBay Feedback&#39; category Give feedback on BitBay clients and wallets.  Post here improvements or bugs you found in any of the BitBay releases.</description>
+    
+      <lastBuildDate>Sun, 22 Jul 2018 06:02:51 +0000</lastBuildDate>
+      <atom:link href=".../forum-archive/c/bitbay-feedback.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>What does it mean to send an email pay by email BitBay</title>
+          <dc:creator><![CDATA[@klim1 mikhail]]></dc:creator>
+          <category>BitBay Feedback</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/klim1">@klim1</a> wrote:</p>
+            <blockquote>
+              <p>what does it mean to send an email</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href=".../forum-archive/t/what-does-it-mean-to-send-an-email-pay-by-email-bitbay/1430">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/what-does-it-mean-to-send-an-email-pay-by-email-bitbay/1430</link>
+          <pubDate>Sun, 22 Jul 2018 06:02:51 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1430</guid>
+          <source url=".../forum-archive/t/what-does-it-mean-to-send-an-email-pay-by-email-bitbay/1430.rss">What does it mean to send an email pay by email BitBay</source>
+        </item>
+        <item>
+          <title>BitBay QT wallet for MacOSX quarantined as Bitcoin Miner by AntiVirus software</title>
+          <dc:creator><![CDATA[@stonesourcery mc]]></dc:creator>
+          <category>BitBay Feedback</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/stonesourcery">@stonesourcery</a> wrote:</p>
+            <blockquote>
+              <p>I downloaded the BitBay Mac QT Wallet and my AVAST antivirus quarantined Bitcoin Miner from it when I opened it . <div class="lightbox-wrapper"><a class="lightbox" href=".../forum-archive/uploads/default/original/1X/fdb32df1a7b47a35aeb215174c21784defb4669c.png" data-download-href=".../forum-archive/uploads/default/fdb32df1a7b47a35aeb215174c21784defb4669c" title="image.png"><img src=".../forum-archive/uploads/default/optimized/1X/fdb32df1a7b47a35aeb215174c21784defb4669c_1_348x500.png" alt="image" width="348" height="500"><div class="meta">
+<span class="filename">image.png</span><span class="informations">348x826 142 KB</span><span class="expand"></span>
+</div></a></div></p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href=".../forum-archive/t/bitbay-qt-wallet-for-macosx-quarantined-as-bitcoin-miner-by-antivirus-software/1280">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/bitbay-qt-wallet-for-macosx-quarantined-as-bitcoin-miner-by-antivirus-software/1280</link>
+          <pubDate>Wed, 18 Apr 2018 11:33:28 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1280</guid>
+          <source url=".../forum-archive/t/bitbay-qt-wallet-for-macosx-quarantined-as-bitcoin-miner-by-antivirus-software/1280.rss">BitBay QT wallet for MacOSX quarantined as Bitcoin Miner by AntiVirus software</source>
+        </item>
+        <item>
+          <title>GUI Revamp Brainstorming Thread</title>
+          <dc:creator><![CDATA[@BitBay_Guy BitBay Guy]]></dc:creator>
+          <category>BitBay Feedback</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/bitbay_guy">@BitBay_Guy</a> wrote:</p>
+            <blockquote>
+              <p>With the upcoming GUI revamp, it’s time to ask ourselves important questions. What sort of improvements will make the BitBay market as usable as possible for the average Joe? What sort of workflow will be most easily adjusted to when switching from other markets such as Amazon or eBay? Are there any features that are redundant or can be removed from the client to make things more simple? What additional features can be implemented, and how would they be added to the current user interface? etc.</p>
+<p>If you have not yet tried using the BitBay Market Client, please give it a whirl and get back to us! I will be posting my own views on this topic shortly.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/gui-revamp-brainstorming-thread/1153">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/gui-revamp-brainstorming-thread/1153</link>
+          <pubDate>Sun, 25 Feb 2018 21:37:20 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1153</guid>
+          <source url=".../forum-archive/t/gui-revamp-brainstorming-thread/1153.rss">GUI Revamp Brainstorming Thread</source>
+        </item>
+        <item>
+          <title>Suggestion: Recommended/suggested DDE amounts to enhance user adoption</title>
+          <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+          <category>BitBay Feedback</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+            <blockquote>
+              <p>Have a little suggestion <img src=".../forum-archive/images/emoji/twitter/slightly_smiling_face.png?v=5" title=":slightly_smiling_face:" class="emoji" alt=":slightly_smiling_face:"></p>
+<p>Been running through DDE scenarios in my head, and was thinking that newbies might be a little confused at first as to what amount each deposit should be set at. How difficult would it be to set up a dynamic “recommended” DDE amount that changes based on the product/services value, both user’s reputation and each party’s risk tolerance</p>
+<p>…could also factor in user account balances and recommend using the actual item or service as collateral if one party cannot meet deposit requirements</p>
+<p>(similar to password strength recommendations when creating new internet accounts etc.)</p>
+<p>of course still allowing custom/manual tailoring if desired too…</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href=".../forum-archive/t/suggestion-recommended-suggested-dde-amounts-to-enhance-user-adoption/932">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/suggestion-recommended-suggested-dde-amounts-to-enhance-user-adoption/932</link>
+          <pubDate>Tue, 09 Jan 2018 16:56:26 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-932</guid>
+          <source url=".../forum-archive/t/suggestion-recommended-suggested-dde-amounts-to-enhance-user-adoption/932.rss">Suggestion: Recommended/suggested DDE amounts to enhance user adoption</source>
+        </item>
+        <item>
+          <title>Bitbay vs. Bitbay</title>
+          <dc:creator><![CDATA[@bitbayer JC]]></dc:creator>
+          <category>BitBay Feedback</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/bitbayer">@bitbayer</a> wrote:</p>
+            <blockquote>
+              <p>Okay am I the lost one or is this article totally messed up? Didn’t they just combine both bitbay’s?</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://steemit.com/favicon.ico?v=2" class="site-icon" width="64" height="64">
+      <a href="https://steemit.com/cryptocurrency/@sunnyescapades/crypto-escapades-part-7-what-is-bitbay-latest-news-about-bitbay-market-and-hard-fork" target="_blank" title="05:59PM - 28 November 2017" rel="nofollow noopener">Steemit – 28 Nov 17</a>
+  </header>
+  <article class="onebox-body">
+    
+
+<h3><a href="https://steemit.com/cryptocurrency/@sunnyescapades/crypto-escapades-part-7-what-is-bitbay-latest-news-about-bitbay-market-and-hard-fork" target="_blank" rel="nofollow noopener">Crypto Escapades Part 7 - What is BitBay? + latest news about bitbay.market and...</a></h3>
+
+<p>On today's escapade inside crypto we will feature BitBay.      1. Introduction   BitBay is a decentralized exchange… by sunnyescapades</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href=".../forum-archive/t/bitbay-vs-bitbay/337">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/bitbay-vs-bitbay/337</link>
+          <pubDate>Thu, 21 Dec 2017 05:05:24 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-337</guid>
+          <source url=".../forum-archive/t/bitbay-vs-bitbay/337.rss">Bitbay vs. Bitbay</source>
+        </item>
+        <item>
+          <title>Web wallet bug when user chooses &quot;Stay Logged in (until browser tab closes)&quot;</title>
+          <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+          <category>BitBay Feedback</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+            <blockquote>
+              <p>when user stays logged in “Stay Logged in (until browser tab closes)” option<br>
+and refreshes the page (F5)<br>
+the login info are lost and the “backup wallet” is not working</p>
+<p>looking for a solution</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 3</p>
+            <p><a href=".../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314</link>
+          <pubDate>Wed, 20 Dec 2017 08:46:35 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-314</guid>
+          <source url=".../forum-archive/t/web-wallet-bug-when-user-chooses-stay-logged-in-until-browser-tab-closes/314.rss">Web wallet bug when user chooses &quot;Stay Logged in (until browser tab closes)&quot;</source>
+        </item>
+        <item>
+          <title>About the BitBay Feedback category</title>
+          <dc:creator><![CDATA[@bitadmin]]></dc:creator>
+          <category>BitBay Feedback</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/bitadmin">@bitadmin</a> wrote:</p>
+            <blockquote>
+              <p>Give feedback on BitBay clients and wallets.  Post here improvements or bugs you found in any of the BitBay releases.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href=".../forum-archive/t/about-the-bitbay-feedback-category/17">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/about-the-bitbay-feedback-category/17</link>
+          <pubDate>Wed, 08 Nov 2017 17:22:23 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>Yes</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-17</guid>
+          <source url=".../forum-archive/t/about-the-bitbay-feedback-category/17.rss">About the BitBay Feedback category</source>
+        </item>
+  </channel>
+</rss>

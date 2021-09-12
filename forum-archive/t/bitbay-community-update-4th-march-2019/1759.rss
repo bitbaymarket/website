@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>BitBay Community Update — 4th March 2019</title>
+    <link>..../forum-archive/t/bitbay-community-update-4th-march-2019/1759</link>
+    <description>**In this update:**
+- development team updates
+- a new foundation
+- a new structure
+- web markets beta v0.3
+- dynamic peg demo
+
+Some things never change. No matter how many times you say the phrase “we are not a company”, exchanges still insist on knowing who your CEO is. Take Apple for example, and our continuing efforts to get the BitBay web wallet listed in the iTunes app store:  *“Your wallet app must be published under a seller name and company name that reflects the BitBay name”.*
+
+Another example is the rejection of our listing application by Kucoin:  *“the rating for your company finances is far below our standard”.*
+
+They have yet to grasp one of BitBay’s core principles: we are not a company and never will be!
+
+Something had to change to make it easier for the BitBay project to function within the legal frameworks imposed on it… so after many discussions we have decided to form a new legal entity, called the BitBay Foundation  *(more on this below)* .
+
+With the new legal status, we will be able to satisfy the requirements that other companies have when dealing with crypto projects. This idea of separating BitBay’s legal workings from its useable products has been something we’ve been thinking about for a while, and now it’s becoming a reality. However, we still need the community’s input to make this all happen.
+
+But first…
+
+#### Dev Team Updates
+
+After many months conceptualising and coding the world’s most advanced stablecoin protocol, BitBays lead developer, David Zimbeck, has decided to take a step back from his position as lead developer, and take on more of an advisory role. David’s insights and ideas will still continue to strongly influence and drive the BitBay team, but as the main coding work for the BitBay Marketplace Client and Dynamic Peg have now been completed, he felt it was a good time to take a break from the computer keyboard and help the rest of the team integrate the peg protocol with the demo exchange.
+
+Now that he has a bit more free time, we may even see him venturing out into the crypto wilderness, making the occasional conference appearance and doing some interviews! Watch this space…
+
+#### The BitBay Foundation
+
+We are working with a leading legal firm in Estonia to setup the new BitBay Foundation. It will initially have three membership levels: ‘board members’, ‘advisors’ and ‘members’, starting with three board members (Bjørn Alsos, Craig Claussen, Shorn Keld) with David Zimbeck as advisor to the board.
+
+**Membership of the foundation will be open to anyone who holds at least 1 $BAY.**
+
+The aims of the foundation are as follows:
+
+* Working to advance BitBay’s interests in society
+* Function as a networking hub and forum for BitBay’s employees, volunteers, and users.
+* To be a driving force in the development and marketing of the BitBay software. The long term focus of this shall be on enabling trade in developing countries through ‘smart contracts’ for those who are unable to participate in existing digital trade solutions.
+
+The foundation will be formed in March/April and a new website will be available soon, at  *bitbay.foundation* , with info on how to join.
+
+#### A New Structure
+
+The graphic below shows how we are proposing to introduce a new structure to the current websites and products, and also introduces a new voting system via the community forum  *(more on this below in the self-governance section)*
+
+![](/uploads/default/original/1X/0b9291717ae373649d6ff6371a71de9f35006727.png)
+
+The current website will have a new home at ‘bitbay.community’, and instead of being built in the Drupal CMS, will be open-sourced on GitHub, so community contributors can help maintain the website. We will then move the web markets beta to its new domain at ‘bitbay.market’, to become the main landing page for this new flagship product. In a move to introduce a more democratic process, the forum will also become a place where the community can cast their votes on submitted proposals. The exact method of self-governance has yet to be agreed upon, but this will also be put to a democratic vote to ensure transparency and fairness going forward.
+
+These are all big changes. To bring some experience and give guidance while this new structure is setup, the foundation board and members will make themselves available to support the community in its efforts to transition to a fully-democratic and open project.
+
+#### Web Markets Beta
+
+Yesterday our web markets team completed the implementation of the “live update” service for our internal testing. As this stage is almost complete, we will be rolling it out to beta this week for everyone to test beta v0.3.
+
+This new feature allows online users to see updates of their escrow contracts in real-time, meaning better feedback on the status of deals. The devs have now connected all the important statuses, and attention-requiring events can now be seen without reloading a web page or panel.
+
+We’ll announce the private release of this next version in the Slack channel early this week, so come and join us if you aren’t already one of our beta testers. You can signup here:
+
+[ **http://eepurl.com/dCI2IL** ](http://eepurl.com/dCI2IL)
+
+With the “live update” service and recent fixes to the email notification system, we are almost ready to release the public beta version. A provisional date for the public beta release has been set for the  **11th March** .
+
+![](/uploads/default/original/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d.png)
+
+Still to come in the next updates:
+
+1. Currently the markets data is stored on a central database for testing purposes. This will be moved to a decentralised solution once we have finished the research and testing stage
+2. Variable deposits for buyer and seller
+3. Variable contract length
+4. Raise a dispute with the other party
+5. A full security audit for the DDE smart contract code
+6. UI and UX improvements
+
+#### Dynamic Peg
+
+The developers working on the peg and exchange demo have now successfully completed testing of all associated API functions with the demo exchange. The team has been performing some test trading with BAY/BTC and the final step is to connect and test the wallet “deposits and withdrawals” system.
+
+Once this final stage has been completed, we will be announcing how you can join us in testing the dynamic peg on the demo exchange. We anticipate this public phase could start as early as 2–3 weeks from now, depending on the progress this week with the wallet functions.
+
+This public testing stage will allow us to show everyone how the peg works, and also how it benefits both traders  *and* exchanges.
+
+[Read more about the Dynamic Peg on the BitBay website.](https://bitbay.market/)
+
+That’s everything for this update, but remember to [join us in Discord](https://discord.gg/jRkjCxf) or [Telegram](https://t.me/bitbayofficial)or leave your comments below.
+
+Until next time,
+
+Shorn Keld
+Project Manager @ [BitBay](https://bitbay.market/)</description>
+    
+    <lastBuildDate>Wed, 06 Mar 2019 08:37:21 +0000</lastBuildDate>
+    <category>Announcements</category>
+    <atom:link href="..../forum-archive/t/bitbay-community-update-4th-march-2019/1759.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>BitBay Community Update — 4th March 2019</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              <p><strong>In this update:</strong></p>
+<ul>
+<li>development team updates</li>
+<li>a new foundation</li>
+<li>a new structure</li>
+<li>web markets beta v0.3</li>
+<li>dynamic peg demo</li>
+</ul>
+<p>Some things never change. No matter how many times you say the phrase “we are not a company”, exchanges still insist on knowing who your CEO is. Take Apple for example, and our continuing efforts to get the BitBay web wallet listed in the iTunes app store:  <em>“Your wallet app must be published under a seller name and company name that reflects the BitBay name”.</em></p>
+<p>Another example is the rejection of our listing application by Kucoin:  <em>“the rating for your company finances is far below our standard”.</em></p>
+<p>They have yet to grasp one of BitBay’s core principles: we are not a company and never will be!</p>
+<p>Something had to change to make it easier for the BitBay project to function within the legal frameworks imposed on it… so after many discussions we have decided to form a new legal entity, called the BitBay Foundation  <em>(more on this below)</em> .</p>
+<p>With the new legal status, we will be able to satisfy the requirements that other companies have when dealing with crypto projects. This idea of separating BitBay’s legal workings from its useable products has been something we’ve been thinking about for a while, and now it’s becoming a reality. However, we still need the community’s input to make this all happen.</p>
+<p>But first…</p>
+<h4>Dev Team Updates</h4>
+<p>After many months conceptualising and coding the world’s most advanced stablecoin protocol, BitBays lead developer, David Zimbeck, has decided to take a step back from his position as lead developer, and take on more of an advisory role. David’s insights and ideas will still continue to strongly influence and drive the BitBay team, but as the main coding work for the BitBay Marketplace Client and Dynamic Peg have now been completed, he felt it was a good time to take a break from the computer keyboard and help the rest of the team integrate the peg protocol with the demo exchange.</p>
+<p>Now that he has a bit more free time, we may even see him venturing out into the crypto wilderness, making the occasional conference appearance and doing some interviews! Watch this space…</p>
+<h4>The BitBay Foundation</h4>
+<p>We are working with a leading legal firm in Estonia to setup the new BitBay Foundation. It will initially have three membership levels: ‘board members’, ‘advisors’ and ‘members’, starting with three board members (Bjørn Alsos, Craig Claussen, Shorn Keld) with David Zimbeck as advisor to the board.</p>
+<p><strong>Membership of the foundation will be open to anyone who holds at least 1 $BAY.</strong></p>
+<p>The aims of the foundation are as follows:</p>
+<ul>
+<li>Working to advance BitBay’s interests in society</li>
+<li>Function as a networking hub and forum for BitBay’s employees, volunteers, and users.</li>
+<li>To be a driving force in the development and marketing of the BitBay software. The long term focus of this shall be on enabling trade in developing countries through ‘smart contracts’ for those who are unable to participate in existing digital trade solutions.</li>
+</ul>
+<p>The foundation will be formed in March/April and a new website will be available soon, at  <em>bitbay.foundation</em> , with info on how to join.</p>
+<h4>A New Structure</h4>
+<p>The graphic below shows how we are proposing to introduce a new structure to the current websites and products, and also introduces a new voting system via the community forum  <em>(more on this below in the self-governance section)</em></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/0b9291717ae373649d6ff6371a71de9f35006727.png" data-download-href="..../forum-archive/uploads/default/0b9291717ae373649d6ff6371a71de9f35006727" title="1*EOWc46KeBc_lD5oow1D6Zw.png"><img src="..../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_578x500.png" alt width="578" height="500" srcset="..../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_578x500.png, ..../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_867x750.png 1.5x, ..../forum-archive/uploads/default/optimized/1X/0b9291717ae373649d6ff6371a71de9f35006727_1_1156x1000.png 2x"><div class="meta">
+<span class="filename">1*EOWc46KeBc_lD5oow1D6Zw.png</span><span class="informations">2479x2142 215 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>The current website will have a new home at ‘bitbay.community’, and instead of being built in the Drupal CMS, will be open-sourced on GitHub, so community contributors can help maintain the website. We will then move the web markets beta to its new domain at ‘bitbay.market’, to become the main landing page for this new flagship product. In a move to introduce a more democratic process, the forum will also become a place where the community can cast their votes on submitted proposals. The exact method of self-governance has yet to be agreed upon, but this will also be put to a democratic vote to ensure transparency and fairness going forward.</p>
+<p>These are all big changes. To bring some experience and give guidance while this new structure is setup, the foundation board and members will make themselves available to support the community in its efforts to transition to a fully-democratic and open project.</p>
+<h4>Web Markets Beta</h4>
+<p>Yesterday our web markets team completed the implementation of the “live update” service for our internal testing. As this stage is almost complete, we will be rolling it out to beta this week for everyone to test beta v0.3.</p>
+<p>This new feature allows online users to see updates of their escrow contracts in real-time, meaning better feedback on the status of deals. The devs have now connected all the important statuses, and attention-requiring events can now be seen without reloading a web page or panel.</p>
+<p>We’ll announce the private release of this next version in the Slack channel early this week, so come and join us if you aren’t already one of our beta testers. You can signup here:</p>
+<p><a href="http://eepurl.com/dCI2IL"> <strong>http://eepurl.com/dCI2IL</strong> </a></p>
+<p>With the “live update” service and recent fixes to the email notification system, we are almost ready to release the public beta version. A provisional date for the public beta release has been set for the  <strong>11th March</strong> .</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d.png" data-download-href="..../forum-archive/uploads/default/578098fd2bc7c2053f67704613f8f9713eaecf9d" title="1*yaZfB55tAL4Fw-PUYGIS_Q.png"><img src="..../forum-archive/uploads/default/optimized/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d_1_690x413.png" alt width="690" height="413" srcset="..../forum-archive/uploads/default/optimized/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d_1_690x413.png, ..../forum-archive/uploads/default/optimized/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d_1_1035x619.png 1.5x, ..../forum-archive/uploads/default/original/1X/578098fd2bc7c2053f67704613f8f9713eaecf9d.png 2x"><div class="meta">
+<span class="filename">1*yaZfB55tAL4Fw-PUYGIS_Q.png</span><span class="informations">1120x671 135 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>Still to come in the next updates:</p>
+<ol>
+<li>Currently the markets data is stored on a central database for testing purposes. This will be moved to a decentralised solution once we have finished the research and testing stage</li>
+<li>Variable deposits for buyer and seller</li>
+<li>Variable contract length</li>
+<li>Raise a dispute with the other party</li>
+<li>A full security audit for the DDE smart contract code</li>
+<li>UI and UX improvements</li>
+</ol>
+<h4>Dynamic Peg</h4>
+<p>The developers working on the peg and exchange demo have now successfully completed testing of all associated API functions with the demo exchange. The team has been performing some test trading with BAY/BTC and the final step is to connect and test the wallet “deposits and withdrawals” system.</p>
+<p>Once this final stage has been completed, we will be announcing how you can join us in testing the dynamic peg on the demo exchange. We anticipate this public phase could start as early as 2–3 weeks from now, depending on the progress this week with the wallet functions.</p>
+<p>This public testing stage will allow us to show everyone how the peg works, and also how it benefits both traders  <em>and</em> exchanges.</p>
+<p><a href="https://bitbay.market/">Read more about the Dynamic Peg on the BitBay website.</a></p>
+<p>That’s everything for this update, but remember to <a href="https://discord.gg/jRkjCxf">join us in Discord</a> or <a href="https://t.me/bitbayofficial">Telegram</a>or leave your comments below.</p>
+<p>Until next time,</p>
+<p>Shorn Keld<br>
+Project Manager @ <a href="https://bitbay.market/">BitBay</a></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/bitbay-community-update-4th-march-2019/1759/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/bitbay-community-update-4th-march-2019/1759/1</link>
+        <pubDate>Wed, 06 Mar 2019 08:37:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1759-1</guid>
+        <source url="..../forum-archive/t/bitbay-community-update-4th-march-2019/1759.rss">BitBay Community Update — 4th March 2019</source>
+      </item>
+  </channel>
+</rss>

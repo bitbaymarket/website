@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Dynamic Peg Mechanics</title>
+    <link>..../forum-archive/t/dynamic-peg-mechanics/948</link>
+    <description>Based on the overview of the Dynamic Peg on the main site, the logic behind it makes a lot of sense. Having said that, have a few questions on how this works in reality.
+
+1) How will one know the timing and magnitude of their coins that have been frozen or released?
+
+2) It&#39;s mentioned that the freezing of coins is based on when you sent / received coins, how does this work? It would seem that this would be agnostic to timing of sending / receiving coins and simply based on total coins in your possession.
+
+3) How do reserve / frozen coins have value? Using the example from the overview, if you have 200 coins at $1 and coin deflates 50% (freeze half) to drive price to $2 and you now have 100 liquid coins at $2 (same $200 total value), how is there any value in your 100 reserve coins? Seems like its a zero sum game.
+
+4) From investment perspective, once the peg is rolled out how will the value appreciate if supply is flexed to control changes fluctuations in price?
+
+Apologies if this is redundant and has been covered in more detail elsewhere.
+
+Big supporter of what you guys are building here!</description>
+    
+    <lastBuildDate>Thu, 11 Jan 2018 23:01:05 +0000</lastBuildDate>
+    <category>Questions about BitBay</category>
+    <atom:link href="..../forum-archive/t/dynamic-peg-mechanics/948.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Dynamic Peg Mechanics</title>
+        <dc:creator><![CDATA[@2Pan2Bril2]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/2pan2bril2">@2Pan2Bril2</a> wrote:</p>
+          <blockquote>
+              <p>Load up on $BAY before the peg is released you will not regret it <img src="..../forum-archive/images/emoji/twitter/+1.png?v=5" title=":+1:" class="emoji" alt=":+1:"></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/dynamic-peg-mechanics/948/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/dynamic-peg-mechanics/948/4</link>
+        <pubDate>Thu, 11 Jan 2018 23:01:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-948-4</guid>
+        <source url="..../forum-archive/t/dynamic-peg-mechanics/948.rss">Dynamic Peg Mechanics</source>
+      </item>
+      <item>
+        <title>Dynamic Peg Mechanics</title>
+        <dc:creator><![CDATA[@Mantrack]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+          <blockquote>
+              <p>Thank you for your interest! For the technical details, rest assured as we will release a whitepaper for this. But for now what you must understand about the peg is that its goal is to bring stability to the price. The price will still be able to go up, but its evolution will be intended to be a stable one instead of the hyper volatile fluctuations we are used to in crypto. It will protect users/investors from heavy manipulations and will provide a currency you can economically trust thanks to the foresight that stability brings.<br>
+Regarding how it works,  we will reveal more later but from what I understood (I am not a developer) the freezing mechanism will be determined both through decentralized blockchain voting and algorithms.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/dynamic-peg-mechanics/948/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/dynamic-peg-mechanics/948/3</link>
+        <pubDate>Thu, 11 Jan 2018 18:34:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-948-3</guid>
+        <source url="..../forum-archive/t/dynamic-peg-mechanics/948.rss">Dynamic Peg Mechanics</source>
+      </item>
+      <item>
+        <title>Dynamic Peg Mechanics</title>
+        <dc:creator><![CDATA[@Munti Bjorn Alsos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/munti">@Munti</a> wrote:</p>
+          <blockquote>
+              <p>There is a lot of detail about the peg that we don’t reveal yet. Partly because some decisions will be made after test runs, and partly because we don’t want others to copy it before we have released it ourselves.</p>
+<ol start="3">
+<li>
+<p>The frozen coins are not really completely frozen -they are delayed. So you will be able to transfer them but with a serious delay. This deleay will seriously reduce their value compared to liquid coins, but they still have a value. We expect frozen coins will be boutght and sold in our marketplace, and exchanges could list them too if they want.</p>
+</li>
+<li>
+<p>Notice we call it a rolling peg. We don’t intend to have a fixed value on Bay, only to reduce the volatility. Think of it as making the coin behave more like a bluechip stock on the exchanges instead of the insane volatility we know from crypto.</p>
+</li>
+</ol>
+          </blockquote>
+          <p><a href="..../forum-archive/t/dynamic-peg-mechanics/948/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/dynamic-peg-mechanics/948/2</link>
+        <pubDate>Thu, 11 Jan 2018 17:24:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-948-2</guid>
+        <source url="..../forum-archive/t/dynamic-peg-mechanics/948.rss">Dynamic Peg Mechanics</source>
+      </item>
+      <item>
+        <title>Dynamic Peg Mechanics</title>
+        <dc:creator><![CDATA[@hmio213 Hugo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/hmio213">@hmio213</a> wrote:</p>
+          <blockquote>
+              <p>Based on the overview of the Dynamic Peg on the main site, the logic behind it makes a lot of sense. Having said that, have a few questions on how this works in reality.</p>
+<ol>
+<li>
+<p>How will one know the timing and magnitude of their coins that have been frozen or released?</p>
+</li>
+<li>
+<p>It’s mentioned that the freezing of coins is based on when you sent / received coins, how does this work? It would seem that this would be agnostic to timing of sending / receiving coins and simply based on total coins in your possession.</p>
+</li>
+<li>
+<p>How do reserve / frozen coins have value? Using the example from the overview, if you have 200 coins at $1 and coin deflates 50% (freeze half) to drive price to $2 and you now have 100 liquid coins at $2 (same $200 total value), how is there any value in your 100 reserve coins? Seems like its a zero sum game.</p>
+</li>
+<li>
+<p>From investment perspective, once the peg is rolled out how will the value appreciate if supply is flexed to control changes fluctuations in price?</p>
+</li>
+</ol>
+<p>Apologies if this is redundant and has been covered in more detail elsewhere.</p>
+<p>Big supporter of what you guys are building here!</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/dynamic-peg-mechanics/948/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/dynamic-peg-mechanics/948/1</link>
+        <pubDate>Thu, 11 Jan 2018 16:47:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-948-1</guid>
+        <source url="..../forum-archive/t/dynamic-peg-mechanics/948.rss">Dynamic Peg Mechanics</source>
+      </item>
+  </channel>
+</rss>

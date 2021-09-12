@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to rescan within the BitBay QT Wallet (PC)</title>
+    <link>..../forum-archive/t/how-to-rescan-within-the-bitbay-qt-wallet-pc/2327</link>
+    <description>Initiating a &quot;rescan&quot; will allow your wallet to update your address&#39;s history of inputs, possibly correcting any issues with your total coin balance.
+
+## PC:
+Follow these steps to initiate a &quot;rescan&quot; on PC:
+
+### 1. Right click the QT app and select &quot;Create shortcut&quot;.
+
+![Create%20a%20shortcut|623x492](upload://x18ysGcnOxkNhZoJTNg2bCGrnYO.png) 
+
+### 2. Drag the newly created shortcut to your Desktop (to keep separate from parent app)
+
+![Drag%20the%20shurtcut%20to%20your%20Desktop%20just%20to%20seperate%20them|158x173](upload://uMUs9GssQrbyYFKXpJPiEWUvi2z.jpeg) 
+
+### 3. Right click the new shortcut and click on &quot;Properties&quot;.
+
+![Right%20click%20the%20new%20shortcut%20and%20click%20on%20properties|349x446](upload://dORaPjJk8Fyc9MyUINwlX6HYTfK.jpeg) 
+
+### 4. Go to the &quot;Shortcut&quot; tab and find the &quot;Target&quot; box.
+
+![Go%20to%20the%20Shortcut%20tab%20and%20then%20to%20Target|363x500](upload://xfnu2HyfFpEGk2BIz9C3qL4LjyR.png) 
+
+### 5. If the last part of the text within the &quot;Target&quot; box shows: _&quot;bitbay-wallet-qt-exe&quot;_ , then you may proceed to the next step.
+
+![If%20the%20last%20part%20of%20Target%20looks%20like%20this%20you%20can%20go%20to%20the%20next%20step|342x500](upload://lMjgXRDvXBkl09jdcVlKZxIfbOB.png) 
+
+### 6. Click at the end of the text, and add a space with &quot;-rescan&quot;  (without quotations). Then click &quot;ok&quot;.
+
+![Go%20to%20the%20end%20of%20the%20text%20and%20add%20a%20space%20and%20then%20-rescan%20-%20then%20you%20can%20press%20ok|342x500](upload://kMdMswRyOBCcPv7fu7NRvtgZYQZ.png) 
+
+### 7. Now use the shortcut to open the QT Wallet App. After opening the QT and waiting for the blocks to load, you will see &quot;rescanning&quot;. This can take some time (up to an hour or two) depending on the number of inputs your address has.
+
+![After%20first%20loading%20the%20blocks%20it%20should%20say%20rescanning%20and%20youre%20ok|690x377](upload://noZi71GXb22CSJQwyJG9vjBo20J.jpeg) 
+
+Once it has finished rescanning, your wallet balance should be up to date. 
+
+#### For any further support issues please find us in the community support channel on Discord:  **https://discordapp.com/invite/jRkjCxf**</description>
+    
+    <lastBuildDate>Thu, 02 Apr 2020 17:41:50 +0000</lastBuildDate>
+    <category>Get Started Guides</category>
+    <atom:link href="..../forum-archive/t/how-to-rescan-within-the-bitbay-qt-wallet-pc/2327.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to rescan within the BitBay QT Wallet (PC)</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Initiating a “rescan” will allow your wallet to update your address’s history of inputs, possibly correcting any issues with your total coin balance.</p>
+<h2>PC:</h2>
+<p>Follow these steps to initiate a “rescan” on PC:</p>
+<h3>1. Right click the QT app and select “Create shortcut”.</h3>
+<p><img src="..../forum-archive/uploads/default/original/1X/e768ac34822186bb161380f5e730c7659e4b11de.png" alt="Create%20a%20shortcut" width="623" height="492"></p>
+<h3>2. Drag the newly created shortcut to your Desktop (to keep separate from parent app)</h3>
+<p><img src="..../forum-archive/uploads/default/original/1X/d7c89b5427ffcceb61e10521240ed683134c552f.jpeg" alt="Drag%20the%20shurtcut%20to%20your%20Desktop%20just%20to%20seperate%20them" width="158" height="173"></p>
+<h3>3. Right click the new shortcut and click on “Properties”.</h3>
+<p><img src="..../forum-archive/uploads/default/original/1X/60dbfec37213488df93a860b37a80959eeb183fc.jpeg" alt="Right%20click%20the%20new%20shortcut%20and%20click%20on%20properties" width="349" height="446"></p>
+<h3>4. Go to the “Shortcut” tab and find the “Target” box.</h3>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/e904c6d3929e5af576bcb7eafa88a5cdc2259ca5.png" data-download-href="..../forum-archive/uploads/default/e904c6d3929e5af576bcb7eafa88a5cdc2259ca5" title="Go to the Shortcut tab and then to Target.png"><img src="..../forum-archive/uploads/default/original/1X/e904c6d3929e5af576bcb7eafa88a5cdc2259ca5.png" alt="Go%20to%20the%20Shortcut%20tab%20and%20then%20to%20Target" width="363" height="500"><div class="meta">
+<span class="filename">Go to the Shortcut tab and then to Target.png</span><span class="informations">395x543 63.9 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h3>5. If the last part of the text within the “Target” box shows: <em>“bitbay-wallet-qt-exe”</em> , then you may proceed to the next step.</h3>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/98a3afe9eeace29d7e1bab1dc2762ad3f9f253d5.png" data-download-href="..../forum-archive/uploads/default/98a3afe9eeace29d7e1bab1dc2762ad3f9f253d5" title="If the last part of Target looks like this you can go to the next step.png"><img src="..../forum-archive/uploads/default/original/1X/98a3afe9eeace29d7e1bab1dc2762ad3f9f253d5.png" alt="If%20the%20last%20part%20of%20Target%20looks%20like%20this%20you%20can%20go%20to%20the%20next%20step" width="342" height="500"><div class="meta">
+<span class="filename">If the last part of Target looks like this you can go to the next step.png</span><span class="informations">362x528 20.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h3>6. Click at the end of the text, and add a space with “-rescan”  (without quotations). Then click “ok”.</h3>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/919ef326d79d30132d229477c1799422f2f3a87d.png" data-download-href="..../forum-archive/uploads/default/919ef326d79d30132d229477c1799422f2f3a87d" title="Go to the end of the text and add a space and then -rescan - then you can press ok.png"><img src="..../forum-archive/uploads/default/original/1X/919ef326d79d30132d229477c1799422f2f3a87d.png" alt="Go%20to%20the%20end%20of%20the%20text%20and%20add%20a%20space%20and%20then%20-rescan%20-%20then%20you%20can%20press%20ok" width="342" height="500"><div class="meta">
+<span class="filename">Go to the end of the text and add a space and then -rescan - then you can press ok.png</span><span class="informations">360x526 16 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h3>7. Now use the shortcut to open the QT Wallet App. After opening the QT and waiting for the blocks to load, you will see “rescanning”. This can take some time (up to an hour or two) depending on the number of inputs your address has.</h3>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/a40520ce0561b9415d7f50362f4b904a4aa414a5.jpeg" data-download-href="..../forum-archive/uploads/default/a40520ce0561b9415d7f50362f4b904a4aa414a5" title="After first loading the blocks it should say rescanning and youre ok.jpg"><img src="..../forum-archive/uploads/default/original/1X/a40520ce0561b9415d7f50362f4b904a4aa414a5.jpeg" alt="After%20first%20loading%20the%20blocks%20it%20should%20say%20rescanning%20and%20youre%20ok" width="690" height="377"><div class="meta">
+<span class="filename">After first loading the blocks it should say rescanning and youre ok.jpg</span><span class="informations">744x407 136 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>Once it has finished rescanning, your wallet balance should be up to date.</p>
+<h4>For any further support issues please find us in the community support channel on Discord:  <strong><a href="https://discordapp.com/invite/jRkjCxf">https://discordapp.com/invite/jRkjCxf</a></strong>
+</h4>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-rescan-within-the-bitbay-qt-wallet-pc/2327/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-rescan-within-the-bitbay-qt-wallet-pc/2327/1</link>
+        <pubDate>Tue, 31 Mar 2020 20:57:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2327-1</guid>
+        <source url="..../forum-archive/t/how-to-rescan-within-the-bitbay-qt-wallet-pc/2327.rss">How to rescan within the BitBay QT Wallet (PC)</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Can&#39;t load keys into client wallet</title>
+    <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445</link>
+    <description>I&#39;ve just downloaded and synced my client wallet. I&#39;m now trying to load my keys into the Client wallet but I&#39;m getting the following error message. &quot;You cannot pair two keys with the same file name&quot;. Can someone help please? 
+
+How can I load my keys? Thank you!
+
+My system has the following specifications:
+- Client Wallet (and version)
+- Operating System and version: Windows 10
+Client
+- block # of your client: 2621157
+- # of connections: 16</description>
+    
+    <lastBuildDate>Fri, 12 Jun 2020 09:00:58 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+          <blockquote>
+              <p>Thanks <a class="mention" href="/u/dzimbeck">@dzimbeck</a> Looks like I’m neeeearly there. I have a balance showing but there seems to be one last problem. My  available balance is just 0.6 BAY while my “Actual balance” is showing many 1000s of time more than that. However, when I try to send even 10 BAY it says “Not enough available funds”.  How do I access my “Actual Balance”? Thank you!</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/23">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/23</link>
+        <pubDate>Fri, 12 Jun 2020 09:00:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-23</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@dzimbeck David Zimbeck]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/dzimbeck">@dzimbeck</a> wrote:</p>
+          <blockquote>
+              <p>your keys have loaded if your address shows, also in history tab it will say 2 keys are loaded. If the balance doesn’t show even with keys loaded then simply click rescan in the lower right corner, this will take up to an hour and then balance should show</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/22">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/22</link>
+        <pubDate>Fri, 12 Jun 2020 05:23:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-22</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+          <blockquote>
+              <p>OK, I’ve done everything exactly as instructed <a class="mention" href="/u/dzimbeck">@dzimbeck</a> . Started from scratch with bootstrap, at 100%, loaded in my keys. Seems to work but the client crashed. Had to restart my computer and use task manager to exit. Eventually managed to restart the client and it shows 0 balance.</p>
+<p>How can I check if my keys have loaded properly? Or what can I do to solve this? Please help! Thank you</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/21">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/21</link>
+        <pubDate>Fri, 12 Jun 2020 03:33:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-21</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@dzimbeck David Zimbeck]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/dzimbeck">@dzimbeck</a> wrote:</p>
+          <blockquote>
+              <p>Yeah testnet is not used for  Halo. And yes, just put bootstrap file in data directory, delete the rest except wallet.dat. As for the key locations I was curious if that was causing the problem, sometimes certain characters in the path name cause an error in some operating systems. That’s why I wanted to know exactly what the path was on both keys when you loaded them (key1 and key2)</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/20">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/20</link>
+        <pubDate>Thu, 11 Jun 2020 08:48:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-20</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+          <blockquote>
+              <p>p.s. this is the folder <div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/fe3e1810e467ea57ff7b7f7f9cd902347105a210.png" data-download-href="..../forum-archive/uploads/default/fe3e1810e467ea57ff7b7f7f9cd902347105a210" title="image.png"><img src="..../forum-archive/uploads/default/optimized/1X/fe3e1810e467ea57ff7b7f7f9cd902347105a210_1_690x388.png" alt="image" width="690" height="388" srcset="..../forum-archive/uploads/default/optimized/1X/fe3e1810e467ea57ff7b7f7f9cd902347105a210_1_690x388.png, ..../forum-archive/uploads/default/optimized/1X/fe3e1810e467ea57ff7b7f7f9cd902347105a210_1_1035x582.png 1.5x, ..../forum-archive/uploads/default/optimized/1X/fe3e1810e467ea57ff7b7f7f9cd902347105a210_1_1380x776.png 2x"><div class="meta">
+<span class="filename">image.png</span><span class="informations">1920x1080 237 KB</span><span class="expand"></span>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/19">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/19</link>
+        <pubDate>Thu, 11 Jun 2020 02:09:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-19</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/dzimbeck">@dzimbeck</a> thanks for your instructions. I’m now installing again for the 4th time and really want to make sure don’t so something wrong.</p>
+<p>Instructions say “To use the bootstrap, first remove all files in the data folder (except wallet.dat, peers.dat, and any testnet files)”. I see a bunch of files and folders in the ‘bitbaydata’ folder including wallet.dat but I don’t see peers.dat or anything with the word testnet in the file name.</p>
+<p>Should I therefore delete everything apart from wallet.dat and add the bootstrap file, then open the wallet and let it sync?</p>
+<p>Would really appreciate getting this sorted soon. Thanks again!</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/18">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/18</link>
+        <pubDate>Thu, 11 Jun 2020 02:08:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-18</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@dzimbeck David Zimbeck]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/dzimbeck">@dzimbeck</a> wrote:</p>
+          <blockquote>
+              <p>Yeah resync by deleting files and using bootstrap again. And yes I asked for the debug on exit because I wanted to see why you can’t load your keys. Also please send me screenshots of you trying to load key1 and key2. Go to file/open wallet/…etc and take multiple screenshots of whats going on when you try to do it. Also what are the paths of the files on your computer?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/16">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/16</link>
+        <pubDate>Sun, 07 Jun 2020 20:01:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-16</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Hey <a class="mention" href="/u/dzimbeck">@dzimbeck</a> any thoughts on this?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/15">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/15</link>
+        <pubDate>Sat, 06 Jun 2020 15:31:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-15</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+          <blockquote>
+              <p>Anyone there who can help please?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/14">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/14</link>
+        <pubDate>Fri, 05 Jun 2020 08:30:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-14</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+          <blockquote>
+              <p>I only see rescan. I synced last time with the bootstrap but not sure how to sync again using the bootstrap unless you mean start all over again. Is that what you mean?</p>
+<p>Still couldn’t get keys to loads.</p>
+<p>Wanted to create the Debug File on Exit but I assume there’s no point until I can get the wallet 100% synced? Am I going about this in the correct order?</p>
+<p>Thanks! <img src="..../forum-archive/images/emoji/twitter/slight_smile.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/13">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/13</link>
+        <pubDate>Tue, 02 Jun 2020 13:51:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-13</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@dzimbeck David Zimbeck]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/dzimbeck">@dzimbeck</a> wrote:</p>
+          <blockquote>
+              <p>You would have to resync (not rescan). Try to sync again using the bootstrap. Did you get your keys to load?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/12">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/12</link>
+        <pubDate>Tue, 02 Jun 2020 10:29:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-12</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+          <blockquote>
+              <p>I’m now having the issue that the wallet is stuck at 99% (stopped at synchronizing: 2623866). I’ve tried hitting rescan but it doesn’t make any difference. Any suggestions for what I should do? Thank you</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/11">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/11</link>
+        <pubDate>Tue, 02 Jun 2020 08:49:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-11</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@dzimbeck David Zimbeck]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/dzimbeck">@dzimbeck</a> wrote:</p>
+          <blockquote>
+              <p>It’s right there, says “Create Debug File on Exit”… then follow the instructions I gave you</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/10">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/10</link>
+        <pubDate>Fri, 29 May 2020 09:36:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-10</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for the clarification <img src="..../forum-archive/images/emoji/twitter/slight_smile.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:"> I’m afraid that I don’t see how to activate the debugger in settings. Could you tell me how please? Thanks</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/2da6702a4539dd78a62270c1aca06184d2485008.png" data-download-href="..../forum-archive/uploads/default/2da6702a4539dd78a62270c1aca06184d2485008" title="image.png"><img src="..../forum-archive/uploads/default/optimized/1X/2da6702a4539dd78a62270c1aca06184d2485008_1_690x388.png" alt="image" width="690" height="388" srcset="..../forum-archive/uploads/default/optimized/1X/2da6702a4539dd78a62270c1aca06184d2485008_1_690x388.png, ..../forum-archive/uploads/default/optimized/1X/2da6702a4539dd78a62270c1aca06184d2485008_1_1035x582.png 1.5x, ..../forum-archive/uploads/default/optimized/1X/2da6702a4539dd78a62270c1aca06184d2485008_1_1380x776.png 2x"><div class="meta">
+<span class="filename">image.png</span><span class="informations">1920x1080 302 KB</span><span class="expand"></span>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/9">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/9</link>
+        <pubDate>Fri, 29 May 2020 06:00:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-9</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@dzimbeck David Zimbeck]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/dzimbeck">@dzimbeck</a> wrote:</p>
+          <blockquote>
+              <p>No thats the live debugger, I was saying to activate the debugger in settings, shut down the software, restart it, reproduce the bug by loading the keys, then close the software and send me the debug.txt it generates. And also you should try copying your keys to a different directory (perhaps c:\BitBay) and open them from there and make sure the names of each key is not the same. (key1.private and key2.private)<br>
+Also, were the keys previously used on a Mac computer? Or have you always used Windows 10?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/8">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/8</link>
+        <pubDate>Fri, 29 May 2020 03:25:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-8</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+          <blockquote>
+              <p>When I go debug I get this screen. What should I input here? Thanks</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/a746c1ba537121b1fcb474ae7e2e5bdc6c604509.jpeg" data-download-href="..../forum-archive/uploads/default/a746c1ba537121b1fcb474ae7e2e5bdc6c604509" title="image.jpg"><img src="..../forum-archive/uploads/default/optimized/1X/a746c1ba537121b1fcb474ae7e2e5bdc6c604509_1_690x388.jpeg" alt="image" width="690" height="388" srcset="..../forum-archive/uploads/default/optimized/1X/a746c1ba537121b1fcb474ae7e2e5bdc6c604509_1_690x388.jpeg, ..../forum-archive/uploads/default/optimized/1X/a746c1ba537121b1fcb474ae7e2e5bdc6c604509_1_1035x582.jpeg 1.5x, ..../forum-archive/uploads/default/optimized/1X/a746c1ba537121b1fcb474ae7e2e5bdc6c604509_1_1380x776.jpeg 2x"><div class="meta">
+<span class="filename">image.jpg</span><span class="informations">1920x1080 459 KB</span><span class="expand"></span>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/7">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/7</link>
+        <pubDate>Fri, 29 May 2020 02:57:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-7</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@dzimbeck David Zimbeck]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/dzimbeck">@dzimbeck</a> wrote:</p>
+          <blockquote>
+              <p>you can activate debug in settings, and then restart the software, reproduce the bug and shut the software down and send me debug.txt</p>
+<p>Although I really don’t understand why you would have an issue to begin with, you are simply opening your account and loading key1.private and key2.private right?</p>
+<p>Worst case scenario you can email me your keys and I will try to reproduce the bug. But first try to activate the debugger and send me the results.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/6">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/6</link>
+        <pubDate>Thu, 28 May 2020 14:00:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-6</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+          <blockquote>
+              <p>I don’t think I’ve uploaded any keys. How can I check or how can I start again?</p>
+<p>I can read my keys with a text editor but I don’t know what out of the ordinary would look like. What should I be seeing?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/5">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/5</link>
+        <pubDate>Thu, 28 May 2020 04:14:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-5</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@dzimbeck David Zimbeck]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/dzimbeck">@dzimbeck</a> wrote:</p>
+          <blockquote>
+              <p>Are you certain you didn’t accidentally load the same key twice? If each one is a different name then make sure you are able to read the files with a basic text editor and that nothing looks out of the ordinary. If the problem persists let me know.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/4</link>
+        <pubDate>Thu, 28 May 2020 03:49:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-4</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for your reply. The keys are already named key1.private and key2.private<br>
+Should I try naming them something else?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/3</link>
+        <pubDate>Thu, 28 May 2020 00:53:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-3</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Have you tried renaming your keys? If not, try renaming them to: key1.private and key2.private and let us know if that works.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/2</link>
+        <pubDate>Wed, 27 May 2020 20:58:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-2</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+      <item>
+        <title>Can&#39;t load keys into client wallet</title>
+        <dc:creator><![CDATA[@truetrue sim]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/truetrue">@truetrue</a> wrote:</p>
+          <blockquote>
+              <p>I’ve just downloaded and synced my client wallet. I’m now trying to load my keys into the Client wallet but I’m getting the following error message. “You cannot pair two keys with the same file name”. Can someone help please?</p>
+<p>How can I load my keys? Thank you!</p>
+<p>My system has the following specifications:</p>
+<ul>
+<li>Client Wallet (and version)</li>
+<li>Operating System and version: Windows 10<br>
+Client</li>
+<li>block # of your client: 2621157</li>
+<li>
+<h1>of connections: 16</h1>
+</li>
+</ul>
+          </blockquote>
+          <p><a href="..../forum-archive/t/cant-load-keys-into-client-wallet/2445/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/cant-load-keys-into-client-wallet/2445/1</link>
+        <pubDate>Wed, 27 May 2020 10:45:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2445-1</guid>
+        <source url="..../forum-archive/t/cant-load-keys-into-client-wallet/2445.rss">Can&#39;t load keys into client wallet</source>
+      </item>
+  </channel>
+</rss>

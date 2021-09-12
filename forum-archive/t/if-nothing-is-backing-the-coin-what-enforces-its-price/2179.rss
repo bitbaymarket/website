@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>If nothing is backing the coin, what enforces its price?</title>
+    <link>..../forum-archive/t/if-nothing-is-backing-the-coin-what-enforces-its-price/2179</link>
+    <description>### If nothing is backing the coin, what enforces its price?
+
+The price of BAY is enforced due to a change in liquidity of the coin supply. This change is voted on by stakers 7 times per day.
+
+In this case, the term _&quot;liquidity&quot;_ means _&quot;the speed&quot;_ in which coins can be sent.
+
+As it’s known, every price is established at the intersection of supply and demand. When the supply liquidity of BAY changes based on in-wallet voting, so does the price. 
+
+With this system, there are three balances:  **Liquid (BAY), Reserve (BAYR), and Frozen** .
+
+**Liquid (BAY)** can be sent immediately at any time.
+**Reserve (BAYR)** can only be sent with a 1-month timelock. This time restriction slows down the speed in which coins can be sent, thereby effectively inflating or deflating the supply, and forcing a direction in price. (This change also directly affects all order books on exchanges.)
+
+**Due to their difference in liquidity, Liquid (BAY) and Reserve (BAY) have different market values** and can be trade in different markets. 
+
+For example:
+
+1. **Liquid (BAY)**  traded against other crypto or fiat pairings
+2. **Reserve (BAYR)**  traded against other crypto or fiat pairings
+3. **Liquid (BAY) / Reserve (BAYR)**  direct trade pairing
+
+***A Dynamic Peg Analogy:***
+
+Imagine that you’re very thirsty, with a group of people in a hot desert. What would you (as a buyer) pay more for: Pure  ***Liquid***  water you can drink immediately? Or a  ***Reserve***  block of ice that takes months to melt before becoming drinkable?
+
+The Dynamic Peg effectively adjusts the supply of Liquid BAY according to how many people want to buy it, and the rest is Reserved for future use. It knows how many people want to buy or sell, because everyone casts their own vote, representing their thirst (demand).
+
+This directly connects the price of Liquid BAY to _volume_ of people buying it.
+
+So **if the demand for Liquid BAY drops**, the amount of **Reserve BAY (BAYR) can increase**. If the demand for Liquid BAY increases, Reserve BAY is “unfrozen” to make more Liquid BAY again. Over the course of a few days, the perfect amount of liquidity will always be decided on to match demand, which stabilizes the price of Liquid BAY.
+
+Meanwhile, Reserve BAY can still be traded, but with a one-month time-delay. This makes the Reserve BAY price speculative. This price is based on market sentiment towards _future_ demand for these coins when they unfreeze, at a rate which is determined by voting.
+
+**Still have questions, comments, concerns? Please post them in the comments below!**</description>
+    
+    <lastBuildDate>Thu, 27 Feb 2020 03:24:19 +0000</lastBuildDate>
+    <category>Dynamic Peg - FAQ</category>
+    <atom:link href="..../forum-archive/t/if-nothing-is-backing-the-coin-what-enforces-its-price/2179.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>If nothing is backing the coin, what enforces its price?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <h3>If nothing is backing the coin, what enforces its price?</h3>
+<p>The price of BAY is enforced due to a change in liquidity of the coin supply. This change is voted on by stakers 7 times per day.</p>
+<p>In this case, the term <em>“liquidity”</em> means <em>“the speed”</em> in which coins can be sent.</p>
+<p>As it’s known, every price is established at the intersection of supply and demand. When the supply liquidity of BAY changes based on in-wallet voting, so does the price.</p>
+<p>With this system, there are three balances:  <strong>Liquid (BAY), Reserve (BAYR), and Frozen</strong> .</p>
+<p><strong>Liquid (BAY)</strong> can be sent immediately at any time.<br>
+<strong>Reserve (BAYR)</strong> can only be sent with a 1-month timelock. This time restriction slows down the speed in which coins can be sent, thereby effectively inflating or deflating the supply, and forcing a direction in price. (This change also directly affects all order books on exchanges.)</p>
+<p><strong>Due to their difference in liquidity, Liquid (BAY) and Reserve (BAY) have different market values</strong> and can be trade in different markets.</p>
+<p>For example:</p>
+<ol>
+<li>
+<strong>Liquid (BAY)</strong>  traded against other crypto or fiat pairings</li>
+<li>
+<strong>Reserve (BAYR)</strong>  traded against other crypto or fiat pairings</li>
+<li>
+<strong>Liquid (BAY) / Reserve (BAYR)</strong>  direct trade pairing</li>
+</ol>
+<p><em><strong>A Dynamic Peg Analogy:</strong></em></p>
+<p>Imagine that you’re very thirsty, with a group of people in a hot desert. What would you (as a buyer) pay more for: Pure  <em><strong>Liquid</strong></em>  water you can drink immediately? Or a  <em><strong>Reserve</strong></em>  block of ice that takes months to melt before becoming drinkable?</p>
+<p>The Dynamic Peg effectively adjusts the supply of Liquid BAY according to how many people want to buy it, and the rest is Reserved for future use. It knows how many people want to buy or sell, because everyone casts their own vote, representing their thirst (demand).</p>
+<p>This directly connects the price of Liquid BAY to <em>volume</em> of people buying it.</p>
+<p>So <strong>if the demand for Liquid BAY drops</strong>, the amount of <strong>Reserve BAY (BAYR) can increase</strong>. If the demand for Liquid BAY increases, Reserve BAY is “unfrozen” to make more Liquid BAY again. Over the course of a few days, the perfect amount of liquidity will always be decided on to match demand, which stabilizes the price of Liquid BAY.</p>
+<p>Meanwhile, Reserve BAY can still be traded, but with a one-month time-delay. This makes the Reserve BAY price speculative. This price is based on market sentiment towards <em>future</em> demand for these coins when they unfreeze, at a rate which is determined by voting.</p>
+<p><strong>Still have questions, comments, concerns? Please post them in the comments below!</strong></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/if-nothing-is-backing-the-coin-what-enforces-its-price/2179/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/if-nothing-is-backing-the-coin-what-enforces-its-price/2179/1</link>
+        <pubDate>Wed, 29 Jan 2020 14:17:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2179-1</guid>
+        <source url="..../forum-archive/t/if-nothing-is-backing-the-coin-what-enforces-its-price/2179.rss">If nothing is backing the coin, what enforces its price?</source>
+      </item>
+  </channel>
+</rss>

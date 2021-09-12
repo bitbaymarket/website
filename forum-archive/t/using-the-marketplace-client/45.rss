@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Using the Marketplace Client</title>
+    <link>..../forum-archive/t/using-the-marketplace-client/45</link>
+    <description>### Buying on the market
+Now that your client is set up you can begin buying and selling items. To buy or bid on items you need to enter the “Market” tab window. This is the marketplace. It has many features and to better understand these features feel free to click on the “?” icon for more information.
+
+To buy or bid on an item:
+
+1. Click on the item of interest – a new window will pop up showing more details about the contract. This shows the sellers bitmessage address, preferred method of contact for negotiating, price of item, and escrow deposit to be applied/matched. In the upcoming client update, you will also have a built-in feature to communicate with the seller.
+
+2. This window also gives you two options icons to choose from. You can either “Accept Offer” (buy as is) or “Counter-offer” (ask to buy for a lower price). In beta version 1.2 the “Counter-offer” icon isn’t functionable. This will be activated with the next update. With that being said, click on the “Accept Offer” icon. A new window will pop-up providing all the details of your contract proposal (again, once the client is updated much of this will change with the new templates). If you are happy with the proposal click the “Ok” button.
+
+3. If your private keys are encrypted you will be prompted to enter your passwords to all for the transaction to proceed.
+
+4. Upon completion of these steps, the contract offer will be sent to the seller’s “Pending Offer” tab. If he accepts you will receive a notification that you have an “Open Contract”. Click on the “Open Contract” tab and click on the contract and negotiate your terms.
+
+5. Once you’ve received your item in the mail and content with its condition. You have the option to fulfill the contract and both escrow deposits are returned to you and the seller along with your payment to the seller.
+
+Congratulations! You’ve just purchased an item on Bitbay! Remember, once the templates are released, there will be quite a few changes to the system. This however, is being created to provide a much easier UI platform.</description>
+    
+    <lastBuildDate>Thu, 30 Nov 2017 09:30:54 +0000</lastBuildDate>
+    <category>Get Started Guides</category>
+    <atom:link href="..../forum-archive/t/using-the-marketplace-client/45.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Using the Marketplace Client</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/using-the-marketplace-client/45/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/using-the-marketplace-client/45/3</link>
+        <pubDate>Mon, 04 Dec 2017 08:36:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-45-3</guid>
+        <source url="..../forum-archive/t/using-the-marketplace-client/45.rss">Using the Marketplace Client</source>
+      </item>
+      <item>
+        <title>Using the Marketplace Client</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/using-the-marketplace-client/45/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/using-the-marketplace-client/45/2</link>
+        <pubDate>Thu, 30 Nov 2017 09:44:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-45-2</guid>
+        <source url="..../forum-archive/t/using-the-marketplace-client/45.rss">Using the Marketplace Client</source>
+      </item>
+      <item>
+        <title>Using the Marketplace Client</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              <h3>Buying on the market</h3>
+<p>Now that your client is set up you can begin buying and selling items. To buy or bid on items you need to enter the “Market” tab window. This is the marketplace. It has many features and to better understand these features feel free to click on the “?” icon for more information.</p>
+<p>To buy or bid on an item:</p>
+<ol>
+<li>
+<p>Click on the item of interest – a new window will pop up showing more details about the contract. This shows the sellers bitmessage address, preferred method of contact for negotiating, price of item, and escrow deposit to be applied/matched. In the upcoming client update, you will also have a built-in feature to communicate with the seller.</p>
+</li>
+<li>
+<p>This window also gives you two options icons to choose from. You can either “Accept Offer” (buy as is) or “Counter-offer” (ask to buy for a lower price). In beta version 1.2 the “Counter-offer” icon isn’t functionable. This will be activated with the next update. With that being said, click on the “Accept Offer” icon. A new window will pop-up providing all the details of your contract proposal (again, once the client is updated much of this will change with the new templates). If you are happy with the proposal click the “Ok” button.</p>
+</li>
+<li>
+<p>If your private keys are encrypted you will be prompted to enter your passwords to all for the transaction to proceed.</p>
+</li>
+<li>
+<p>Upon completion of these steps, the contract offer will be sent to the seller’s “Pending Offer” tab. If he accepts you will receive a notification that you have an “Open Contract”. Click on the “Open Contract” tab and click on the contract and negotiate your terms.</p>
+</li>
+<li>
+<p>Once you’ve received your item in the mail and content with its condition. You have the option to fulfill the contract and both escrow deposits are returned to you and the seller along with your payment to the seller.</p>
+</li>
+</ol>
+<p>Congratulations! You’ve just purchased an item on Bitbay! Remember, once the templates are released, there will be quite a few changes to the system. This however, is being created to provide a much easier UI platform.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/using-the-marketplace-client/45/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/using-the-marketplace-client/45/1</link>
+        <pubDate>Thu, 30 Nov 2017 09:30:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-45-1</guid>
+        <source url="..../forum-archive/t/using-the-marketplace-client/45.rss">Using the Marketplace Client</source>
+      </item>
+  </channel>
+</rss>

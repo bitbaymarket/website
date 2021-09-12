@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to build the BitBay QT from Source</title>
+    <link>..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57</link>
+    <description>
+Linux QT wallet install for Debian Jessie
+
+n.b. this does not work for Stretch at the moment and hasn&#39;t been tried in ubuntu.
+
+To start:
+
+Go here to set up your super user
+https://www.privateinternetaccess.com/forum/discussion/18063/debian-8-1-0-jessie-sudo-fix-not-installed-by-default
+
+Then here for referrence 
+https://github.com/dzimbeck/BitBay/blob/master/BUILD-Readme.txt
+
+Then follow these commands in terminal
+
+    sudo apt-get install git
+
+    git clone https://github.com/dzimbeck/BitBay.git
+
+    cd BitBay
+
+    chmod +x linux64BitBay.sh
+
+    ./linux64BitBay.sh --reset --force --build
+
+    cd ..
+
+    cd bitbay/bitbay
+
+
+    chmod +x linux-qt-dependencies.sh
+    ./linux-qt-dependencies.sh
+
+    chmod +x makeqt-linux.sh
+    ./makeqt-linux.sh
+
+This process takes about 10-30 minutes depending on speed of computer
+
+Once complete in same directory...
+
+`./bitbay-qt`
+
+Your blockchain and data folder can be found in the home directory as a hidden .bitbay directory
+
+The program doesn&#39;t come with a bitbay.conf file to help you connect to network
+
+Create a file  called bitbay.conf
+Open gedit and create new file with this text in it:
+
+    server=1
+    rpcuser=bitbayrpc
+    rpcpassword=4c80db0bfc751aaadba16bb8ed2c9f050d00952b476b83cc96e24909c06625b3
+    rpcport=19915
+    addnode=104.238.169.84
+    addnode=107.218.48.181
+    addnode=113.59.206.19
+    addnode=128.235.139.77
+    addnode=135.23.125.66
+    addnode=142.255.92.227
+    addnode=146.255.175.131
+    addnode=151.80.186.24
+    addnode=162.72.254.164
+    addnode=165.91.13.135
+    addnode=172.116.88.221
+    addnode=174.24.242.81
+    addnode=174.50.118.218
+    addnode=176.150.146.190
+    addnode=189.5.212.211
+    addnode=199.189.26.13
+    addnode=199.189.26.19
+    addnode=212.3.193.47
+    addnode=213.87.225.214
+    addnode=216.6.183.201
+    addnode=24.162.248.106
+    addnode=24.166.59.144
+    addnode=24.225.204.112
+    addnode=40.112.149.192
+    addnode=46.59.49.71
+    addnode=50.41.214.229
+    addnode=65.128.85.110
+    addnode=67.173.120.250
+    addnode=68.100.192.184
+    addnode=68.147.112.31
+    addnode=68.46.238.155
+    addnode=69.250.107.102
+    addnode=71.234.232.8
+    addnode=72.227.170.97
+    addnode=72.239.3.80
+    addnode=73.222.225.197
+    addnode=75.83.248.12
+    addnode=76.23.125.0
+    addnode=76.69.65.236
+    addnode=77.172.214.202
+    addnode=77.86.197.94
+    addnode=78.132.1.64
+    addnode=78.132.77.65
+    addnode=78.144.66.42
+    addnode=78.20.105.124
+    addnode=80.89.75.231
+    addnode=82.101.198.115
+    addnode=82.129.126.185
+    addnode=82.20.109.111
+    addnode=82.217.167.158
+    addnode=88.130.57.51
+    addnode=88.130.57.88
+    addnode=91.192.135.98
+    addnode=93.48.88.129
+    addnode=94.192.163.164
+    addnode=95.104.62.203
+    addnode=95.21.169.102
+    addnode=95.211.95.247
+    addnode=95.211.95.248
+    addnode=95.211.95.249
+    addnode=95.90.205.127
+    addnode=95.91.230.26
+    addnode=99.103.18.242
+    addnode=99.20.141.243
+    addnode=99.237.236.193
+    addnode=45.28.140.116
+    addnode=46.208.58.217
+    addnode=46.233.215.30
+    addnode=46.235.32.6
+    addnode=46.4.37.190
+    addnode=49.50.218.215
+    addnode=5.189.156.99
+    addnode=5.198.101.104
+    addnode=50.41.223.118
+    addnode=51.254.45.117
+    addnode=51.7.254.198
+    addnode=60.242.23.7
+    addnode=62.178.40.4
+    addnode=62.238.180.236
+    addnode=62.57.193.29
+    addnode=65.128.85.110
+    addnode=67.165.94.226
+    addnode=67.173.120.250
+    addnode=67.183.29.189
+    addnode=68.197.208.77
+    addnode=68.46.238.155
+    addnode=69.197.188.186
+    addnode=69.203.109.7
+    addnode=69.250.107.102
+    addnode=69.61.169.124
+    addnode=70.119.124.134
+    addnode=70.122.32.5
+    addnode=70.127.184.55
+    addnode=70.71.157.109
+    addnode=71.197.52.238
+    addnode=72.199.168.135
+    addnode=72.22.151.109
+    addnode=73.162.63.60
+    addnode=73.172.109.27
+    addnode=73.222.225.197
+    addnode=73.241.114.206
+    addnode=73.241.24.24
+    addnode=73.54.180.205
+
+
+Save this bitbay.conf file in your &#39;hidden&#39; /.bitbay directory 
+
+You can get a fresh copy of nodes at
+
+https://chainz.cryptoid.info/bay/#!network
+or
+http://explorer.bitbay.market/network
+
+
+Then restart the qt wallet and you should get plenty of connections.</description>
+    
+    <lastBuildDate>Thu, 30 Nov 2017 11:40:28 +0000</lastBuildDate>
+    <category>Get Started Guides</category>
+    <atom:link href="..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to build the BitBay QT from Source</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57/2</link>
+        <pubDate>Sun, 03 Dec 2017 14:24:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-57-2</guid>
+        <source url="..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57.rss">How to build the BitBay QT from Source</source>
+      </item>
+      <item>
+        <title>How to build the BitBay QT from Source</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              <p>Linux QT wallet install for Debian Jessie</p>
+<p>n.b. this does not work for Stretch at the moment and hasn’t been tried in ubuntu.</p>
+<p>To start:</p>
+<p>Go here to set up your super user<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://www.privateinternetaccess.com/favicon.ico" class="site-icon" width="16" height="16">
+      <a href="https://www.privateinternetaccess.com/forum/discussion/18063/debian-8-1-0-jessie-sudo-fix-not-installed-by-default" target="_blank" rel="nofollow noopener">PIA</a>
+  </header>
+  <article class="onebox-body">
+    <img src="..../forum-archive/uploads/default/original/1X/030ab06de9907b4049e4fc9e7817e5f9bf39b32d.png" class="thumbnail onebox-avatar" width="200" height="200">
+
+<h3><a href="https://www.privateinternetaccess.com/forum/discussion/18063/debian-8-1-0-jessie-sudo-fix-not-installed-by-default" target="_blank" rel="nofollow noopener">debian 8.1.0 jessie - sudo fix (not installed by default)</a></h3>
+
+<p>Debian seems to not have sudo installed by default.  Here is how to install sudo and add your username to the sudoers file.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>Then here for referrence<br>
+<aside class="onebox githubblob">
+  <header class="source">
+      <a href="https://github.com/dzimbeck/BitBay/blob/master/BUILD-Readme.txt" target="_blank" rel="nofollow noopener">github.com</a>
+  </header>
+  <article class="onebox-body">
+    <h4><a href="https://github.com/dzimbeck/BitBay/blob/master/BUILD-Readme.txt" target="_blank" rel="nofollow noopener">dzimbeck/BitBay/blob/master/BUILD-Readme.txt</a></h4>
+<pre><code class="lang-txt">If any of the patches don't work, then you can simply read the emails
+and apply the patch manually by adding and removing the lines they
+recommend in each file.
+
+If leveldb fails, just use the files in the included folders for your platform
+to replace the built ones in the src/leveldb directory
+
+These scripts were tested on the following OS below, they can and should
+work on many other OS. If you are running a different OS, simply remove
+the check for it in the SH file.
+
+== Prerequisite ==
+
+needed OS:
+
+win32: Debian 8 (jessie) x86_64 (VM or chroot)
+
+linux32: Debian 7 (wheezy) i386 (VM or chroot)
+
+linux64: Debian 7 (wheezy) x86_64 (VM or chroot)
+</code></pre>
+
+  This file has been truncated. <a href="https://github.com/dzimbeck/BitBay/blob/master/BUILD-Readme.txt" target="_blank" rel="nofollow noopener">show original</a>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>Then follow these commands in terminal</p>
+<pre><code>sudo apt-get install git
+
+git clone https://github.com/dzimbeck/BitBay.git
+
+cd BitBay
+
+chmod +x linux64BitBay.sh
+
+./linux64BitBay.sh --reset --force --build
+
+cd ..
+
+cd bitbay/bitbay
+
+
+chmod +x linux-qt-dependencies.sh
+./linux-qt-dependencies.sh
+
+chmod +x makeqt-linux.sh
+./makeqt-linux.sh
+</code></pre>
+<p>This process takes about 10-30 minutes depending on speed of computer</p>
+<p>Once complete in same directory…</p>
+<p><code>./bitbay-qt</code></p>
+<p>Your blockchain and data folder can be found in the home directory as a hidden .bitbay directory</p>
+<p>The program doesn’t come with a bitbay.conf file to help you connect to network</p>
+<p>Create a file  called bitbay.conf<br>
+Open gedit and create new file with this text in it:</p>
+<pre><code>server=1
+rpcuser=bitbayrpc
+rpcpassword=4c80db0bfc751aaadba16bb8ed2c9f050d00952b476b83cc96e24909c06625b3
+rpcport=19915
+addnode=104.238.169.84
+addnode=107.218.48.181
+addnode=113.59.206.19
+addnode=128.235.139.77
+addnode=135.23.125.66
+addnode=142.255.92.227
+addnode=146.255.175.131
+addnode=151.80.186.24
+addnode=162.72.254.164
+addnode=165.91.13.135
+addnode=172.116.88.221
+addnode=174.24.242.81
+addnode=174.50.118.218
+addnode=176.150.146.190
+addnode=189.5.212.211
+addnode=199.189.26.13
+addnode=199.189.26.19
+addnode=212.3.193.47
+addnode=213.87.225.214
+addnode=216.6.183.201
+addnode=24.162.248.106
+addnode=24.166.59.144
+addnode=24.225.204.112
+addnode=40.112.149.192
+addnode=46.59.49.71
+addnode=50.41.214.229
+addnode=65.128.85.110
+addnode=67.173.120.250
+addnode=68.100.192.184
+addnode=68.147.112.31
+addnode=68.46.238.155
+addnode=69.250.107.102
+addnode=71.234.232.8
+addnode=72.227.170.97
+addnode=72.239.3.80
+addnode=73.222.225.197
+addnode=75.83.248.12
+addnode=76.23.125.0
+addnode=76.69.65.236
+addnode=77.172.214.202
+addnode=77.86.197.94
+addnode=78.132.1.64
+addnode=78.132.77.65
+addnode=78.144.66.42
+addnode=78.20.105.124
+addnode=80.89.75.231
+addnode=82.101.198.115
+addnode=82.129.126.185
+addnode=82.20.109.111
+addnode=82.217.167.158
+addnode=88.130.57.51
+addnode=88.130.57.88
+addnode=91.192.135.98
+addnode=93.48.88.129
+addnode=94.192.163.164
+addnode=95.104.62.203
+addnode=95.21.169.102
+addnode=95.211.95.247
+addnode=95.211.95.248
+addnode=95.211.95.249
+addnode=95.90.205.127
+addnode=95.91.230.26
+addnode=99.103.18.242
+addnode=99.20.141.243
+addnode=99.237.236.193
+addnode=45.28.140.116
+addnode=46.208.58.217
+addnode=46.233.215.30
+addnode=46.235.32.6
+addnode=46.4.37.190
+addnode=49.50.218.215
+addnode=5.189.156.99
+addnode=5.198.101.104
+addnode=50.41.223.118
+addnode=51.254.45.117
+addnode=51.7.254.198
+addnode=60.242.23.7
+addnode=62.178.40.4
+addnode=62.238.180.236
+addnode=62.57.193.29
+addnode=65.128.85.110
+addnode=67.165.94.226
+addnode=67.173.120.250
+addnode=67.183.29.189
+addnode=68.197.208.77
+addnode=68.46.238.155
+addnode=69.197.188.186
+addnode=69.203.109.7
+addnode=69.250.107.102
+addnode=69.61.169.124
+addnode=70.119.124.134
+addnode=70.122.32.5
+addnode=70.127.184.55
+addnode=70.71.157.109
+addnode=71.197.52.238
+addnode=72.199.168.135
+addnode=72.22.151.109
+addnode=73.162.63.60
+addnode=73.172.109.27
+addnode=73.222.225.197
+addnode=73.241.114.206
+addnode=73.241.24.24
+addnode=73.54.180.205
+</code></pre>
+<p>Save this bitbay.conf file in your ‘hidden’ /.bitbay directory</p>
+<p>You can get a fresh copy of nodes at</p>
+<p><a href="https://chainz.cryptoid.info/bay/#!network" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/#!network</a><br>
+or<br>
+<a href="http://explorer.bitbay.market/network" class="onebox" target="_blank">http://explorer.bitbay.market/network</a></p>
+<p>Then restart the qt wallet and you should get plenty of connections.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57/1</link>
+        <pubDate>Thu, 30 Nov 2017 11:40:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-57-1</guid>
+        <source url="..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57.rss">How to build the BitBay QT from Source</source>
+      </item>
+  </channel>
+</rss>

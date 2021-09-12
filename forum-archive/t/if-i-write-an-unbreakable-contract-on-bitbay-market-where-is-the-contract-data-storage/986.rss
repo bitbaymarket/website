@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>If I write an unbreakable contract on bitbay market? Where is the contract data storage?</title>
+    <link>..../forum-archive/t/if-i-write-an-unbreakable-contract-on-bitbay-market-where-is-the-contract-data-storage/986</link>
+    <description>If I write an unbreakable contract on bitbay market?where is the contract data storage?Is the contract which I wrote stored in every computer like bitcoin or Just in my computer, When the bitmarket client in my computer offline, other user can search and see the contract in the bitbay market?
+
+Another question:
+If I send 100 bitbay to another bitbay address?How many transaction recognizations need be verified by miners?How can bitbay wallet fix the transaction speed issue like bitcoin?</description>
+    
+    <lastBuildDate>Sat, 10 Feb 2018 23:21:35 +0000</lastBuildDate>
+    <category>Questions about BitBay</category>
+    <atom:link href="..../forum-archive/t/if-i-write-an-unbreakable-contract-on-bitbay-market-where-is-the-contract-data-storage/986.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>If I write an unbreakable contract on bitbay market? Where is the contract data storage?</title>
+        <dc:creator><![CDATA[@GiorgosK Giorgos Kontopoulos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/giorgosk">@GiorgosK</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/blockstack">@Blockstack</a> welcome to the forums</p>
+<p>The smart contract data resides in your computer and is propagated to all participating clients through the encrypted p2p protocol bitmessage (BitBay Halo). You will have to keep your computer online if you want for your smart contracts to be searchable but the client will not consume any measurable amount of processing power for this process.</p>
+<p>There is a new block on the network every 64 seconds and any transaction gets included on the next block.<br>
+When you send from any wallet the BAY will arrive on the receiving wallet on the next generated block which is roughly within 1 minute. Any transaction is usually confirmed within 10 blocks so within about 11 minutes the receiving wallet can actually spend it.  Thus the the speed of transaction is about incredibly faster compared to bitcoin (at least 10 times faster).</p>
+<p>If you are interested in future scaling here is more technical aspect from our core developer:</p>
+<blockquote>
+<p>There are some ways, increase block size, pruning, node reputation system/chain (for pruning and server nodes), powerful incentivized server nodes (similar to dpos but not as centralized), sidechains and shared staking by sharding (looking at address and grouping it to certain txids and nodes partnering up to share workload). And lightning may work well in tandem with frozen coins as collateral but that’s not our primary area of interest for scaling.</p>
+</blockquote>
+          </blockquote>
+          <p><a href="..../forum-archive/t/if-i-write-an-unbreakable-contract-on-bitbay-market-where-is-the-contract-data-storage/986/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/if-i-write-an-unbreakable-contract-on-bitbay-market-where-is-the-contract-data-storage/986/2</link>
+        <pubDate>Sat, 20 Jan 2018 05:05:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-986-2</guid>
+        <source url="..../forum-archive/t/if-i-write-an-unbreakable-contract-on-bitbay-market-where-is-the-contract-data-storage/986.rss">If I write an unbreakable contract on bitbay market? Where is the contract data storage?</source>
+      </item>
+      <item>
+        <title>If I write an unbreakable contract on bitbay market? Where is the contract data storage?</title>
+        <dc:creator><![CDATA[@Blockstack Block]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/blockstack">@Blockstack</a> wrote:</p>
+          <blockquote>
+              <p>If I write an unbreakable contract on bitbay market?where is the contract data storage?Is the contract which I wrote stored in every computer like bitcoin or Just in my computer, When the bitmarket client in my computer offline, other user can search and see the contract in the bitbay market?</p>
+<p>Another question:<br>
+If I send 100 bitbay to another bitbay address?How many transaction recognizations need be verified by miners?How can bitbay wallet fix the transaction speed issue like bitcoin?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/if-i-write-an-unbreakable-contract-on-bitbay-market-where-is-the-contract-data-storage/986/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/if-i-write-an-unbreakable-contract-on-bitbay-market-where-is-the-contract-data-storage/986/1</link>
+        <pubDate>Fri, 19 Jan 2018 22:11:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-986-1</guid>
+        <source url="..../forum-archive/t/if-i-write-an-unbreakable-contract-on-bitbay-market-where-is-the-contract-data-storage/986.rss">If I write an unbreakable contract on bitbay market? Where is the contract data storage?</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Voting Tutorial for BitBay&#39;s Client</title>
+    <link>..../forum-archive/t/voting-tutorial-for-bitbays-client/1241</link>
+    <description>**BitBay’s Decentralized Voting UI marks yet another amazing feature of the advanced BitBay Client.  The voting works thanks to blockchain technology so votes are 100% transparent and trustworthy.**
+
+_***Note: The **BitBay Markets Client** must be **downloaded** and **100% synchronized to the blockchain**.  In order to vote, you must be holding coins in the Client wallet, and that wallet must be unlocked with staking enabled ([see staking tutorial](..../forum-archive/t/staking-and-synchronizing/35)).  Anyone can vote; the more coins you have stored on your Client the stronger your voting power becomes. This is due because all votes attach themselves to staked block rewards (which are received at random intervals based on coin balance)._
+
+# Step 1: 
+Within the Client simply go to the Settings tab -&gt; General Settings -&gt; Mining/Staking and Voting (tab).
+
+![37%20PM|512x500](upload://ziLdri56A8poNyJfGGYV3iJ5Iyk.png)
+
+# Step 2: 
+Next, click the &quot;Add Vote&quot; button and enter the subject of your vote. 
+
+![02%20PM|690x481](upload://8cYX1i1WYSs9e3XRx1Fq8OrPcUz.png)
+
+As an example: If a vote was taking place to answer a &quot;yes/no question&quot;, then the people who vote for &quot;yes&quot; would enter &quot;yes&quot; and those who vote &quot;no&quot; would enter &quot;no&quot;. It is a maximum of 20 characters (lower cases only, it is case sensitive). Everyone must vote using an **identical string of characters** so that it gets counted. 
+
+It helps to make the character string unique, because the burn address that counts the votes is generated based on that string. So the string must be as unique as possible to not have your poll affected by other concurrent open polls of other Bitbay users (in case they do a nearly identical poll with similar vote strings). 
+
+An example of a character string would be write &quot;yes&quot; or &quot;no&quot; + other unique characters to differentiate your votes like &quot;yes175feUndw456sefeG&quot; &amp; &quot;no175feUndw456sefeGb&quot;. Also make note of when the voting period begins and ends so that you can later count the votes accurately.
+
+![20%20AM|562x232](upload://yVL7bO9vZsmN3XNmBmKOcGV4pUU.png)
+
+# Step 3: 
+The Client will then ask you how many times you wish to vote.  **All votes cost 0.000005554 BAY**.  
+
+Enter the desired amount of votes to cast and you are complete.  Remember, your Client must be staking in order to cast votes ([see staking tutorial](..../forum-archive/t/staking-and-synchronizing/35)). Votes do not immediately tally into the system.  Once you’ve cast the total of votes you wish to add, these votes will attach themselves to any future blocks you find while your Client stakes.  
+
+You must keep you Client **open and staking** in order for it to continue to add votes to your choice.  
+
+![48%20AM|690x384](upload://xJLdVdcsfbSNwF9IUIOsm8MBAWz.png)
+
+# Step 4: 
+You will be able to count the votes applied to each option by clicking on the &quot;Count Vote&quot; option in the same window.  Make a note of which block starts and ends in the previously agreed voting duration to see the most accurate count. You can use the blockchain explorer to track everyone’s votes, as all votes are transferred to a burn address on the blockchain.</description>
+    
+    <lastBuildDate>Wed, 28 Mar 2018 11:59:35 +0000</lastBuildDate>
+    <category>Get Started Guides</category>
+    <atom:link href="..../forum-archive/t/voting-tutorial-for-bitbays-client/1241.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Voting Tutorial for BitBay&#39;s Client</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/voting-tutorial-for-bitbays-client/1241/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/voting-tutorial-for-bitbays-client/1241/2</link>
+        <pubDate>Tue, 06 Aug 2019 16:58:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1241-2</guid>
+        <source url="..../forum-archive/t/voting-tutorial-for-bitbays-client/1241.rss">Voting Tutorial for BitBay&#39;s Client</source>
+      </item>
+      <item>
+        <title>Voting Tutorial for BitBay&#39;s Client</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p><strong>BitBay’s Decentralized Voting UI marks yet another amazing feature of the advanced BitBay Client.  The voting works thanks to blockchain technology so votes are 100% transparent and trustworthy.</strong></p>
+<p><em>***Note: The <strong>BitBay Markets Client</strong> must be <strong>downloaded</strong> and <strong>100% synchronized to the blockchain</strong>.  In order to vote, you must be holding coins in the Client wallet, and that wallet must be unlocked with staking enabled (<a href="..../forum-archive/t/staking-and-synchronizing/35">see staking tutorial</a>).  Anyone can vote; the more coins you have stored on your Client the stronger your voting power becomes. This is due because all votes attach themselves to staked block rewards (which are received at random intervals based on coin balance).</em></p>
+<h1>Step 1:</h1>
+<p>Within the Client simply go to the Settings tab -&gt; General Settings -&gt; Mining/Staking and Voting (tab).</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/f76b0432b0d7ee660520063eef3de1c7e5b6f8a8.png" data-download-href="..../forum-archive/uploads/default/f76b0432b0d7ee660520063eef3de1c7e5b6f8a8" title="Screen Shot 2018-03-26 at 1.48.37 PM.png"><img src="..../forum-archive/uploads/default/optimized/1X/f76b0432b0d7ee660520063eef3de1c7e5b6f8a8_1_512x500.png" alt="37%20PM" width="512" height="500"><div class="meta">
+<span class="filename">Screen Shot 2018-03-26 at 1.48.37 PM.png</span><span class="informations">1360x1328 13.5 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h1>Step 2:</h1>
+<p>Next, click the “Add Vote” button and enter the subject of your vote.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/398919b02b2143764fba654a93f83a9cbe0a2cbb.png" data-download-href="..../forum-archive/uploads/default/398919b02b2143764fba654a93f83a9cbe0a2cbb" title="Screen Shot 2018-03-26 at 1.53.02 PM.png"><img src="..../forum-archive/uploads/default/optimized/1X/398919b02b2143764fba654a93f83a9cbe0a2cbb_1_690x481.png" alt="02%20PM" width="690" height="481"><div class="meta">
+<span class="filename">Screen Shot 2018-03-26 at 1.53.02 PM.png</span><span class="informations">1354x944 27.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>As an example: If a vote was taking place to answer a “yes/no question”, then the people who vote for “yes” would enter “yes” and those who vote “no” would enter “no”. It is a maximum of 20 characters (lower cases only, it is case sensitive). Everyone must vote using an <strong>identical string of characters</strong> so that it gets counted.</p>
+<p>It helps to make the character string unique, because the burn address that counts the votes is generated based on that string. So the string must be as unique as possible to not have your poll affected by other concurrent open polls of other Bitbay users (in case they do a nearly identical poll with similar vote strings).</p>
+<p>An example of a character string would be write “yes” or “no” + other unique characters to differentiate your votes like “yes175feUndw456sefeG” &amp; “no175feUndw456sefeGb”. Also make note of when the voting period begins and ends so that you can later count the votes accurately.</p>
+<p><img src="..../forum-archive/uploads/default/original/1X/f4d16380c53d0bb36bdb30375e5e0e4a3c06ef5c.png" alt="20%20AM" width="562" height="232"></p>
+<h1>Step 3:</h1>
+<p>The Client will then ask you how many times you wish to vote.  <strong>All votes cost 0.000005554 BAY</strong>.</p>
+<p>Enter the desired amount of votes to cast and you are complete.  Remember, your Client must be staking in order to cast votes (<a href="..../forum-archive/t/staking-and-synchronizing/35">see staking tutorial</a>). Votes do not immediately tally into the system.  Once you’ve cast the total of votes you wish to add, these votes will attach themselves to any future blocks you find while your Client stakes.</p>
+<p>You must keep you Client <strong>open and staking</strong> in order for it to continue to add votes to your choice.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/ec740183e7df5aa343b3d4f340e33281ccb13c17.png" data-download-href="..../forum-archive/uploads/default/ec740183e7df5aa343b3d4f340e33281ccb13c17" title="Screen Shot 2018-03-27 at 4.13.48 AM.png"><img src="..../forum-archive/uploads/default/optimized/1X/ec740183e7df5aa343b3d4f340e33281ccb13c17_1_690x384.png" alt="48%20AM" width="690" height="384"><div class="meta">
+<span class="filename">Screen Shot 2018-03-27 at 4.13.48 AM.png</span><span class="informations">1356x756 13.4 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h1>Step 4:</h1>
+<p>You will be able to count the votes applied to each option by clicking on the “Count Vote” option in the same window.  Make a note of which block starts and ends in the previously agreed voting duration to see the most accurate count. You can use the blockchain explorer to track everyone’s votes, as all votes are transferred to a burn address on the blockchain.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/voting-tutorial-for-bitbays-client/1241/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/voting-tutorial-for-bitbays-client/1241/1</link>
+        <pubDate>Tue, 27 Mar 2018 11:16:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1241-1</guid>
+        <source url="..../forum-archive/t/voting-tutorial-for-bitbays-client/1241.rss">Voting Tutorial for BitBay&#39;s Client</source>
+      </item>
+  </channel>
+</rss>

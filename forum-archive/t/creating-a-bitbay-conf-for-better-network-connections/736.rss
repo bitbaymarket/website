@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Creating a bitbay.conf for better network connections</title>
+    <link>..../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736</link>
+    <description>The Client wallet already has a bitbay.conf file that can be found in your BitBay directory inside the bitbaydata folder
+Default bitbay data folder locations 
+windows client `C:\BitBay\bitbaydata`
+windows QT client `c:\Users\YOURUSERNAME\appdata\roaming\bitbay`
+linux QT client `~/.bitbay`
+mac QT client `~/Library/Application Support/BitBay`
+
+If you are still having trouble connecting to the network with the Client, then you can update the addnode list from the block explorer.
+https://chainz.cryptoid.info/bay/#!network
+Click on the &#39;node list&#39; from BitBay 2.0.0  and copy and paste those &#39;fresh&#39; nodes to your bitbay.conf file (replacing the old addnodes) then save the file.
+
+![list|673x500](upload://tbok4YecP5bqDqD9BtXwP4cmeJC.png)
+_____________________________________
+
+The QT wallet doesn&#39;t come with a bitbay.conf file by default. You have to add it manually.
+You can do this with a text editor.
+
+Copy this text (below) into a text editor and then add the nodes from the instructions above to have a fresh list of nodes connected to the network The final configuration file should look something like this:
+
+server=1
+rpcuser=bitbayrpc
+rpcpassword=4c80db0bfc751aaadba16bb8ed2c9f050d00952b476b83cc96e24909c06625b3
+rpcport=19915
+addnode=106.68.83.218
+addnode=107.218.48.181
+addnode=108.241.58.211
+addnode=108.248.114.128
+addnode=108.61.163.182
+addnode=109.192.193.55
+addnode=110.140.10.208
+addnode=110.140.113.210
+addnode=111.61.66.8
+addnode=112.134.181.123
+addnode=112.134.181.150
+addnode=112.134.181.158
+addnode=112.134.196.39
+addnode=115.189.83.223
+addnode=115.189.87.4
+addnode=123.231.121.218
+addnode=131.217.255.204
+addnode=134.146.0.4
+addnode=134.17.133.106
+addnode=139.195.109.233
+addnode=143.159.89.215
+addnode=145.130.170.169
+addnode=146.199.80.250
+addnode=151.80.186.24
+addnode=165.227.101.30
+addnode=172.116.88.221
+addnode=173.244.48.20
+addnode=173.245.67.21
+addnode=173.52.218.100
+addnode=174.24.225.141
+addnode=174.50.118.218
+addnode=174.87.230.250
+addnode=176.150.146.190
+addnode=176.250.209.173
+addnode=178.190.17.123
+addnode=178.63.60.137
+addnode=178.78.92.212
+addnode=180.191.81.79
+addnode=180.230.181.176
+addnode=183.197.36.121
+addnode=185.34.230.143
+addnode=188.113.196.196
+addnode=188.113.202.168
+addnode=188.113.206.224
+addnode=188.138.200.113
+addnode=188.241.58.126
+addnode=195.181.242.206
+addnode=196.54.41.17
+addnode=196.54.41.27
+addnode=196.54.41.32
+addnode=196.54.41.4
+addnode=196.54.41.49
+addnode=196.54.41.53
+addnode=199.167.137.82
+addnode=199.66.91.231
+addnode=2.84.121.244
+addnode=201.166.110.82
+addnode=202.51.88.8
+addnode=203.220.93.76
+addnode=203.247.211.83
+addnode=206.231.121.84
+addnode=208.157.168.106
+addnode=212.251.180.141
+addnode=213.152.161.117
+addnode=213.226.252.11
+addnode=213.87.126.131
+addnode=217.101.38.151
+addnode=217.121.104.80
+addnode=219.249.42.189
+addnode=219.75.59.105
+addnode=222.99.69.142
+addnode=223.73.234.222
+addnode=24.18.144.218
+addnode=24.48.51.217
+addnode=24.96.192.15
+addnode=31.35.224.182
+addnode=35.176.20.98
+addnode=36.84.29.113
+addnode=36.84.29.84
+addnode=37.201.224.31
+addnode=37.33.66.123
+addnode=37.48.116.236
+addnode=39.109.134.176
+addnode=40.112.149.192
+addnode=45.32.49.83
+addnode=45.33.105.195
+addnode=46.10.119.50
+addnode=46.10.13.19
+addnode=46.125.41.60
+addnode=46.4.37.190
+addnode=47.11.11.183
+addnode=47.11.13.46
+addnode=47.11.14.72
+addnode=47.11.5.54
+addnode=47.62.147.11
+addnode=47.89.188.41
+addnode=5.147.42.220
+addnode=5.148.127.94
+addnode=5.80.197.123
+addnode=50.192.87.174
+addnode=50.41.196.34
+addnode=61.43.49.2
+addnode=62.116.48.97
+addnode=62.96.91.202
+
+
+
+Save this bitbay.conf file to bitbay data folder mentioned above</description>
+    
+    <lastBuildDate>Tue, 10 Jul 2018 10:10:20 +0000</lastBuildDate>
+    <category>Get Started Guides</category>
+    <atom:link href="..../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Creating a bitbay.conf for better network connections</title>
+        <dc:creator><![CDATA[@Craig Craig]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/craig">@Craig</a> wrote:</p>
+          <blockquote>
+              <p>The Client wallet already has a bitbay.conf file that can be found in your BitBay directory inside the bitbaydata folder<br>
+Default bitbay data folder locations<br>
+windows client <code>C:\BitBay\bitbaydata</code><br>
+windows QT client <code>c:\Users\YOURUSERNAME\appdata\roaming\bitbay</code><br>
+linux QT client <code>~/.bitbay</code><br>
+mac QT client <code>~/Library/Application Support/BitBay</code></p>
+<p>If you are still having trouble connecting to the network with the Client, then you can update the addnode list from the block explorer.<br>
+<a href="https://chainz.cryptoid.info/bay/#!network" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/#!network</a><br>
+Click on the ‘node list’ from BitBay 2.0.0  and copy and paste those ‘fresh’ nodes to your bitbay.conf file (replacing the old addnodes) then save the file.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/cc88b828b9b4f66d19872c092b146e3e1519b894.png" data-download-href="..../forum-archive/uploads/default/cc88b828b9b4f66d19872c092b146e3e1519b894" title="node.list.png"><img src="..../forum-archive/uploads/default/optimized/1X/cc88b828b9b4f66d19872c092b146e3e1519b894_1_673x500.png" alt="list" width="673" height="500"><div class="meta">
+<span class="filename">node.list.png</span><span class="informations">1149x853 108 KB</span><span class="expand"></span>
+</div></a></div></p>
+<hr>
+<p>The QT wallet doesn’t come with a bitbay.conf file by default. You have to add it manually.<br>
+You can do this with a text editor.</p>
+<p>Copy this text (below) into a text editor and then add the nodes from the instructions above to have a fresh list of nodes connected to the network The final configuration file should look something like this:</p>
+<p>server=1<br>
+rpcuser=bitbayrpc<br>
+rpcpassword=4c80db0bfc751aaadba16bb8ed2c9f050d00952b476b83cc96e24909c06625b3<br>
+rpcport=19915<br>
+addnode=106.68.83.218<br>
+addnode=107.218.48.181<br>
+addnode=108.241.58.211<br>
+addnode=108.248.114.128<br>
+addnode=108.61.163.182<br>
+addnode=109.192.193.55<br>
+addnode=110.140.10.208<br>
+addnode=110.140.113.210<br>
+addnode=111.61.66.8<br>
+addnode=112.134.181.123<br>
+addnode=112.134.181.150<br>
+addnode=112.134.181.158<br>
+addnode=112.134.196.39<br>
+addnode=115.189.83.223<br>
+addnode=115.189.87.4<br>
+addnode=123.231.121.218<br>
+addnode=131.217.255.204<br>
+addnode=134.146.0.4<br>
+addnode=134.17.133.106<br>
+addnode=139.195.109.233<br>
+addnode=143.159.89.215<br>
+addnode=145.130.170.169<br>
+addnode=146.199.80.250<br>
+addnode=151.80.186.24<br>
+addnode=165.227.101.30<br>
+addnode=172.116.88.221<br>
+addnode=173.244.48.20<br>
+addnode=173.245.67.21<br>
+addnode=173.52.218.100<br>
+addnode=174.24.225.141<br>
+addnode=174.50.118.218<br>
+addnode=174.87.230.250<br>
+addnode=176.150.146.190<br>
+addnode=176.250.209.173<br>
+addnode=178.190.17.123<br>
+addnode=178.63.60.137<br>
+addnode=178.78.92.212<br>
+addnode=180.191.81.79<br>
+addnode=180.230.181.176<br>
+addnode=183.197.36.121<br>
+addnode=185.34.230.143<br>
+addnode=188.113.196.196<br>
+addnode=188.113.202.168<br>
+addnode=188.113.206.224<br>
+addnode=188.138.200.113<br>
+addnode=188.241.58.126<br>
+addnode=195.181.242.206<br>
+addnode=196.54.41.17<br>
+addnode=196.54.41.27<br>
+addnode=196.54.41.32<br>
+addnode=196.54.41.4<br>
+addnode=196.54.41.49<br>
+addnode=196.54.41.53<br>
+addnode=199.167.137.82<br>
+addnode=199.66.91.231<br>
+addnode=2.84.121.244<br>
+addnode=201.166.110.82<br>
+addnode=202.51.88.8<br>
+addnode=203.220.93.76<br>
+addnode=203.247.211.83<br>
+addnode=206.231.121.84<br>
+addnode=208.157.168.106<br>
+addnode=212.251.180.141<br>
+addnode=213.152.161.117<br>
+addnode=213.226.252.11<br>
+addnode=213.87.126.131<br>
+addnode=217.101.38.151<br>
+addnode=217.121.104.80<br>
+addnode=219.249.42.189<br>
+addnode=219.75.59.105<br>
+addnode=222.99.69.142<br>
+addnode=223.73.234.222<br>
+addnode=24.18.144.218<br>
+addnode=24.48.51.217<br>
+addnode=24.96.192.15<br>
+addnode=31.35.224.182<br>
+addnode=35.176.20.98<br>
+addnode=36.84.29.113<br>
+addnode=36.84.29.84<br>
+addnode=37.201.224.31<br>
+addnode=37.33.66.123<br>
+addnode=37.48.116.236<br>
+addnode=39.109.134.176<br>
+addnode=40.112.149.192<br>
+addnode=45.32.49.83<br>
+addnode=45.33.105.195<br>
+addnode=46.10.119.50<br>
+addnode=46.10.13.19<br>
+addnode=46.125.41.60<br>
+addnode=46.4.37.190<br>
+addnode=47.11.11.183<br>
+addnode=47.11.13.46<br>
+addnode=47.11.14.72<br>
+addnode=47.11.5.54<br>
+addnode=47.62.147.11<br>
+addnode=47.89.188.41<br>
+addnode=5.147.42.220<br>
+addnode=5.148.127.94<br>
+addnode=5.80.197.123<br>
+addnode=50.192.87.174<br>
+addnode=50.41.196.34<br>
+addnode=61.43.49.2<br>
+addnode=62.116.48.97<br>
+addnode=62.96.91.202</p>
+<p>Save this bitbay.conf file to bitbay data folder mentioned above</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736/1</link>
+        <pubDate>Tue, 26 Dec 2017 14:59:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-736-1</guid>
+        <source url="..../forum-archive/t/creating-a-bitbay-conf-for-better-network-connections/736.rss">Creating a bitbay.conf for better network connections</source>
+      </item>
+  </channel>
+</rss>

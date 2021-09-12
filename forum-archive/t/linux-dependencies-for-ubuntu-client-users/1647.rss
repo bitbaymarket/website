@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Linux Dependencies For Ubuntu Client Users</title>
+    <link>..../forum-archive/t/linux-dependencies-for-ubuntu-client-users/1647</link>
+    <description>Ubuntu users require these dependencies in order for the Client to load up properly.
+
+Steps
+To install openssl  - type command &gt;sudo apt install libssl1.0&lt;
+Then type command  &gt;sudo apt -y install libgconf2-4&lt;</description>
+    
+    <lastBuildDate>Fri, 14 Dec 2018 13:20:17 +0000</lastBuildDate>
+    <category>Get Started Guides</category>
+    <atom:link href="..../forum-archive/t/linux-dependencies-for-ubuntu-client-users/1647.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Linux Dependencies For Ubuntu Client Users</title>
+        <dc:creator><![CDATA[@Craig Craig]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/craig">@Craig</a> wrote:</p>
+          <blockquote>
+              <p>Ubuntu users require these dependencies in order for the Client to load up properly.</p>
+<p>Steps<br>
+To install openssl  - type command &gt;sudo apt install libssl1.0&lt;<br>
+Then type command  &gt;sudo apt -y install libgconf2-4&lt;</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/linux-dependencies-for-ubuntu-client-users/1647/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/linux-dependencies-for-ubuntu-client-users/1647/1</link>
+        <pubDate>Wed, 12 Dec 2018 21:23:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1647-1</guid>
+        <source url="..../forum-archive/t/linux-dependencies-for-ubuntu-client-users/1647.rss">Linux Dependencies For Ubuntu Client Users</source>
+      </item>
+  </channel>
+</rss>

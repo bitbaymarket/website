@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Are the reserve coins (BAYR) timelocked for a month between each trade on an exchange? Or does does the timelock only occur when moving tokens on/off the exchange?</title>
+    <link>..../forum-archive/t/are-the-reserve-coins-bayr-timelocked-for-a-month-between-each-trade-on-an-exchange-or-does-does-the-timelock-only-occur-when-moving-tokens-on-off-the-exchange/2209</link>
+    <description>The reserve coins (BAYR) **are not timelocked between trades on centralized exchanges**. This is becuause the majority of centralized exchanges do not trade coins on  the actual blockchain, as it slows things down. Instead, they use an in-house IOU accounting system.
+
+Once the reserve coins are no longer frozen, they can be traded freely at any time.However once a user transfers possession &#39;on-chain&#39; then the coins become timelocked again.</description>
+    
+    <lastBuildDate>Fri, 31 Jan 2020 02:53:31 +0000</lastBuildDate>
+    <category>Dynamic Peg - FAQ</category>
+    <atom:link href="..../forum-archive/t/are-the-reserve-coins-bayr-timelocked-for-a-month-between-each-trade-on-an-exchange-or-does-does-the-timelock-only-occur-when-moving-tokens-on-off-the-exchange/2209.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Are the reserve coins (BAYR) timelocked for a month between each trade on an exchange? Or does does the timelock only occur when moving tokens on/off the exchange?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>The reserve coins (BAYR) <strong>are not timelocked between trades on centralized exchanges</strong>. This is becuause the majority of centralized exchanges do not trade coins on  the actual blockchain, as it slows things down. Instead, they use an in-house IOU accounting system.</p>
+<p>Once the reserve coins are no longer frozen, they can be traded freely at any time.However once a user transfers possession ‘on-chain’ then the coins become timelocked again.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/are-the-reserve-coins-bayr-timelocked-for-a-month-between-each-trade-on-an-exchange-or-does-does-the-timelock-only-occur-when-moving-tokens-on-off-the-exchange/2209/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/are-the-reserve-coins-bayr-timelocked-for-a-month-between-each-trade-on-an-exchange-or-does-does-the-timelock-only-occur-when-moving-tokens-on-off-the-exchange/2209/1</link>
+        <pubDate>Fri, 31 Jan 2020 02:43:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2209-1</guid>
+        <source url="..../forum-archive/t/are-the-reserve-coins-bayr-timelocked-for-a-month-between-each-trade-on-an-exchange-or-does-does-the-timelock-only-occur-when-moving-tokens-on-off-the-exchange/2209.rss">Are the reserve coins (BAYR) timelocked for a month between each trade on an exchange? Or does does the timelock only occur when moving tokens on/off the exchange?</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Halo wallet links on official webpage not working</title>
+    <link>..../forum-archive/t/halo-wallet-links-on-official-webpage-not-working/2352</link>
+    <description>My system has the following specifications 
+
+QT Wallet, Client Wallet (and version) or Web wallet:
+Halo 1.37 running on a Win 10 machine
+
+The problem I am having is ....
+
+Hi Guys,
+
+I am trying to upgrade my Halo wallet that has 83000 coins in it and I cannot get the official links from the Bitbay webpage to work. Is there an alternative site to download the new wallets from or is this a temporary break thatwill be fixed soon?</description>
+    
+    <lastBuildDate>Thu, 09 Apr 2020 11:40:35 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/halo-wallet-links-on-official-webpage-not-working/2352.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Halo wallet links on official webpage not working</title>
+        <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <blockquote>
+              <p>I just tested the Client download links at <a href="https://bitbay.market/downloads/" rel="nofollow noopener">https://bitbay.market/downloads/</a></p>
+<p>They all seem to be working fine. Have you tried again recently?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/halo-wallet-links-on-official-webpage-not-working/2352/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/halo-wallet-links-on-official-webpage-not-working/2352/2</link>
+        <pubDate>Thu, 09 Apr 2020 11:40:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2352-2</guid>
+        <source url="..../forum-archive/t/halo-wallet-links-on-official-webpage-not-working/2352.rss">Halo wallet links on official webpage not working</source>
+      </item>
+      <item>
+        <title>Halo wallet links on official webpage not working</title>
+        <dc:creator><![CDATA[@Pisscat101 Simon]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/pisscat101">@Pisscat101</a> wrote:</p>
+          <blockquote>
+              <p>My system has the following specifications</p>
+<p>QT Wallet, Client Wallet (and version) or Web wallet:<br>
+Halo 1.37 running on a Win 10 machine</p>
+<p>The problem I am having is …</p>
+<p>Hi Guys,</p>
+<p>I am trying to upgrade my Halo wallet that has 83000 coins in it and I cannot get the official links from the Bitbay webpage to work. Is there an alternative site to download the new wallets from or is this a temporary break thatwill be fixed soon?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/halo-wallet-links-on-official-webpage-not-working/2352/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/halo-wallet-links-on-official-webpage-not-working/2352/1</link>
+        <pubDate>Wed, 08 Apr 2020 17:10:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2352-1</guid>
+        <source url="..../forum-archive/t/halo-wallet-links-on-official-webpage-not-working/2352.rss">Halo wallet links on official webpage not working</source>
+      </item>
+  </channel>
+</rss>

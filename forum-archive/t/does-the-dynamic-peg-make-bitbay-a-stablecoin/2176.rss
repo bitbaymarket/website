@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Does the Dynamic Peg make BitBay a “stablecoin”?</title>
+    <link>..../forum-archive/t/does-the-dynamic-peg-make-bitbay-a-stablecoin/2176</link>
+    <description>**Does the Dynamic Peg make BitBay a “stablecoin”?**
+
+In short, no.
+
+Technically, a “stablecoin” is any cryptocurrency which uses a mechanism to stabilize its own value. However, this term has been heavily associated with Ethereum-based tokens, all which attempt to maintain equilibrium with the US Dollar, other fiat currencies, or assets.
+
+BitBay’s Dynamic Peg is an entirely different animal.
+
+* It is not backed by ANY collateral, and there are no “reserves”.
+* It is not an Ethereum based (erc20) token, BAY has its own blockchain. :)
+* It is not fixed to any specific price (such as the US Dollar), and is free to move (within limits) in accordance to stakers’ consensus.
+* It is a highly decentralized system.
+* Like Bitcoin, not one individual or entity is responsible for the facilitation and/or verification of transactions 
+
+**Questions, comments, concerns? Please post them in the comments below!**</description>
+    
+    <lastBuildDate>Mon, 02 Mar 2020 13:52:45 +0000</lastBuildDate>
+    <category>Dynamic Peg - FAQ</category>
+    <atom:link href="..../forum-archive/t/does-the-dynamic-peg-make-bitbay-a-stablecoin/2176.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Does the Dynamic Peg make BitBay a “stablecoin”?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p><strong>Does the Dynamic Peg make BitBay a “stablecoin”?</strong></p>
+<p>In short, no.</p>
+<p>Technically, a “stablecoin” is any cryptocurrency which uses a mechanism to stabilize its own value. However, this term has been heavily associated with Ethereum-based tokens, all which attempt to maintain equilibrium with the US Dollar, other fiat currencies, or assets.</p>
+<p>BitBay’s Dynamic Peg is an entirely different animal.</p>
+<ul>
+<li>It is not backed by ANY collateral, and there are no “reserves”.</li>
+<li>It is not an Ethereum based (erc20) token, BAY has its own blockchain. <img src="..../forum-archive/images/emoji/twitter/slight_smile.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:">
+</li>
+<li>It is not fixed to any specific price (such as the US Dollar), and is free to move (within limits) in accordance to stakers’ consensus.</li>
+<li>It is a highly decentralized system.</li>
+<li>Like Bitcoin, not one individual or entity is responsible for the facilitation and/or verification of transactions</li>
+</ul>
+<p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/does-the-dynamic-peg-make-bitbay-a-stablecoin/2176/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/does-the-dynamic-peg-make-bitbay-a-stablecoin/2176/1</link>
+        <pubDate>Wed, 29 Jan 2020 14:13:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2176-1</guid>
+        <source url="..../forum-archive/t/does-the-dynamic-peg-make-bitbay-a-stablecoin/2176.rss">Does the Dynamic Peg make BitBay a “stablecoin”?</source>
+      </item>
+  </channel>
+</rss>

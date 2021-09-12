@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>BitBay Marketplace</title>
+    <link>..../forum-archive/t/bitbay-marketplace/2102</link>
+    <description>Hello,
+
+How can I actually get to the bitbay marketplace to see items for sale? I have already downloaded the client/wallet/app think, and all it allowed me to do was to post something I wanted to buy or sell. I saw there was a marketplace in the youtube video that looked very much like ebay or amazon but does it really exist? Why not just make it availalble to a web browser? Am I missing something? 
+
+Please advise,
+Thenewb</description>
+    
+    <lastBuildDate>Sun, 24 Nov 2019 18:39:25 +0000</lastBuildDate>
+    <category>Questions about BitBay</category>
+    <atom:link href="..../forum-archive/t/bitbay-marketplace/2102.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>BitBay Marketplace</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Hey thanks reaching out!</p>
+<p>BitBay does have a web marketplace in beta right now, which is due to be completed after the upcoming Dynamic Peg Release. You can use it today to buy/sell goods, just know that there might be a few bugs that haven’t been worked out yet.</p>
+<p><strong>Here is the link to it:</strong><br>
+<a href="https://beta.bitbay.market/market" class="onebox" target="_blank">https://beta.bitbay.market/market</a></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/bitbay-marketplace/2102/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/bitbay-marketplace/2102/2</link>
+        <pubDate>Sun, 24 Nov 2019 18:39:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2102-2</guid>
+        <source url="..../forum-archive/t/bitbay-marketplace/2102.rss">BitBay Marketplace</source>
+      </item>
+      <item>
+        <title>BitBay Marketplace</title>
+        <dc:creator><![CDATA[@thenewb sylvan newby]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/thenewb">@thenewb</a> wrote:</p>
+          <blockquote>
+              <p>Hello,</p>
+<p>How can I actually get to the bitbay marketplace to see items for sale? I have already downloaded the client/wallet/app think, and all it allowed me to do was to post something I wanted to buy or sell. I saw there was a marketplace in the youtube video that looked very much like ebay or amazon but does it really exist? Why not just make it availalble to a web browser? Am I missing something?</p>
+<p>Please advise,<br>
+Thenewb</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/bitbay-marketplace/2102/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/bitbay-marketplace/2102/1</link>
+        <pubDate>Sun, 24 Nov 2019 01:40:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2102-1</guid>
+        <source url="..../forum-archive/t/bitbay-marketplace/2102.rss">BitBay Marketplace</source>
+      </item>
+  </channel>
+</rss>

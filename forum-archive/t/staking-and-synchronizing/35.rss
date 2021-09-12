@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Staking and Synchronizing</title>
+    <link>..../forum-archive/t/staking-and-synchronizing/35</link>
+    <description>## 1) How do I know if my Client is synchronized to the blockchain?
+
+At the bottom of the Home tab or the History tab is a synchronization status bar. If it’s at 100% then you are fully synchronized. You cannot perform transactions until you are fully synchronized. You will not see deposits to your Client until you are fully synchronized.
+&lt;br&gt;
+## 2) How long does the synchronization of the blockchain take?
+
+It depends on multiple factors. Mainly being your OS:
+
+**Windows** – pretty fast yet depends on processing chip and Ram and an updated bitbay.conf file should sync in about 12 to 18 hours.
+
+**Linux** –
+* Debian is super fast and has no known bugs
+* Ubuntu has been known to have graphical issues
+* Whonix – works like Debian
+* Mint – Works possible graphics issues
+
+**Mac** – This depends on Ram, we have synced a build in advance for some users. It can take a day or two otherwise.
+&lt;br&gt;
+## 3) How does staking work and why does it generate value?
+
+Proof of Stake (POS) was originated by Peercoin. It’s an eco-friendly alternative to Proof of Work (POW) coins like Bitcoin. It is similar to POW except that you don’t need mining hardware to mine new coins. You simply have to hold coins in your wallet and keep the wallet connected to the network. To keep staking fair it requires that the coins held in a wallet reach a maturity level before they can begin staking for newly minted coins.In order for coins to mature they must not leave the wallet or else they risk reseting their maturity level. BitBay’s maturity level is roughly 2 hours or (120 block confirmations at 64 second block time) – after that they begin the process of staking for the next newly found block on the blockchain. If they fail to stake the next block they gain miniscule advantage to potentially stake the next block, this repeats over and over until they finally stake a block, after which the coins must wait another 2 hours before they can become mature again.
+
+All of this is automated as long as you hold coins in your wallet and keep you computer online and unlocked (yet still password protected) to the network. The more mature coins you own the better the odds that you will stake the next block receiving the newly minted coins that are associated with that block.
+
+Proof of Stake holds many advantages over Proof of Work – mainly being:
+
+Bitcoin mining and POW is currently one of the most wasteful uses of electricity in history. The Bitcoin network is more powerful than all the world’s known supercomputers combined. This power could be contributed for research but instead it is completely wasted on the search for digital gold. Proof of Stake solves that issue and makes more sense as it is economically friendly.
+Miners in POW always have the fear that their mining hardware will become obsolete premature of their breakeven point. New hardware can turn existing hardware worthless in just a matter of weeks. With Proof of Stake your coins are the mining hardware, they only risk is that someone wants to buy more coins to stake more than you, yet this creates a scarcity factor and drives the price of the coin up in value which does nothing but benefit your pocket!
+In cryptocurrencies, any computer that supports a fully synchronized blockchain online is considered a “node” for the network. Currently with most POW coins like Bitcoin, there is no incentive for people to be a node for the network as all incentive goes to the miners. As their blockchain grows in size the number of nodes are diminishing as there is no reward for supporting it. POS coins provides incentive for people to synchronize to the blockchain which secures the network and helps provide a healthy decentralized atmosphere for the coin.
+&lt;br&gt;
+**BitBay staking schematics:**
+
+* New block added to blockchain every 64 seconds.
+* Coin maturity 120 confirmations at 64 second blocks = 128 minutes
+* 1% annual increase in coins supply enforced by POS 3.0 protocol (see below)
+* Staking Protocol: POS 3.0 which is cloned from the Blackcoin developer known as “rat4”. POS 3.0’s whitepaper can be found here:https://bravenewcoin.com/assets/Whitepapers/Blackcoin-POS-3.pdf
+* It’s main upgrades are that it enforces a true APR of the coin supply.
+* Mature coins can only stay mature if you keep your wallet running. There is no ‘coin age’ factor anymore.
+
+This is achieved by providing a block reward proportional to the APR. BitBay currently has a total supply of 1,007,545,000. With BitBay’s 64 second block time that equals 492,750 new blocks per year (60x60x24x365/64), which equals a current block value of 20 newly minted coins per block. With this in mind, we can actually create a much higher APR for staking wallets. It’s impossible for the community to stake every coin in the total supply for various reasons – some are locked in contracts, timelock bonds, held on exchanges for trading, etc. That being said, the APR is only awarded to those that participate. The coin supply will increase 1% no matter what, yet if only 30% of the entire coin supply is staking then that 30% will receive the 1% APR of 1 billion+ coins. We believe the actual APR’s will vary from 2% to 5% a year – not the advertised 1%.
+
+You can track your network ranking here: https://chainz.cryptoid.info/bay/#!extraction
+This webpage how many coins are currently staking. Typically the amount of coins staking averages around 25 – 35 percent of the entire coin supply, which equates to around 250 million to 350 million. Since only the staking coins can obtain the 1% APR, that mean the actual APR is much higher than 1%, but rather around 2.5 – 4% APR!
+
+Please understand that your APR doesn’t occur overnight. It is based on staking the entire year. So in order to understand the math behind staking, you need to understand how the block rewards fit into your APR. For example, if you own 12000 coins and start to stake. The minimum APR is 1% which equals 120 coins a year. Currently each block reward mints 20 new BitBay, therefore you would only need to find 7 blocks over the course of the entire year in order to reach your APR. That’s only 1 block every 2 months based on a 12000 coin wallet!
+&lt;br&gt;
+## 4) How much RAM do I need for staking?
+
+4 GB of RAM should be sufficient for staking BAY. Anything less and you begin to lose potential rewards due to processing power. I tried staking once on a raspberry pi (1 RAM) and couldn’t find a block on a healthy amount of coins even after 6 days of staking.
+&lt;br&gt;
+## 5) Can you mine BitBay?
+
+Staking is just another form of mining. See above for staking information
+&lt;br&gt;
+## 6) How do I stake?
+
+First, the Client needs to be synchronized 100% with coins in your wallet. Second, you need enable staking in “Settings”. Then you unlock your wallet by going to the File tab of the Client and click on “Unlock Wallet”. For security reasons it’s best to unlock your wallet for staking only.</description>
+    
+    <lastBuildDate>Wed, 29 Nov 2017 10:29:30 +0000</lastBuildDate>
+    <category>Get Started Guides</category>
+    <atom:link href="..../forum-archive/t/staking-and-synchronizing/35.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Staking and Synchronizing</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/staking-and-synchronizing/35/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/staking-and-synchronizing/35/3</link>
+        <pubDate>Wed, 29 Nov 2017 14:32:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-35-3</guid>
+        <source url="..../forum-archive/t/staking-and-synchronizing/35.rss">Staking and Synchronizing</source>
+      </item>
+      <item>
+        <title>Staking and Synchronizing</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/staking-and-synchronizing/35/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/staking-and-synchronizing/35/2</link>
+        <pubDate>Wed, 29 Nov 2017 12:51:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-35-2</guid>
+        <source url="..../forum-archive/t/staking-and-synchronizing/35.rss">Staking and Synchronizing</source>
+      </item>
+      <item>
+        <title>Staking and Synchronizing</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              <h2>1) How do I know if my Client is synchronized to the blockchain?</h2>
+<p>At the bottom of the Home tab or the History tab is a synchronization status bar. If it’s at 100% then you are fully synchronized. You cannot perform transactions until you are fully synchronized. You will not see deposits to your Client until you are fully synchronized.<br>
+<br></p>
+<h2>2) How long does the synchronization of the blockchain take?</h2>
+<p>It depends on multiple factors. Mainly being your OS:</p>
+<p><strong>Windows</strong> – pretty fast yet depends on processing chip and Ram and an updated bitbay.conf file should sync in about 12 to 18 hours.</p>
+<p><strong>Linux</strong> –</p>
+<ul>
+<li>Debian is super fast and has no known bugs</li>
+<li>Ubuntu has been known to have graphical issues</li>
+<li>Whonix – works like Debian</li>
+<li>Mint – Works possible graphics issues</li>
+</ul>
+<p><strong>Mac</strong> – This depends on Ram, we have synced a build in advance for some users. It can take a day or two otherwise.<br>
+<br></p>
+<h2>3) How does staking work and why does it generate value?</h2>
+<p>Proof of Stake (POS) was originated by Peercoin. It’s an eco-friendly alternative to Proof of Work (POW) coins like Bitcoin. It is similar to POW except that you don’t need mining hardware to mine new coins. You simply have to hold coins in your wallet and keep the wallet connected to the network. To keep staking fair it requires that the coins held in a wallet reach a maturity level before they can begin staking for newly minted coins.In order for coins to mature they must not leave the wallet or else they risk reseting their maturity level. BitBay’s maturity level is roughly 2 hours or (120 block confirmations at 64 second block time) – after that they begin the process of staking for the next newly found block on the blockchain. If they fail to stake the next block they gain miniscule advantage to potentially stake the next block, this repeats over and over until they finally stake a block, after which the coins must wait another 2 hours before they can become mature again.</p>
+<p>All of this is automated as long as you hold coins in your wallet and keep you computer online and unlocked (yet still password protected) to the network. The more mature coins you own the better the odds that you will stake the next block receiving the newly minted coins that are associated with that block.</p>
+<p>Proof of Stake holds many advantages over Proof of Work – mainly being:</p>
+<p>Bitcoin mining and POW is currently one of the most wasteful uses of electricity in history. The Bitcoin network is more powerful than all the world’s known supercomputers combined. This power could be contributed for research but instead it is completely wasted on the search for digital gold. Proof of Stake solves that issue and makes more sense as it is economically friendly.<br>
+Miners in POW always have the fear that their mining hardware will become obsolete premature of their breakeven point. New hardware can turn existing hardware worthless in just a matter of weeks. With Proof of Stake your coins are the mining hardware, they only risk is that someone wants to buy more coins to stake more than you, yet this creates a scarcity factor and drives the price of the coin up in value which does nothing but benefit your pocket!<br>
+In cryptocurrencies, any computer that supports a fully synchronized blockchain online is considered a “node” for the network. Currently with most POW coins like Bitcoin, there is no incentive for people to be a node for the network as all incentive goes to the miners. As their blockchain grows in size the number of nodes are diminishing as there is no reward for supporting it. POS coins provides incentive for people to synchronize to the blockchain which secures the network and helps provide a healthy decentralized atmosphere for the coin.<br>
+<br><br>
+<strong>BitBay staking schematics:</strong></p>
+<ul>
+<li>New block added to blockchain every 64 seconds.</li>
+<li>Coin maturity 120 confirmations at 64 second blocks = 128 minutes</li>
+<li>1% annual increase in coins supply enforced by POS 3.0 protocol (see below)</li>
+<li>Staking Protocol: POS 3.0 which is cloned from the Blackcoin developer known as “rat4”. POS 3.0’s whitepaper can be found here:<a href="https://bravenewcoin.com/assets/Whitepapers/Blackcoin-POS-3.pdf">https://bravenewcoin.com/assets/Whitepapers/Blackcoin-POS-3.pdf</a>
+</li>
+<li>It’s main upgrades are that it enforces a true APR of the coin supply.</li>
+<li>Mature coins can only stay mature if you keep your wallet running. There is no ‘coin age’ factor anymore.</li>
+</ul>
+<p>This is achieved by providing a block reward proportional to the APR. BitBay currently has a total supply of 1,007,545,000. With BitBay’s 64 second block time that equals 492,750 new blocks per year (60x60x24x365/64), which equals a current block value of 20 newly minted coins per block. With this in mind, we can actually create a much higher APR for staking wallets. It’s impossible for the community to stake every coin in the total supply for various reasons – some are locked in contracts, timelock bonds, held on exchanges for trading, etc. That being said, the APR is only awarded to those that participate. The coin supply will increase 1% no matter what, yet if only 30% of the entire coin supply is staking then that 30% will receive the 1% APR of 1 billion+ coins. We believe the actual APR’s will vary from 2% to 5% a year – not the advertised 1%.</p>
+<p>You can track your network ranking here: <a href="https://chainz.cryptoid.info/bay/#!extraction">https://chainz.cryptoid.info/bay/#!extraction</a><br>
+This webpage how many coins are currently staking. Typically the amount of coins staking averages around 25 – 35 percent of the entire coin supply, which equates to around 250 million to 350 million. Since only the staking coins can obtain the 1% APR, that mean the actual APR is much higher than 1%, but rather around 2.5 – 4% APR!</p>
+<p>Please understand that your APR doesn’t occur overnight. It is based on staking the entire year. So in order to understand the math behind staking, you need to understand how the block rewards fit into your APR. For example, if you own 12000 coins and start to stake. The minimum APR is 1% which equals 120 coins a year. Currently each block reward mints 20 new BitBay, therefore you would only need to find 7 blocks over the course of the entire year in order to reach your APR. That’s only 1 block every 2 months based on a 12000 coin wallet!<br>
+<br></p>
+<h2>4) How much RAM do I need for staking?</h2>
+<p>4 GB of RAM should be sufficient for staking BAY. Anything less and you begin to lose potential rewards due to processing power. I tried staking once on a raspberry pi (1 RAM) and couldn’t find a block on a healthy amount of coins even after 6 days of staking.<br>
+<br></p>
+<h2>5) Can you mine BitBay?</h2>
+<p>Staking is just another form of mining. See above for staking information<br>
+<br></p>
+<h2>6) How do I stake?</h2>
+<p>First, the Client needs to be synchronized 100% with coins in your wallet. Second, you need enable staking in “Settings”. Then you unlock your wallet by going to the File tab of the Client and click on “Unlock Wallet”. For security reasons it’s best to unlock your wallet for staking only.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/staking-and-synchronizing/35/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/staking-and-synchronizing/35/1</link>
+        <pubDate>Wed, 29 Nov 2017 09:25:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-35-1</guid>
+        <source url="..../forum-archive/t/staking-and-synchronizing/35.rss">Staking and Synchronizing</source>
+      </item>
+  </channel>
+</rss>

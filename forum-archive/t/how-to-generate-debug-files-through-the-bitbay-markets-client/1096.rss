@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to generate debug files through the BitBay Markets Client</title>
+    <link>..../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096</link>
+    <description>When a problem with the client occurs, it can be very helpful to create a debug file for it. This clarifies the issue and allows the program&#39;s developers to find or create a solution to that problem.
+
+## Step 1:
+First, you must activate the debugger within the client. To do this, go to the client homepage and click settings &gt; general settings.
+
+![1|690x471](upload://dqxBnPVF4fXchN5ggAgXjNOhnUG.png)
+
+
+Next, click the **Create Debug File on Exit** box.
+
+
+![2|690x429](upload://v7b1vuE9leuWlzEldkhC3iTBPYs.png)
+
+## Step 2:
+Next, you must restart the client for the changes to take effect. Simply close out of BitBay, wait a few moments for it to properly shut down, then re-open it.
+
+## Step 3:
+Now that the debugger is activated, you must recreate the original problem that was encountered. Make sure the client is 100% synced after reopening, then follow the original steps that were taken leading up to the problem you first encountered. 
+
+## Step 4:
+Once you have successfully recreated the problem, you can close out of the client to create the `debug.txt` and `debug.log` files.
+
+## Step 5:
+Now that the `debug.txt` and `debug.log` files have been created, you can find them here:
+
+**debug.txt:**
+-- Windows default location `c:\bitbay` folder 
+-- MAC default location `Applications &gt; BitBay (right click) &gt; Show package contents &gt; Drive C &gt; BitBay`
+
+**debug.log:**
+-- Windows default location `c:\bitbay\bitbaydata` folder 
+-- MAC default location `Applications &gt; BitBay (right click) &gt; Show package contents &gt; Drive C &gt; BitBay &gt; bitbaydata`
+
+
+## NOTES
+**_You may be wondering, how are the debug.txt and debug.log files different from each other?_**
+
+**Debug.txt** is a file that contains contains information on any bugs that are affecting the BitBay client. This file is solely related to the software itself, and not the blockchain. 
+
+**Debug.log:** contains information that is specifically related to the blockchain, such as syncing, sending/receiving transactions, and staking. 
+
+With both of these files, the developers can see what sort of bugs are occurring, and fix them.</description>
+    
+    <lastBuildDate>Tue, 13 Feb 2018 02:42:54 +0000</lastBuildDate>
+    <category>Get Started Guides</category>
+    <atom:link href="..../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to generate debug files through the BitBay Markets Client</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096/4</link>
+        <pubDate>Tue, 06 Aug 2019 16:57:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1096-4</guid>
+        <source url="..../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096.rss">How to generate debug files through the BitBay Markets Client</source>
+      </item>
+      <item>
+        <title>How to generate debug files through the BitBay Markets Client</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096/3</link>
+        <pubDate>Tue, 13 Feb 2018 02:42:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1096-3</guid>
+        <source url="..../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096.rss">How to generate debug files through the BitBay Markets Client</source>
+      </item>
+      <item>
+        <title>How to generate debug files through the BitBay Markets Client</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096/2</link>
+        <pubDate>Tue, 13 Feb 2018 02:42:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1096-2</guid>
+        <source url="..../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096.rss">How to generate debug files through the BitBay Markets Client</source>
+      </item>
+      <item>
+        <title>How to generate debug files through the BitBay Markets Client</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>When a problem with the client occurs, it can be very helpful to create a debug file for it. This clarifies the issue and allows the program’s developers to find or create a solution to that problem.</p>
+<h2>Step 1:</h2>
+<p>First, you must activate the debugger within the client. To do this, go to the client homepage and click settings &gt; general settings.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/5e1c575942297eb7e1d5a2fb04d42e3b173699ce.png" data-download-href="..../forum-archive/uploads/default/5e1c575942297eb7e1d5a2fb04d42e3b173699ce" title="1.png"><img src="..../forum-archive/uploads/default/optimized/1X/5e1c575942297eb7e1d5a2fb04d42e3b173699ce_1_690x471.png" alt="1" width="690" height="471"><div class="meta">
+<span class="filename">1.png</span><span class="informations">1318x900 36.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>Next, click the <strong>Create Debug File on Exit</strong> box.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/da131b4c0cfa389c7530bd3a0f776d367fc49e38.png" data-download-href="..../forum-archive/uploads/default/da131b4c0cfa389c7530bd3a0f776d367fc49e38" title="2.png"><img src="..../forum-archive/uploads/default/optimized/1X/da131b4c0cfa389c7530bd3a0f776d367fc49e38_1_690x429.png" alt="2" width="690" height="429"><div class="meta">
+<span class="filename">2.png</span><span class="informations">1328x826 18.6 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h2>Step 2:</h2>
+<p>Next, you must restart the client for the changes to take effect. Simply close out of BitBay, wait a few moments for it to properly shut down, then re-open it.</p>
+<h2>Step 3:</h2>
+<p>Now that the debugger is activated, you must recreate the original problem that was encountered. Make sure the client is 100% synced after reopening, then follow the original steps that were taken leading up to the problem you first encountered.</p>
+<h2>Step 4:</h2>
+<p>Once you have successfully recreated the problem, you can close out of the client to create the <code>debug.txt</code> and <code>debug.log</code> files.</p>
+<h2>Step 5:</h2>
+<p>Now that the <code>debug.txt</code> and <code>debug.log</code> files have been created, you can find them here:</p>
+<p><strong>debug.txt:</strong><br>
+– Windows default location <code>c:\bitbay</code> folder<br>
+– MAC default location <code>Applications &gt; BitBay (right click) &gt; Show package contents &gt; Drive C &gt; BitBay</code></p>
+<p><strong>debug.log:</strong><br>
+– Windows default location <code>c:\bitbay\bitbaydata</code> folder<br>
+– MAC default location <code>Applications &gt; BitBay (right click) &gt; Show package contents &gt; Drive C &gt; BitBay &gt; bitbaydata</code></p>
+<h2>NOTES</h2>
+<p><strong><em>You may be wondering, how are the debug.txt and debug.log files different from each other?</em></strong></p>
+<p><strong>Debug.txt</strong> is a file that contains contains information on any bugs that are affecting the BitBay client. This file is solely related to the software itself, and not the blockchain.</p>
+<p><strong>Debug.log:</strong> contains information that is specifically related to the blockchain, such as syncing, sending/receiving transactions, and staking.</p>
+<p>With both of these files, the developers can see what sort of bugs are occurring, and fix them.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096/1</link>
+        <pubDate>Tue, 13 Feb 2018 02:41:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1096-1</guid>
+        <source url="..../forum-archive/t/how-to-generate-debug-files-through-the-bitbay-markets-client/1096.rss">How to generate debug files through the BitBay Markets Client</source>
+      </item>
+  </channel>
+</rss>

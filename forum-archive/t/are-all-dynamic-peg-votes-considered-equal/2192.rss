@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Are all Dynamic Peg votes considered equal?</title>
+    <link>..../forum-archive/t/are-all-dynamic-peg-votes-considered-equal/2192</link>
+    <description>**Are all Dynamic Peg votes considered equal?**
+
+With the Dynamic Peg,  **all votes are not considered equal** .
+
+A “variable voting power” mechanism is in place, which incentivizes users to hold a balance of both Liquid and Reserve BAY. In the beginning, when supply is 100% liquid, the voting power for Liquid and Reserve BAY is the same. However as deflation occurs, the Liquid BAY votes become stronger. Liquid BAY votes can be up to 40 times stronger than that of Reserve BAY.
+
+There are several reasons for this structure:
+
+* It balances demand for Reserve &amp; Voluntarily Frozen coins, which earn higher stake rewards. This mechanism also prevents Frozen BAY from being traded for personal liquidity when things are deflated.
+* It protects the users of BitBay’s p2p contracts (which require Liquid BAY as collateral).
+* It provides demand for liquidity and stability on exchanges’ liquid market, which helps their business thrive. Exchanges can sell Liquid BAY at a premium over Reserve BAY.
+* Investors who wish to collect stake rewards will also want to sell any Liquid BAY rewards at a premium. Newly minted BAY earned from staking will be valued based on the current Peg Index ratio, so stakers who wish to sell earned Liquid BAY at a premium must vote towards the stabilization of the Liquid BAY price. This maximizes their rewards’ liquidity, and therefore maximize profit potential.
+
+**Questions, comments, concerns? Please post them in the comments below!**</description>
+    
+    <lastBuildDate>Sun, 05 Apr 2020 14:57:33 +0000</lastBuildDate>
+    <category>Dynamic Peg - FAQ</category>
+    <atom:link href="..../forum-archive/t/are-all-dynamic-peg-votes-considered-equal/2192.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Are all Dynamic Peg votes considered equal?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p><strong>Are all Dynamic Peg votes considered equal?</strong></p>
+<p>With the Dynamic Peg,  <strong>all votes are not considered equal</strong> .</p>
+<p>A “variable voting power” mechanism is in place, which incentivizes users to hold a balance of both Liquid and Reserve BAY. In the beginning, when supply is 100% liquid, the voting power for Liquid and Reserve BAY is the same. However as deflation occurs, the Liquid BAY votes become stronger. Liquid BAY votes can be up to 40 times stronger than that of Reserve BAY.</p>
+<p>There are several reasons for this structure:</p>
+<ul>
+<li>It balances demand for Reserve &amp; Voluntarily Frozen coins, which earn higher stake rewards. This mechanism also prevents Frozen BAY from being traded for personal liquidity when things are deflated.</li>
+<li>It protects the users of BitBay’s p2p contracts (which require Liquid BAY as collateral).</li>
+<li>It provides demand for liquidity and stability on exchanges’ liquid market, which helps their business thrive. Exchanges can sell Liquid BAY at a premium over Reserve BAY.</li>
+<li>Investors who wish to collect stake rewards will also want to sell any Liquid BAY rewards at a premium. Newly minted BAY earned from staking will be valued based on the current Peg Index ratio, so stakers who wish to sell earned Liquid BAY at a premium must vote towards the stabilization of the Liquid BAY price. This maximizes their rewards’ liquidity, and therefore maximize profit potential.</li>
+</ul>
+<p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/are-all-dynamic-peg-votes-considered-equal/2192/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/are-all-dynamic-peg-votes-considered-equal/2192/1</link>
+        <pubDate>Wed, 29 Jan 2020 14:29:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2192-1</guid>
+        <source url="..../forum-archive/t/are-all-dynamic-peg-votes-considered-equal/2192.rss">Are all Dynamic Peg votes considered equal?</source>
+      </item>
+  </channel>
+</rss>

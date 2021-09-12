@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Developments in BitBay</title>
+    <link>..../forum-archive/t/developments-in-bitbay/730</link>
+    <description>Does anyone know where I can get active updates on the developments happening with the product? I am in the telegram channel and it seems like a lot of people don&#39;t know where to go or who to look to. Also, as a side note question, how much of the workload was focused on making a poker game? Should we expect to see more surprises like these in the future?</description>
+    
+    <lastBuildDate>Tue, 26 Dec 2017 18:22:58 +0000</lastBuildDate>
+    <category>Questions about BitBay</category>
+    <atom:link href="..../forum-archive/t/developments-in-bitbay/730.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Developments in BitBay</title>
+        <dc:creator><![CDATA[@Munti Bjorn Alsos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/munti">@Munti</a> wrote:</p>
+          <blockquote>
+              <p>That is already on roadmap</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/developments-in-bitbay/730/5">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/developments-in-bitbay/730/5</link>
+        <pubDate>Tue, 26 Dec 2017 18:22:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-730-5</guid>
+        <source url="..../forum-archive/t/developments-in-bitbay/730.rss">Developments in BitBay</source>
+      </item>
+      <item>
+        <title>Developments in BitBay</title>
+        <dc:creator><![CDATA[@antropogen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/antropogen">@antropogen</a> wrote:</p>
+          <blockquote>
+              <p>Please, update gui of win client</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/developments-in-bitbay/730/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/developments-in-bitbay/730/4</link>
+        <pubDate>Tue, 26 Dec 2017 18:13:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-730-4</guid>
+        <source url="..../forum-archive/t/developments-in-bitbay/730.rss">Developments in BitBay</source>
+      </item>
+      <item>
+        <title>Developments in BitBay</title>
+        <dc:creator><![CDATA[@Munti Bjorn Alsos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/munti">@Munti</a> wrote:</p>
+          <blockquote>
+              <p>You are worried that we don’t prioritize our resources the best possible way? Then let me explain the reasoning and resources used for the poker site.</p>
+<ul>
+<li>
+<p>No one else than David can work on the client because the code needs a refactor before it would be efficient to have someone else help out on that. So any additional devs we have need to work on something else.</p>
+</li>
+<li>
+<p>For other devs to learn how to code blockchain tech, they need to have a project to work on.</p>
+</li>
+</ul>
+<p>The poker site was such a learning project. And a very successful one at that. The plan was to release poker in summer 2017, but it soon became clear that the dev had learned so much that it was possible to put his knowledge to good use elsewhere. So he built the web wallet. When web wallet was built it was logical to finish the poker since it was almost done anyway. It would be a waste not to do so, and there also were other good reasons to finish it:</p>
+<ol>
+<li>It expands the Bay ecosystem</li>
+<li>BitBay’s project is to eliminate middlemen. But even in revolutions there is a certain amount of evolution. The use of multisig to secure user deposits on a poker site is a good showcase for how the tech can improve centralized services as well.</li>
+<li>It’s a fun project. And you need to have a little fun to when you spend years of your life on a monster project like BitBay.</li>
+</ol>
+<p>We have spent a little of our web-dev and design resources on this, but they are not as scarse as blockchain devs. BitBay will not be running the poker site (we want to provide solutions -not run businesses). But we hope the fact that it exsists will also help promote BitBay.<br>
+Can you expect more surprises in the future? I’d say yes. I have a project in my drawer that is specifically designed to increase demand for Bay. It has been started twice already, but the devs didn’t work out. When we find the perfect dev(s) for it, we are likely to proceed. But never at the expense of our main focus that you find in our official roadmap.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/developments-in-bitbay/730/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/developments-in-bitbay/730/3</link>
+        <pubDate>Tue, 26 Dec 2017 14:50:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-730-3</guid>
+        <source url="..../forum-archive/t/developments-in-bitbay/730.rss">Developments in BitBay</source>
+      </item>
+      <item>
+        <title>Developments in BitBay</title>
+        <dc:creator><![CDATA[@Mantrack]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+          <blockquote>
+              <p>Thank you for your interest! <img src="..../forum-archive/images/emoji/twitter/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+<a href="https://blog.bitbay.market/">https://blog.bitbay.market/</a> is the place you are looking for. We regularly post community updates there.<br>
+The team is present on the bitbay forum and the slack chat, but it is preferable that you ask your questions on the forum as this way it will be archived for all to see.<br>
+The poker game is just a side project, the bitbay client remains the priority in terms of workload and development.</p>
+<blockquote>
+<p>Should we expect to see more surprises like these in the future?</p>
+</blockquote>
+<p>See this: <a href="https://bitbay.market/roadmap">https://bitbay.market/roadmap</a>.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/developments-in-bitbay/730/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/developments-in-bitbay/730/2</link>
+        <pubDate>Tue, 26 Dec 2017 08:43:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-730-2</guid>
+        <source url="..../forum-archive/t/developments-in-bitbay/730.rss">Developments in BitBay</source>
+      </item>
+      <item>
+        <title>Developments in BitBay</title>
+        <dc:creator><![CDATA[@Jacksonf Jack]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/jacksonf">@Jacksonf</a> wrote:</p>
+          <blockquote>
+              <p>Does anyone know where I can get active updates on the developments happening with the product? I am in the telegram channel and it seems like a lot of people don’t know where to go or who to look to. Also, as a side note question, how much of the workload was focused on making a poker game? Should we expect to see more surprises like these in the future?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/developments-in-bitbay/730/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/developments-in-bitbay/730/1</link>
+        <pubDate>Tue, 26 Dec 2017 08:33:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-730-1</guid>
+        <source url="..../forum-archive/t/developments-in-bitbay/730.rss">Developments in BitBay</source>
+      </item>
+  </channel>
+</rss>

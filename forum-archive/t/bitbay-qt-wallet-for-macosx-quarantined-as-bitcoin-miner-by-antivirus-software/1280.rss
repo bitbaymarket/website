@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>BitBay QT wallet for MacOSX quarantined as Bitcoin Miner by AntiVirus software</title>
+    <link>..../forum-archive/t/bitbay-qt-wallet-for-macosx-quarantined-as-bitcoin-miner-by-antivirus-software/1280</link>
+    <description>I downloaded the BitBay Mac QT Wallet and my AVAST antivirus quarantined Bitcoin Miner from it when I opened it . ![image|210x500](upload://AckGNno9rCwhOnXYMIbX1qMFMYs.png)</description>
+    
+    <lastBuildDate>Wed, 18 Apr 2018 23:34:05 +0000</lastBuildDate>
+    <category>BitBay Feedback</category>
+    <atom:link href="..../forum-archive/t/bitbay-qt-wallet-for-macosx-quarantined-as-bitcoin-miner-by-antivirus-software/1280.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>BitBay QT wallet for MacOSX quarantined as Bitcoin Miner by AntiVirus software</title>
+        <dc:creator><![CDATA[@dzimbeck David Zimbeck]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/dzimbeck">@dzimbeck</a> wrote:</p>
+          <blockquote>
+              <p>You have to add an exception for the antivirus or disable it. This is a false positive. It’s possible your version of Avast doesn’t like Bitcoin.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/bitbay-qt-wallet-for-macosx-quarantined-as-bitcoin-miner-by-antivirus-software/1280/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/bitbay-qt-wallet-for-macosx-quarantined-as-bitcoin-miner-by-antivirus-software/1280/2</link>
+        <pubDate>Wed, 18 Apr 2018 23:34:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1280-2</guid>
+        <source url="..../forum-archive/t/bitbay-qt-wallet-for-macosx-quarantined-as-bitcoin-miner-by-antivirus-software/1280.rss">BitBay QT wallet for MacOSX quarantined as Bitcoin Miner by AntiVirus software</source>
+      </item>
+      <item>
+        <title>BitBay QT wallet for MacOSX quarantined as Bitcoin Miner by AntiVirus software</title>
+        <dc:creator><![CDATA[@stonesourcery mc]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/stonesourcery">@stonesourcery</a> wrote:</p>
+          <blockquote>
+              <p>I downloaded the BitBay Mac QT Wallet and my AVAST antivirus quarantined Bitcoin Miner from it when I opened it . <div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/fdb32df1a7b47a35aeb215174c21784defb4669c.png" data-download-href="..../forum-archive/uploads/default/fdb32df1a7b47a35aeb215174c21784defb4669c" title="image.png"><img src="..../forum-archive/uploads/default/optimized/1X/fdb32df1a7b47a35aeb215174c21784defb4669c_1_348x500.png" alt="image" width="348" height="500"><div class="meta">
+<span class="filename">image.png</span><span class="informations">348x826 142 KB</span><span class="expand"></span>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/bitbay-qt-wallet-for-macosx-quarantined-as-bitcoin-miner-by-antivirus-software/1280/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/bitbay-qt-wallet-for-macosx-quarantined-as-bitcoin-miner-by-antivirus-software/1280/1</link>
+        <pubDate>Wed, 18 Apr 2018 11:33:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1280-1</guid>
+        <source url="..../forum-archive/t/bitbay-qt-wallet-for-macosx-quarantined-as-bitcoin-miner-by-antivirus-software/1280.rss">BitBay QT wallet for MacOSX quarantined as Bitcoin Miner by AntiVirus software</source>
+      </item>
+  </channel>
+</rss>

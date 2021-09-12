@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Qt wallet update</title>
+    <link>..../forum-archive/t/qt-wallet-update/2577</link>
+    <description>My system has the following specifications 
+
+QT Wallet, Client Wallet (and version) or Web wallet: Latest 64 bit QT Wallet
+Operating System and version: win 10 64bit
+If web wallet browser name and version:
+If desktop wallet (Qt or Client) block # of your client and # of connections: 
+
+The problem I am having is i tried update my wallet following the procedure but i&#39;m stuck at this point, shown in the image. [https://ibb.co/rxMpPkM](https://ibb.co/rxMpPkM)
+
+Wallet can&#39;t start at all, crashes while loading block index (checkpoint:2450000)
+
+Any help?Thanks.</description>
+    
+    <lastBuildDate>Wed, 02 Sep 2020 13:22:29 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/qt-wallet-update/2577.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Qt wallet update</title>
+        <dc:creator><![CDATA[@anonimo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/anonimo">@anonimo</a> wrote:</p>
+          <blockquote>
+              <p>Did you have this problem before updating?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/qt-wallet-update/2577/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/qt-wallet-update/2577/3</link>
+        <pubDate>Wed, 02 Sep 2020 13:22:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2577-3</guid>
+        <source url="..../forum-archive/t/qt-wallet-update/2577.rss">Qt wallet update</source>
+      </item>
+      <item>
+        <title>Qt wallet update</title>
+        <dc:creator><![CDATA[@Richard88 riccardo santucci]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/richard88">@Richard88</a> wrote:</p>
+          <blockquote>
+              <p>so? no help? Any moderators?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/qt-wallet-update/2577/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/qt-wallet-update/2577/2</link>
+        <pubDate>Sat, 29 Aug 2020 18:00:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2577-2</guid>
+        <source url="..../forum-archive/t/qt-wallet-update/2577.rss">Qt wallet update</source>
+      </item>
+      <item>
+        <title>Qt wallet update</title>
+        <dc:creator><![CDATA[@Richard88 riccardo santucci]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/richard88">@Richard88</a> wrote:</p>
+          <blockquote>
+              <p>My system has the following specifications</p>
+<p>QT Wallet, Client Wallet (and version) or Web wallet: Latest 64 bit QT Wallet<br>
+Operating System and version: win 10 64bit<br>
+If web wallet browser name and version:<br>
+If desktop wallet (Qt or Client) block # of your client and # of connections:</p>
+<p>The problem I am having is i tried update my wallet following the procedure but i’m stuck at this point, shown in the image. <a href="https://ibb.co/rxMpPkM" rel="nofollow noopener">https://ibb.co/rxMpPkM</a></p>
+<p>Wallet can’t start at all, crashes while loading block index (checkpoint:2450000)</p>
+<p>Any help?Thanks.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/qt-wallet-update/2577/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/qt-wallet-update/2577/1</link>
+        <pubDate>Thu, 27 Aug 2020 21:49:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2577-1</guid>
+        <source url="..../forum-archive/t/qt-wallet-update/2577.rss">Qt wallet update</source>
+      </item>
+  </channel>
+</rss>

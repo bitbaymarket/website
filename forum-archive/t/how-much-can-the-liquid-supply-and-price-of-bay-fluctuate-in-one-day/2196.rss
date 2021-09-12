@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How much can the liquid supply and price of BAY fluctuate in one day?</title>
+    <link>..../forum-archive/t/how-much-can-the-liquid-supply-and-price-of-bay-fluctuate-in-one-day/2196</link>
+    <description>### How much can the liquid supply/price of BAY fluctuate in one day?
+
+The liquid supply ratio (peg index) can change anywhere between 1–3% per voting session. Since there are approximately 7 voting sessions per day, **in total the supply can fluctuate roughly 19% per day** (1% compounded, 21 times daily).
+
+****Note: This rate is based on a compounding effect (during inflation) and a discounting effect (during deflation). As growth and volume of the BitBay platform increases, the rate can be adjusted to create a “smoother” change in supply.*
+
+**The market price of both BAY and BAYR is still free to fluctuate by ANY amount; however, the above supply changes serves to put direct pressure on the price every 200 blocks.**
+
+See this scenario chart for a technical understanding of the relationship between equity and supply changes: https://docs.google.com/spreadsheets/d/18GSE76QnaasB09JSp_xEc-U6Xyz4Qyc3yRd5013EhpU/edit?usp=sharing
+
+### Questions, comments, concerns? Please post them in the comments below!</description>
+    
+    <lastBuildDate>Fri, 21 Feb 2020 12:29:09 +0000</lastBuildDate>
+    <category>Dynamic Peg - FAQ</category>
+    <atom:link href="..../forum-archive/t/how-much-can-the-liquid-supply-and-price-of-bay-fluctuate-in-one-day/2196.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How much can the liquid supply and price of BAY fluctuate in one day?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <h3>How much can the liquid supply/price of BAY fluctuate in one day?</h3>
+<p>The liquid supply ratio (peg index) can change anywhere between 1–3% per voting session. Since there are approximately 7 voting sessions per day, <strong>in total the supply can fluctuate roughly 19% per day</strong> (1% compounded, 21 times daily).</p>
+<p>***<em>Note: This rate is based on a compounding effect (during inflation) and a discounting effect (during deflation). As growth and volume of the BitBay platform increases, the rate can be adjusted to create a “smoother” change in supply.</em></p>
+<p><strong>The market price of both BAY and BAYR is still free to fluctuate by ANY amount; however, the above supply changes serves to put direct pressure on the price every 200 blocks.</strong></p>
+<p>See this scenario chart for a technical understanding of the relationship between equity and supply changes: <a href="https://docs.google.com/spreadsheets/d/18GSE76QnaasB09JSp_xEc-U6Xyz4Qyc3yRd5013EhpU/edit?usp=sharing">https://docs.google.com/spreadsheets/d/18GSE76QnaasB09JSp_xEc-U6Xyz4Qyc3yRd5013EhpU/edit?usp=sharing</a></p>
+<h3>Questions, comments, concerns? Please post them in the comments below!</h3>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-much-can-the-liquid-supply-and-price-of-bay-fluctuate-in-one-day/2196/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-much-can-the-liquid-supply-and-price-of-bay-fluctuate-in-one-day/2196/1</link>
+        <pubDate>Wed, 29 Jan 2020 14:31:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2196-1</guid>
+        <source url="..../forum-archive/t/how-much-can-the-liquid-supply-and-price-of-bay-fluctuate-in-one-day/2196.rss">How much can the liquid supply and price of BAY fluctuate in one day?</source>
+      </item>
+  </channel>
+</rss>

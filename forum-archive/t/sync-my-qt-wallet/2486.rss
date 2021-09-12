@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Sync my QT wallet</title>
+    <link>..../forum-archive/t/sync-my-qt-wallet/2486</link>
+    <description>My system has the following specifications 
+
+QT Wallet, Client Wallet (and version) or Web wallet: QT Wallet
+Operating System and version: 7
+If web wallet browser name and version:
+If desktop wallet (Qt or Client) block # of your client and # of connections: 
+
+How to sync my QT wallet?</description>
+    
+    <lastBuildDate>Tue, 16 Jun 2020 14:06:31 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/sync-my-qt-wallet/2486.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Sync my QT wallet</title>
+        <dc:creator><![CDATA[@kriptojon]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/kriptojon">@kriptojon</a> wrote:</p>
+          <blockquote>
+              <p>or My   Qt version 5.11.1.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/sync-my-qt-wallet/2486/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/sync-my-qt-wallet/2486/4</link>
+        <pubDate>Tue, 16 Jun 2020 14:06:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2486-4</guid>
+        <source url="..../forum-archive/t/sync-my-qt-wallet/2486.rss">Sync my QT wallet</source>
+      </item>
+      <item>
+        <title>Sync my QT wallet</title>
+        <dc:creator><![CDATA[@kriptojon]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/kriptojon">@kriptojon</a> wrote:</p>
+          <blockquote>
+              <p>I used Version 3.0.2b 32bit.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/sync-my-qt-wallet/2486/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/sync-my-qt-wallet/2486/3</link>
+        <pubDate>Tue, 16 Jun 2020 13:36:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2486-3</guid>
+        <source url="..../forum-archive/t/sync-my-qt-wallet/2486.rss">Sync my QT wallet</source>
+      </item>
+      <item>
+        <title>Sync my QT wallet</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Hi,</p>
+<p>Can you please let us know what version of the QT you are running?</p>
+<p><strong>There are some instructions for resyncing the QT wallet within this post:</strong><br>
+<aside class="quote quote-modified" data-post="1" data-topic="999">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.bitbay.market/giorgosk/40/8_1.png" class="avatar">
+    <a href="..../forum-archive/t/how-to-resync-update-bitbay-wallets-without-losing-your-wallet-and-funds/999">How to Resync/update bitbay wallets without losing your wallet and FUNDS</a> <a class="badge-wrapper  bullet" href="/c/get-started-guides"><span class="badge-category-bg" style="background-color: #95d540;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">Get Started Guides</span></a>
+  </div>
+  <blockquote>
+    This was originally written for the hard fork on  on 30th November 2017 that required everyone to update their client but the instructions should work for any wallet update/new fork. 
+If you have not started the client lately or if you have but did not update it to latest version you might not see correct balance or even get 0 Balance on your client 
+The following procedure will usually remedy the hard fork problem and many more problems with non correctly reported FUNDS inside your wallet. 
+To …
+  </blockquote>
+</aside>
+</p>
+<p>Let us know if that works.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/sync-my-qt-wallet/2486/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/sync-my-qt-wallet/2486/2</link>
+        <pubDate>Tue, 16 Jun 2020 13:02:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2486-2</guid>
+        <source url="..../forum-archive/t/sync-my-qt-wallet/2486.rss">Sync my QT wallet</source>
+      </item>
+      <item>
+        <title>Sync my QT wallet</title>
+        <dc:creator><![CDATA[@kriptojon]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/kriptojon">@kriptojon</a> wrote:</p>
+          <blockquote>
+              <p>My system has the following specifications</p>
+<p>QT Wallet, Client Wallet (and version) or Web wallet: QT Wallet<br>
+Operating System and version: 7<br>
+If web wallet browser name and version:<br>
+If desktop wallet (Qt or Client) block # of your client and # of connections:</p>
+<p>How to sync my QT wallet?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/sync-my-qt-wallet/2486/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/sync-my-qt-wallet/2486/1</link>
+        <pubDate>Mon, 15 Jun 2020 12:40:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2486-1</guid>
+        <source url="..../forum-archive/t/sync-my-qt-wallet/2486.rss">Sync my QT wallet</source>
+      </item>
+  </channel>
+</rss>

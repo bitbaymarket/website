@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Questions about the dynamic peg</title>
+    <link>..../forum-archive/t/questions-about-the-dynamic-peg/1574</link>
+    <description>As we know ,bitbay release a new feature called dynamic peg,which make bitbay a stable coin.what i read about the dynamic peg from the white paper tell me this feature is used for anti inflation or deflation.And this function is realized by coin liquidity controlling.This concept is quite like the modern finance. Central bank will control the fiat money stability by increase or decrease the reserve ratio to afford or release liquidity. But this method has definitily some hysteresis.The purpose of freezing or releasing might take place usually long time after the action,maybe several monthes or years.
+The developping purpose of bitbay is to afford a kind of exhanging insurance  which would make the goods exchange trustfull based on the smart contracts.In this contract ,both dealers deposit certain amounts of bays to this contract, if the deal is not finished ,none of them will cancel the contract ,so the bays of each owner will reamin in the contract instead of return to the owner. I think this is a quite good mechanism to build a decentralized trustfull market  without an escrow.
+But in the actual deal ,i can image a picture that if both dealer sign a smart contract and deposit some bays to this contract.Meanwhile ,the bay&#39;s price get a drastic drop by USD.In this case ,if the buyer send the money to the seller ,the seller would not send goods to the buyer ,Or if the seller send goods to the buyer ,the buyer would reject paying money to the seller.As both dealers will not care the bays in the contract as its worthless calculated by USD maybe.
+So ,how to solve this flaw in this imaged case?</description>
+    
+    <lastBuildDate>Mon, 22 Oct 2018 15:33:23 +0000</lastBuildDate>
+    <category>Questions about BitBay</category>
+    <atom:link href="..../forum-archive/t/questions-about-the-dynamic-peg/1574.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Questions about the dynamic peg</title>
+        <dc:creator><![CDATA[@lidd0512 lidd]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/lidd0512">@lidd0512</a> wrote:</p>
+          <blockquote>
+              <p>thx for your reply which make a further understanding of bay for me.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/questions-about-the-dynamic-peg/1574/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/questions-about-the-dynamic-peg/1574/3</link>
+        <pubDate>Mon, 22 Oct 2018 15:33:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1574-3</guid>
+        <source url="..../forum-archive/t/questions-about-the-dynamic-peg/1574.rss">Questions about the dynamic peg</source>
+      </item>
+      <item>
+        <title>Questions about the dynamic peg</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Hi <a class="mention" href="/u/lidd0512">@lidd0512</a>,</p>
+<p>That is a great question. It’s good to see you have been reading our whitepaper!</p>
+<p>As far as hysteresis is concerned, this peg mechanism allows for up to 7 votes per day. With a range of 1-3% supply rate change per vote, users can freeze or unfreeze up to 21% per day. This minimizes hysteresis and maximizes real-time adaptability. For an extreme example, if the price crashed by 95%, it would only take a few days for the supply to catch up.</p>
+<p>So in the event of BAY’s USD exchange price experiencing a drastic drop in value (essentially a black swan event ) the dynamic peg will quickly freeze the appropriate number of coins in order to maintain a stable price until healthy demand resumes. This allows the BAY held in double deposit escrow contracts to remain stable while each party completes their end of the deal.</p>
+<p>Hope that makes sense. If you have any further questions let us know.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/questions-about-the-dynamic-peg/1574/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/questions-about-the-dynamic-peg/1574/2</link>
+        <pubDate>Mon, 22 Oct 2018 14:00:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1574-2</guid>
+        <source url="..../forum-archive/t/questions-about-the-dynamic-peg/1574.rss">Questions about the dynamic peg</source>
+      </item>
+      <item>
+        <title>Questions about the dynamic peg</title>
+        <dc:creator><![CDATA[@lidd0512 lidd]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/lidd0512">@lidd0512</a> wrote:</p>
+          <blockquote>
+              <p>As we know ,bitbay release a new feature called dynamic peg,which make bitbay a stable coin.what i read about the dynamic peg from the white paper tell me this feature is used for anti inflation or deflation.And this function is realized by coin liquidity controlling.This concept is quite like the modern finance. Central bank will control the fiat money stability by increase or decrease the reserve ratio to afford or release liquidity. But this method has definitily some hysteresis.The purpose of freezing or releasing might take place usually long time after the action,maybe several monthes or years.<br>
+The developping purpose of bitbay is to afford a kind of exhanging insurance  which would make the goods exchange trustfull based on the smart contracts.In this contract ,both dealers deposit certain amounts of bays to this contract, if the deal is not finished ,none of them will cancel the contract ,so the bays of each owner will reamin in the contract instead of return to the owner. I think this is a quite good mechanism to build a decentralized trustfull market  without an escrow.<br>
+But in the actual deal ,i can image a picture that if both dealer sign a smart contract and deposit some bays to this contract.Meanwhile ,the bay’s price get a drastic drop by USD.In this case ,if the buyer send the money to the seller ,the seller would not send goods to the buyer ,Or if the seller send goods to the buyer ,the buyer would reject paying money to the seller.As both dealers will not care the bays in the contract as its worthless calculated by USD maybe.<br>
+So ,how to solve this flaw in this imaged case?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/questions-about-the-dynamic-peg/1574/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/questions-about-the-dynamic-peg/1574/1</link>
+        <pubDate>Sat, 20 Oct 2018 02:50:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-1574-1</guid>
+        <source url="..../forum-archive/t/questions-about-the-dynamic-peg/1574.rss">Questions about the dynamic peg</source>
+      </item>
+  </channel>
+</rss>

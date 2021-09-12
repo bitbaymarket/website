@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>What keeps users from voting to pump or dump the price overnight?</title>
+    <link>..../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184</link>
+    <description>**What keeps users from voting to pump or dump the price overnight?**
+
+The Dynamic Peg uses a few mechanisms to prevent users from voting to pump or dump the price to extreme levels. While the price is always allowed to move up and down, it will always be effected by external voting pressure. Each of these mechanisms serve to regulate the  ***supply liquidity***  of BAY.
+
+First and foremost, a hard-coded voting interval of 200 blocks limits the number of “liquidity rate changes”. This keeps the pace of supply change to a consistent 7 sessions per day.
+
+In addition to the voting intervals, there is also a limit on the percentage of supply change per voting session. This limit is set at 1–3% (inflation or deflation) per 200 block voting interval, depending on the ratio of votes.
+
+* If vote ratio is  **“deflate”**  3x more than  **“inflate”** , then supply deflates 3%
+* If vote ratio is  **“deflate”**  2x more than  **“inflate”,**  then supply deflates 2%
+* If vote ratio is  **“deflate”**  1–2x more than “ **inflate/no**   **change** ”, then supply deflates 1%
+* If  **“no change”**  wins the vote count by  **any %** , then supply remains constant.
+
+**Questions, comments, concerns? Please post them below!**</description>
+    
+    <lastBuildDate>Tue, 18 Feb 2020 13:48:30 +0000</lastBuildDate>
+    <category>Dynamic Peg - FAQ</category>
+    <atom:link href="..../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>What keeps users from voting to pump or dump the price overnight?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p><strong>What keeps users from voting to pump or dump the price overnight?</strong></p>
+<p>The Dynamic Peg uses a few mechanisms to prevent users from voting to pump or dump the price to extreme levels. While the price is always allowed to move up and down, it will always be effected by external voting pressure. Each of these mechanisms serve to regulate the  <em><strong>supply liquidity</strong></em>  of BAY.</p>
+<p>First and foremost, a hard-coded voting interval of 200 blocks limits the number of “liquidity rate changes”. This keeps the pace of supply change to a consistent 7 sessions per day.</p>
+<p>In addition to the voting intervals, there is also a limit on the percentage of supply change per voting session. This limit is set at 1–3% (inflation or deflation) per 200 block voting interval, depending on the ratio of votes.</p>
+<ul>
+<li>If vote ratio is  <strong>“deflate”</strong>  3x more than  <strong>“inflate”</strong> , then supply deflates 3%</li>
+<li>If vote ratio is  <strong>“deflate”</strong>  2x more than  <strong>“inflate”,</strong>  then supply deflates 2%</li>
+<li>If vote ratio is  <strong>“deflate”</strong>  1–2x more than “ <strong>inflate/no</strong>   <strong>change</strong> ”, then supply deflates 1%</li>
+<li>If  <strong>“no change”</strong>  wins the vote count by  <strong>any %</strong> , then supply remains constant.</li>
+</ul>
+<p><strong>Questions, comments, concerns? Please post them below!</strong></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184/1</link>
+        <pubDate>Wed, 29 Jan 2020 14:21:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2184-1</guid>
+        <source url="..../forum-archive/t/what-keeps-users-from-voting-to-pump-or-dump-the-price-overnight/2184.rss">What keeps users from voting to pump or dump the price overnight?</source>
+      </item>
+  </channel>
+</rss>

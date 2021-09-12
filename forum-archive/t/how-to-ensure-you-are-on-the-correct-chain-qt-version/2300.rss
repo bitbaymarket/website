@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to ensure you are on the correct chain (QT version)</title>
+    <link>..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-qt-version/2300</link>
+    <description>## Please follow these steps to ensure you are on the correct chain:
+
+### 1. Open the QT wallet, and click on &quot;Help&quot; -&gt; &quot;Debug Window&quot;.
+
+![15%20PM|690x179](upload://nLq2UZzOHv4gvmPPJB4JspdJzwx.png) 
+
+### 2. Then, under the &quot;Console&quot; tab, type: 
+
+getblock e89164a165df952a3bc4b80d9ea33c3be47baa2406bbd7c9bd04eb91bd11e23a
+
+![15%20AM|690x499](upload://1n5hjBmX8y3PgaTOFeYAWk1QOvB.png) 
+
+### 3. Then press the enter key. **If you see the following results, then you are on the correct chain:**
+
+![59%20AM|690x380](upload://2fg3ljUlWNUNksSAwFuHNCuJUJJ.png) 
+
+If you instead see &quot;Block not found&quot; only, then you are on an incorrect chain. Please contact the BitBay team for further support if you get this error.
+
+**OR**
+
+If you receive a different result than either the &quot;found block&quot; above or &quot;block not found&quot;, please try again. Your wallet might have been busy at the time of entry.</description>
+    
+    <lastBuildDate>Tue, 24 Mar 2020 10:49:45 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-qt-version/2300.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to ensure you are on the correct chain (QT version)</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-qt-version/2300/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-qt-version/2300/3</link>
+        <pubDate>Fri, 27 Mar 2020 21:42:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2300-3</guid>
+        <source url="..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-qt-version/2300.rss">How to ensure you are on the correct chain (QT version)</source>
+      </item>
+      <item>
+        <title>How to ensure you are on the correct chain (QT version)</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-qt-version/2300/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-qt-version/2300/2</link>
+        <pubDate>Tue, 24 Mar 2020 15:07:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2300-2</guid>
+        <source url="..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-qt-version/2300.rss">How to ensure you are on the correct chain (QT version)</source>
+      </item>
+      <item>
+        <title>How to ensure you are on the correct chain (QT version)</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <h2>Please follow these steps to ensure you are on the correct chain:</h2>
+<h3>1. Open the QT wallet, and click on “Help” -&gt; “Debug Window”.</h3>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/a68e421f94a8f9fb53788ae417d9f9bc4fce6b35.png" data-download-href="..../forum-archive/uploads/default/a68e421f94a8f9fb53788ae417d9f9bc4fce6b35" title="Screen Shot 2020-03-23 at 4.58.15 PM.png"><img src="..../forum-archive/uploads/default/optimized/1X/a68e421f94a8f9fb53788ae417d9f9bc4fce6b35_1_690x179.png" alt="15%20PM" width="690" height="179" srcset="..../forum-archive/uploads/default/optimized/1X/a68e421f94a8f9fb53788ae417d9f9bc4fce6b35_1_690x179.png, ..../forum-archive/uploads/default/optimized/1X/a68e421f94a8f9fb53788ae417d9f9bc4fce6b35_1_1035x268.png 1.5x, ..../forum-archive/uploads/default/optimized/1X/a68e421f94a8f9fb53788ae417d9f9bc4fce6b35_1_1380x358.png 2x"><div class="meta">
+<span class="filename">Screen Shot 2020-03-23 at 4.58.15 PM.png</span><span class="informations">1518x394 230 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h3>2. Then, under the “Console” tab, type:</h3>
+<p>getblock e89164a165df952a3bc4b80d9ea33c3be47baa2406bbd7c9bd04eb91bd11e23a</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/099e37fe7cee04e2e738ced7479099a5fb3156df.png" data-download-href="..../forum-archive/uploads/default/099e37fe7cee04e2e738ced7479099a5fb3156df" title="Screen Shot 2020-03-30 at 3.59.15 AM.png"><img src="..../forum-archive/uploads/default/optimized/1X/099e37fe7cee04e2e738ced7479099a5fb3156df_1_690x499.png" alt="15%20AM" width="690" height="499" srcset="..../forum-archive/uploads/default/optimized/1X/099e37fe7cee04e2e738ced7479099a5fb3156df_1_690x499.png, ..../forum-archive/uploads/default/optimized/1X/099e37fe7cee04e2e738ced7479099a5fb3156df_1_1035x748.png 1.5x, ..../forum-archive/uploads/default/optimized/1X/099e37fe7cee04e2e738ced7479099a5fb3156df_1_1380x998.png 2x"><div class="meta">
+<span class="filename">Screen Shot 2020-03-30 at 3.59.15 AM.png</span><span class="informations">1474x1068 71.2 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h3>3. Then press the enter key. <strong>If you see the following results, then you are on the correct chain:</strong>
+</h3>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/0fbdea57ee2b710329b2ad2289f676a8294e616b.png" data-download-href="..../forum-archive/uploads/default/0fbdea57ee2b710329b2ad2289f676a8294e616b" title="Screen Shot 2020-03-30 at 4.08.59 AM.png"><img src="..../forum-archive/uploads/default/optimized/1X/0fbdea57ee2b710329b2ad2289f676a8294e616b_1_690x380.png" alt="59%20AM" width="690" height="380" srcset="..../forum-archive/uploads/default/optimized/1X/0fbdea57ee2b710329b2ad2289f676a8294e616b_1_690x380.png, ..../forum-archive/uploads/default/optimized/1X/0fbdea57ee2b710329b2ad2289f676a8294e616b_1_1035x570.png 1.5x, ..../forum-archive/uploads/default/optimized/1X/0fbdea57ee2b710329b2ad2289f676a8294e616b_1_1380x760.png 2x"><div class="meta">
+<span class="filename">Screen Shot 2020-03-30 at 4.08.59 AM.png</span><span class="informations">1414x780 105 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>If you instead see “Block not found” only, then you are on an incorrect chain. Please contact the BitBay team for further support if you get this error.</p>
+<p><strong>OR</strong></p>
+<p>If you receive a different result than either the “found block” above or “block not found”, please try again. Your wallet might have been busy at the time of entry.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-qt-version/2300/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-qt-version/2300/1</link>
+        <pubDate>Tue, 24 Mar 2020 00:40:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2300-1</guid>
+        <source url="..../forum-archive/t/how-to-ensure-you-are-on-the-correct-chain-qt-version/2300.rss">How to ensure you are on the correct chain (QT version)</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Getting Started with the Client</title>
+    <link>..../forum-archive/t/getting-started-with-the-client/44</link>
+    <description>### 1. Download the software
+We recommend you download the BitBay Client which provides a wealth of features. As well as sending, storing and staking $Bay, the client has a wealth of other features including the BitBay decentralized marketplace.
+
+### 2. Get started with the Market Client
+The client comes with an installer that will get you up and running. Just run it and follow the instructions in the installer. For the windows version there is an update that you need to run too. Run the installer first, then the update.
+
+Your client will have to sync with the network before you can use it for transactions. This can take a while the first time, and also if you have not opened your wallet for a while.
+
+You might be a little overwelmed if this is all new to you, so keep the following in mind:
+
+Default is to use two keys. The installer will therefore ask you to create a key twice. Each key can have a unique password, and you will therefore be asked for password two times as well. The same goes for hiding your key in a picture. You can skip any or all steps related to the creation of keys and do it manually later, but we recommend you follow the setup if this is your first attempt to install the client.
+
+### Creating &amp; Adding Wallets
+If you skipped the key creation in setup, or want to add more wallets, follow the guide below.
+
+Once you’ve downloaded and installed your Bitbay Halo Client program. You can either wait for the client to syncronize with the network (to 100%) or go ahead and begin creating a wallet inside the client while your computer is finishing syncronizing – it doesn’t matter either way. Bitbay’s Halo Client is both a wallet and a user interface (UI) marketplace. This client is years ahead of the normal bitcoin “QT” wallet on many fronts.
+
+1. To start your first wallet in the client or add a wallet, simply click on the “File” tab at the top left of the client window.
+
+2. Then click on the “New Wallet” tab in the drop box menu. This will open up a new window that is simply asking where you want to store your 1st private key file. To better explain private keys please note the following:
+
+    1. Private keys are your personal keys, each unique and in Bitbay’s client requires two to make any transactions happen.
+    2. The Bitbay Client supports two private keys for the sake of providing maximum security to single entities and joint account entities. Think of the two private keys similar to having two locks on your front door of your house.
+    3. These “locks” can be (but not required) encrypted with passwords, hence the terminology “multi-signature” technology. So as an analogy, in order for someone else to unlock your front door, they’d have to know where the two different locks (private keys) are located on the door as they would be hidden from site, and then they’d also need two different keys (passwords) to unlock them. (see Step 7 below)
+    4. It is imperative that you protect your private key’s and their correlated encryption passwords! A great way to keep them safe is to keep a backup on a flash drive, DVD, or CD locked up in a safety deposit box or with family members you trust. Update regularly.
+
+
+1. Save your 1st private key to any location you wish on your computer or flash drive.
+2. The client will then pop up a window informing you: “Create your second key and store it in a different directory than the first. If you wish to create only one key, you can cancel and open a wallet with a second key later.” This is simply giving you the option to manually pair keys if you plan on opening a joint account with someone.
+3. Clicking on the “OK” tab on this window opens a new window giving you the option to save your 2nd private key to either your computer or a flash drive.
+4. Your client’s wallet is now fully functional and your client’s “Overview” tab should have a receiver address posted.
+5. Yet for maximum security, it’s best to also encrypt your keys with passwords or passphrases as mentioned above. To do this simply click on the “File” tab at the top left of the client window.
+
+    1. Click on the “Encrypt Keyfile” tab in the drop box menu.
+    2. This will open a window stating “You can give each private key a different password if you wish. If you forget any of your passwords the wallet will be useless. This is also true if you are on a joint account. If your partner forgets their password neither of you will be able to spend from your account! You can use the same password for both keys or you can choose to protect only one. Backing up the original keys in a safety deposit box is highly recommended! If you have backed up already, make sure those files don’t contain your unencrypted keys. Think carefully before proceeding. Passphrases are superior to passwords. (Hint: A line from your favorite book with a number on the end)”.
+    3. Click OK  to proceed.
+    4. This will open a window which is simply asking you where and what key you wish to encrypt with a password or passphrase.
+    5. So for example find your location of key1, click on the OK tab and a new window will pop up asking for you to enter a password.
+    6. After entering your password the client will ask you to re-enter it to make sure you typed the same password as your keystrokes will be obsured from viewing.
+    7. Once complete, you now have your 1st private key encrypted with a password.
+    8. In order to password encrypt the 2nd key, simply repeat steps “1” though “6” yet load up the location of the 2nd private key file from your computer or flash drive and enter a different (recommended) password or passphrase for it!
+
+Your client’s wallet is now operational with multi-signature technology securing your money. Note: In the file locations of your private keys you should also notice that your private keys generate a “key1.share” or “key2.share” file (depending on what private key file you are in. So not only do you have two private keys that are utilized to secure your client, you also have 2 associating ‘public’ keys as well. They can be used to encrypt/decrypt and sign/verify messages and files. The share files are also used to set up joint accounts. These will be explained in detail in a later section (See Joint Account Wallets).
+
+Remember to write down your passwords somewhere safe, and make backups of your keys. Without them you will not be able to access your wallet, and no one will be able to help you.
+
+### Preparing for the Market
+In order for you to use the market, there must be a way to communicate with other participants. The Market Client provides two methods of doing this: Bitmessage or Email.
+
+Bitmessage is used to post offers to the market, and has to be enabled if you want to trade. It is the safest option, and also provides total anonymity, but can be slow at times. Email is faster,  but not as safe because it depends on the servers of your email provider.
+
+We recommend you enable both unless you have a reason to not do so. You can create an email address that you only use for the Bitbay Market if you like. You also need email enabled if you want to use Pay to Mail.
+
+#### Bitmessage
+To enable Bitmessage you only have to tick off the box. Your address will be generated by the software.
+
+![bitmessage|662x500](upload://t1D9hq3hy2DDuV1f9OSngrSTsZy.png)
+
+For more information about Bitmessage head to the geek section.
+
+#### Email
+The Client allows for users to add a typical, standard email address (gmail, hotmail, outlook, AOL, and mail.com), however some email providers are not yet compatible but will be added on future updates. This is a faster way for communication purposes  and less risk of loss of correspondence. For example, if you or your counterparties computer losses internet connection  while in contract negotiation via bitmessage you could potentially lose that correspondence as bitmessage has no server to backup the information. With a standard email address incorporated into your client, we can bypass this risk. In summary, the bitmessage network is necessary to protect the contract, marketplace, and the transactions between contracts, while standard emails can be utilized to simplify negotiation correspondence.
+
+To add your email address into your Bitbay Halo Client:
+
+1. Simply click on the “Receive BitBay” tab at the top left of the client window.
+2. In this window template you will see blank field where you can enter your email address. Do so and then click on the “Add/Change” box.
+    - Again, currently there are only a few email providers that are compatible with the client but more will be added on upcoming updates. The providers are listed in the clients “Receive Bitbay” tab’s “?” box.
+3. The client will ask you to enter your password.
+    - This is the password that you use to log-in to your email account – not your bitbay private key passwords.
+4. The client will then let you know if it was able to sync with your email address. A window will pop up stating, “Authentication Success! However, please check your inbox and see if the test message arrives before giving out your Email for contracts and payments.”
+5. Do so and check to see if you’ve received an email sent from “me” with a title “NightTrader – test”. If you see this email in your inbox the syncronization is complete.
+
+    1. Note: If you have two factor authentication (2FA) enabled on gmail  you will get an error. To fix this issue click on your google account’s picture icon in gmail.com – this will open up another window where you will click on the “My Account” icon.
+    2. This loads up your account settings page. On this page find and click on the “Connected apps and sites” setting found below the “Sign In and Security” menu.
+    3. This loads up a page that allows you to change your “Allow less secure apps:” setting. Turn this setting to “ON”
+    4. You will be given a password to use in your client. Copy/paste this to the Bay client.
+    5. Now your gmail address should sync up with the client.
+
+6. For extra security we recommend having the “Enable Encrypted Email” feature turned on.
+Note: If you decide to change your email address in the future. It’s highly recommended that you wait until all open contracts with counter-parties are completed as they might not be able to contact you.
+
+Congratulations, your email address is synced up with the client.
+
+### Ready to move on?
+If you have completed the steps above, you are ready to move on to the next section, where you will learn about all the great stuff you can do with the Market Client.
+
+Using the Marketplace Client</description>
+    
+    <lastBuildDate>Thu, 30 Nov 2017 09:29:29 +0000</lastBuildDate>
+    <category>Get Started Guides</category>
+    <atom:link href="..../forum-archive/t/getting-started-with-the-client/44.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Getting Started with the Client</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/getting-started-with-the-client/44/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/getting-started-with-the-client/44/3</link>
+        <pubDate>Mon, 04 Dec 2017 08:36:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-44-3</guid>
+        <source url="..../forum-archive/t/getting-started-with-the-client/44.rss">Getting Started with the Client</source>
+      </item>
+      <item>
+        <title>Getting Started with the Client</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/getting-started-with-the-client/44/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/getting-started-with-the-client/44/2</link>
+        <pubDate>Thu, 30 Nov 2017 09:44:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-44-2</guid>
+        <source url="..../forum-archive/t/getting-started-with-the-client/44.rss">Getting Started with the Client</source>
+      </item>
+      <item>
+        <title>Getting Started with the Client</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              <h3>1. Download the software</h3>
+<p>We recommend you download the BitBay Client which provides a wealth of features. As well as sending, storing and staking $Bay, the client has a wealth of other features including the BitBay decentralized marketplace.</p>
+<h3>2. Get started with the Market Client</h3>
+<p>The client comes with an installer that will get you up and running. Just run it and follow the instructions in the installer. For the windows version there is an update that you need to run too. Run the installer first, then the update.</p>
+<p>Your client will have to sync with the network before you can use it for transactions. This can take a while the first time, and also if you have not opened your wallet for a while.</p>
+<p>You might be a little overwelmed if this is all new to you, so keep the following in mind:</p>
+<p>Default is to use two keys. The installer will therefore ask you to create a key twice. Each key can have a unique password, and you will therefore be asked for password two times as well. The same goes for hiding your key in a picture. You can skip any or all steps related to the creation of keys and do it manually later, but we recommend you follow the setup if this is your first attempt to install the client.</p>
+<h3>Creating &amp; Adding Wallets</h3>
+<p>If you skipped the key creation in setup, or want to add more wallets, follow the guide below.</p>
+<p>Once you’ve downloaded and installed your Bitbay Halo Client program. You can either wait for the client to syncronize with the network (to 100%) or go ahead and begin creating a wallet inside the client while your computer is finishing syncronizing – it doesn’t matter either way. Bitbay’s Halo Client is both a wallet and a user interface (UI) marketplace. This client is years ahead of the normal bitcoin “QT” wallet on many fronts.</p>
+<ol>
+<li>
+<p>To start your first wallet in the client or add a wallet, simply click on the “File” tab at the top left of the client window.</p>
+</li>
+<li>
+<p>Then click on the “New Wallet” tab in the drop box menu. This will open up a new window that is simply asking where you want to store your 1st private key file. To better explain private keys please note the following:</p>
+<ol>
+<li>Private keys are your personal keys, each unique and in Bitbay’s client requires two to make any transactions happen.</li>
+<li>The Bitbay Client supports two private keys for the sake of providing maximum security to single entities and joint account entities. Think of the two private keys similar to having two locks on your front door of your house.</li>
+<li>These “locks” can be (but not required) encrypted with passwords, hence the terminology “multi-signature” technology. So as an analogy, in order for someone else to unlock your front door, they’d have to know where the two different locks (private keys) are located on the door as they would be hidden from site, and then they’d also need two different keys (passwords) to unlock them. (see Step 7 below)</li>
+<li>It is imperative that you protect your private key’s and their correlated encryption passwords! A great way to keep them safe is to keep a backup on a flash drive, DVD, or CD locked up in a safety deposit box or with family members you trust. Update regularly.</li>
+</ol>
+</li>
+<li>
+<p>Save your 1st private key to any location you wish on your computer or flash drive.</p>
+</li>
+<li>
+<p>The client will then pop up a window informing you: “Create your second key and store it in a different directory than the first. If you wish to create only one key, you can cancel and open a wallet with a second key later.” This is simply giving you the option to manually pair keys if you plan on opening a joint account with someone.</p>
+</li>
+<li>
+<p>Clicking on the “OK” tab on this window opens a new window giving you the option to save your 2nd private key to either your computer or a flash drive.</p>
+</li>
+<li>
+<p>Your client’s wallet is now fully functional and your client’s “Overview” tab should have a receiver address posted.</p>
+</li>
+<li>
+<p>Yet for maximum security, it’s best to also encrypt your keys with passwords or passphrases as mentioned above. To do this simply click on the “File” tab at the top left of the client window.</p>
+<ol>
+<li>Click on the “Encrypt Keyfile” tab in the drop box menu.</li>
+<li>This will open a window stating “You can give each private key a different password if you wish. If you forget any of your passwords the wallet will be useless. This is also true if you are on a joint account. If your partner forgets their password neither of you will be able to spend from your account! You can use the same password for both keys or you can choose to protect only one. Backing up the original keys in a safety deposit box is highly recommended! If you have backed up already, make sure those files don’t contain your unencrypted keys. Think carefully before proceeding. Passphrases are superior to passwords. (Hint: A line from your favorite book with a number on the end)”.</li>
+<li>Click OK  to proceed.</li>
+<li>This will open a window which is simply asking you where and what key you wish to encrypt with a password or passphrase.</li>
+<li>So for example find your location of key1, click on the OK tab and a new window will pop up asking for you to enter a password.</li>
+<li>After entering your password the client will ask you to re-enter it to make sure you typed the same password as your keystrokes will be obsured from viewing.</li>
+<li>Once complete, you now have your 1st private key encrypted with a password.</li>
+<li>In order to password encrypt the 2nd key, simply repeat steps “1” though “6” yet load up the location of the 2nd private key file from your computer or flash drive and enter a different (recommended) password or passphrase for it!</li>
+</ol>
+</li>
+</ol>
+<p>Your client’s wallet is now operational with multi-signature technology securing your money. Note: In the file locations of your private keys you should also notice that your private keys generate a “key1.share” or “key2.share” file (depending on what private key file you are in. So not only do you have two private keys that are utilized to secure your client, you also have 2 associating ‘public’ keys as well. They can be used to encrypt/decrypt and sign/verify messages and files. The share files are also used to set up joint accounts. These will be explained in detail in a later section (See Joint Account Wallets).</p>
+<p>Remember to write down your passwords somewhere safe, and make backups of your keys. Without them you will not be able to access your wallet, and no one will be able to help you.</p>
+<h3>Preparing for the Market</h3>
+<p>In order for you to use the market, there must be a way to communicate with other participants. The Market Client provides two methods of doing this: Bitmessage or Email.</p>
+<p>Bitmessage is used to post offers to the market, and has to be enabled if you want to trade. It is the safest option, and also provides total anonymity, but can be slow at times. Email is faster,  but not as safe because it depends on the servers of your email provider.</p>
+<p>We recommend you enable both unless you have a reason to not do so. You can create an email address that you only use for the Bitbay Market if you like. You also need email enabled if you want to use Pay to Mail.</p>
+<h4>Bitmessage</h4>
+<p>To enable Bitmessage you only have to tick off the box. Your address will be generated by the software.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/cb6e41a1ba98ad592f400a03cf67023af9131920.png" data-download-href="..../forum-archive/uploads/default/cb6e41a1ba98ad592f400a03cf67023af9131920" title="bitmessage.png"><img src="..../forum-archive/uploads/default/optimized/1X/cb6e41a1ba98ad592f400a03cf67023af9131920_1_662x500.png" alt="bitmessage" width="662" height="500"><div class="meta">
+<span class="filename">bitmessage.png</span><span class="informations">1010x762 106 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>For more information about Bitmessage head to the geek section.</p>
+<h4>Email</h4>
+<p>The Client allows for users to add a typical, standard email address (gmail, hotmail, outlook, AOL, and <a href="http://mail.com">mail.com</a>), however some email providers are not yet compatible but will be added on future updates. This is a faster way for communication purposes  and less risk of loss of correspondence. For example, if you or your counterparties computer losses internet connection  while in contract negotiation via bitmessage you could potentially lose that correspondence as bitmessage has no server to backup the information. With a standard email address incorporated into your client, we can bypass this risk. In summary, the bitmessage network is necessary to protect the contract, marketplace, and the transactions between contracts, while standard emails can be utilized to simplify negotiation correspondence.</p>
+<p>To add your email address into your Bitbay Halo Client:</p>
+<ol>
+<li>
+<p>Simply click on the “Receive BitBay” tab at the top left of the client window.</p>
+</li>
+<li>
+<p>In this window template you will see blank field where you can enter your email address. Do so and then click on the “Add/Change” box.</p>
+<ul>
+<li>Again, currently there are only a few email providers that are compatible with the client but more will be added on upcoming updates. The providers are listed in the clients “Receive Bitbay” tab’s “?” box.</li>
+</ul>
+</li>
+<li>
+<p>The client will ask you to enter your password.</p>
+<ul>
+<li>This is the password that you use to log-in to your email account – not your bitbay private key passwords.</li>
+</ul>
+</li>
+<li>
+<p>The client will then let you know if it was able to sync with your email address. A window will pop up stating, “Authentication Success! However, please check your inbox and see if the test message arrives before giving out your Email for contracts and payments.”</p>
+</li>
+<li>
+<p>Do so and check to see if you’ve received an email sent from “me” with a title “NightTrader – test”. If you see this email in your inbox the syncronization is complete.</p>
+<ol>
+<li>Note: If you have two factor authentication (2FA) enabled on gmail  you will get an error. To fix this issue click on your google account’s picture icon in <a href="http://gmail.com">gmail.com</a> – this will open up another window where you will click on the “My Account” icon.</li>
+<li>This loads up your account settings page. On this page find and click on the “Connected apps and sites” setting found below the “Sign In and Security” menu.</li>
+<li>This loads up a page that allows you to change your “Allow less secure apps:” setting. Turn this setting to “ON”</li>
+<li>You will be given a password to use in your client. Copy/paste this to the Bay client.</li>
+<li>Now your gmail address should sync up with the client.</li>
+</ol>
+</li>
+<li>
+<p>For extra security we recommend having the “Enable Encrypted Email” feature turned on.<br>
+Note: If you decide to change your email address in the future. It’s highly recommended that you wait until all open contracts with counter-parties are completed as they might not be able to contact you.</p>
+</li>
+</ol>
+<p>Congratulations, your email address is synced up with the client.</p>
+<h3>Ready to move on?</h3>
+<p>If you have completed the steps above, you are ready to move on to the next section, where you will learn about all the great stuff you can do with the Market Client.</p>
+<p>Using the Marketplace Client</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/getting-started-with-the-client/44/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/getting-started-with-the-client/44/1</link>
+        <pubDate>Thu, 30 Nov 2017 09:18:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-44-1</guid>
+        <source url="..../forum-archive/t/getting-started-with-the-client/44.rss">Getting Started with the Client</source>
+      </item>
+  </channel>
+</rss>

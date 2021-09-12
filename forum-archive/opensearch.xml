@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>BitBay Community Search</ShortName>
+  <Description>Search for posts on BitBay Community</Description>
+  <Tags>discourse forum</Tags>
+  <Image type="image/png">../forum-archive/uploads/default/original/1X/d06511d7ad17e341031cb6f75d121f5e34e89215.png</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="../forum-archive/opensearch.xml"/>
+  <Url type="text/html" template="../forum-archive/search?q={searchTerms}"/>
+  <Query role="example" searchTerms="search term"/>
+</OpenSearchDescription>

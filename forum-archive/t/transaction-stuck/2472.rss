@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Transaction STUCK</title>
+    <link>..../forum-archive/t/transaction-stuck/2472</link>
+    <description>I made a transaction from my wallet to latoken … it is pending but i am waiting for weeks now:
+
+Status: 21100 confirmations
+Date: 25.05.2020 09:40
+Debit: -0.0000559 BAY
+To: BEJAbiJcju5KL7VxddbuuBM39RgyjF63qq
+Debit: -12,650.00 BAY
+Transaction fee: -0.05 BAY
+Net amount: -12,650.0500559 BAY
+Transaction ID: f0b4d48033bbd95f0e21abf2478dc118fb49068d6e187e9bd5283ccd6323abd2
+
+
+What can I do?!?</description>
+    
+    <lastBuildDate>Sat, 27 Jun 2020 18:53:18 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/transaction-stuck/2472.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Transaction STUCK</title>
+        <dc:creator><![CDATA[@proteanman Protean Man]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
+          <blockquote>
+              <p>I have a few support threads on this site with zero answers from them. You are absolutely right, this is frustrating. It makes me want to sell every coin I have and leave this project. I even have a support question asking how to do that since it seems impossible to sell even one coin at the listed price. Everyone seems forced to sell at the BAYR price which is fractions of what BAY is.</p>
+<p><span class="mention">@support</span> needs to either take the community seriously or they will lose everything</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/transaction-stuck/2472/6">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/transaction-stuck/2472/6</link>
+        <pubDate>Sat, 27 Jun 2020 18:53:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2472-6</guid>
+        <source url="..../forum-archive/t/transaction-stuck/2472.rss">Transaction STUCK</source>
+      </item>
+      <item>
+        <title>Transaction STUCK</title>
+        <dc:creator><![CDATA[@voidindex voidindex]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
+          <blockquote>
+              <p>and worst of it all … the support did not answer … they just ignore me - AWESOME!</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/transaction-stuck/2472/5">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/transaction-stuck/2472/5</link>
+        <pubDate>Sat, 27 Jun 2020 17:12:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2472-5</guid>
+        <source url="..../forum-archive/t/transaction-stuck/2472.rss">Transaction STUCK</source>
+      </item>
+      <item>
+        <title>Transaction STUCK</title>
+        <dc:creator><![CDATA[@voidindex voidindex]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
+          <blockquote>
+              <p>Status: 28845 confirmations<br>
+Date: 25.05.2020 09:40<br>
+Debit: -0.0000559 BAY<br>
+To: BEJAbiJcju5KL7VxddbuuBM39RgyjF63qq<br>
+Debit: -12,650.00 BAY<br>
+Transaction fee: -0.05 BAY<br>
+Net amount: -12,650.0500559 BAY<br>
+Transaction ID: f0b4d48033bbd95f0e21abf2478dc118fb49068d6e187e9bd5283ccd6323abd2</p>
+<p>Just frustrating!</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/transaction-stuck/2472/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/transaction-stuck/2472/4</link>
+        <pubDate>Sat, 27 Jun 2020 17:11:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2472-4</guid>
+        <source url="..../forum-archive/t/transaction-stuck/2472.rss">Transaction STUCK</source>
+      </item>
+      <item>
+        <title>Transaction STUCK</title>
+        <dc:creator><![CDATA[@voidindex voidindex]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
+          <blockquote>
+              <p>First i tried to send the liquid tokens … this transaction got canceled and all my bay got transformed to reserve tokens … but that is not the point! my transaction still needs confirmations … it is over a month now … and i still see it in my wallet … it is a joke! really</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/transaction-stuck/2472/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/transaction-stuck/2472/3</link>
+        <pubDate>Sat, 27 Jun 2020 17:11:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2472-3</guid>
+        <source url="..../forum-archive/t/transaction-stuck/2472.rss">Transaction STUCK</source>
+      </item>
+      <item>
+        <title>Transaction STUCK</title>
+        <dc:creator><![CDATA[@proteanman Protean Man]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/proteanman">@proteanman</a> wrote:</p>
+          <blockquote>
+              <p>Tokens are frozen for a month. You sent reserve tokens correct? not liquid tokens?<br>
+I am frustrated by this as well. It is a built in mechanic with BAY.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/transaction-stuck/2472/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/transaction-stuck/2472/2</link>
+        <pubDate>Wed, 10 Jun 2020 19:37:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2472-2</guid>
+        <source url="..../forum-archive/t/transaction-stuck/2472.rss">Transaction STUCK</source>
+      </item>
+      <item>
+        <title>Transaction STUCK</title>
+        <dc:creator><![CDATA[@voidindex voidindex]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/voidindex">@voidindex</a> wrote:</p>
+          <blockquote>
+              <p>I made a transaction from my wallet to latoken … it is pending but i am waiting for weeks now:</p>
+<p>Status: 21100 confirmations<br>
+Date: 25.05.2020 09:40<br>
+Debit: -0.0000559 BAY<br>
+To: BEJAbiJcju5KL7VxddbuuBM39RgyjF63qq<br>
+Debit: -12,650.00 BAY<br>
+Transaction fee: -0.05 BAY<br>
+Net amount: -12,650.0500559 BAY<br>
+Transaction ID: f0b4d48033bbd95f0e21abf2478dc118fb49068d6e187e9bd5283ccd6323abd2</p>
+<p>What can I do?!?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/transaction-stuck/2472/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/transaction-stuck/2472/1</link>
+        <pubDate>Wed, 10 Jun 2020 16:25:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2472-1</guid>
+        <source url="..../forum-archive/t/transaction-stuck/2472.rss">Transaction STUCK</source>
+      </item>
+  </channel>
+</rss>

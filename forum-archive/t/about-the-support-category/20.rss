@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the Support category</title>
+    <link>..../forum-archive/t/about-the-support-category/20</link>
+    <description>The support section is here to help you solve any issues you encounter while using Bitbay&#39;s wallets. 
+To ensure efficient communication when you describe your problem, please provide the following informations:
+
+* **The wallet you are using** - e.g. QT Wallet, Client Wallet or Web wallet
+
+* **Your operating System (including version)** - e.g. Windows 10, Mac OSX 10.11.1, GNU/Linux (name of your distro)
+
+* **If the web wallet, then what browser you use and its version** - e.g. Chrome 63.0.3239.84
+
+* **If the desktop wallet (Qt or Client), then provide block your wallet is at + tell us what block the bitbay blockchain is at** (written at the top of this [page](https://chainz.cryptoid.info/bay/), it is a number for example like this 1471595)
+
+Also, if you are using a desktop wallet (Qt Wallet or Client Wallet), please make sure you are fully synchronized first. Moreover, if you already have an account, make sure your private key(s) are properly loaded (If you have 2 private keys but only one is loaded it won&#39;t work).
+
+You can use the[ blockchain explorer](https://chainz.cryptoid.info/bay/) to check out your account balance and transactions.
+
+Thank you for your understanding! :slight_smile:</description>
+    
+    <lastBuildDate>Fri, 15 Dec 2017 20:46:03 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/about-the-support-category/20.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the Support category</title>
+        <dc:creator><![CDATA[@Mantrack]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/about-the-support-category/20/5">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/about-the-support-category/20/5</link>
+        <pubDate>Sun, 17 Dec 2017 18:14:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-20-5</guid>
+        <source url="..../forum-archive/t/about-the-support-category/20.rss">About the Support category</source>
+      </item>
+      <item>
+        <title>About the Support category</title>
+        <dc:creator><![CDATA[@bitadmin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/bitadmin">@bitadmin</a> wrote:</p>
+          <blockquote>
+              <p>The support section is here to help you solve any issues you encounter while using Bitbay’s wallets.<br>
+To ensure efficient communication when you describe your problem, please provide the following informations:</p>
+<ul>
+<li>
+<p><strong>The wallet you are using</strong> - e.g. QT Wallet, Client Wallet or Web wallet</p>
+</li>
+<li>
+<p><strong>Your operating System (including version)</strong> - e.g. Windows 10, Mac OSX 10.11.1, GNU/Linux (name of your distro)</p>
+</li>
+<li>
+<p><strong>If the web wallet, then what browser you use and its version</strong> - e.g. Chrome 63.0.3239.84</p>
+</li>
+<li>
+<p><strong>If the desktop wallet (Qt or Client), then provide block your wallet is at + tell us what block the bitbay blockchain is at</strong> (written at the top of this <a href="https://chainz.cryptoid.info/bay/">page</a>, it is a number for example like this 1471595)</p>
+</li>
+</ul>
+<p>Also, if you are using a desktop wallet (Qt Wallet or Client Wallet), please make sure you are fully synchronized first. Moreover, if you already have an account, make sure your private key(s) are properly loaded (If you have 2 private keys but only one is loaded it won’t work).</p>
+<p>You can use the<a href="https://chainz.cryptoid.info/bay/"> blockchain explorer</a> to check out your account balance and transactions.</p>
+<p>Thank you for your understanding! <img src="..../forum-archive/images/emoji/twitter/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/about-the-support-category/20/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/about-the-support-category/20/1</link>
+        <pubDate>Wed, 08 Nov 2017 17:28:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-20-1</guid>
+        <source url="..../forum-archive/t/about-the-support-category/20.rss">About the Support category</source>
+      </item>
+  </channel>
+</rss>

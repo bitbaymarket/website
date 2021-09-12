@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>BitBay Community - Latest posts</title>
+    <link>../forum-archive</link>
+    <description>Latest posts</description>
+      <item>
+        <title>Qt wallet update</title>
+        <dc:creator><![CDATA[@anonimo]]></dc:creator>
+        <description><![CDATA[ <p>Did you have this problem before updating?</p> ]]></description>
+        <link>../forum-archive/t/qt-wallet-update/2577/3</link>
+        <pubDate>Wed, 02 Sep 2020 13:22:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-6218</guid>
+      </item>
+      <item>
+        <title>Qt wallet update</title>
+        <dc:creator><![CDATA[@Richard88 riccardo santucci]]></dc:creator>
+        <description><![CDATA[ <p>so? no help? Any moderators?</p> ]]></description>
+        <link>../forum-archive/t/qt-wallet-update/2577/2</link>
+        <pubDate>Sat, 29 Aug 2020 18:00:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-6209</guid>
+      </item>
+      <item>
+        <title>My coins still not recevied in Bay account of latoken since more 4 months</title>
+        <dc:creator><![CDATA[@artlover josf]]></dc:creator>
+        <description><![CDATA[ <p>The problem I am having is …</p>
+<p>my coins still not recevied in Bay account of  latoken since more 4 months …</p>
+<p>Version: BitBay 1.37<br>
+Sent coins:<br>
+Date: 04/03/2020<br>
+Time Stamp: 1574293680<br>
+Block: 624195<br>
+Label:<br>
+Amount: 1000<br>
+Fee: 0.02<br>
+Total: 4999.79<br>
+Address: B4XtYeV7QtFSWQE6cnAhwELiw9Dv4L1kJS<br>
+TXID: a397379d5d378c53cf489a35832a9810f5a5253d1a522efdd196ee47a7e2766a</p>
+<p>Inputs: [{u’output’: u’26584c571b062f8744a75170fa936194b81b9f470927b65eab5a34ad6df2ff2e:0’, u’value’: 499979000000L, u’address’: u’bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}]</p>
+<p>Outputs: [{‘value’: 100000000000L, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 100000000000L, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 100000000000L, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 50000000000L, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 10000000000L, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 10000000000L, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 10000000000L, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 10000000000L, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 5000000000L, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 1000000000, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 1000000000, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 1000000000, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 1000000000, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 500000000, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 100000000, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 100000000, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 100000000, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 100000000, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 50000000, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 27000000, ‘address’: ‘bEmKSZcfMAKvLGAmYQG6zZx5Ly3WZZvY39’}, {‘value’: 100000000000L, ‘address’:</p> ]]></description>
+        <link>../forum-archive/t/my-coins-still-not-recevied-in-bay-account-of-latoken-since-more-4-months/2580/1</link>
+        <pubDate>Fri, 28 Aug 2020 08:07:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-6206</guid>
+      </item>
+      <item>
+        <title>Qt wallet update</title>
+        <dc:creator><![CDATA[@Richard88 riccardo santucci]]></dc:creator>
+        <description><![CDATA[ <p>My system has the following specifications</p>
+<p>QT Wallet, Client Wallet (and version) or Web wallet: Latest 64 bit QT Wallet<br>
+Operating System and version: win 10 64bit<br>
+If web wallet browser name and version:<br>
+If desktop wallet (Qt or Client) block # of your client and # of connections:</p>
+<p>The problem I am having is i tried update my wallet following the procedure but i’m stuck at this point, shown in the image. <a href="https://ibb.co/rxMpPkM" rel="nofollow noopener">https://ibb.co/rxMpPkM</a></p>
+<p>Wallet can’t start at all, crashes while loading block index (checkpoint:2450000)</p>
+<p>Any help?Thanks.</p> ]]></description>
+        <link>../forum-archive/t/qt-wallet-update/2577/1</link>
+        <pubDate>Thu, 27 Aug 2020 21:49:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-6202</guid>
+      </item>
+  </channel>
+</rss>

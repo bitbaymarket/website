@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Error Loading Block Database</title>
+    <link>..../forum-archive/t/error-loading-block-database/2440</link>
+    <description>My system has the following specifications 
+
+QT Wallet 3.0.2.0
+Operating System and version: Windows 10
+
+Hello,
+I was synchronising the blockchain since  a few days. My computer was down, so I opened it again. 
+Now when I launch the QT Wallet, it starts by loading the index block, then I have the message &quot;Error Loading Block Database&quot;.
+
+Anything I can do ?</description>
+    
+    <lastBuildDate>Tue, 26 May 2020 07:52:35 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/error-loading-block-database/2440.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Error Loading Block Database</title>
+        <dc:creator><![CDATA[@Joseph Joseph]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/joseph">@Joseph</a> wrote:</p>
+          <blockquote>
+              <p>My system has the following specifications</p>
+<p>QT Wallet 3.0.2.0<br>
+Operating System and version: Windows 10</p>
+<p>Hello,<br>
+I was synchronising the blockchain since  a few days. My computer was down, so I opened it again.<br>
+Now when I launch the QT Wallet, it starts by loading the index block, then I have the message “Error Loading Block Database”.</p>
+<p>Anything I can do ?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/error-loading-block-database/2440/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/error-loading-block-database/2440/1</link>
+        <pubDate>Tue, 26 May 2020 07:52:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2440-1</guid>
+        <source url="..../forum-archive/t/error-loading-block-database/2440.rss">Error Loading Block Database</source>
+      </item>
+  </channel>
+</rss>

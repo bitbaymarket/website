@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Pleas help to sync?</title>
+    <link>..../forum-archive/t/pleas-help-to-sync/2331</link>
+    <description>I have importet private key to QT wallet but I dont no what to do. There is zero balance even there is coins in webwallet. I have waited for days it to sync but nothing happens. I cant find any sync button. So I cant do anything with those coins.</description>
+    
+    <lastBuildDate>Fri, 03 Apr 2020 11:19:30 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/pleas-help-to-sync/2331.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Pleas help to sync?</title>
+        <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <blockquote>
+              <p>Good question. I will forward this to our project manager</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/pleas-help-to-sync/2331/8">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/pleas-help-to-sync/2331/8</link>
+        <pubDate>Fri, 03 Apr 2020 11:19:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2331-8</guid>
+        <source url="..../forum-archive/t/pleas-help-to-sync/2331.rss">Pleas help to sync?</source>
+      </item>
+      <item>
+        <title>Pleas help to sync?</title>
+        <dc:creator><![CDATA[@Zetor890 Teemu Ylikulju]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/zetor890">@Zetor890</a> wrote:</p>
+          <blockquote>
+              <p>So my biggest fear is that all those instructions lead to a situation where someone can take my coins. I really dont understand why I just cant download newest QT version in the first place. Why is BitBay site delivering old version of QT wallet if they already know it doesnt work etc.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/pleas-help-to-sync/2331/7">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/pleas-help-to-sync/2331/7</link>
+        <pubDate>Fri, 03 Apr 2020 10:33:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2331-7</guid>
+        <source url="..../forum-archive/t/pleas-help-to-sync/2331.rss">Pleas help to sync?</source>
+      </item>
+      <item>
+        <title>Pleas help to sync?</title>
+        <dc:creator><![CDATA[@Zetor890 Teemu Ylikulju]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/zetor890">@Zetor890</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for reply.</p>
+<p>First: I didnt found those files mentioned to back up, I tried to look hidden files/folders too but couldnt find them. Now I cant find my user name att all. What is happening?</p>
+<p>Second: I never find where to launch Bitbay QT client so I always used Winrar to launch it. WIndows search didnt found anything when I wrote Bitbay (only that .rar file).</p>
+<p>Third: Why should I back up those things in section First? Why cant I just download the latest version of QT wallet and I would be fine. Why on earth this would have made so hard for Bitbay users to first download older version, then do some back ups and then download newest version. Why wouldnt the newest version just remove the older version like almost all programs these days do. Would I lose coins if I wouldnt do back ups (coins that never where in the wallet in first place since it would have took several days to sync the wallet).</p>
+<p>Forth: I started QT wallet (old version) again from .rar file and it continues syncing where it left yesterday. I cant see my private key there anymore in Debug/Console window.</p>
+<p>Im really confused now what should I do. I cant find those things I should back up. Im not sure should I wait a few days this “old” QT client is in sync.</p>
+<p>Please help. There is considerable amount of money in those coins which would be needed especially in these hard times.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/pleas-help-to-sync/2331/6">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/pleas-help-to-sync/2331/6</link>
+        <pubDate>Fri, 03 Apr 2020 09:01:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2331-6</guid>
+        <source url="..../forum-archive/t/pleas-help-to-sync/2331.rss">Pleas help to sync?</source>
+      </item>
+      <item>
+        <title>Pleas help to sync?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Okay, it looks like you are running an older version which is on the wrong chain. Please carefully follow this tutorial to update your wallet to the latest version (3.0.2b), <strong><em>then</em></strong> you can import your private key.</p>
+<p>Once finished, you will be able to fully sync and send coins etc.</p>
+<aside class="quote quote-modified" data-post="1" data-topic="2317">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.bitbay.market/sh_rn/40/27_1.png" class="avatar">
+    <a href="..../forum-archive/t/how-to-fix-the-chain-split-issue-on-qt-wallet-mandatory-for-users/2317">How to fix the chain split issue on Qt wallet (**MANDATORY FOR USERS**)</a> <a class="badge-wrapper  bullet" href="/c/support"><span class="badge-category-bg" style="background-color: #3AB54A;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="The support section is here to help you solve any issues you encounter while using Bitbay’s wallets.
+To ensure efficient communication when you describe your problem, please provide the following informations:">Support</span></a>
+  </div>
+  <blockquote>
+    Please complete the following steps to download and install the new bootstrap and QT wallet.
+It is necessary to follow the steps in the correct order. 
+
+Back up your “wallet.dat” and “BitBay” folder before moving to step two. Depending on your operating system, the BitBay data folder can be found in these locations:
+
+
+
+Windows users: users/“yourusername”/appdata/roaming/Bitbay folder (make sure you have “show hidden files” selected) 
+
+
+Mac users: ~/Library &gt; Application Support &gt; BitBay 
+
+
+Linux…
+  </blockquote>
+</aside>
+
+<p>Let us know if you have any issues.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/pleas-help-to-sync/2331/5">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/pleas-help-to-sync/2331/5</link>
+        <pubDate>Thu, 02 Apr 2020 17:44:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2331-5</guid>
+        <source url="..../forum-archive/t/pleas-help-to-sync/2331.rss">Pleas help to sync?</source>
+      </item>
+      <item>
+        <title>Pleas help to sync?</title>
+        <dc:creator><![CDATA[@Zetor890 Teemu Ylikulju]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/zetor890">@Zetor890</a> wrote:</p>
+          <blockquote>
+              <p>Version 5.11.1   dont know if its the latest but I guess it is since I downloaded it resently. Now there is about 3.7 years left to sync so I think it takes a few days until its over. Does it continue to sync if I turn PC off or does it start from the beginning?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/pleas-help-to-sync/2331/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/pleas-help-to-sync/2331/4</link>
+        <pubDate>Thu, 02 Apr 2020 16:26:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2331-4</guid>
+        <source url="..../forum-archive/t/pleas-help-to-sync/2331.rss">Pleas help to sync?</source>
+      </item>
+      <item>
+        <title>Pleas help to sync?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Hi,</p>
+<p>What version of the QT are you running?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/pleas-help-to-sync/2331/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/pleas-help-to-sync/2331/3</link>
+        <pubDate>Thu, 02 Apr 2020 15:05:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2331-3</guid>
+        <source url="..../forum-archive/t/pleas-help-to-sync/2331.rss">Pleas help to sync?</source>
+      </item>
+      <item>
+        <title>Pleas help to sync?</title>
+        <dc:creator><![CDATA[@Zetor890 Teemu Ylikulju]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/zetor890">@Zetor890</a> wrote:</p>
+          <blockquote>
+              <p>Now it started to synch but 4,5 years late or something.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/pleas-help-to-sync/2331/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/pleas-help-to-sync/2331/2</link>
+        <pubDate>Thu, 02 Apr 2020 11:36:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2331-2</guid>
+        <source url="..../forum-archive/t/pleas-help-to-sync/2331.rss">Pleas help to sync?</source>
+      </item>
+      <item>
+        <title>Pleas help to sync?</title>
+        <dc:creator><![CDATA[@Zetor890 Teemu Ylikulju]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/zetor890">@Zetor890</a> wrote:</p>
+          <blockquote>
+              <p>I have importet private key to QT wallet but I dont no what to do. There is zero balance even there is coins in webwallet. I have waited for days it to sync but nothing happens. I cant find any sync button. So I cant do anything with those coins.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/pleas-help-to-sync/2331/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/pleas-help-to-sync/2331/1</link>
+        <pubDate>Thu, 02 Apr 2020 10:38:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2331-1</guid>
+        <source url="..../forum-archive/t/pleas-help-to-sync/2331.rss">Pleas help to sync?</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<!-- Mirrored from forum.bitbay.market/t/how-to-build-the-bitbay-qt-from-source/57 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Sep 2020 11:29:15 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>How to build the BitBay QT from Source - Get Started Guides - BitBay Community</title>
+    <meta name="description" content="Linux QT wallet install for Debian Jessie 
+n.b. this does not work for Stretch at the moment and hasn’t been tried in ubuntu. 
+To start: 
+Go here to set up your super user 
+
+ 
+Then here for referrence 
+
+ 
+Then follow the&amp;hellip;">
+    <meta name="author" content="">
+<meta name="generator" content="Discourse 2.2.0.beta4 - https://github.com/discourse/discourse version b39d949a8eb5a9c70c33adbe17eb4f8b8e1e02ef">
+<link rel="icon" type="image/png" href="../../uploads/default/original/1X/d06511d7ad17e341031cb6f75d121f5e34e89215.png">
+<link rel="apple-touch-icon" type="image/png" href="../../uploads/default/original/1X/0c67df35e8d0772b12017fd21e576c3d030a22d8.png">
+<link rel="icon" type="image/png" sizes="144x144" href="../../uploads/default/original/1X/0c67df35e8d0772b12017fd21e576c3d030a22d8.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+<link rel="canonical" href="57.html" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"..../forum-archive","potentialAction":{"@type":"SearchAction","target":"..../forum-archive/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="../../opensearch.xml" title="BitBay Community Search">
+
+      <link href="../../stylesheets/desktop_2f1f8599efd84bbbcbb60613ecbbc7a5f1c7d35dfd7c.css?__ws=..../forum-archive" media="all" rel="stylesheet" data-target="desktop" data-theme-id="3"/>
+      <link href="../../stylesheets/desktop_theme_3_1261561f4ed964d15d6f7796f9363e8d6c39cee2fd7c.css?__ws=..../forum-archive" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="3"/>
+    <script src="../../ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js" type="text/javascript"></script>
+<script src="../../theme-javascripts/e5f50adb15f3efef34fac9bbc866e60998e106b3fd7c.js?__ws=..../forum-archive"></script>
+    <meta id="data-ga-universal-analytics" data-tracking-code="UA-3386745-35" data-json="{&quot;cookieDomain&quot;:&quot;auto&quot;}" data-auto-link-domains="">
+
+<link rel='preload' href='../../assets/google-universal-analytics-f35b4da49411e6f5559073523aab983da483976a3954c79c756f8579f6fbd6ef.js' as='script'/>
+<script src='../../assets/google-universal-analytics-f35b4da49411e6f5559073523aab983da483976a3954c79c756f8579f6fbd6ef.js'></script>
+
+      <link rel="alternate" type="application/rss+xml" title="RSS feed of &#39;How to build the BitBay QT from Source&#39;" href="57.rss" />
+  <meta property="og:site_name" content="BitBay Community" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://www.privateinternetaccess.com/favicon.ico" />
+<meta property="og:image" content="https://www.privateinternetaccess.com/favicon.ico" />
+<meta property="og:url" content="..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57" />
+<meta name="twitter:url" content="..../forum-archive/t/how-to-build-the-bitbay-qt-from-source/57" />
+<meta property="og:title" content="How to build the BitBay QT from Source" />
+<meta name="twitter:title" content="How to build the BitBay QT from Source" />
+<meta property="og:description" content="Linux QT wallet install for Debian Jessie  n.b. this does not work for Stretch at the moment and hasn’t been tried in ubuntu.  To start:  Go here to set up your super user     Then here for referrence     Then follow these commands in terminal  sudo apt-get install git  git clone https://github.com/dzimbeck/BitBay.git  cd BitBay  chmod +x linux64BitBay.sh  ./linux64BitBay.sh --reset --force --build  cd ..  cd bitbay/bitbay   chmod +x linux-qt-dependencies.sh ./linux-qt-dependencies.sh  chmod +x ..." />
+<meta name="twitter:description" content="Linux QT wallet install for Debian Jessie  n.b. this does not work for Stretch at the moment and hasn’t been tried in ubuntu.  To start:  Go here to set up your super user     Then here for referrence     Then follow these commands in terminal  sudo apt-get install git  git clone https://github.com/dzimbeck/BitBay.git  cd BitBay  chmod +x linux64BitBay.sh  ./linux64BitBay.sh --reset --force --build  cd ..  cd bitbay/bitbay   chmod +x linux-qt-dependencies.sh ./linux-qt-dependencies.sh  chmod +x ..." />
+<meta property="article:published_time" content="2017-11-30T11:40:28+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+
+
+
+    
+  </head>
+  <body class="crawler">
+    <div id="aboveheader" class="customcontainer w-clearfix">
+    <a class="logo w-clearfix w-nav-brand" href="../../index.html">
+        <img alt="home" class="logoimage" src="../../uploads/default/original/1X/a1e532ebc9baad3f476ce22b0324c0c31e0f09e6.png" height="40">
+    </a>
+    <nav class="nav-menu w-nav-menu" role="navigation">
+      <a class="navlink w-nav-link" href="../../c/get-started-guides.html">Guides</a>
+      <a class="navlink w-nav-link" href="../../c/support.html">Support</a>
+      <a class="navlink w-nav-link" href="../../c/about-bitbay.html">About BitBay</a>
+      <a class="navlink w-nav-link" href="../../../wallet.bitbay.market/index.html" target="_blank">Wallet</a> 
+      <a class="navlink w-nav-link" href="https://blog.bitbay.market/" target="_blank">Blog</a>
+      <a class="navlink w-nav-link" href="http://explorer.bitbay.market/" target="_blank">Explorer</a>
+      <a class="navlink w-nav-link" href="https://bitbay.market/" target="_blank">BitBay Website</a>
+    </nav>
+  </div>
+    <header>
+      <a href="../../index.html">
+          <img src="../../uploads/default/original/1X/c3ed3becd0be62a269541e33a842a0301c20cd51.svg" alt="BitBay Community" id="site-logo" style="max-width: 150px;">
+      </a>
+    </header>
+    <div id="main-outlet" class="wrap">
+      <h1>
+  <a href="57.html">How to build the BitBay QT from Source</a>
+</h1>
+
+<div id='breadcrumbs'>
+    <div id="breadcrumb-0" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"
+>
+      <a href="../../c/get-started-guides.html" itemprop="url">
+        <span itemprop="title">Get Started Guides</span>
+      </a>
+    </div>
+</div>
+
+
+
+
+
+<hr>
+
+
+  <div itemscope itemtype='http://schema.org/DiscussionForumPosting'>
+      <div class='creator'>
+        <span>
+          <a href='../../u/sh_rn.html'><b itemprop='author'>sh_rn</b></a>
+           
+           <time datetime='2017-11-30T11:40:28Z' itemprop='datePublished'>
+             2017-11-30 11:40:28 UTC
+           </time>
+        </span>
+        <span itemprop='position'>#1</span>
+      </div>
+      <div class='post' itemprop='articleBody'>
+        <p>Linux QT wallet install for Debian Jessie</p>
+<p>n.b. this does not work for Stretch at the moment and hasn’t been tried in ubuntu.</p>
+<p>To start:</p>
+<p>Go here to set up your super user<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://www.privateinternetaccess.com/favicon.ico" class="site-icon" width="16" height="16">
+      <a href="https://www.privateinternetaccess.com/forum/discussion/18063/debian-8-1-0-jessie-sudo-fix-not-installed-by-default" target="_blank" rel="nofollow noopener">PIA</a>
+  </header>
+  <article class="onebox-body">
+    <img src="../../uploads/default/original/1X/030ab06de9907b4049e4fc9e7817e5f9bf39b32d.png" class="thumbnail onebox-avatar" width="200" height="200">
+
+<h3><a href="https://www.privateinternetaccess.com/forum/discussion/18063/debian-8-1-0-jessie-sudo-fix-not-installed-by-default" target="_blank" rel="nofollow noopener">debian 8.1.0 jessie - sudo fix (not installed by default)</a></h3>
+
+<p>Debian seems to not have sudo installed by default.  Here is how to install sudo and add your username to the sudoers file.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>Then here for referrence<br>
+<aside class="onebox githubblob">
+  <header class="source">
+      <a href="https://github.com/dzimbeck/BitBay/blob/master/BUILD-Readme.txt" target="_blank" rel="nofollow noopener">github.com</a>
+  </header>
+  <article class="onebox-body">
+    <h4><a href="https://github.com/dzimbeck/BitBay/blob/master/BUILD-Readme.txt" target="_blank" rel="nofollow noopener">dzimbeck/BitBay/blob/master/BUILD-Readme.txt</a></h4>
+<pre><code class="lang-txt">If any of the patches don't work, then you can simply read the emails
+and apply the patch manually by adding and removing the lines they
+recommend in each file.
+
+If leveldb fails, just use the files in the included folders for your platform
+to replace the built ones in the src/leveldb directory
+
+These scripts were tested on the following OS below, they can and should
+work on many other OS. If you are running a different OS, simply remove
+the check for it in the SH file.
+
+== Prerequisite ==
+
+needed OS:
+
+win32: Debian 8 (jessie) x86_64 (VM or chroot)
+
+linux32: Debian 7 (wheezy) i386 (VM or chroot)
+
+linux64: Debian 7 (wheezy) x86_64 (VM or chroot)
+</code></pre>
+
+  This file has been truncated. <a href="https://github.com/dzimbeck/BitBay/blob/master/BUILD-Readme.txt" target="_blank" rel="nofollow noopener">show original</a>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>Then follow these commands in terminal</p>
+<pre><code>sudo apt-get install git
+
+git clone https://github.com/dzimbeck/BitBay.git
+
+cd BitBay
+
+chmod +x linux64BitBay.sh
+
+./linux64BitBay.sh --reset --force --build
+
+cd ..
+
+cd bitbay/bitbay
+
+
+chmod +x linux-qt-dependencies.sh
+./linux-qt-dependencies.sh
+
+chmod +x makeqt-linux.sh
+./makeqt-linux.sh
+</code></pre>
+<p>This process takes about 10-30 minutes depending on speed of computer</p>
+<p>Once complete in same directory…</p>
+<p><code>./bitbay-qt</code></p>
+<p>Your blockchain and data folder can be found in the home directory as a hidden .bitbay directory</p>
+<p>The program doesn’t come with a bitbay.conf file to help you connect to network</p>
+<p>Create a file  called bitbay.conf<br>
+Open gedit and create new file with this text in it:</p>
+<pre><code>server=1
+rpcuser=bitbayrpc
+rpcpassword=4c80db0bfc751aaadba16bb8ed2c9f050d00952b476b83cc96e24909c06625b3
+rpcport=19915
+addnode=104.238.169.84
+addnode=107.218.48.181
+addnode=113.59.206.19
+addnode=128.235.139.77
+addnode=135.23.125.66
+addnode=142.255.92.227
+addnode=146.255.175.131
+addnode=151.80.186.24
+addnode=162.72.254.164
+addnode=165.91.13.135
+addnode=172.116.88.221
+addnode=174.24.242.81
+addnode=174.50.118.218
+addnode=176.150.146.190
+addnode=189.5.212.211
+addnode=199.189.26.13
+addnode=199.189.26.19
+addnode=212.3.193.47
+addnode=213.87.225.214
+addnode=216.6.183.201
+addnode=24.162.248.106
+addnode=24.166.59.144
+addnode=24.225.204.112
+addnode=40.112.149.192
+addnode=46.59.49.71
+addnode=50.41.214.229
+addnode=65.128.85.110
+addnode=67.173.120.250
+addnode=68.100.192.184
+addnode=68.147.112.31
+addnode=68.46.238.155
+addnode=69.250.107.102
+addnode=71.234.232.8
+addnode=72.227.170.97
+addnode=72.239.3.80
+addnode=73.222.225.197
+addnode=75.83.248.12
+addnode=76.23.125.0
+addnode=76.69.65.236
+addnode=77.172.214.202
+addnode=77.86.197.94
+addnode=78.132.1.64
+addnode=78.132.77.65
+addnode=78.144.66.42
+addnode=78.20.105.124
+addnode=80.89.75.231
+addnode=82.101.198.115
+addnode=82.129.126.185
+addnode=82.20.109.111
+addnode=82.217.167.158
+addnode=88.130.57.51
+addnode=88.130.57.88
+addnode=91.192.135.98
+addnode=93.48.88.129
+addnode=94.192.163.164
+addnode=95.104.62.203
+addnode=95.21.169.102
+addnode=95.211.95.247
+addnode=95.211.95.248
+addnode=95.211.95.249
+addnode=95.90.205.127
+addnode=95.91.230.26
+addnode=99.103.18.242
+addnode=99.20.141.243
+addnode=99.237.236.193
+addnode=45.28.140.116
+addnode=46.208.58.217
+addnode=46.233.215.30
+addnode=46.235.32.6
+addnode=46.4.37.190
+addnode=49.50.218.215
+addnode=5.189.156.99
+addnode=5.198.101.104
+addnode=50.41.223.118
+addnode=51.254.45.117
+addnode=51.7.254.198
+addnode=60.242.23.7
+addnode=62.178.40.4
+addnode=62.238.180.236
+addnode=62.57.193.29
+addnode=65.128.85.110
+addnode=67.165.94.226
+addnode=67.173.120.250
+addnode=67.183.29.189
+addnode=68.197.208.77
+addnode=68.46.238.155
+addnode=69.197.188.186
+addnode=69.203.109.7
+addnode=69.250.107.102
+addnode=69.61.169.124
+addnode=70.119.124.134
+addnode=70.122.32.5
+addnode=70.127.184.55
+addnode=70.71.157.109
+addnode=71.197.52.238
+addnode=72.199.168.135
+addnode=72.22.151.109
+addnode=73.162.63.60
+addnode=73.172.109.27
+addnode=73.222.225.197
+addnode=73.241.114.206
+addnode=73.241.24.24
+addnode=73.54.180.205
+</code></pre>
+<p>Save this bitbay.conf file in your ‘hidden’ /.bitbay directory</p>
+<p>You can get a fresh copy of nodes at</p>
+<p><a href="https://chainz.cryptoid.info/bay/#!network" class="onebox" target="_blank">https://chainz.cryptoid.info/bay/#!network</a><br>
+or<br>
+<a href="http://explorer.bitbay.market/network" class="onebox" target="_blank">http://explorer.bitbay.market/network</a></p>
+<p>Then restart the qt wallet and you should get plenty of connections.</p>
+      </div>
+      <meta itemprop='interactionCount' content='UserLikes:0'>
+      <meta itemprop='interactionCount' content='UserComments:0'>
+      <meta itemprop='headline' content='How to build the BitBay QT from Source'>
+      <hr>
+            <a href="../ubuntu-installation/888/4.html">Ubuntu Installation?</a>
+            <hr>
+  </div>
+  <div itemscope itemtype='http://schema.org/DiscussionForumPosting'>
+      <div class='creator'>
+        <span>
+          <a href='../../u/sh_rn.html'><b itemprop='author'>sh_rn</b></a>
+           
+           <time datetime='2017-12-03T14:24:24Z' itemprop='datePublished'>
+             2017-12-03 14:24:24 UTC
+           </time>
+        </span>
+        <span itemprop='position'>#2</span>
+      </div>
+      <div class='post' itemprop='articleBody'>
+        
+      </div>
+      <meta itemprop='interactionCount' content='UserLikes:0'>
+      <meta itemprop='interactionCount' content='UserComments:0'>
+      <meta itemprop='headline' content='How to build the BitBay QT from Source'>
+      <hr>
+  </div>
+
+
+
+
+
+
+    </div>
+    <footer class="container">
+      <nav class='crawler-nav' itemscope itemtype='http://schema.org/SiteNavigationElement'>
+        <a href='../../index.html'>Home</a>
+        <a href="../../categories.html">Categories</a>
+        <a href="../../guidelines.html">FAQ/Guidelines</a>
+        <a href="../../tos.html">Terms of Service</a>
+        <a href="../../privacy.html">Privacy Policy</a>
+      </nav>
+      <p class='powered-by-link'>Powered by <a href="https://www.discourse.org/">Discourse</a>, best viewed with JavaScript enabled</p>
+    </footer>
+    <script src="../../theme-javascripts/ba5a3ec0ca3c6ef9f2d4e6452094423fc2e29790fd7c.js?__ws=..../forum-archive"></script>
+  </body>
+  
+
+<!-- Mirrored from forum.bitbay.market/t/how-to-build-the-bitbay-qt-from-source/57 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 16 Sep 2020 11:29:16 GMT -->
+</html>

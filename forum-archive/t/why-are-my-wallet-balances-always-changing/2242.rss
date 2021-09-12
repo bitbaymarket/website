@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Why are my wallet balances always changing?</title>
+    <link>..../forum-archive/t/why-are-my-wallet-balances-always-changing/2242</link>
+    <description>Have no fear, this is exactly what the Dynamic Peg is design to do.
+
+The core function of this system is to split BitBay&#39;s total supply into two (2) different tradeable assets: 
+
+**Spendable (BAY)** and **Reserve (BAYR)**.  
+
+The ratio between these two assets is constantly in flux, due to voting of stakers on the BitBay blockchain. 
+
+When the voting consensus is **&quot;deflate&quot;**, the total supply of **Liquid BAY _decreases_** and the total supply of **Reserve BAYR _increases_**. 
+
+When the voting consensus **&quot;inflate&quot;** the supply of **Liquid BAY _increases_** and the total supply of **BAYR _decreases_**.
+
+This is the core concept of how the Dynamic Peg works. As the ratio of the total changes, it is reflected in each and every user&#39;s wallet. 
+
+### Find more information here:
+
+[Intro to the Dynamic Peg](..../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207)
+
+[What is the Dynamic Peg?](..../forum-archive/t/what-is-the-dynamic-peg/2177)
+
+[Dynamic Peg FAQ](..../forum-archive/c/dynamic-peg-faq)
+
+**Questions, comments, concerns? Please post them in the comments below!**</description>
+    
+    <lastBuildDate>Wed, 01 Apr 2020 00:15:24 +0000</lastBuildDate>
+    <category>Dynamic Peg - FAQ</category>
+    <atom:link href="..../forum-archive/t/why-are-my-wallet-balances-always-changing/2242.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Why are my wallet balances always changing?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Have no fear, this is exactly what the Dynamic Peg is design to do.</p>
+<p>The core function of this system is to split BitBay’s total supply into two (2) different tradeable assets:</p>
+<p><strong>Spendable (BAY)</strong> and <strong>Reserve (BAYR)</strong>.</p>
+<p>The ratio between these two assets is constantly in flux, due to voting of stakers on the BitBay blockchain.</p>
+<p>When the voting consensus is <strong>“deflate”</strong>, the total supply of <strong>Liquid BAY <em>decreases</em></strong> and the total supply of <strong>Reserve BAYR <em>increases</em></strong>.</p>
+<p>When the voting consensus <strong>“inflate”</strong> the supply of <strong>Liquid BAY <em>increases</em></strong> and the total supply of <strong>BAYR <em>decreases</em></strong>.</p>
+<p>This is the core concept of how the Dynamic Peg works. As the ratio of the total changes, it is reflected in each and every user’s wallet.</p>
+<h3>Find more information here:</h3>
+<p><a href="..../forum-archive/t/a-quick-guide-to-the-dynamic-peg/2207">Intro to the Dynamic Peg</a></p>
+<p><a href="..../forum-archive/t/what-is-the-dynamic-peg/2177">What is the Dynamic Peg?</a></p>
+<p><a href="..../forum-archive/c/dynamic-peg-faq">Dynamic Peg FAQ</a></p>
+<p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/why-are-my-wallet-balances-always-changing/2242/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/why-are-my-wallet-balances-always-changing/2242/1</link>
+        <pubDate>Tue, 18 Feb 2020 12:56:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2242-1</guid>
+        <source url="..../forum-archive/t/why-are-my-wallet-balances-always-changing/2242.rss">Why are my wallet balances always changing?</source>
+      </item>
+  </channel>
+</rss>

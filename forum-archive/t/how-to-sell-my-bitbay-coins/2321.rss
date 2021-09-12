@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to sell my Bitbay coins?</title>
+    <link>..../forum-archive/t/how-to-sell-my-bitbay-coins/2321</link>
+    <description>I bought long time ago some Bitbay and they are in my phone but I dont know how I could sell them. I tried to send them to Latoken but nothing happened, that 2 weeks ago. Is there any exchange where I could sell them to FIAT or BTC?</description>
+    
+    <lastBuildDate>Thu, 02 Apr 2020 20:40:19 +0000</lastBuildDate>
+    <category>Uncategorized</category>
+    <atom:link href="..../forum-archive/t/how-to-sell-my-bitbay-coins/2321.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to sell my Bitbay coins?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Hi,</p>
+<p>Please ensure you are on the correct version by following these steps carefully:</p>
+<aside class="quote quote-modified" data-post="1" data-topic="2317">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.bitbay.market/sh_rn/40/27_1.png" class="avatar">
+    <a href="..../forum-archive/t/how-to-fix-the-chain-split-issue-on-qt-wallet-mandatory-for-users/2317">How to fix the chain split issue on Qt wallet (**MANDATORY FOR USERS**)</a> <a class="badge-wrapper  bullet" href="/c/support"><span class="badge-category-bg" style="background-color: #3AB54A;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="The support section is here to help you solve any issues you encounter while using Bitbay’s wallets.
+To ensure efficient communication when you describe your problem, please provide the following informations:">Support</span></a>
+  </div>
+  <blockquote>
+    Please complete the following steps to download and install the new bootstrap and QT wallet.
+It is necessary to follow the steps in the correct order. 
+
+Back up your “wallet.dat” and “BitBay” folder before moving to step two. Depending on your operating system, the BitBay data folder can be found in these locations:
+
+
+
+Windows users: users/“yourusername”/appdata/roaming/Bitbay folder (make sure you have “show hidden files” selected) 
+
+
+Mac users: ~/Library &gt; Application Support &gt; BitBay 
+
+
+Linux…
+  </blockquote>
+</aside>
+
+<p>Once you follow that process, you will be able to sync 100%, and send coins successfully.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-sell-my-bitbay-coins/2321/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-sell-my-bitbay-coins/2321/4</link>
+        <pubDate>Thu, 02 Apr 2020 20:40:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2321-4</guid>
+        <source url="..../forum-archive/t/how-to-sell-my-bitbay-coins/2321.rss">How to sell my Bitbay coins?</source>
+      </item>
+      <item>
+        <title>How to sell my Bitbay coins?</title>
+        <dc:creator><![CDATA[@Zetor890 Teemu Ylikulju]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/zetor890">@Zetor890</a> wrote:</p>
+          <blockquote>
+              <p>I put private key to QT wallet but it is not synced and I cant find anywhere to sync. I cant see my coins. How to sync the wallet or what should I do?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-sell-my-bitbay-coins/2321/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-sell-my-bitbay-coins/2321/3</link>
+        <pubDate>Wed, 01 Apr 2020 12:42:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2321-3</guid>
+        <source url="..../forum-archive/t/how-to-sell-my-bitbay-coins/2321.rss">How to sell my Bitbay coins?</source>
+      </item>
+      <item>
+        <title>How to sell my Bitbay coins?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Hi,</p>
+<p>So far, only the QT wallet and the Markets Client have been updated to support the dynamic peg. The web wallet is next on the list of items to update. It is currently impossible to send your coins directly to the exchange, because they are on a different fork of the BitBay blockchain.</p>
+<p>To get your coins out of your web/mobile wallet, you must first import your private key into the QT Wallet or Markets Client. Then you can send them to the exchange.</p>
+<p>Here is a tutorial on how to import a private key into the QT wallet:<br>
+<aside class="quote quote-modified" data-post="1" data-topic="2227">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.bitbay.market/tradersnow/40/523_1.png" class="avatar">
+    <a href="..../forum-archive/t/how-to-import-your-bitbay-web-wallet-private-key-into-the-bitbay-qt-wallet/2227">How to import your BitBay Web Wallet private key into the BitBay QT wallet</a> <a class="badge-wrapper  bullet" href="/c/get-started-guides"><span class="badge-category-bg" style="background-color: #95d540;"></span><span style="" data-drop-close="true" class="badge-category clear-badge">Get Started Guides</span></a>
+  </div>
+  <blockquote>
+    How to import your BitBay Web Wallet private key into the BitBay QT wallet:
+***Note: The web wallet is currently on an old fork of BitBay. To spend any funds from your web wallet address, you must FIRST import your web wallet private key into the BitBay QT wallet application. 
+This is MANDATORY until the web wallet is updated to work with the Dynamic Peg. 
+If you have any questions, please leave a comment below. 
+1. Enter your wallet log-in information, and click “Load/Create Wallet” to gain acc…
+  </blockquote>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-sell-my-bitbay-coins/2321/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-sell-my-bitbay-coins/2321/2</link>
+        <pubDate>Mon, 30 Mar 2020 14:19:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2321-2</guid>
+        <source url="..../forum-archive/t/how-to-sell-my-bitbay-coins/2321.rss">How to sell my Bitbay coins?</source>
+      </item>
+      <item>
+        <title>How to sell my Bitbay coins?</title>
+        <dc:creator><![CDATA[@Zetor890 Teemu Ylikulju]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/zetor890">@Zetor890</a> wrote:</p>
+          <blockquote>
+              <p>I bought long time ago some Bitbay and they are in my phone but I dont know how I could sell them. I tried to send them to Latoken but nothing happened, that 2 weeks ago. Is there any exchange where I could sell them to FIAT or BTC?</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-sell-my-bitbay-coins/2321/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-sell-my-bitbay-coins/2321/1</link>
+        <pubDate>Mon, 30 Mar 2020 12:27:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2321-1</guid>
+        <source url="..../forum-archive/t/how-to-sell-my-bitbay-coins/2321.rss">How to sell my Bitbay coins?</source>
+      </item>
+  </channel>
+</rss>

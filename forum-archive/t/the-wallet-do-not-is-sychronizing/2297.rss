@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The wallet do not is sychronizing</title>
+    <link>..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297</link>
+    <description>My system has the following specifications 
+
+QT Wallet, Client Wallet (and version) or Web wallet: v3.0.0.13-gf683bd6
+OpenSSL 1.0.2n  7 Dec 2017
+Operating System and version: windows nt
+
+
+If desktop wallet (Qt or Client) block # of your client and # of connections: 2501740 lun feb 24 20:25:04 2020
+
+The problem I am having is : my Qt wallet do not is synchronizing. It is stopped at the block 2501740 and still 3 weeks behind</description>
+    
+    <lastBuildDate>Tue, 31 Mar 2020 09:26:07 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>The wallet do not is sychronizing</title>
+        <dc:creator><![CDATA[@Yakuyaku13767 enzo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/yakuyaku13767">@Yakuyaku13767</a> wrote:</p>
+          <blockquote>
+              <p>hello Craigh,<br>
+Hello Craig,<br>
+the 10 k bay send from my Q Wallet to Latoken I never recived to my Latoken account.<br>
+they are still “in conflict”</p>
+<p>Stato: in conflitto<br>
+Data: 23/03/2020 11:24<br>
+A: latoken enzo BECgQ2XwTRLFW1V6oZSehXPuqjXnMi6v7V<br>
+Debito: -10,000.00 BAY<br>
+Commissione transazione: -0.00015 BAY<br>
+Importo netto: -10,000.00015 BAY<br>
+ID della transazione: e1be317d4dbd80d2556cd3f17a2f104125dabe6c9e9349b631d049dd7523432a</p>
+<p>thank you<br>
+enzo</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/8">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/8</link>
+        <pubDate>Tue, 31 Mar 2020 09:26:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2297-8</guid>
+        <source url="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297.rss">The wallet do not is sychronizing</source>
+      </item>
+      <item>
+        <title>The wallet do not is sychronizing</title>
+        <dc:creator><![CDATA[@Yakuyaku13767 enzo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/yakuyaku13767">@Yakuyaku13767</a> wrote:</p>
+          <blockquote>
+              <p>ok Craig,<br>
+I’m waiting.<br>
+see you soon<br>
+Enzo</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/7">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/7</link>
+        <pubDate>Wed, 25 Mar 2020 11:10:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2297-7</guid>
+        <source url="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297.rss">The wallet do not is sychronizing</source>
+      </item>
+      <item>
+        <title>The wallet do not is sychronizing</title>
+        <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <blockquote>
+              <p>Yes I apologize. We are currently experiencing a split chain bug with our new protocol. Your coins are safe.</p>
+<p>Give us some more time and we will fix this split chain issue.</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/6">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/6</link>
+        <pubDate>Wed, 25 Mar 2020 10:56:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2297-6</guid>
+        <source url="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297.rss">The wallet do not is sychronizing</source>
+      </item>
+      <item>
+        <title>The wallet do not is sychronizing</title>
+        <dc:creator><![CDATA[@Yakuyaku13767 enzo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/yakuyaku13767">@Yakuyaku13767</a> wrote:</p>
+          <blockquote>
+              <p>Hello Craig, another issue,<br>
+I send to Latoken 10 k bay and till now i did not recived I my account</p>
+<p>this is the transaction:</p>
+<p>Stato: 1224 conferme<br>
+Data: 23/03/2020 11:24<br>
+A: latoken enzo BECgQ2XwTRLFW1V6oZSehXPuqjXnMi6v7V<br>
+Debito: -10,000.00 BAY<br>
+Commissione transazione: -0.00015 BAY<br>
+Importo netto: -10,000.00015 BAY<br>
+ID della transazione: e1be317d4dbd80d2556cd3f17a2f104125dabe6c9e9349b631d049dd7523432a</p>
+<p>thank you</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/5">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/5</link>
+        <pubDate>Tue, 24 Mar 2020 10:19:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2297-5</guid>
+        <source url="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297.rss">The wallet do not is sychronizing</source>
+      </item>
+      <item>
+        <title>The wallet do not is sychronizing</title>
+        <dc:creator><![CDATA[@Yakuyaku13767 enzo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/yakuyaku13767">@Yakuyaku13767</a> wrote:</p>
+          <blockquote>
+              <p>thank you Craig,<br>
+till now all right.<br>
+see you soon<br>
+Enzo</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/4">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/4</link>
+        <pubDate>Mon, 23 Mar 2020 13:39:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2297-4</guid>
+        <source url="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297.rss">The wallet do not is sychronizing</source>
+      </item>
+      <item>
+        <title>The wallet do not is sychronizing</title>
+        <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <blockquote>
+              <p>The bootstrap can be very fast depending on your geographics and computer ram.</p>
+<p>I have linux OS. I downloaded the entire blockchain in under 2 hours with bootstrap, I have 64 gig ram computer</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/3">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/3</link>
+        <pubDate>Sun, 22 Mar 2020 16:47:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2297-3</guid>
+        <source url="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297.rss">The wallet do not is sychronizing</source>
+      </item>
+      <item>
+        <title>The wallet do not is sychronizing</title>
+        <dc:creator><![CDATA[@Craig_Claussen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/craig_claussen">@Craig_Claussen</a> wrote:</p>
+          <blockquote>
+              <p>I am sorry to say that your blockchain data is corrupt. You will need to resync from the beginning.<br>
+In order to do this you need to first make a backup of your wallet.dat file</p>
+<p>Then search for your  …/appdata/roaming/bitbay folder.  Make sure you have your windows allow you to ‘see hidden files’ setting on. Inside this folder you can delete everything but the wallet.dat file.</p>
+<p>At this time you can use the bootstrap file and place it in this appdata/roaming/bitbay folder.<br>
+The bootstrap download is here: <a href="https://github.com/bitbaymarket/bitbay-bootstrap/releases/tag/v1" rel="nofollow noopener">https://github.com/bitbaymarket/bitbay-bootstrap/releases/tag/v1</a></p>
+<p>simply download the bootstrap.dat file and place in your appdata/roaming/bitbay folder.</p>
+<p>You will only have 2 files in that folder.<br>
+wallet.dat<br>
+boostrap.dat</p>
+<p>Then restart the QT wallet</p>
+<p>Sorry about the inconvenience</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/2</link>
+        <pubDate>Sun, 22 Mar 2020 16:31:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2297-2</guid>
+        <source url="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297.rss">The wallet do not is sychronizing</source>
+      </item>
+      <item>
+        <title>The wallet do not is sychronizing</title>
+        <dc:creator><![CDATA[@Yakuyaku13767 enzo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/yakuyaku13767">@Yakuyaku13767</a> wrote:</p>
+          <blockquote>
+              <p>My system has the following specifications</p>
+<p>QT Wallet, Client Wallet (and version) or Web wallet: v3.0.0.13-gf683bd6<br>
+OpenSSL 1.0.2n  7 Dec 2017<br>
+Operating System and version: windows nt</p>
+<p>If desktop wallet (Qt or Client) block # of your client and # of connections: 2501740 lun feb 24 20:25:04 2020</p>
+<p>The problem I am having is : my Qt wallet do not is synchronizing. It is stopped at the block 2501740 and still 3 weeks behind</p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297/1</link>
+        <pubDate>Sat, 21 Mar 2020 14:07:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2297-1</guid>
+        <source url="..../forum-archive/t/the-wallet-do-not-is-sychronizing/2297.rss">The wallet do not is sychronizing</source>
+      </item>
+  </channel>
+</rss>

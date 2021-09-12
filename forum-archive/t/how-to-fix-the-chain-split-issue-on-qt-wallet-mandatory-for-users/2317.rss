@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to fix the chain split issue on Qt wallet (**MANDATORY FOR USERS**)</title>
+    <link>..../forum-archive/t/how-to-fix-the-chain-split-issue-on-qt-wallet-mandatory-for-users/2317</link>
+    <description>## Please complete the following steps to download and install the new bootstrap and QT wallet.
+
+_**It is necessary to follow the steps in the correct order.**_
+
+1. Back up your **&quot;wallet.dat&quot;** and **&quot;BitBay&quot;** folder before moving to step two. Depending on your operating system, the BitBay data folder can be found in these locations:
+
+* **Windows users:** users/&amp;ldquo;yourusername&amp;rdquo;/appdata/roaming/Bitbay folder (make sure you have &amp;ldquo;show hidden files&amp;rdquo; selected) 
+
+* **Mac users:** ~/Library &amp;gt; Application Support &amp;gt; BitBay
+
+* **Linux users:** ~/.bitbay (make sure you have &amp;ldquo;show hidden files&amp;rdquo; selected)
+
+_***Please note: The &quot;BitBay&quot; folder is the parent folder for &quot;txleveldb&quot;, &quot;database&quot; and &quot;pegleveldb&quot;._ 
+
+_Store these backups in a **separate &amp; secure** location._
+
+![39%20AM|690x462](upload://jINZeijKOsndUHjvA9Mg15NfaWu.png) 
+_(screenshot is from Mac)_
+
+2. Within the BitBay folder remove all the files except wallet.dat.
+
+![59%20AM|690x371](upload://6v72jfcWeVJ0rMW67befeQu7Mya.png) 
+_(screenshot is from Mac)_
+
+3. Place the BitBay.exe program file (or BitBay app if on Mac) in the trash bin.
+
+![26%20AM|498x499](upload://c5CfIX508Rf04tdmkOvInPXN73n.jpeg) 
+_(screenshot is from Mac)_
+
+4. Download the new bootstrap file here: https://github.com/bitbaymarket/bitbay-bootstrap/releases/download/v1/bootstrap.dat
+
+5. Place the downloaded bootstrap.dat file into the BitBay folder.
+
+![21%20AM|690x274](upload://hD26h5FY5sHPhlyCDy27528zMWy.png) 
+_(screenshot is from Mac)_
+
+6. Download and install the new **BitBay QT (version 3.0.2b)** here: 
+https://github.com/bitbaymarket/bitbay-core/releases/tag/v3.0.2b 
+
+7. Once installed, launch the new BitBay Qt wallet.
+
+The wallet will now perform an automatic resync, which could take a few hours. Please leave the wallet running until this process has completed. Once done you will be on the correct chain.
+
+For any further support issues please ask in the community support channel on Discord: https://discordapp.com/invite/jRkjCxf</description>
+    
+    <lastBuildDate>Tue, 31 Mar 2020 19:16:23 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/how-to-fix-the-chain-split-issue-on-qt-wallet-mandatory-for-users/2317.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to fix the chain split issue on Qt wallet (**MANDATORY FOR USERS**)</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-fix-the-chain-split-issue-on-qt-wallet-mandatory-for-users/2317/2">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-fix-the-chain-split-issue-on-qt-wallet-mandatory-for-users/2317/2</link>
+        <pubDate>Mon, 06 Apr 2020 16:23:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2317-2</guid>
+        <source url="..../forum-archive/t/how-to-fix-the-chain-split-issue-on-qt-wallet-mandatory-for-users/2317.rss">How to fix the chain split issue on Qt wallet (**MANDATORY FOR USERS**)</source>
+      </item>
+      <item>
+        <title>How to fix the chain split issue on Qt wallet (**MANDATORY FOR USERS**)</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              <h2>Please complete the following steps to download and install the new bootstrap and QT wallet.</h2>
+<p><em><strong>It is necessary to follow the steps in the correct order.</strong></em></p>
+<ol>
+<li>Back up your <strong>“wallet.dat”</strong> and <strong>“BitBay”</strong> folder before moving to step two. Depending on your operating system, the BitBay data folder can be found in these locations:</li>
+</ol>
+<ul>
+<li>
+<p><strong>Windows users:</strong> users/“yourusername”/appdata/roaming/Bitbay folder (make sure you have “show hidden files” selected)</p>
+</li>
+<li>
+<p><strong>Mac users:</strong> ~/Library &gt; Application Support &gt; BitBay</p>
+</li>
+<li>
+<p><strong>Linux users:</strong> ~/.bitbay (make sure you have “show hidden files” selected)</p>
+</li>
+</ul>
+<p><em>***Please note: The “BitBay” folder is the parent folder for “txleveldb”, “database” and “pegleveldb”.</em></p>
+<p><em>Store these backups in a <strong>separate &amp; secure</strong> location.</em></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/8a39ebf47828e392e585f05df25da7cf592f9d8a.png" data-download-href="..../forum-archive/uploads/default/8a39ebf47828e392e585f05df25da7cf592f9d8a" title="Screen Shot 2020-03-29 at 7.47.39 AM.png"><img src="..../forum-archive/uploads/default/original/1X/8a39ebf47828e392e585f05df25da7cf592f9d8a.png" alt="39%20AM" width="690" height="462"><div class="meta">
+<span class="filename">Screen Shot 2020-03-29 at 7.47.39 AM.png</span><span class="informations">818x548 79.3 KB</span><span class="expand"></span>
+</div></a></div><br>
+<em>(screenshot is from Mac)</em></p>
+<ol start="2">
+<li>Within the BitBay folder remove all the files except wallet.dat.</li>
+</ol>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/2d916a58c7ace211e6453b1b063119d2b589592e.png" data-download-href="..../forum-archive/uploads/default/2d916a58c7ace211e6453b1b063119d2b589592e" title="Screen Shot 2020-03-29 at 7.51.59 AM.png"><img src="..../forum-archive/uploads/default/original/1X/2d916a58c7ace211e6453b1b063119d2b589592e.png" alt="59%20AM" width="690" height="371"><div class="meta">
+<span class="filename">Screen Shot 2020-03-29 at 7.51.59 AM.png</span><span class="informations">818x440 70.3 KB</span><span class="expand"></span>
+</div></a></div><br>
+<em>(screenshot is from Mac)</em></p>
+<ol start="3">
+<li>Place the BitBay.exe program file (or BitBay app if on Mac) in the trash bin.</li>
+</ol>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/54bca24289347ebe14af938248cace90d04c2775.jpeg" data-download-href="..../forum-archive/uploads/default/54bca24289347ebe14af938248cace90d04c2775" title="Screen Shot 2020-03-29 at 8.12.26 AM.jpg"><img src="..../forum-archive/uploads/default/optimized/1X/54bca24289347ebe14af938248cace90d04c2775_1_498x499.jpeg" alt="26%20AM" width="498" height="499" srcset="..../forum-archive/uploads/default/optimized/1X/54bca24289347ebe14af938248cace90d04c2775_1_498x499.jpeg, ..../forum-archive/uploads/default/optimized/1X/54bca24289347ebe14af938248cace90d04c2775_1_747x748.jpeg 1.5x, ..../forum-archive/uploads/default/original/1X/54bca24289347ebe14af938248cace90d04c2775.jpeg 2x"><div class="meta">
+<span class="filename">Screen Shot 2020-03-29 at 8.12.26 AM.jpg</span><span class="informations">792x794 143 KB</span><span class="expand"></span>
+</div></a></div><br>
+<em>(screenshot is from Mac)</em></p>
+<ol start="4">
+<li>
+<p>Download the new bootstrap file here: <a href="https://github.com/bitbaymarket/bitbay-bootstrap/releases/download/v1/bootstrap.dat">https://github.com/bitbaymarket/bitbay-bootstrap/releases/download/v1/bootstrap.dat</a></p>
+</li>
+<li>
+<p>Place the downloaded bootstrap.dat file into the BitBay folder.</p>
+</li>
+</ol>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/7b8e8811250abb9e6801cf8a3cb36ed6fe9916d6.png" data-download-href="..../forum-archive/uploads/default/7b8e8811250abb9e6801cf8a3cb36ed6fe9916d6" title="Screen Shot 2020-03-29 at 8.22.21 AM.png"><img src="..../forum-archive/uploads/default/original/1X/7b8e8811250abb9e6801cf8a3cb36ed6fe9916d6.png" alt="21%20AM" width="690" height="274"><div class="meta">
+<span class="filename">Screen Shot 2020-03-29 at 8.22.21 AM.png</span><span class="informations">820x326 47.6 KB</span><span class="expand"></span>
+</div></a></div><br>
+<em>(screenshot is from Mac)</em></p>
+<ol start="6">
+<li>
+<p>Download and install the new <strong>BitBay QT (version 3.0.2b)</strong> here:<br>
+<a href="https://github.com/bitbaymarket/bitbay-core/releases/tag/v3.0.2b">https://github.com/bitbaymarket/bitbay-core/releases/tag/v3.0.2b</a></p>
+</li>
+<li>
+<p>Once installed, launch the new BitBay Qt wallet.</p>
+</li>
+</ol>
+<p>The wallet will now perform an automatic resync, which could take a few hours. Please leave the wallet running until this process has completed. Once done you will be on the correct chain.</p>
+<p>For any further support issues please ask in the community support channel on Discord: <a href="https://discordapp.com/invite/jRkjCxf">https://discordapp.com/invite/jRkjCxf</a></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-fix-the-chain-split-issue-on-qt-wallet-mandatory-for-users/2317/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-fix-the-chain-split-issue-on-qt-wallet-mandatory-for-users/2317/1</link>
+        <pubDate>Sun, 29 Mar 2020 11:14:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2317-1</guid>
+        <source url="..../forum-archive/t/how-to-fix-the-chain-split-issue-on-qt-wallet-mandatory-for-users/2317.rss">How to fix the chain split issue on Qt wallet (**MANDATORY FOR USERS**)</source>
+      </item>
+  </channel>
+</rss>

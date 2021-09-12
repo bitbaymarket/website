@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>What is the voting algorithm, and how does it work?</title>
+    <link>..../forum-archive/t/what-is-the-voting-algorithm-and-how-does-it-work/2193</link>
+    <description># **What is the voting algorithm, and how does it work?**
+
+The voting algorithm is the easiest way to participate in the Dynamic Peg’s voting/consensus. It will vote for a healthy price based on current market conditions, without the user having to vote manually.
+
+![03%20AM|690x311](upload://KeP5WxtQGVfdDCC7KjXriPN1b.png) 
+
+### **_Note: This algorithm is one of several voting options. It will ONLY have an effect on the supply/price if the majority of users choose to select it as a voting option. The algorithm&#39;s initial target price 1/100,000 of Bitcoin&#39;s All Time High (0.20) solely exists to activate its functions, and is NOT a fixed or guaranteed price target._**
+
+# Below is a visual example of how the Dynamic Peg algorithm works:
+
+![Dynamic%20Peg%20Algo|690x271](upload://u5HyeecRZ9ad5AB9DSOgePR89GB.gif)
+
+* The algorithm&#39;s initial target starting rate is .20 (1/100,000 of BTC&#39;s all time high)
+
+* If the price moves beyond a 5% margin above or below the target rate, it will vote for inflation or deflation accordingly. 
+
+* If the price (of either BAY or BTC) moves up to 3x the previous floor (i.e. .60) and remains there for 3 consecutive days, the target will increase by 1.5 times to adapt. 
+
+* Switching back to manual voting is as simple as the click of a mouse. Without an algorithmic oracle, manipulators will incur extreme risk trying to manipulate price in their favor for any significant length of time.
+
+* With this unique voting system, BitBay can change algorithms to test new ideas without requiring a hard fork. Hypothetically, once enough data has been collected and a series of reputable algorithms are found, the human element could be removed entirely. Users can also design their own custom voting algorithms for personal use.
+
+
+*** **COMING SOON:** BitBay’s custom algorithm option! Users will soon be able to cast votes based on their favorite TA indicator.
+
+## **Questions, comments, concerns? Please post them in the comments below!**</description>
+    
+    <lastBuildDate>Wed, 08 Apr 2020 00:06:02 +0000</lastBuildDate>
+    <category>Dynamic Peg - FAQ</category>
+    <atom:link href="..../forum-archive/t/what-is-the-voting-algorithm-and-how-does-it-work/2193.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>What is the voting algorithm, and how does it work?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <h1><strong>What is the voting algorithm, and how does it work?</strong></h1>
+<p>The voting algorithm is the easiest way to participate in the Dynamic Peg’s voting/consensus. It will vote for a healthy price based on current market conditions, without the user having to vote manually.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/001594fa31207bfdfa6ff6fcd56f9ffe4add7e75.png" data-download-href="..../forum-archive/uploads/default/001594fa31207bfdfa6ff6fcd56f9ffe4add7e75" title="Screen Shot 2020-03-21 at 5.23.03 AM.png"><img src="..../forum-archive/uploads/default/original/1X/001594fa31207bfdfa6ff6fcd56f9ffe4add7e75.png" alt="03%20AM" width="690" height="311"><div class="meta">
+<span class="filename">Screen Shot 2020-03-21 at 5.23.03 AM.png</span><span class="informations">954x430 25.6 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h3><strong><em>Note: This algorithm is one of several voting options. It will ONLY have an effect on the supply/price if the majority of users choose to select it as a voting option. The algorithm’s initial target price 1/100,000 of Bitcoin’s All Time High (0.20) solely exists to activate its functions, and is NOT a fixed or guaranteed price target.</em></strong></h3>
+<h1>Below is a visual example of how the Dynamic Peg algorithm works:</h1>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/d2e63d01962afc2d147276d4c1c74999eb12ffa5.gif" data-download-href="..../forum-archive/uploads/default/d2e63d01962afc2d147276d4c1c74999eb12ffa5" title="Dynamic Peg Algo.gif"><img src="..../forum-archive/uploads/default/optimized/1X/d2e63d01962afc2d147276d4c1c74999eb12ffa5_1_690x271.gif" alt="Dynamic%20Peg%20Algo" width="690" height="271" srcset="..../forum-archive/uploads/default/optimized/1X/d2e63d01962afc2d147276d4c1c74999eb12ffa5_1_690x271.gif, ..../forum-archive/uploads/default/optimized/1X/d2e63d01962afc2d147276d4c1c74999eb12ffa5_1_1035x406.gif 1.5x, ..../forum-archive/uploads/default/optimized/1X/d2e63d01962afc2d147276d4c1c74999eb12ffa5_1_1380x542.gif 2x"><div class="meta">
+<span class="filename">Dynamic Peg Algo.gif</span><span class="informations">2000x788 704 KB</span><span class="expand"></span>
+</div></a></div></p>
+<ul>
+<li>
+<p>The algorithm’s initial target starting rate is .20 (1/100,000 of BTC’s all time high)</p>
+</li>
+<li>
+<p>If the price moves beyond a 5% margin above or below the target rate, it will vote for inflation or deflation accordingly.</p>
+</li>
+<li>
+<p>If the price (of either BAY or BTC) moves up to 3x the previous floor (i.e. .60) and remains there for 3 consecutive days, the target will increase by 1.5 times to adapt.</p>
+</li>
+<li>
+<p>Switching back to manual voting is as simple as the click of a mouse. Without an algorithmic oracle, manipulators will incur extreme risk trying to manipulate price in their favor for any significant length of time.</p>
+</li>
+<li>
+<p>With this unique voting system, BitBay can change algorithms to test new ideas without requiring a hard fork. Hypothetically, once enough data has been collected and a series of reputable algorithms are found, the human element could be removed entirely. Users can also design their own custom voting algorithms for personal use.</p>
+</li>
+</ul>
+<p>*** <strong>COMING SOON:</strong> BitBay’s custom algorithm option! Users will soon be able to cast votes based on their favorite TA indicator.</p>
+<h2><strong>Questions, comments, concerns? Please post them in the comments below!</strong></h2>
+          </blockquote>
+          <p><a href="..../forum-archive/t/what-is-the-voting-algorithm-and-how-does-it-work/2193/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/what-is-the-voting-algorithm-and-how-does-it-work/2193/1</link>
+        <pubDate>Wed, 29 Jan 2020 14:30:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2193-1</guid>
+        <source url="..../forum-archive/t/what-is-the-voting-algorithm-and-how-does-it-work/2193.rss">What is the voting algorithm, and how does it work?</source>
+      </item>
+  </channel>
+</rss>

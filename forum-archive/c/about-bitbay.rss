@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About BitBay - BitBay Community</title>
+    <link>.../forum-archive/c/about-bitbay</link>
+    <description>Topics in the &#39;About BitBay&#39; category </description>
+    
+      <lastBuildDate>Mon, 08 Jul 2019 08:19:22 +0000</lastBuildDate>
+      <atom:link href=".../forum-archive/c/about-bitbay.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>BitBay’s Dynamic Peg - FAQ</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>About BitBay</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <p>What is the Dynamic Peg?</p>
+<p>BitBay’s Dynamic Peg is a brand new mechanism for stabilizing a digital currency. It is strictly controlled by the users, for the users.</p>
+<p>Through a simple mechanism of freezing and unfreezing, stakers can collectively change the liquidity of BAY’s supply, putting pressure on its market value.</p>
+<p>As it’s known, price is determined where supply and demand intersect. The Dynamic Peg ties the supply of BAY to the volume behind the coin, forcing a direction in value. This reduces speculation, tames wild volatility, and creates completely independent correlation with the wider crypto market.</p>
+<p>Unlike traditional currency pegs, the dynamic peg is not backed by any asset or form of collateral. It is decentralized and highly resistant to centralized manipulation or regulation. Speculators can still seek “fair market value”, yet they have to contend against investors and marketplace users that desire stability over volatility.</p>
+<p>This system creates three balances for BAY: Liquid, Reserve, and Frozen.</p>
+<p>Due to these different levels of liquidity, Liquid BAY and Reserve BAY are traded on separate markets, and traded at different exchange rates. Frozen BAY acts as a form of “savings” and cannot be traded. In the era of programmable money, we can democratically affect the properties of money. A system like this would have been unimaginable prior to the advent of cryptocurrency.</p>
+<h4>Does the Dynamic Peg make BitBay a “stablecoin”?</h4>
+<p>Not exactly. This system does reduce volatility, but is vastly different from what is commonly thought of as a “stablecoin”.</p>
+<p>Technically speaking, a “stablecoin” is any cryptocurrency which uses a mechanism to stabilize its value. However, this term has been heavily associated with Ethereum-based tokens which attempt to maintain equilibrium with the US Dollar, or other fiat currencies or assets.</p>
+<p>BitBay’s Dynamic Peg is an entirely different animal.</p>
+<ul>
+<li>
+<p>It is not an Ethereum-based (erc20) token.</p>
+</li>
+<li>
+<p>It is not backed by ANY collateral, and there are no “reserves”.</p>
+</li>
+<li>
+<p>It is not fixed to any specific price target.</p>
+</li>
+</ul>
+<p>It’s an extremely adaptable system that enforces a stable value without the need for any collateral or centralized management.</p>
+<h4>If nothing is backing the coin, what enforces its market value?</h4>
+<p>An adaptive supply liquidity puts pressure on the market value of Liquid BAY. As it’s known, the law of supply and demand always remains true. When the supply’s liquidity changes based on consensus, it applies pressure to the market value.</p>
+<p>An example:</p>
+<p>Imagine that you’re very thirsty, with a group of people in a hot desert.</p>
+<p>What would you (as a buyer) pay more for: Pure Liquid water you can drink immediately? Or a Reserve block of ice that takes months to melt before becoming usable?</p>
+<p>The Dynamic Peg effectively adjusts the supply of Liquid BAY according to how many people want to buy it, and the rest is Reserved for future use. This directly connects the value of Liquid BAY to volume of people buying it.</p>
+<p>So if the demand for Liquid BAY drops, the amount of Reserve BAY increases. If the demand for Liquid BAY increases, Reserve BAY is “unfrozen” to make more Liquid BAY again. The perfect amount of liquidity will always be available to match demand, which stabilizes the value of Liquid BAY.</p>
+<p>Meanwhile, Reserve BAY can still be traded, but with a time-delay. This makes Reserve BAY speculative, as it’s value is based on market sentiment towards future demand for Liquid BAY, which is unpredictable and can fluctuate over time.</p>
+<p>Liquid BAY and Reserve BAY hold independent values and can create three trade markets:</p>
+<ol>
+<li>Liquid BAY traded against other crypto or fiat pairings</li>
+<li>Reserve BAYR traded against other crypto or fiat pairings</li>
+<li>Liquid BAY / Reserve BAYR direct trade pairing</li>
+</ol>
+<h4>Is the Dynamic Peg 100% decentralized or “pseudo-decentralized”?</h4>
+<p>BitBay’s Dynamic Peg is 100% decentralized. It is currently “obfuscated open-source” with intentions of making completely open-source in the near future.</p>
+<p>Unlike many other stability systems, it is a system that does not require any third-party custodians, auditors, or regulation to operate. It will never liquidate assets, because it doesn’t require collateral, and thus never requires a centralized entity to decide who’s assets to liquidate first. This monetary supply mechanism is purely controlled through consensus of the participants themselves, no matter how small or large their numbers.</p>
+<p>Raw base-layer decentralization is imperative to the success, robustness, and security of the entire BitBay economy.</p>
+<h4>What prevents users from voting to simply pump or dump the supply?</h4>
+<p>The Dynamic Peg uses a few mechanisms to prevent users from quickly pumping or dumping the supply to extreme levels. While the supply liquidity is always allowed to move up and down, it must do so within limits. Each of these mechanisms serve to collectively regulate the supply of BAY.</p>
+<p>First and foremost, a hard-coded voting interval of 200 blocks limits the number of “liquidity rate changes”. This keeps the pace of supply change to a consistent 7 sessions per day.</p>
+<p>In addition to the voting intervals, there is also a limit on the percentage of liquidity change per voting session. This limit is set at 1–3% (inflation or deflation) per 200 block voting interval, depending on the ratio of votes.</p>
+<ul>
+<li>If vote ratio is “deflate” 3x more than “inflate”, then supply deflates 3%</li>
+<li>If vote ratio is “deflate” 2x more than “inflate”, then supply deflates 2%</li>
+<li>If vote ratio is “deflate” 1–2x more than “inflate/no change”, then supply deflates 1%</li>
+<li>If “no change” wins the vote count by any %, then supply remains constant.</li>
+</ul>
+<h4>How does the Dynamic Peg handle “black swan events” such as an extreme decline in demand, market shock, etc.?</h4>
+<p>Throughout its entire design, the Dynamic Peg excels at adaptability. No matter how extreme of an event occurs, the supply of Liquid BAY will adjust to meet demand.</p>
+<p>If absolutely necessary, the Dynamic Peg can deflate the supply of Liquid BAY down to a maximum of .0000058423% of its total, or (58,423 BAY) to maintain equilibrium. This is more than enough to cover 99.99999% of any “black swan event” that may occur.</p>
+<p>In theory, if the demand for liquidity were to continue its decline past the point of maximum deflation, there is always a temporary option of decentralized asset backing. This would allow an investor (or pool of investors) to put up a specific amount of collateral (or a buy wall on an exchange) and have the community select an algorithm which deflates to that amount on a 1:1 ratio.</p>
+<p>***Note: The probability of an event like this is extremely low, as the Dynamic Peg is designed to prevent this from happening in the first place.</p>
+<h4>Who provides the capital to maintain the peg’s exchange rate? How are they compensated?</h4>
+<p>The beauty of the Dynamic Peg is that no capital (or collateral) is required to maintain the peg rate. The peg exchange rate is simply backed by the volume of the people using the currency.</p>
+<p>***Note: Many other stability systems offer private backing. In our opinion, this model is no different than a privately backed dollar over a government backed dollar. The age-old problem of counterparty risk will always be present in models such as this. A dynamic supply is the only viable solution for sustainable economic growth over time.</p>
+<h4>Are all Dynamic Peg votes considered equal?</h4>
+<p>With the Dynamic Peg, all votes are not considered equal.</p>
+<p>A “variable voting power” mechanism is in place, which incentivises users to hold a balance of both Liquid and Frozen BAY. In the beginning, when supply is 100%, the voting power for Liquid and Frozen BAY is the same. However as deflation occurs, the Liquid BAY votes become stronger. Liquid BAY votes can be up to 40 times stronger than that of Frozen BAY.</p>
+<p>There are several reasons for this structure:</p>
+<ul>
+<li>
+<p>It balances demand for Frozen BAY, which earn higher stake rewards and prevents Frozen BAY from being traded for personal liquidity when things are deflated.</p>
+</li>
+<li>
+<p>It protects the users of BitBay’s p2p contracts (which require Liquid BAY as collateral).</p>
+</li>
+<li>
+<p>It provides demand for liquidity and stability on exchanges’ liquid market, which helps their business thrive. Exchanges can sell Liquid BAY at a premium over Reserve BAY.</p>
+</li>
+<li>
+<p>Investors who wish to collect stake rewards will also want to sell any Liquid BAY rewards at a premium. Newly minted BAY earned from staking will be valued based on the current Liquid to Reserve supply ratio, so stakers who wish to sell earned Liquid BAY at a premium must vote towards the stabilization of the Liquid BAY value. This maximizes their rewards’ liquidity, and therefore maximize profit potential.</p>
+</li>
+</ul>
+<h4>How much can the supply liquidity of BAY fluctuate in one day?</h4>
+<p>The liquid supply level is currently set to only change at a variable rate of 1–3% per voting session. There is 1 voting session every 200 blocks (approximately 7 voting sessions per day), and the supply can fluctuate by 1% per session (compounded 21 times daily) . This equates to a maximum of 7% to roughly 19% rate change per day.</p>
+<p>***Note: This rate is based on a compounding effect (during inflation) and a discounting effect (during deflation). As growth and volume of the BitBay platform increases, the rate can be adjusted to create a “smoother” change in supply.</p>
+<p>Where can I learn more about BitBay and its Dynamic Peg?</p>
+<p>For more information, feel free to check out these links:</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src=".../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
+      <a href="https://bitbay.market/features" target="_blank">BitBay</a>
+  </header>
+  <article class="onebox-body">
+    
+
+<h3><a href="https://bitbay.market/features" target="_blank">Features - BitBay</a></h3>
+
+<p>Unbreakable contracts, decentralized marketplace, smart contracting, a rolling peg, and more - BitBay is the world's most useful crypto client.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src=".../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
+      <a href="https://medium.com/bitbay-blog/bitbay-dynamic-peg-faq-8cd257da63fd" target="_blank" title="02:09PM - 26 June 2019">Medium – 26 Jun 19</a>
+  </header>
+  <article class="onebox-body">
+    
+
+<h3><a href="https://medium.com/bitbay-blog/bitbay-dynamic-peg-faq-8cd257da63fd" target="_blank">BitBay Dynamic Peg — FAQ - BitBay Blog - Medium</a></h3>
+
+<p>What is a Stablecoin?</p>
+
+  <p><span class="label1">Reading time: 19 min read</span>
+    </p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src=".../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
+      <a href="https://bitbay.market/downloads" target="_blank">BitBay</a>
+  </header>
+  <article class="onebox-body">
+    
+
+<h3><a href="https://bitbay.market/downloads" target="_blank">BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart...</a></h3>
+
+<p>BitBay is a fully-functional decentralized marketplace and smart contracting platform, backed by a secure cryptocurrency.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Discord:</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src=".../forum-archive/uploads/default/original/1X/1af3759a49bc1dcf17a8b0a305d5ccbee17d0944.png" class="site-icon" width="32" height="32">
+      <a href="https://discordapp.com/invite/sP8b66W" target="_blank">Discord</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src=".../forum-archive/uploads/default/original/1X/99f30c2adec921f21e6fa359ef808e331a2a46a2.png" class="thumbnail"></div>
+
+<h3><a href="https://discordapp.com/invite/sP8b66W" target="_blank">Discord - Free voice and text chat for gamers</a></h3>
+
+<p>Step up your game with a modern voice &amp; text chat app. Crystal clear voice, multiple server and channel support, mobile apps, and more. Get your free server now!</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Telegram:</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://telegram.org/favicon.ico?3" class="site-icon" width="32" height="32">
+      <a href="https://t.me/bitbayofficial" target="_blank">Telegram</a>
+  </header>
+  <article class="onebox-body">
+    <img src=".../forum-archive/uploads/default/original/1X/d2960c3c5abe3b71a7e78acbbf8af0fc19d34d8b.jpeg" class="thumbnail onebox-avatar" width="320" height="320">
+
+<h3><a href="https://t.me/bitbayofficial" target="_blank">BitBay ($BAY) - Decentralised Market with Unbreakable Smart Contracts</a></h3>
+
+<p>Bitbay - Official Telegram group	https://bitbay.market</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Twitter:</p>
+<p><a href="https://twitter.com/BitBayofficial" class="onebox" target="_blank">https://twitter.com/BitBayofficial</a></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/bitbay-s-dynamic-peg-faq/1907">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/bitbay-s-dynamic-peg-faq/1907</link>
+          <pubDate>Mon, 08 Jul 2019 08:19:22 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1907</guid>
+          <source url=".../forum-archive/t/bitbay-s-dynamic-peg-faq/1907.rss">BitBay’s Dynamic Peg - FAQ</source>
+        </item>
+        <item>
+          <title>BitBay动态挂钩 - 常见问题解答</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>About BitBay</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <p>什么是动态挂钩？</p>
+<p>BitBay的动态挂钩是一种稳定数字货币的全新机制，这种机制完全服务于用户，也由用户控制。</p>
+<p>通过简单的冻结和解冻机制，持仓者可以集体改变BAY的流动性，从而影响其市场价值。</p>
+<p>众所周知，价格取决于供需关系。 动态挂钩将BAY的供应量与潜在量联系起来从而控制价值走向。 因此这种机制有效减少了投机的可能性，免于价值波动性产生的影响，且完全独立于一般加密货币市场。</p>
+<p>与传统的货币挂钩不同，动态挂钩不受任何资产或抵押品的支持。 该机制是完全去中心化的，可有效对抗团体价格操纵或监管。 投机者仍然可以寻求“公平的市场价值”，但他们首先得面对寻求价格稳定而非波动的投资者和用户。</p>
+<p>该机制为BAY建立了三个平衡点：流动，储备和冻结。</p>
+<p>基于其流动程度不同，Liquid(流动)BAY和Reserve(储备 )BAY在不同的市场上交易，并以不同的汇率进行交易。Frozen(冻结)BAY是一种“储蓄”形式，不能交易。 在可编程货币时代，我们可以民主地影响货币的性质。 在加密货币出现之前，这样的机制是难以想象的。</p>
+<p>动态挂钩是否使BitBay成为“稳定币”？</p>
+<p>不完全是。 该机制确实减少了价格波动性，但仍与人们通常认为的“稳定币”大不相同。从技术上讲，“稳定币”是指通过某种机制来稳定其价值的加密货币。 但这个术语又与通过与美元或其他法币保持价值平衡的基于以太坊的代币有很强的关联性，而BitBay的动态挂钩是一种完全不同的机制：</p>
+<ul>
+<li>非基于以太坊（erc20）的代币</li>
+<li>没有任何法币或其他资产支持，没有预留</li>
+<li>无任何价格标杆</li>
+</ul>
+<p>是一个具备强适应性的机制，可以实现价值的稳定而无需任何抵押或集中管理。</p>
+<p>既然没有价格支持对象，如何确定市场价值？</p>
+<p>供应适应性流动对Liquid BAY的市场价值构成压力。 众所周知，供需法则始终如一。 当供应的流动性基于共识而变化时，它会对市场价值施加压力。</p>
+<p>举例：</p>
+<p>想象一下，在炎热的沙漠中有一群人，你们都很渴。</p>
+<p>您（作为买家）会愿意为可立即饮用的纯净水花钱？还是需要几个月才能融化饮用的冰块花钱？动态挂钩根据购买意愿人数来有效调整Liquid(流动 )BAY的供应，其余部分保留供将来使用。这直接将Liquid BAY的价值与购买它的人数联系起来。因此，如果对Liquid BAY的需求下降，则Reserve(储备） BAY的数量会增加。如果对Liquid BAY的需求增加，Reserve BAY将“解冻”以再次获得更多Liquid BAY。完美的流动性将始终适应需求，从而稳定Liquid BAY的价值。同时，Reserve BAY仍然可以交易，但有时间延迟。这使得Reserve BAY具有投机性，因为它的价值是基于市场对未来Liquid BAY需求，这是不可预测的并且可能会随时间波动。Liquid BAY和Reserve BAY拥有独立的价值，可以创造三个交易市场：</p>
+<ol>
+<li>1.Liquid BAY和其他加密货币或法币交易；</li>
+<li>2.Reserve BAY和其他加密货币或法币交易；</li>
+<li>3.直接交易Liquid BAY/ Reserve BAY交易对。</li>
+</ol>
+<p>动态挂钩是 100％去中心化的还是“伪去中心化”？</p>
+<p>BitBay的动态挂钩是100％去中心化的。 它目前是“模糊的开源”，意图在不久的将来完全开源。</p>
+<p>与许多其他稳定机制不同，它不需要任何第三方保管人，审计员或法规来运作。因为不需要抵押品，所以不会清算资产也不会要求中心化实体决定先清算谁的资产。 无论数量多少，这种货币供应机制完全由参与者自身的共识来控制。</p>
+<p>原始基础层的去中心化对于整个BitBay经济的成功，稳健性和安全性至关重要。</p>
+<p>如何防止用户单纯的投涨投跌？</p>
+<p>动态挂钩通过几个机制来防止用户快速将价格推至极端。 虽然供应流动性是可以随时上下浮动的，但必须控制在合理范围内。 这些机制中的每一个都用于共同调节BAY的供应。</p>
+<p>首先，200个区块间隔的硬编码投票限制了“流动率变化”的次数。 这使供应变化的速度保持在每天7次。</p>
+<p>除投票间隔外，每个投票会议的流动性变化百分比也有限制。 根据投票比例，每200个区块间的涨缩浮动率在1-3％的范围内。</p>
+<ul>
+<li>如果“紧缩”的投票比例比“膨胀”多3倍，供应量将减少3％</li>
+<li>如果“紧缩”的投票比例比“膨胀”多2倍，供应量将减少2％</li>
+<li>如果“紧缩”的投票比例比“膨胀“/无变化”多1-2倍，供应量将减少1％</li>
+<li>如果“无变化”投票比例最大，供应量保持不变。</li>
+</ul>
+<p>动态挂钩如何应对“黑天鹅事件”，如需求剧降，市场冲击等？</p>
+<p>动态挂钩在整个设计中以强适应性为中心点。无论什么极端事件，动态挂钩机制都将对Liquid（流动） BAY的供应进行相应调整以匹配需求。如果极端情况需要，动态挂钩可以将Liquid BAY的供应量最高减少到其总量的0000058423％或58,423 BAY以维持平衡。这足以应对99.99999％的“黑天鹅事件”。</p>
+<p>从理论上讲，如果流动量需求持续下降超过最大通缩点，总有一种临时的分散资产可支持。这将允许投资者（或投资者池）提供特定数量的抵押品（或交易所的买入墙），并让社区选择一种算法，该算法以1：1的比例缩小到该数量。</p>
+<p>***注意：此类事件的概率非常低，因为动态挂钩旨在防止这种情况发生。</p>
+<p>谁提供资金来维持挂钩汇率？ 他们如何得到补偿？</p>
+<p>动态挂钩的优势在于不需要资本（或抵押品）来维持挂钩率。 挂钩汇率只由使用该货币的人的数量支持。</p>
+<p>***注意：许多其他稳定机制提供私人支持。 我们认为，这种模式与私人支持的美元，政府支持的美元无异。 交易对手风险的古老问题将始终存在于此类模型中。 随着时间的推移，动态供应是可持续经济增长的唯一可行解决方案。</p>
+<p>所有动态挂钩投票权重都相同吗？</p>
+<p>动态挂钩各投票权重不同。</p>
+<p>投票建立了“可变投票权”机制激励用户保持Liquid BAY和Frozen BAY的平衡。 在最初供应量为100％时，Liquid BAY和Frozen BAY的投票权重相同。 但是随着通货紧缩，Liquid BAY的投票权重更大， 其权重最高可比Frozen BAY高出40倍。</p>
+<p>建立这种投票机制有以下原因：</p>
+<ul>
+<li>它平衡了对Frozen BAY的需求，持有者可以获得更高的股权回报，并防止Frozen BAY在通缩时因个人流动性而被交易。</li>
+<li>它保护了BitBay的p2p合约用户（需要Liquid BAY作为抵押）。</li>
+<li>它为交易所的流动市场提供了流动性和稳定性的需求，这有助于他们的业务蓬勃发展。 交易所可以以高于Reserve BAY的价格出售Liquid BAY。</li>
+</ul>
+<p>希望收取股权奖励的投资者也想溢价出售Liquid BAY奖励。从股权产生的BAY将被根据目前的Liquid BAY和 Reserve BAY的供应比率估价，因此希望溢价出售获得Liquid BAY的投资者必须投票支持Liquid BAY价值的稳定来最大化股权奖励的流动性，从而将潜在利润最大化。</p>
+<p>BAY的供应流动性的日波动区间是多少？</p>
+<p>目前每个投票期有1-3％的波动幅度。 每200个区块有1个投票期（每天大约7个投票期），每期的供应量可以波动1％（每天复合21次）。 也就是每天波动7％至19％。</p>
+<p>***注意：此比率基于复合效应（在通货膨胀期间）和贴现效应（在通货紧缩期间）。 随着BitBay平台的增长和数量的增加，可以调整速率以创造“更平稳”的供应变化。在哪里可以了解更多有关BitBay及其动态挂钩的信息？</p>
+<p>请点击以下链接获取更多信息：</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src=".../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
+      <a href="https://bitbay.market/features" target="_blank">BitBay</a>
+  </header>
+  <article class="onebox-body">
+    
+
+<h3><a href="https://bitbay.market/features" target="_blank">Features - BitBay</a></h3>
+
+<p>Unbreakable contracts, decentralized marketplace, smart contracting, a rolling peg, and more - BitBay is the world's most useful crypto client.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src=".../forum-archive/uploads/default/original/1X/8c7390150cd0078e967a18c7663581b9b334d239.png" class="site-icon" width="32" height="32">
+      <a href="https://medium.com/bitbay-blog/bitbay-dynamic-peg-faq-8cd257da63fd" target="_blank" title="02:09PM - 26 June 2019">Medium – 26 Jun 19</a>
+  </header>
+  <article class="onebox-body">
+    
+
+<h3><a href="https://medium.com/bitbay-blog/bitbay-dynamic-peg-faq-8cd257da63fd" target="_blank">BitBay Dynamic Peg — FAQ - BitBay Blog - Medium</a></h3>
+
+<p>What is a Stablecoin?</p>
+
+  <p><span class="label1">Reading time: 19 min read</span>
+    </p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src=".../forum-archive/uploads/default/original/1X/0e704cbae980ec84c19f01688f733476b7d20fb0.png" class="site-icon" width="32" height="32">
+      <a href="https://bitbay.market/downloads" target="_blank">BitBay</a>
+  </header>
+  <article class="onebox-body">
+    
+
+<h3><a href="https://bitbay.market/downloads" target="_blank">BitBay - Official Crypto-Currency Coin, Decentralized Markets, Unbreakable Smart...</a></h3>
+
+<p>BitBay is a fully-functional decentralized marketplace and smart contracting platform, backed by a secure cryptocurrency.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Discord:</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src=".../forum-archive/uploads/default/original/1X/1af3759a49bc1dcf17a8b0a305d5ccbee17d0944.png" class="site-icon" width="32" height="32">
+      <a href="https://discordapp.com/invite/sP8b66W" target="_blank">Discord</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src=".../forum-archive/uploads/default/original/1X/99f30c2adec921f21e6fa359ef808e331a2a46a2.png" class="thumbnail"></div>
+
+<h3><a href="https://discordapp.com/invite/sP8b66W" target="_blank">Discord - Free voice and text chat for gamers</a></h3>
+
+<p>Step up your game with a modern voice &amp; text chat app. Crystal clear voice, multiple server and channel support, mobile apps, and more. Get your free server now!</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Telegram:</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://telegram.org/favicon.ico?3" class="site-icon" width="32" height="32">
+      <a href="https://t.me/bitbayofficial" target="_blank">Telegram</a>
+  </header>
+  <article class="onebox-body">
+    <img src=".../forum-archive/uploads/default/original/1X/d2960c3c5abe3b71a7e78acbbf8af0fc19d34d8b.jpeg" class="thumbnail onebox-avatar" width="320" height="320">
+
+<h3><a href="https://t.me/bitbayofficial" target="_blank">BitBay ($BAY) - Decentralised Market with Unbreakable Smart Contracts</a></h3>
+
+<p>Bitbay - Official Telegram group	https://bitbay.market</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Twitter:</p>
+<p><a href="https://twitter.com/BitBayofficial" class="onebox" target="_blank">https://twitter.com/BitBayofficial</a></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/bitbay/1905">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/bitbay/1905</link>
+          <pubDate>Sun, 07 Jul 2019 19:42:35 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1905</guid>
+          <source url=".../forum-archive/t/bitbay/1905.rss">BitBay动态挂钩 - 常见问题解答</source>
+        </item>
+        <item>
+          <title>Official Bitbay telegram chat rooms and social medias</title>
+          <dc:creator><![CDATA[@Mantrack]]></dc:creator>
+          <category>About BitBay</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/mantrack">@Mantrack</a> wrote:</p>
+            <blockquote>
+              <p>Hello here bellow you can find:</p>
+<ol>
+<li>Our official chat rooms</li>
+<li>Our official media outlets</li>
+<li>Our community rules</li>
+</ol>
+<hr>
+<p><strong>1) CHAT ROOMS:</strong></p>
+<ul>
+<li>
+<p><a href="https://t.me/bitbayofficial">https://t.me/bitbayofficial</a> Official Bitbay Channel  (NO TRADING TALK HERE + English channel)</p>
+</li>
+<li>
+<p><a href="https://t.me/bitbaytradingtalk">https://t.me/bitbaytradingtalk</a> Bitbay Channel to talk about trading</p>
+</li>
+<li>
+<p><a href="https://t.me/bitbayofficialkorea">https://t.me/bitbayofficialkorea</a> Bitbay channel for Korean</p>
+</li>
+<li>
+<p><a href="https://t.me/bitbaymarketrussia">https://t.me/bitbaymarketrussia</a> Bitbay channel for Russian</p>
+</li>
+<li>
+<p><a href="https://t.me/FrenchBitBayOfficial">https://t.me/FrenchBitBayOfficial</a> Bitbay channel for French</p>
+</li>
+<li>
+<p><a href="https://t.me/bitbaymarketarabic">https://t.me/bitbaymarketarabic</a> Bitbay channel for Arabic</p>
+</li>
+<li>
+<p><a href="https://t.me/BitBayaespaoln">https://t.me/BitBayaespaoln</a> Bitbay channel for Spanish</p>
+</li>
+<li>
+<p><a href="https://chat.whatsapp.com/invite/1bUKgQzyKiPGCHZdgsAzru">https://chat.whatsapp.com/invite/1bUKgQzyKiPGCHZdgsAzru</a> Bitbay channel for Indian</p>
+</li>
+</ul>
+<hr>
+<p><strong>2) SOCIAL MEDIA OUTLETS:</strong></p>
+<p><strong><em>English</em></strong><br>
+Facebook: <a href="https://goo.gl/UUJd6c">https://goo.gl/UUJd6c</a><br>
+Twitter: <a href="https://goo.gl/HBwocR">https://goo.gl/HBwocR</a><br>
+Youtube: <a href="https://goo.gl/q4ZYN3">https://goo.gl/q4ZYN3</a><br>
+Reddit: <a href="https://goo.gl/mWnUwB">https://goo.gl/mWnUwB</a><br>
+LinkedIn: <a href="https://goo.gl/vvfp39">https://goo.gl/vvfp39</a></p>
+<p><strong><em>Arabic</em></strong><br>
+Facebook : <a href="https://goo.gl/UUZkLX">https://goo.gl/UUZkLX</a><br>
+Twitter : <a href="https://goo.gl/EAg9RQ">https://goo.gl/EAg9RQ</a></p>
+<p><strong><em>French</em></strong><br>
+Facebook : <a href="https://goo.gl/Em9CbC">https://goo.gl/Em9CbC</a><br>
+Twitter : <a href="https://goo.gl/Z2cW2E">https://goo.gl/Z2cW2E</a><br>
+Jeuxvideo : <a href="https://goo.gl/V6R8nA">https://goo.gl/V6R8nA</a></p>
+<p><strong><em>Russian</em></strong><br>
+Facebook : <a href="https://goo.gl/h7K2AX">https://goo.gl/h7K2AX</a><br>
+Twitter : <a href="https://goo.gl/2z6cZ3">https://goo.gl/2z6cZ3</a></p>
+<p><strong><em>Spanish</em></strong><br>
+Facebook : <a href="https://goo.gl/SwCzEU">https://goo.gl/SwCzEU</a><br>
+Twitter : <a href="https://goo.gl/44GmrC">https://goo.gl/44GmrC</a></p>
+<p><strong><em>Korean</em></strong><br>
+Facebook : <a href="https://goo.gl/NXhTHs">https://goo.gl/NXhTHs</a><br>
+Twitter : <a href="https://goo.gl/WheD93">https://goo.gl/WheD93</a></p>
+<p><strong><em>Japanese</em></strong><br>
+Facebook : <a href="https://goo.gl/PvZM6b">https://goo.gl/PvZM6b</a><br>
+Twitter : <a href="https://goo.gl/e7dyjB">https://goo.gl/e7dyjB</a></p>
+<p><strong><em>Chinese</em></strong><br>
+Facebook : <a href="https://goo.gl/K5GSxH">https://goo.gl/K5GSxH</a><br>
+Twitter : <a href="https://goo.gl/PST5tD">https://goo.gl/PST5tD</a><br>
+Weibo : <a href="https://goo.gl/hDiHk5">https://goo.gl/hDiHk5</a></p>
+<p><strong><em>Indian</em></strong><br>
+Facebook : <a href="https://goo.gl/qvyjdu">https://goo.gl/qvyjdu</a><br>
+Twitter : <a href="https://goo.gl/7F7e5S">https://goo.gl/7F7e5S</a></p>
+<p>Although if you need support, please use first our forums (<a href=".../forum-archive">.../forum-archive</a>) as this way it will be archived for all to see! <img src=".../forum-archive/images/emoji/twitter/slight_smile.png?v=5" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<hr>
+<p><strong>3) COMMUNITY RULES:</strong></p>
+<ul>
+<li>No spamming/shilling</li>
+<li>Focus discussions on Bitbay, not other projects/tokens/coins</li>
+<li>No bad mouthing, no fudding, no name calling, be respectful &amp; courteous</li>
+<li>No price speculation please refer to our telegram <span class="mention">@bitbaytradingtalk</span> for trading discussions</li>
+<li>Deliver value to the discussion, you can for example share any relevant news and articles</li>
+<li>If you get a warning, respect it</li>
+</ul>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 2</p>
+            <p><a href=".../forum-archive/t/official-bitbay-telegram-chat-rooms-and-social-medias/877">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/official-bitbay-telegram-chat-rooms-and-social-medias/877</link>
+          <pubDate>Wed, 03 Jan 2018 15:49:31 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-877</guid>
+          <source url=".../forum-archive/t/official-bitbay-telegram-chat-rooms-and-social-medias/877.rss">Official Bitbay telegram chat rooms and social medias</source>
+        </item>
+        <item>
+          <title>Video Interviews with David Zimbeck</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>About BitBay</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <p><div class="lazyYT" data-youtube-id="yjhdX-8DZYc" data-youtube-title="Interview w David Alan Zimbeck" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br></p><hr><br><br>
+<div class="lazyYT" data-youtube-id="YGJzX5Dpy1o" data-youtube-title="Episode #47 - David Alan Zimbeck" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br><hr><br><br>
+<div class="lazyYT" data-youtube-id="NKomP_jbTzs" data-youtube-title="Part 1 David zimbeck of BitBay chats crypto &amp; more with Silver The Antidote 24th May 2017" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br><hr><br><br>
+<div class="lazyYT" data-youtube-id="vDYDxgviHZI" data-youtube-title="Part 2 David zimbeck of BitBay chats crypto &amp; more with Silver The Antidote 24th May 2017" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br><hr><br><br>
+<div class="lazyYT" data-youtube-id="XuFXsql-czQ" data-youtube-title="Cryptolina Bitcoin 2.0 Debate" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div><br>
+<br><hr><br>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/video-interviews-with-david-zimbeck/55">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/video-interviews-with-david-zimbeck/55</link>
+          <pubDate>Thu, 30 Nov 2017 11:33:31 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-55</guid>
+          <source url=".../forum-archive/t/video-interviews-with-david-zimbeck/55.rss">Video Interviews with David Zimbeck</source>
+        </item>
+        <item>
+          <title>$BAY Coin Specs</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>About BitBay</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <p>Block time: <strong>64 seconds</strong></p>
+<p>Nominal stake interest: <strong>1% annual</strong></p>
+<p>Initial Coin supply: <strong>1 billion</strong></p>
+<p>Min transaction fee: <strong>0.0001 $BAY</strong></p>
+<p><strong>10 confirmations</strong> for approval</p>
+<p><strong>120 confirmations</strong> for maturity</p>
+<p><strong>POS3</strong> Proof of Stake 3.0</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/bay-coin-specs/53">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/bay-coin-specs/53</link>
+          <pubDate>Thu, 30 Nov 2017 11:22:04 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-53</guid>
+          <source url=".../forum-archive/t/bay-coin-specs/53.rss">$BAY Coin Specs</source>
+        </item>
+        <item>
+          <title>What is BitBay?</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>About BitBay</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <p>BitBay is a suit of free to use multi-platform software programs containing the world’s first decentralized marketplace platform powered by a Proof of Stake 3.0 crypto-currency and unbreakable smart contracts.</p>
+<p>Bitbay’s software is fully decentralized. It is powered by the Blockchain and encrypted peer to peer technology thanks to the Bitmessage protocol. There are no middlemen at all and no fees. Everything happens in between users.</p>
+<p>Bitbay’s currency $BAY is powered by Proof of Stake 3.0. It solves Bitcoin’s problems when it comes to speed, decentralization and fees. Everyone can contribute to the network equally. It doesn’t need much computer power at all so it’s also far more environmentally friendly compared to Bitcoin’s Proof of Work which does an enormous computing power competition.</p>
+<p>The <a href="https://bitbay.market/downloads">desktop client</a> provides the first fully anonymous peer to peer crypto marketplace. Users are protected thanks to a revolutionary unbreakable smart contracting system called <a href="https://bitbay.market/double-deposit-escrow">Double Deposit Escrow</a> which allows custom smart contract templates and also a built-in decentralized reputation &amp; moderation system. Both public and private marketplaces are available so both public business and private business are enabled. The whole eco-system is secured thanks to top notch <a href="https://bitbay.market/advanced-security">multi-signature security</a> and many security/utility features like anti-keylogger, Tor/Proxy integration, notary, steganography, encrypted communications, time based contracts etc…</p>
+<p>We also provide a web enabled multi-signature wallet that will soon host our marketplace directly in your web browser. There are also wallets available for GNU/Linux, Mac OSX, Windows and mobile OS (iOs/Android).</p>
+<p>Bitbay will soon be the first Dynamically Pegged coin thanks to a <a href="https://bitbay.market/dynamic-peg">Dynamic Rolling Peg</a>. It is a decentralized way to protect Bitbay’s currency from heavy volatility and hence provides short term stability to crypto users.</p>
+<p>More can be read on our website <a href="https://bitbay.market/features">feature page</a> and <a href=".../forum-archive/t/bitbay-whitepapers/51">whitepapers</a>.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/what-is-bitbay/52">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/what-is-bitbay/52</link>
+          <pubDate>Thu, 30 Nov 2017 10:43:59 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-52</guid>
+          <source url=".../forum-archive/t/what-is-bitbay/52.rss">What is BitBay?</source>
+        </item>
+        <item>
+          <title>BitBay Whitepapers</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>About BitBay</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <p>Bitbay Whitepaper: <a class="attachment" href=".../forum-archive/uploads/default/original/1X/a60c8a2bd0fac863ae0b112be1cd47fea32ff664.pdf">bitbay-whitepaper.pdf</a> (62.2 KB)</p>
+<p>Proof of Stake 3.0: <a class="attachment" href=".../forum-archive/uploads/default/original/1X/a82b35edf21dee2cded2624d82fad28e6c1f4682.pdf">PoS 3.0.pdf</a> (88.9 KB)</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/bitbay-whitepapers/51">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/bitbay-whitepapers/51</link>
+          <pubDate>Thu, 30 Nov 2017 10:28:20 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-51</guid>
+          <source url=".../forum-archive/t/bitbay-whitepapers/51.rss">BitBay Whitepapers</source>
+        </item>
+  </channel>
+</rss>

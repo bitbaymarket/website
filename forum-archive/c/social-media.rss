@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Social Media - BitBay Community</title>
+    <link>.../forum-archive/c/social-media</link>
+    <description>Topics in the &#39;Social Media&#39; category For all Social Media related posts and comments</description>
+    
+      <lastBuildDate>Wed, 06 Mar 2019 13:28:58 +0000</lastBuildDate>
+      <atom:link href=".../forum-archive/c/social-media.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>About the Social Media category</title>
+          <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+          <category>Social Media</category>
+          <description><![CDATA[
+            <p><a href=".../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+            <blockquote>
+              <p>For all Social Media related posts and comments</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href=".../forum-archive/t/about-the-social-media-category/1760">Read full topic</a></p>
+          ]]></description>
+          <link>.../forum-archive/t/about-the-social-media-category/1760</link>
+          <pubDate>Wed, 06 Mar 2019 13:28:58 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>Yes</discourse:topicArchived>
+          <guid isPermaLink="false">forum.bitbay.market-topic-1760</guid>
+          <source url=".../forum-archive/t/about-the-social-media-category/1760.rss">About the Social Media category</source>
+        </item>
+  </channel>
+</rss>

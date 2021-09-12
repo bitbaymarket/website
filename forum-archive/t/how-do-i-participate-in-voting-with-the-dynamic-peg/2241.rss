@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How do I participate in voting with the Dynamic Peg?</title>
+    <link>..../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241</link>
+    <description>Since each vote is attached to a stake reward, any user who wishes to vote must run a full BitBay node. 
+
+To run a node, the latest version of either the **[BitBay Markets Client or QT wallet must be installed](https://bitbay.market/downloads/)** and synced prior to voting. 
+
+Once your wallet is installed, you can vote by going to the &quot;staking tab&quot; in both the Markets Client and Qt Wallet. There you will be able to select your vote preference:
+
+![55%20AM|690x311](upload://4sYfRfaZNR66qfXaZx1HrlIBKNp.png) 
+
+### Automatic: 
+Votes for an algorithm which automatically adjusts the **_deflates or inflates the supply liquidity_** to maintain a healthy price.
+
+### Deflation:
+Votes for the supply liquidity to **_decrease_**. When the consensus is for deflate, **sell orders for _BAY_ on the exchange will be reduced accordingly**.
+
+### Inflation:
+Votes for the supply liquidity to **_increase_**. When the consensus is for inflate, **sell orders for _BAYR_ on the exchange will be reduced accordingly**.
+
+### No changes:
+Votes for the supply liquidity to remain constant.
+
+### Disable: 
+Disables all voting within a user&#39;s wallet (will receive full stake reward amounts)
+
+**_Please note:_**
+As a hard-coded rule in the Markets Client only, voters must remain active with their wallets in order to participate in Dynamic Peg voting. One cannot simply unlock their wallet, set a vote preference, and let it run passively forever. Every voter must manually refresh their vote decision after a designated number of votes.
+
+The timelines for refreshing a vote preference are as follows:
+
+For the **Markets Client**:
+* Manual vote (deflate, inflate, no change) = 1000 votes / 4,000 blocks before reset needed
+* Algorithm vote = 200 votes / 4,000 blocks before reset needed
+
+For the **QT wallet**, there is no maximum number of votes, a reset will only be needed after 4,000 blocks.
+
+**Questions, comments, concerns? Please post them in the comments below!**</description>
+    
+    <lastBuildDate>Fri, 28 Feb 2020 13:44:59 +0000</lastBuildDate>
+    <category>Dynamic Peg - FAQ</category>
+    <atom:link href="..../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How do I participate in voting with the Dynamic Peg?</title>
+        <dc:creator><![CDATA[@tradersnow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/tradersnow">@tradersnow</a> wrote:</p>
+          <blockquote>
+              <p>Since each vote is attached to a stake reward, any user who wishes to vote must run a full BitBay node.</p>
+<p>To run a node, the latest version of either the <strong><a href="https://bitbay.market/downloads/">BitBay Markets Client or QT wallet must be installed</a></strong> and synced prior to voting.</p>
+<p>Once your wallet is installed, you can vote by going to the “staking tab” in both the Markets Client and Qt Wallet. There you will be able to select your vote preference:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/1f4f1798c45046937581c475155012a1837f34e7.png" data-download-href="..../forum-archive/uploads/default/1f4f1798c45046937581c475155012a1837f34e7" title="Screen Shot 2020-02-18 at 4.32.55 AM.png"><img src="..../forum-archive/uploads/default/original/1X/1f4f1798c45046937581c475155012a1837f34e7.png" alt="55%20AM" width="690" height="311"><div class="meta">
+<span class="filename">Screen Shot 2020-02-18 at 4.32.55 AM.png</span><span class="informations">962x434 24.5 KB</span><span class="expand"></span>
+</div></a></div></p>
+<h3>Automatic:</h3>
+<p>Votes for an algorithm which automatically adjusts the <strong><em>deflates or inflates the supply liquidity</em></strong> to maintain a healthy price.</p>
+<h3>Deflation:</h3>
+<p>Votes for the supply liquidity to <strong><em>decrease</em></strong>. When the consensus is for deflate, <strong>sell orders for <em>BAY</em> on the exchange will be reduced accordingly</strong>.</p>
+<h3>Inflation:</h3>
+<p>Votes for the supply liquidity to <strong><em>increase</em></strong>. When the consensus is for inflate, <strong>sell orders for <em>BAYR</em> on the exchange will be reduced accordingly</strong>.</p>
+<h3>No changes:</h3>
+<p>Votes for the supply liquidity to remain constant.</p>
+<h3>Disable:</h3>
+<p>Disables all voting within a user’s wallet (will receive full stake reward amounts)</p>
+<p><strong><em>Please note:</em></strong><br>
+As a hard-coded rule in the Markets Client only, voters must remain active with their wallets in order to participate in Dynamic Peg voting. One cannot simply unlock their wallet, set a vote preference, and let it run passively forever. Every voter must manually refresh their vote decision after a designated number of votes.</p>
+<p>The timelines for refreshing a vote preference are as follows:</p>
+<p>For the <strong>Markets Client</strong>:</p>
+<ul>
+<li>Manual vote (deflate, inflate, no change) = 1000 votes / 4,000 blocks before reset needed</li>
+<li>Algorithm vote = 200 votes / 4,000 blocks before reset needed</li>
+</ul>
+<p>For the <strong>QT wallet</strong>, there is no maximum number of votes, a reset will only be needed after 4,000 blocks.</p>
+<p><strong>Questions, comments, concerns? Please post them in the comments below!</strong></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241/1</link>
+        <pubDate>Tue, 18 Feb 2020 12:34:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2241-1</guid>
+        <source url="..../forum-archive/t/how-do-i-participate-in-voting-with-the-dynamic-peg/2241.rss">How do I participate in voting with the Dynamic Peg?</source>
+      </item>
+  </channel>
+</rss>

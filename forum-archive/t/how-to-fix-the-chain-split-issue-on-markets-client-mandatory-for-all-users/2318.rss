@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to fix the chain split issue on Markets Client (**MANDATORY FOR ALL USERS**)</title>
+    <link>..../forum-archive/t/how-to-fix-the-chain-split-issue-on-markets-client-mandatory-for-all-users/2318</link>
+    <description>## Please complete the following steps to download and install the new bootstrap and Market Client.
+
+### *** Don&#39;t forget to back-up your private keys in a secure location before starting! ***
+
+_**It is necessary to follow the steps in the correct order.**_
+
+1. Back up your **&quot;bitbaydata folder&quot;** before moving to step two. Depending on your operating system, the &quot;bitbaydata&quot; folder can be found in these locations:
+
+* PC Users:** C:/BitBay/bitbaydata
+* Linux Users:** ~/BitBay/bitbaydata
+* Mac Users:** ~/Library &amp;gt; Application Support &amp;gt; BitBayClient &amp;gt; bbaydata
+
+***Note: If you installed the program in a different directory, the bitbaydata folder can be found in that location. 
+
+_Store the backups in a secure location._
+
+![Folder1|690x215](upload://zplW6DmQ4m0hBDpaHe29RJflP1i.png) 
+
+![folder2|690x385](upload://dWGJzcY8S56jE3wSwAbVz0IE7zc.png) 
+
+2. Open the BitBay Markets Client. An &quot;update available&quot; pop up window will show up upon opening. Click &quot;Update now&quot;.
+
+![58%20AM|690x166](upload://fRUMo9ykSPGxqty87AspLjSfaMS.png) 
+
+If you do not see this &quot;Update now&quot; window, you can also access the update here:
+**https://my.pcloud.com/publink/show?code=XZE3OYkZYBFoxfP7WskVvNOYmEnV4RSzSM0X**
+
+Alternatively, you can complete a brand new, fresh install of the Markets Client from the BitBay website (this is recommended if you have not updated since the Dynamic Peg Hard-fork:
+**https://bitbay.market/downloads/**
+
+3. Continue through and finish the update process. Once the update has finished, close the BitBay Markets Client and stop all related processes (this can be confirmed in in taskmanager (PC) or Activity Monitor (Mac). Then, go back to the &quot;bitbaydata&quot; folder and remove ALL files **_including_** &quot;wallet.dat&quot;.
+
+![folder3|690x392](upload://purWfzwkYdXrj0rS58pxVuOPpnk.png) 
+
+4. Download and install the new bootstrap file located here: 
+**https://github.com/bitbaymarket/bitbay-bootstrap/releases/download/v1/bootstrap.dat**
+
+5. Place the downloaded &quot;bootstrap.dat&quot; file into the &quot;bitbaydata&quot; folder.
+
+![dat%20(1)|690x367](upload://3zD9rKMcFEkUevBLnqg6ww8Fljb.png)  
+
+6. Open the freshly updated BitBay Markets Client. 
+
+The wallet will now perform a resync which will take hours, depending on connection speed and hardware. Please leave the wallet running until this process has completed. Once done you will be on the correct chain.
+
+***Note: If you do not see the correct balance after syncing 100%, please reload your keys (&quot;open account&quot; button) and then click the &quot;rescan&quot; button at the bottom of the dashboard. Your balance will be updated after the rescan is finished.
+
+For any further support issues please ask in the community support channel on Discord: **https://discordapp.com/invite/jRkjCxf**</description>
+    
+    <lastBuildDate>Tue, 31 Mar 2020 19:16:10 +0000</lastBuildDate>
+    <category>Support</category>
+    <atom:link href="..../forum-archive/t/how-to-fix-the-chain-split-issue-on-markets-client-mandatory-for-all-users/2318.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to fix the chain split issue on Markets Client (**MANDATORY FOR ALL USERS**)</title>
+        <dc:creator><![CDATA[@sh_rn sh___]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="..../forum-archive/u/sh_rn">@sh_rn</a> wrote:</p>
+          <blockquote>
+              <h2>Please complete the following steps to download and install the new bootstrap and Market Client.</h2>
+<h3>*** Don’t forget to back-up your private keys in a secure location before starting! ***</h3>
+<p><em><strong>It is necessary to follow the steps in the correct order.</strong></em></p>
+<ol>
+<li>Back up your <strong>“bitbaydata folder”</strong> before moving to step two. Depending on your operating system, the “bitbaydata” folder can be found in these locations:</li>
+</ol>
+<ul>
+<li>PC Users:** C:/BitBay/bitbaydata</li>
+<li>Linux Users:** ~/BitBay/bitbaydata</li>
+<li>Mac Users:** ~/Library &gt; Application Support &gt; BitBayClient &gt; bbaydata</li>
+</ul>
+<p>***Note: If you installed the program in a different directory, the bitbaydata folder can be found in that location.</p>
+<p><em>Store the backups in a secure location.</em></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/f829c907c66c17499689580a88599677a93d1e84.png" data-download-href="..../forum-archive/uploads/default/f829c907c66c17499689580a88599677a93d1e84" title="Folder1.png"><img src="..../forum-archive/uploads/default/original/1X/f829c907c66c17499689580a88599677a93d1e84.png" alt="Folder1" width="690" height="215"><div class="meta">
+<span class="filename">Folder1.png</span><span class="informations">1123x351 31.3 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/61bea0f9679b184c6a52a089d5d942ec15a08a62.png" data-download-href="..../forum-archive/uploads/default/61bea0f9679b184c6a52a089d5d942ec15a08a62" title="folder2.png"><img src="..../forum-archive/uploads/default/original/1X/61bea0f9679b184c6a52a089d5d942ec15a08a62.png" alt="folder2" width="690" height="385"><div class="meta">
+<span class="filename">folder2.png</span><span class="informations">1127x630 63 KB</span><span class="expand"></span>
+</div></a></div></p>
+<ol start="2">
+<li>Open the BitBay Markets Client. An “update available” pop up window will show up upon opening. Click “Update now”.</li>
+</ol>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/6f38d74b0e220a2a88efeceb861143c89e004ac6.png" data-download-href="..../forum-archive/uploads/default/6f38d74b0e220a2a88efeceb861143c89e004ac6" title="Screen Shot 2020-03-29 at 10.47.58 AM.png"><img src="..../forum-archive/uploads/default/original/1X/6f38d74b0e220a2a88efeceb861143c89e004ac6.png" alt="58%20AM" width="690" height="166"><div class="meta">
+<span class="filename">Screen Shot 2020-03-29 at 10.47.58 AM.png</span><span class="informations">996x240 13.6 KB</span><span class="expand"></span>
+</div></a></div></p>
+<p>If you do not see this “Update now” window, you can also access the update here:<br>
+<strong><a href="https://my.pcloud.com/publink/show?code=XZE3OYkZYBFoxfP7WskVvNOYmEnV4RSzSM0X">https://my.pcloud.com/publink/show?code=XZE3OYkZYBFoxfP7WskVvNOYmEnV4RSzSM0X</a></strong></p>
+<p>Alternatively, you can complete a brand new, fresh install of the Markets Client from the BitBay website (this is recommended if you have not updated since the Dynamic Peg Hard-fork:<br>
+<strong><a href="https://bitbay.market/downloads/">https://bitbay.market/downloads/</a></strong></p>
+<ol start="3">
+<li>Continue through and finish the update process. Once the update has finished, close the BitBay Markets Client and stop all related processes (this can be confirmed in in taskmanager (PC) or Activity Monitor (Mac). Then, go back to the “bitbaydata” folder and remove ALL files <strong><em>including</em></strong> “wallet.dat”.</li>
+</ol>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/b2a789e1b18b1092d89bcd97e6266aafce13d692.png" data-download-href="..../forum-archive/uploads/default/b2a789e1b18b1092d89bcd97e6266aafce13d692" title="folder3.png"><img src="..../forum-archive/uploads/default/original/1X/b2a789e1b18b1092d89bcd97e6266aafce13d692.png" alt="folder3" width="690" height="392"><div class="meta">
+<span class="filename">folder3.png</span><span class="informations">1121x637 47.8 KB</span><span class="expand"></span>
+</div></a></div></p>
+<ol start="4">
+<li>
+<p>Download and install the new bootstrap file located here:<br>
+<strong><a href="https://github.com/bitbaymarket/bitbay-bootstrap/releases/download/v1/bootstrap.dat">https://github.com/bitbaymarket/bitbay-bootstrap/releases/download/v1/bootstrap.dat</a></strong></p>
+</li>
+<li>
+<p>Place the downloaded “bootstrap.dat” file into the “bitbaydata” folder.</p>
+</li>
+</ol>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="..../forum-archive/uploads/default/original/1X/190da2e403a3e2369245d33a6c50ad674b926b31.png" data-download-href="..../forum-archive/uploads/default/190da2e403a3e2369245d33a6c50ad674b926b31" title="wallet.dat (1).png"><img src="..../forum-archive/uploads/default/original/1X/190da2e403a3e2369245d33a6c50ad674b926b31.png" alt="dat%20(1)" width="690" height="367"><div class="meta">
+<span class="filename">wallet.dat (1).png</span><span class="informations">1113x593 43.1 KB</span><span class="expand"></span>
+</div></a></div></p>
+<ol start="6">
+<li>Open the freshly updated BitBay Markets Client.</li>
+</ol>
+<p>The wallet will now perform a resync which will take hours, depending on connection speed and hardware. Please leave the wallet running until this process has completed. Once done you will be on the correct chain.</p>
+<p>***Note: If you do not see the correct balance after syncing 100%, please reload your keys (“open account” button) and then click the “rescan” button at the bottom of the dashboard. Your balance will be updated after the rescan is finished.</p>
+<p>For any further support issues please ask in the community support channel on Discord: <strong><a href="https://discordapp.com/invite/jRkjCxf">https://discordapp.com/invite/jRkjCxf</a></strong></p>
+          </blockquote>
+          <p><a href="..../forum-archive/t/how-to-fix-the-chain-split-issue-on-markets-client-mandatory-for-all-users/2318/1">Read full topic</a></p>
+        ]]></description>
+        <link>..../forum-archive/t/how-to-fix-the-chain-split-issue-on-markets-client-mandatory-for-all-users/2318/1</link>
+        <pubDate>Sun, 29 Mar 2020 11:23:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.bitbay.market-post-2318-1</guid>
+        <source url="..../forum-archive/t/how-to-fix-the-chain-split-issue-on-markets-client-mandatory-for-all-users/2318.rss">How to fix the chain split issue on Markets Client (**MANDATORY FOR ALL USERS**)</source>
+      </item>
+  </channel>
+</rss>
