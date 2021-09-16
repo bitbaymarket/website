@@ -42,7 +42,7 @@
 	//coinjs.host = ('https:'==document.location.protocol?'https://bp1.bitbay.market/api':'http://bp1.bitbay.market/api');
 	
 	//coinjs.host = ('https:'==document.location.protocol?'https://bp2.bitbay.market/api':'http://bp2.bitbay.market/api');
-	coinjs.host = ('https:'==document.location.protocol?'https://116.202.27.98/api':'https://116.202.27.98/api');
+	coinjs.host = ('https:'==document.location.protocol?'https://116.202.27.98/api':'http://116.202.27.98/api');
 	
 	//coinjs.host = ('https:'==document.location.protocol?'https://bp.bitbay.market/api':'http://bp.bitbay.market/api');
 
