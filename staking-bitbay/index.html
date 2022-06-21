@@ -1,97 +1,192 @@
 <!DOCTYPE html>
-<meta charset="UTF-8" />
-BitBay staking calculator<br/>
-With the tool below you can calculate your reward in $BAY coins for operating BITBAY nodes<br/><br/>
-<div id="calculator">
-    <tr>
-        <br>Amount of coins you are staking:<br>
-        <td colspan="2"><input class="textBox" id="amount" type="text" maxlength="50"    required/></td>
-    </tr>
-    <br/>
-    <select id="conversion">
-    <option>Frozen reserve - 20 coin reward (most common)</option>
-    <option>Majority liquid - 5 coin reward</option>
-    <option>Majority reserve - 10 coin reward</option>
-    <option>Frozen liquid - 40 coin reward</option>
-    </select>
-    <br/>
-    <tr>
-        <br>Percentage of all users staking(network weight):<br>
-        <td colspan="2"><input class="textBox" id="weight" type="text" maxlength="50" value="50"   required/></td>
-    </tr>
-    <br/>
-    <input type="button" value="Calculate" onclick="calculate()">
-    <br/><br/>
-</div>
-<div id="results">
-BAYYears
-Current Reward APR: 2.00%
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <meta content='yes' name='apple-mobile-web-app-capable'/>
+  <meta content='yes' name='mobile-web-app-capable'/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-0.00
-Total BAY in 0 months
-0.00
-at current prices
-Total BAY in USD
-0.00
-Total coins you own
+  <title>BitBay - Staking Calculator</title>
+  <head>
+<link href='https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700' rel='stylesheet' type='text/css'>
+</head><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div id="staking-calc" class="staking-calc">
+  <div class="staking-calc-body">
+
+<!--
+    <div>
+        <div class="input-group">
+        <input type="search" name="search" placeholder="50" class="input" />
+
+        <span  class="input-group-addon">%</span>
+      </div>
+
+      <div class="input-group">
+        <input type="search" name="search" placeholder="50000" class="input" />
+
+        <span  class="input-group-addon">BAY</span>
+      </div>
+
+    </div>
+-->
+    <!-- Left Part - Inpput/Range -->
+    <div class="staking-calc-body-side">
+      <div class="side-container">
+        
+
+        <!-- Stake amount -->
+        <div class="staking-calc-slider coinAmount">
+          <label class="staking-calc-label">BitBay staking calculator</label>
+          <p>With the tool below you can calculate your reward in $BAY coins for operating BITBAY nodes </p>
+
+          <p class="staking-calc-question">Amount of BAY you are staking: </p>
+
+
+          <div class="input-group">
+            <input type="text" id="coinAmountInput" placeholder="50000" class="input" />
+            <span  class="input-group-addon">BAY</span>
+          </div>
+          <input type="range" id="coinAmountRange" name="coinAmountRange" step="1" min="0" max="1000000000" value="0">
+        </div>
+
+        <!-- How are you staking -->
+        <div class="staking-calc-slider">
+          <label class="staking-calc-label">How are you staking?</label>
+           <p class="staking-calc-question">Variable rewards for dynamic peg: </p>
+
+            <select id="conversion" class="dropdown" placeholder="Please choose">
+                <option value="20" selected>Frozen reserve - 20 coin reward</option>
+                <option value="5">Majority liquid - 5 coin reward</option>
+                <option value="10">Majority reserve - 10 coin reward</option>
+                <option value="40">Frozen liquid - 40 coin reward</option>
+            </select>
+        </div>
+
+        <!-- Network weight -->
+        <div class="staking-calc-slider networkWeight">
+          <label class="staking-calc-label">Network Weight</label>
+          <p class="staking-calc-question">Percentage of all users staking</p>
+
+          <div class="input-group">
+            <input type="text" id="networkWeightInput" placeholder="50" class="input" />
+
+            <span  class="input-group-addon">%</span>
+          </div>
+          <input type="range" id="networkWeightRange" name="networkWeightRange" step="1" min="1" max="100" value="50">
+        </div>
+
+        
+
+
+      </div>
+    </div>
+
+    <!-- Right Part - Stake Results -->
+    <div class="staking-calc-body-side right">
+
+        <div class="side-container">
+            <div class="card-item__content">
+              <label for="cardName" class="card-item__info">
+                <div class="card-item__holder">Earnings per Year</div>
+                <div class="card-item__name stake-per-year">0</div>
+              </label>
+              <label for="cardName" class="card-item__info">
+                <div class="card-item__holder">Earnings per Month</div>
+                <div class="card-item__name stake-per-month">0</div>
+              </label>
+            </div>
+            <div class="card-item__content">
+              <label for="cardName" class="card-item__info">
+                <div class="card-item__holder">Earnings per Day</div>
+                <div class="card-item__name stake-per-day">0</div>
+              </label>
+              <label for="cardName" class="card-item__info">
+                <div class="card-item__holder">Blocks won per Year</div>
+                <div class="card-item__name stake-block-estimate">0</div>
+              </label>
+              
+            </div>
+        </div>
+      
+
+      <div class="side-container-info">
+        
+        <label class="staking-calc-question">Details: Proof of Stake 3.0 (POS3)</label>
+        
+        <div class="card-info">
+        Coin supply: 1 billion<br>
+        Block time: 64 seconds<br>
+        Nominal stake interest: .5% to 2% annual<br>
+        Min transaction fee: 0.00005500<br>
+        Confirmations for approval (recommended): 10<br>
+        Confirmations for maturity: 120 
+        </div>
+        <p></p>
+        <label class="staking-calc-question">Variable rewards for dynamic peg:</label>
+        
+        <div class="card-info">
+            Input that is majority liquid - 5 coins<br>
+            Input that is majority reserve - 10 coins<br>
+            Input that is frozen reserve - 20 coins<br>
+            Input that is frozen liquid - 40 coins<br>
+
+            <p>
+            Frozen reserve timelock - 1 month<br>
+            Frozen liquid timelock - 4 months<br>
+            </p>
+        </div>
+
+         <a href="https://chainz.cryptoid.info/bay/#!extraction" target="_blank">See more Network Information at Chainz</a>
+         <br>
+         <a href="../bitbay-dynamic-peg-visual-reference.pdf" target="_blank">For more info about the dynamic peg, see the dynamic peg visual explainer in PDF format.</a>
+
+
+
+      </div>
+
+    </div>
+  </div>
+
+  <!!-- Information -->
+
+  <div class="staking-calc-body">
+
+    <!-- Left info -->
+    <div class="staking-calc-body-side" style="width: 100%">
+        <div class="side-container">
+            <label class="staking-calc-label">Effective Stake Interest:</label>
+<span class="staking-calc-question">The amount of stakes a user wins depends on how many users are trying to stake at once. If you are holding mostly frozen reserve then the reward is at 20 coins which averages at 1% when 100% of the network is staking. However since usually less than half of the network funds are staking then the rewards can be more frequent. For example, if 50% of the network is staking then it's logical to predict that you will get double the chance of a reward. However there is no guarantee you will win stakes because it is random which inputs are selected. The stakers perform the service of protecting the network. Therefore the funds they get is in exchange for validating transactions in a block.
+    <p></p>
+</span>
+
+        </div>
+    </div>
+
+    <!-- Right info 
+    <div class="staking-calc-body-side right">
+        <div class="side-container">
+            right
+        </div>
+    </div>
+-->
+    
+  
+  </div>
+
+
 </div>
-<script>
-    document.getElementById('results').innerHTML = "";
-    function calculate(){ 
-        document.getElementById('results').innerHTML = "";
-        val=20 //default
-        if (document.getElementById("conversion").value == "Majority liquid - 5 coin reward") {
-            val=5
-        }
-        if (document.getElementById("conversion").value == "Majority reserve - 10 coin reward") {
-            val=10
-        }
-        if (document.getElementById("conversion").value == "Frozen liquid - 40 coin reward") {
-            val=40
-        }
-        amount=document.getElementById("amount").value
-        weight=document.getElementById("weight").value
-        //493087 blocks in a year (seconds/average block time of 64 seconds)
-        stakedcoins=((parseFloat(1000000000)*parseFloat(weight))/parseFloat(100))
-        blocksperyear=((parseFloat(amount)/stakedcoins)*(493087)).toFixed(0)
-        document.getElementById('results').innerHTML = "Estimate:" + blocksperyear;
-        document.getElementById('results').innerHTML += "</br>Blocks won per year: " + blocksperyear;
-        document.getElementById('results').innerHTML += "</br>Coins per year: " + blocksperyear * val;
-        document.getElementById('results').innerHTML += "</br>Coins per month: " + (parseFloat(blocksperyear * val)/parseFloat(12)).toFixed(0);
-        document.getElementById('results').innerHTML += "</br>Coins per day: " + ((parseFloat(blocksperyear * val)/parseFloat(12))/parseFloat(30)).toFixed(0);
-    }
-</script>
-<div id="networkinfo">
-    <br/><br/>
-    Details: Proof of Stake 3.0 (POS3)<br/>
-    Coin supply: 1 billion<br/>
-    Block time: 64 seconds<br/>
-    Nominal stake interest: .5% to 2% annual<br/>
-    Min transaction fee: 0.00005500<br/>
-    Confirmations for approval(recommended): 10<br/>
-    Confirmations for maturity: 120<br/><br/>
-    Variable rewards for dynamic peg:<br/>
-    Input that is majority liquid - 5 coins<br/>
-    Input that is majority reserve - 10 coins<br/>
-    Input that is frozen reserve - 20 coins<br/>
-    Input that is frozen liquid - 40 coins<br/><br/>
-    Frozen reserve timelock - 1 month<br/>
-    Frozen liquid timelock - 4 months<br/><br/>
-</div>
-<div id="dynamic-peg">
-    <a href="https://chainz.cryptoid.info/bay/#!extraction">See more network information at chainz</a>
-    </br></br>
-</div>
-<div id="moreinfo">
-    Effective Stake Interest:<br/>
-    The amount of stakes a user wins depends on how many users are trying to stake at once. If you are holding mostly frozen reserve then the reward is at 20
-    coins which averages at 1% when 100% of the network is staking. However since usually less than half of the network funds are staking then the rewards can
-    be more frequent. For example, if 50% of the network is staking then it's logical to predict that you will get double the chance of a reward. However there
-    is no guarantee you will win stakes because it is random which inputs are selected. The stakers perform the service of protecting the network. Therefore the funds they get is in exchange for validating transactions in a block.
-</div>
-</br>
-</br>
-<div id="dynamic-peg">
-    For more info about the dynamic peg, see the <a href="../bitbay-dynamic-peg-visual-reference.pdf">dynamic peg visual explainer</a> in PDF format.
-</div>
-<html>
+<!-- partial -->
+  <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="./script.js"></script> -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script><script  src="./script.js"></script>
+
+<label class="switch">
+    <input type="checkbox">
+    <span>Light</span>
+</label>
+</body>
+</html>
